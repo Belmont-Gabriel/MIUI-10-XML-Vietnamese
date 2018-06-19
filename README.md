@@ -1,4 +1,4 @@
-# MIUIAndroid MIUI9 Vietnamese Translations.
+# MIUIAndroid MIUI 10 Vietnamese Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
