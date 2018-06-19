@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Tìm thấy %d mục</item>
+        <item quantity="one">Tìm thấy 1 mục</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Xóa %d mục?</item>
+        <item quantity="one">Xóa mục này?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Tìm thấy %d kết quả</item>
+        <item quantity="one">Tìm thấy 1 kết quả</item>
+    </plurals>
+</resources>

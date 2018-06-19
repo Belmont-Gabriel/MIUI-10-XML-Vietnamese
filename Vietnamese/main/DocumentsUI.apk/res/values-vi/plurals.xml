@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Đang sao chép %1$d tệp.</item>
+        <item quantity="one">Đang sao chép %1$d tệp.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Đang di chuyển %1$d tệp.</item>
+        <item quantity="one">Đang di chuyển %1$d tệp.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Xóa %1$d tệp.</item>
+        <item quantity="one">Xóa %1$d tệp.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Không thể sao chép %1$d tệp</item>
+        <item quantity="one">Không thể sao chép %1$d tệp</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Không thể di chuyển %1$d tệp</item>
+        <item quantity="one">Không thể di chuyển %1$d tệp</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Không thể xóa %1$d tệp</item>
+        <item quantity="one">Không thể xóa %1$d tệp</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Đã sao chép %1$d tệp vào khay nhớ tạm.</item>
+        <item quantity="one">Đã sao chép %1$d tệp vào khay nhớ tạm.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d mục</item>
+        <item quantity="one">%1$d mục</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Xóa %1$d tệp?</item>
+        <item quantity="one">Xóa %1$d tệp?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Xóa %1$d thư mục và nội dung trong đó?</item>
+        <item quantity="one">Xóa %1$d thư mục và nội dung trong đó?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Xóa %1$d mục?</item>
+        <item quantity="one">Xóa %1$d mục?</item>
+    </plurals>
+</resources>
