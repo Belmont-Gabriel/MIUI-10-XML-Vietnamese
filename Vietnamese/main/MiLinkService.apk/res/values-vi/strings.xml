@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniPlay</string>
+    <string name="service_name">Dịch vụ UniPlay</string>
+    <string name="notification_rc_title">Trợ lý MiTV</string>
+    <string name="notification_rc_desc">Trợ lý truyền hình tốt nhất cho điện thoại di động của bạn để phát video, hình ảnh và các ứng dụng tới Mi Box (hoặc TV), chỉ cần thử bây giờ!</string>
+</resources>

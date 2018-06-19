@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khóa tạp chí</string>
+    <string name="apply">Áp dụng</string>
+    <string name="at_least_one">Chọn ít nhất một thể loại</string>
+    <string name="auto_interval">Tự động</string>
+    <string name="cancel">Hủy</string>
+    <string name="cancel_international">Hủy</string>
+    <string name="cancel_lockscreen">Hủy</string>
+    <string name="change_time">Đổi hình nền</string>
+    <string name="day">Mỗi ngày một lần</string>
+    <string name="declaration">Nhận hình nền mới cho màn hình khóa miễn phí mỗi ngày.</string>
+    <string name="declaration_lockscreen_title">Khóa tạp chí</string>
+    <string name="declaration_title">Điều khoản và Điều kiện</string>
+    <string name="dislike">Xóa</string>
+    <string name="hour_1">Mỗi giờ</string>
+    <string name="hour_3">Mỗi 3 giờ</string>
+    <string name="like">Thích</string>
+    <string name="liked">Đã thích</string>
+    <string name="lockscreen_magazine_summary">Thể loại</string>
+    <string name="lockscreen_magazine_system_title">Ngoại tuyến</string>
+    <string name="lockscreen_magazine_title">Khóa tạp chí</string>
+    <string name="lockscreen_wallpaper_changed">Hình nền đã đổi</string>
+    <string name="minutes_15">Mỗi 15 phút</string>
+    <string name="no_long_show">Không hiển thị lại</string>
+    <string name="ok_enable_network_prov">Đồng ý</string>
+    <string name="ok_international">Đồng ý</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_network">Đồng ý</string>
+    <string name="platform_unavailable_qq">Vui lòng cài đặt QQ</string>
+    <string name="platform_unavailable_qzone">Vui lòng cài đặt Qzone</string>
+    <string name="platform_unavailable_wechat">Vui lòng cài đặt wechat</string>
+    <string name="platform_unavailable_wechatmoment">Vui lòng cài đặt wechat</string>
+    <string name="platform_unavailable_weibo">Vui lòng cài đặt Weibo</string>
+    <string name="resource_apply">Áp dụng</string>
+    <string name="resource_no_network_text">Không thể kết nối mạng.</string>
+    <string name="setting_head">Cài đặt</string>
+    <string name="settings">Cài đặt</string>
+    <string name="share">Chia sẻ</string>
+    <string name="sst_favor_desc">Xem hình nền yêu thích</string>
+    <string name="sst_favor_title">Yêu thích</string>
+    <string name="sst_grid_view_select_all">Chọn tất cả</string>
+    <string name="sst_grid_view_unselect_all">Bỏ chọn tất cả</string>
+    <string name="sst_no_favor_wallpaper_hint">Không có hình nền trong Yêu thích</string>
+    <string name="sst_prov_enable_desc">Nhận hình nền mới cho màn hình khóa thường xuyên</string>
+    <string name="sst_prov_enable_title">Bật khóa tạp chí</string>
+    <string name="sst_require_one_category_hint">Chọn ít nhất một thể loại</string>
+    <string name="sst_sti_desc">Đặt tần suất cập nhật hình nền</string>
+    <string name="sst_sti_title">Tần suất cập nhật</string>
+    <string name="sst_subscribe_title">Đăng ký của tôi</string>
+    <string name="sst_wifi_only_desc">Tắt tính năng này để tiết kiệm dữ liệu di động</string>
+    <string name="sst_wifi_only_title">Cập nhật hình nền bằng dữ liệu di động</string>
+    <string name="summary">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+    <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
+    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
+    <string name="theme_applying">Đang áp dụng…</string>
+    <string name="wlan_download">Cập nhật qua Wi-Fi</string>
+    <string name="wlan_download_cn">Cập nhật qua Wi-Fi</string>
+</resources>
