@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="original_carrier_names">
+        <item>CHINA MOBILE</item>
+        <item>CHINA UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>CMCC</item>
+        <item>Đang tìm kiếm dịch vụ</item>
+    </string-array>
+</resources>

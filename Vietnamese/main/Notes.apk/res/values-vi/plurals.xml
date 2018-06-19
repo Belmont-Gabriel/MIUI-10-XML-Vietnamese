@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s ghi chú</item>
+        <item quantity="one">%1$s ghi chú</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s thư mục</item>
+        <item quantity="one">%1$s thư mục</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s chưa được đồng bộ</item>
+        <item quantity="one">%1$s chưa được đồng bộ</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s ghi chú</item>
+        <item quantity="one">1 ghi chú</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s kết quả cho \"%2$s\"</item>
+        <item quantity="one">%1$s kết quả cho \"%2$s\"</item>
+    </plurals>
+</resources>

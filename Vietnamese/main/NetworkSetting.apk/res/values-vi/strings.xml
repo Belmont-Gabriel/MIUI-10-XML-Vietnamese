@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_scanning">Đang tìm…</string>
+    <string name="search_networks">Tìm kiếm mạng</string>
+    <string name="no_network">Không tìm thấy mạng.</string>
+    <string name="select_automatically">Tự động chọn</string>
+    <string name="sum_select_automatically">Tự động chọn mạng ưu tiên</string>
+    <string name="available_networks">Mạng có sẵn</string>
+    <string name="register_on_network">Đang đăng ký vào %1$s…</string>
+    <string name="register_automatically">Đang tự động đăng ký…</string>
+    <string name="network_query_error">Lỗi trong khi tìm kiếm mạng.</string>
+    <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
+    <string name="connect_later">Không thể kết nối vào mạng này bây giờ. Hãy thử lại sau.</string>
+    <string name="quit_mention">Cảnh báo!</string>
+    <string name="dialog_message">Thoát sẽ ngừng tìm kiếm, bạn có chắc muốn thoát không?</string>
+    <string name="timeout_message">Không tìm thấy mạng có sẵn nào.</string>
+    <string name="registration_done">Đã đăng ký vào mạng.</string>
+    <string name="China_Mobile">China Mobile</string>
+    <string name="China_Unicom">China Unicom</string>
+    <string name="China_Telecom">China Telecom</string>
+    <string name="roamingTextSearching">Đang tìm kiếm dịch vụ…</string>
+    <string name="network_forbidden">(Bị cấm)</string>
+    <string name="disconnect_data_confirm">Dịch vụ dữ liệu tạm thời sẽ bị ngắt kết nối. Bạn có chắc không?</string>
+</resources>
