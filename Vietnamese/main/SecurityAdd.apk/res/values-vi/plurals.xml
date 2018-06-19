@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Đã thêm %d trò chơi</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Chưa thêm %d trò chơi</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Đã tìm thấy %d ứng dụng</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Tìm kiếm %d ứng dụng</item>
+    </plurals>
+</resources>
