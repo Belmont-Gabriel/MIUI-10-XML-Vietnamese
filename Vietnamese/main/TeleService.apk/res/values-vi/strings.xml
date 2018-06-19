@@ -1526,7 +1526,6 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="unlock_failed">Yêu cầu mở khóa Mạng SIM không thành công.</string>
     <string name="unlock_success">Mạng SIM mở khóa thành công.</string>
     <string name="time_zone_gmt">GMT</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="label_nsdp">Mở khóa SIM mạng con</string>
     <string name="label_cdp">Công ty SIM mở khóa PIN</string>
     <string name="label_spdp">Nhà cung cấp dịch vụ SIM mở khóa PIN</string>
