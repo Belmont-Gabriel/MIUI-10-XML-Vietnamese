@@ -507,7 +507,6 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Xóa</string>
     <string name="kg_sim_pin_instructions">Nhập PIN của SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Hãy thử lại sau %1$d giây.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. 
 
