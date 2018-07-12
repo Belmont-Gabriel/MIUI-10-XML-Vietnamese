@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">Tôi biết</string>
     <string name="incompatible_dialog_title">Vấn đề tương thích</string>
     <string name="is_setting_wallpaper_message">Đang cài đặt hình nền…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Báo thức</string>
     <string name="item_resource_audio_optional_color_ring">Nhạc chuông</string>
     <string name="item_resource_audio_optional_notification_ring">Thông báo</string>
@@ -293,7 +292,6 @@
     <string name="resource_pack_price_info">Giá gốc: %1$s</string>
     <string name="resource_pack_warning">Dù bạn đã mua %1$d phần của chủ đề này. Nó rẻ hơn nếu bạn mua các phần còn lại một cách riêng lẻ.</string>
     <string name="resource_present">Quà tặng</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Miễn phí</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Đã xảy ra lỗi, hãy thử lại</string>
