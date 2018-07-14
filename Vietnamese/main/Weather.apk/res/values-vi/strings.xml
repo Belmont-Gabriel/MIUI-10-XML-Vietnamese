@@ -170,7 +170,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="more_details">Thêm chi tiết</string>
     <string name="international_details_title">Chi tiết</string>
     <string name="international_details_wind_title">GIÓ</string>
-    <string name="international_details_real_feel_title">CẢM THẤY NHƯ®</string>
+    <string name="international_details_real_feel_title">NHIỆT ĐỘ</string>
     <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
     <string name="international_details_pressure_title">ÁP SUẤT</string>
     <string name="pressure_connect">%1$s mb</string>
