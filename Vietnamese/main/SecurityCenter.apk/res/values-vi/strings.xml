@@ -1330,9 +1330,7 @@ thiết bị của bạn"</string>
     <string name="menu_text_antispam">Danh sách chặn</string>
     <string name="menu_text_license_manager">Quyền</string>
     <string name="menu_text_garbage_cleanup">Trình dọn dẹp</string>
-    <string name="menu_text_garbage_cleanup_danger">Vượt quá %s</string>
     <string name="menu_text_power_manager">Sử dụng pin</string>
-    <string name="menu_text_power_percent_title">Pin: %s</string>
     <string name="menu_text_power_percent_title_default">Pin</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>

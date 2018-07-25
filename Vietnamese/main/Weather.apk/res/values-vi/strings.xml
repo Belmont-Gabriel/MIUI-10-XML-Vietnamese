@@ -76,8 +76,8 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="indices_title_visibility">Tầm nhìn</string>
     <string name="indices_title_uv">Chỉ số UV</string>
     <string name="indices_title_pressure">Áp suất</string>
-    <string name="indices_title_feel">Cảm giác như</string>
-    <string name="indices_desc_feel">Cảm giác như %1$s°C</string>
+    <string name="indices_title_feel">Nhiệt độ</string>
+    <string name="indices_desc_feel">Nhiệt độ %1$s°C</string>
     <string name="indices_title_sport">Thể thao</string>
     <string name="indices_title_car_wash">Rửa xe</string>
     <string name="indices_title_restriction">Hạn chế số xe</string>
@@ -127,7 +127,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Gió</string>
-    <string name="realtime_humidity_title">Độ ẩm tương đối</string>
+    <string name="realtime_humidity_title">Độ ẩm</string>
     <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
     <string name="aqi_detail_sub_title">Chi tiết AQI</string>
     <string name="aqi_publish_time">Đã cập nhật %1$s</string>
@@ -170,7 +170,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="more_details">Thêm chi tiết</string>
     <string name="international_details_title">Chi tiết</string>
     <string name="international_details_wind_title">GIÓ</string>
-    <string name="international_details_real_feel_title">CẢM THẤY NHƯ®</string>
+    <string name="international_details_real_feel_title">NHIỆT ĐỘ</string>
     <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
     <string name="international_details_pressure_title">ÁP SUẤT</string>
     <string name="pressure_connect">%1$s mb</string>
