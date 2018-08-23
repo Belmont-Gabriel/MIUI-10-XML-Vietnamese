@@ -140,8 +140,8 @@
         <item>22/12 - 19/01</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Về trước</item>
-        <item>Về sau</item>
+        <item>Tiến tới</item>
+        <item>Lùi lại</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Vào thời gian sự kiện</item>
