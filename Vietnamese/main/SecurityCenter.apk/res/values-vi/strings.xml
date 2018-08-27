@@ -19,9 +19,7 @@
     <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="exo_track_mono">Đơn âm</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Tự động</string>
     <string name="exo_track_selection_none">Không</string>
     <string name="exo_track_selection_title_audio">Âm thanh</string>
@@ -467,7 +465,6 @@ phản hồi"</string>
     <string name="managed_user_title">Tất cả ứng dụng hoạt động</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_traffic_manage_title">Sử dụng dữ liệu</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Gói lưu lượng</string>
     <string name="pref_adjust_traffic_data">Thiết lập sử dụng dữ liệu</string>
     <string name="pref_category_title_other">Cài đặt bổ sung</string>
@@ -995,7 +992,6 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Ứng dụng này có thể làm chậm
 thiết bị của bạn"</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Gỡ cài đặt %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Gỡ cài đặt ứng dụng này để sửa vấn đề pin.</string>
     <string name="om_ill_proc_type_wakelock_title">Ứng dụng khóa chế độ ngủ và hao pin</string>
@@ -1054,7 +1050,6 @@ thiết bị của bạn"</string>
     <string name="usage_type_data_send">Dữ liệu di động đã gửi</string>
     <string name="usage_type_no_coverage">Thời gian không có tín hiệu</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="power_screen">Màn hình</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1412,13 +1407,11 @@ thiết bị của bạn"</string>
     <string name="menu_text_optimize_manage">Tăng tốc</string>
     <string name="menu_text_networkassistants">Sử dụng dữ liệu</string>
     <string name="menu_summary_networkassistants">Quản lý kế hoạch dữ liệu của bạn</string>
-    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Vượt quá giới hạn</string>
     <string name="menu_summary_networkassistants_3">Lưu lượng dữ liệu còn lại đầy đủ</string>
     <string name="menu_summary_networkassistants_4">Sắp hết lưu lượng dữ liệu</string>
     <string name="menu_text_networkassistants_remain">Còn lại %s</string>
     <string name="menu_text_networkassistants_danger">Vượt quá %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1431,14 +1424,12 @@ thiết bị của bạn"</string>
     <string name="menu_summary_garbage_cleanup">Không tìm thấy rác</string>
     <string name="menu_summary_garbage_cleanup_2">Kích thước rác</string>
     <string name="menu_summary_garbage_cleanup_3">Dọn dẹp rác ngay</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Sử dụng pin</string>
     <string name="menu_summary_power_manager">Tiết kiệm pin giúp bạn kéo dài thời gian sử dụng</string>
     <string name="menu_summary_power_manager_1">Pin đã được sạc đầy</string>
     <string name="menu_summary_power_manager_2">Còn lại %s</string>
     <string name="menu_summary_power_manager_3">Kết nối bộ sạc</string>
     <string name="menu_summary_power_manager_4">%s đến khi đầy</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>
     <string name="examination_score_80_100">Một số mục có thể được tối ưu hóa</string>
@@ -1812,7 +1803,6 @@ thiết bị của bạn"</string>
     <string name="card_main_deepclean_wechat_action">Dọn dẹp</string>
     <string name="card_main_sectool_title">Công cụ</string>
     <string name="card_main_monthreport_action">Xem</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Kiểm tra mạng</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
@@ -2362,7 +2352,6 @@ thiết bị của bạn"</string>
     <string name="gb_create_icon_summary">Tạo lối tắt Màn hình chính</string>
     <string name="title_reply">Bình luận</string>
     <string name="title_like">Thích</string>
-    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Dữ liệu di động</string>
     <string name="game_wid_viewpoint_buttom">Nghỉ ngơi chốc lát.</string>
     <string name="video_repeat">Phát lại</string>

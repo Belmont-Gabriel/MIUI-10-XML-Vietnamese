@@ -52,7 +52,6 @@
     <string name="accessibility_camera_button">Máy ảnh</string>
     <string name="accessibility_carrier_network_change_mode">Thay đổi mạng nhà mạng.</string>
     <string name="accessibility_cast_name">Đã kết nối với %s.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Chiếu màn hình đã dừng lại.</string>
     <string name="accessibility_cell_data">Dữ liệu di động</string>
     <string name="accessibility_cell_data_off">Dữ liệu di động tắt</string>
@@ -811,10 +810,6 @@ Chỉ sử dụng bộ sạc đã cung cấp."</string>
     <string name="keyguard_charged">Sạc đầy</string>
     <string name="keyguard_charging_info_battery_used_time_text">Thời gian sử dụng</string>
     <string name="keyguard_charging_info_click_to_detail">Xem chi tiết</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Tiêu hao điện năng</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">%s hôm nay</string>
@@ -840,7 +835,6 @@ Chỉ sử dụng bộ sạc đã cung cấp."</string>
     <string name="keyguard_missing_sim_instructions_long">Thẻ SIM không tìm thấy hoặc không thể đọc được. Xin vui lòng lắp thẻ SIM.</string>
     <string name="keyguard_missing_sim_message">Không có thẻ SIM trên điện thoại.</string>
     <string name="keyguard_missing_sim_message_short">Không có thẻ SIM</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Đã khóa mạng</string>
     <string name="keyguard_password_enter_password_code">Nhập mật khẩu để mở khóa</string>
     <string name="keyguard_password_enter_pin_code">Nhập mã PIN</string>
@@ -924,7 +918,6 @@ Thử lại sau %2$d giây."</string>
     <string name="left_keycode">Mã phím trái</string>
     <string name="left_nav_bar_button_type">Loại phím trái khác</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Chạm để thay đổi hoặc xóa mật khẩu sao lưu toàn bộ Màn hình chính</string>
     <string name="local_backup_password_summary_none">Sao lưu toàn bộ Màn hình chính chưa được bảo vệ</string>
     <string name="local_backup_password_title">Mật khẩu sao lưu Màn hình chính</string>
@@ -986,7 +979,6 @@ Thử lại sau %2$d giây."</string>
     <string name="miui_guide_dialog_message">Âm thanh phương tiện (nhạc, video, v.v..) sẽ vẫn được phát ở Chế độ im lặng. Bạn có thể thay đổi điều này trong Cài đặt.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng thiết bị Blutooth</string>
     <string name="miui_ringer_count_down">Đếm ngược</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Im lặng</string>
     <string name="miui_ringer_standard_description">Tắt chuông cuộc gọi đến và thông báo</string>
     <string name="miui_ringer_total">Không làm phiền</string>
@@ -1013,14 +1005,12 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
 
 Để biết thêm thông tin, liên hệ với quản trị viên."</string>
     <string name="monitoring_description_ca_cert_settings">Mở ủy nhiệm tin cậy</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Chứng chỉ ủy quyền đã được cài đặt trên thiết bị này. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
     <string name="monitoring_description_do_body">Quản trị viên có thể giám sát và quản lý cài đặt, truy cập công ty, ứng dụng, dữ liệu liên kết với thiết bị và thông tin vị trí của thiết bị.</string>
     <string name="monitoring_description_do_body_vpn">Bạn đã kết nối %1$s. Ứng dụng này thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
     <string name="monitoring_description_do_header_generic">Thiết bị của bạn được quản lý bởi %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s uses %2$s để quản lý thiết bị của bạn.</string>
     <string name="monitoring_description_do_learn_more">Tìm hiểu thêm</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Tổ chức của bạn đã cài đặt chứng chỉ ủy quyền trong hồ sơ công việc. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Hồ sơ công việc của bạn đã kết nối %1$s. Ứng dụng này có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
     <string name="monitoring_description_management">"Thiết bị được quản lý bởi tổ chức của bạn.
@@ -1052,7 +1042,6 @@ Quản trị viên có thể giám sát hoạt động mạng của bạn bao g�
 
 Bạn cũng cần kết nối VPN, nó cũng có thể giám sát hoạt động mạng của bạn."</string>
     <string name="monitoring_description_vpn_settings">Mở cài đặt VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Chứng chỉ CA</string>
     <string name="monitoring_subtitle_network_logging">Nhật ký mạng</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1067,7 +1056,6 @@ Bạn cũng cần kết nối VPN, nó cũng có thể giám sát hoạt động
     <string name="nav_guide_message">Sử dụng cử chỉ để ẩn/hiển thị phím ảo.</string>
     <string name="nav_guide_ok">Thiết lập</string>
     <string name="nav_guide_title">Ẩn phím ảo</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Không có ứng dụng</string>
     <string name="no_multi_window_app">Không có ứng dụng hỗ trợ Chia màn hình</string>
     <string name="no_notification_tips">Không có thông báo</string>
@@ -1173,9 +1161,7 @@ Bạn cũng cần kết nối VPN, nó cũng có thể giám sát hoạt động
     <string name="please_slide_agian">Trượt lại</string>
     <string name="pointer_location">Vị trí con trỏ</string>
     <string name="pointer_location_summary">Che màn hình hiển thị dữ liệu chạm hiện tại</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cho đến khi sạc đầy</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_discharging_duration">%1$s - Còn khoảng %2$s</string>
     <string name="power_discharging_duration_short">%1$s - còn lại %2$s</string>
     <string name="power_notification_controls_description">"Với cài đặt thông báo nâng cao, bạn có thể đặt mức độ quan trọng từ cấp 0 tới cấp 5 cho thông báo ứng dụng 
@@ -1210,7 +1196,6 @@ Bạn cũng cần kết nối VPN, nó cũng có thể giám sát hoạt động
     <string name="power_remaining_charging_duration_only">Còn %1$s sẽ sạc đầy</string>
     <string name="power_remaining_duration_only">Còn lại khoảng %1$s</string>
     <string name="power_remaining_duration_only_short">Còn lại%1$s</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Hồ sơ có thể được giám sát</string>
     <string name="prompt_danger">Nguy hiểm</string>
     <string name="prompt_detecting">Đang kiểm tra</string>
@@ -1737,7 +1722,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="wait_for_debugger">Chờ bộ gỡ lỗi</string>
     <string name="wait_for_debugger_summary">Ứng dụng gỡ lỗi chờ trình gỡ lỗi đính kèm trước khi thực hiện</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Thả để xem chi tiết</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Đã cập nhật %1$s</string>
     <string name="wifi_aggressive_handover">Chuyển vùng Wi‑Fi sang mạng di động</string>
     <string name="wifi_aggressive_handover_summary">Sau khi bật cài đặt này, khi tín hiệu Wi‑Fi yếu, kết nối sẽ chuyển sang dữ liệu di động.</string>
@@ -1762,11 +1746,9 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Không</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

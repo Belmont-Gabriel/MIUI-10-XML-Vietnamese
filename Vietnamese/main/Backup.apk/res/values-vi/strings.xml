@@ -6,9 +6,6 @@ Kích thước: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Giới thiệu phiên bản %1$s
 Kích thước cập nhật Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Lưu trữ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Không thể bắt đầu tải xuống. Chắc chắn rằng Quản ý Tải xuống hoạt động bình thường.</string>
     <string name="app_name">Sao lưu</string>
     <string name="local_app_name">Sao lưu</string>
@@ -228,7 +225,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="restore_backup">Khôi phục</string>
     <string name="enable_encrypt_description">Mã hóa</string>
     <string name="disable_encrypt_description">Không mã hóa</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Vui lòng chờ…</string>
     <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
@@ -537,7 +533,6 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
 bạn nên tạo một bản sao lưu iCloud trước."</string>
     <string name="list_footer_tip_title">Hướng dẫn:</string>
     <string name="import_tip_summary">Do vấn đề tương thích, bạn chỉ có thể chuyển một phần dữ liệu từ thiết bị iOS. Đảm bảo rằng bạn đã tạo một bản sao lưu iCloud trước khi bắt đầu chuyển.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Nhập</string>
     <string name="select_empty">Chọn mục để nhập</string>
     <string name="select_item_summary_wait">Đang chờ…</string>

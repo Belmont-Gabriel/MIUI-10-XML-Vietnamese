@@ -73,12 +73,6 @@
         <item>Sắp xếp theo lưu trữ đã dùng</item>
         <item>Sắp xếp theo thời gian cài đặt</item>
     </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
     <string-array name="title_app_info">
         <item>Nguồn cài đặt</item>
         <item>Thời gian cài đặt</item>

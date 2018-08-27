@@ -114,7 +114,6 @@
     <string name="menu_title_select_folder">Chọn thư mục</string>
     <string name="menu_unhide">Bỏ ẩn</string>
     <string name="menu_unstick">Gỡ</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Không phải bây giờ</string>
     <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Mi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
     <string name="note_description_title">Giới thiệu về Ghi chú </string>
@@ -126,7 +125,6 @@
     <string name="note_sort_way">Chọn cách bạn muốn sắp xếp ghi chú</string>
     <string name="notealert_enter">Mở ghi chú</string>
     <string name="notealert_ok">Bỏ qua</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Nhắc nhở ghi chú</string>
     <string name="permdesc_accessNote">Ứng dụng độc hại có thể sử dụng để truy cập thông tin cá nhân của bạn.</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>

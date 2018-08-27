@@ -918,7 +918,6 @@ Tỷ lệ mẫu"</string>
     <string name="bootloader_status_unlocked">Đã mở khóa</string>
     <string name="bootloader_status_unlocked_info">Thiết bị này đã mở khóa</string>
     <string name="bootloader_summary">Flash thiết bị của bạn qua USB</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Màu đèn</string>
     <string name="breathing_light_color_summary">Màu đèn khi nhận thông báo mới</string>
     <string name="breathing_light_freq_summary">Nhấp nháy khi bạn có thông báo mới</string>
@@ -1556,7 +1555,6 @@ Do việc sử dụng dữ liệu được điện thoại của bạn tính và
     <string name="dndm_auto_button_title">Lặp lại thời gian không làm phiền</string>
     <string name="dndm_auto_setting_group">Theo lịch trình</string>
     <string name="dndm_auto_time_setting">Đặt giờ</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Đến</string>
     <string name="dndm_auto_time_turn_off_title">Tự động tắt không làm phiền</string>
     <string name="dndm_auto_time_turn_on">Từ</string>
@@ -2013,7 +2011,6 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="gadget_picker_title">Chọn tiện ích</string>
     <string name="gadget_state_off">tắt</string>
     <string name="gadget_state_on">bật</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">đang tắt</string>
     <string name="gadget_state_turning_on">đang bật</string>
     <string name="gadget_sync">Đồng bộ hóa</string>
@@ -2323,7 +2320,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="lift_to_wake_title">Nhấc lên để đánh thức</string>
     <string name="line_breaking_summary">Tối ưu hóa văn bản có nhiều dòng</string>
     <string name="line_breaking_title">Tối ưu hóa văn bản</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="list_bg_header_text">Nếu bạn hạn chế kết nối nền, các ứng dụng mới sẽ không thể kết nối internet trong nền sau khi bạn cài đặt. Chúng có thể không nhận được tin nhắn hoặc tải nội dung từ đây.</string>
     <string name="list_empty_text">Trống</string>
     <string name="loading_notification_apps">Đang tải ứng dụng...</string>
@@ -2679,7 +2675,6 @@ Có người dùng khác trên thiết bị này.
     <string name="memory_title">Trống: %1$s\u0009\u0009Tổng: %2$s</string>
     <string name="memory_usage">Sử dụng bộ nhớ</string>
     <string name="memory_usage_apps">Bộ nhớ do ứng dụng sử dụng</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s bộ nhớ trung bình được sử dụng trong 3 giờ qua</string>
     <string name="menu_cancel">Hủy</string>
     <string name="menu_check">Trải nghiệm</string>
@@ -2927,7 +2922,6 @@ Có người dùng khác trên thiết bị này.
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Thanh toán tại thiết bị đầu cuối</string>
     <string name="nfc_more_title">Thêm...</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Mặc định thanh toán</string>
     <string name="nfc_payment_default_not_set">Chưa đặt</string>
     <string name="nfc_payment_favor_default">Luôn sử dụng ứng dụng mặc định</string>
@@ -3139,7 +3133,6 @@ Có người dùng khác trên thiết bị này.
     <string name="overlay_display_devices_title">Mô phỏng màn hình phụ</string>
     <string name="overlay_settings">Hiển thị trên các ứng dụng khác</string>
     <string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Joe.</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Không có</string>
     <string name="owner_info_settings_title">Chữ ký Màn hình khóa</string>
     <string name="owner_space">Không gian thứ nhất</string>
@@ -3269,9 +3262,7 @@ Có người dùng khác trên thiết bị này.
     <string name="power_cell">Chờ mạng di động</string>
     <string name="power_center">Pin</string>
     <string name="power_charge_remaining">%1$s để tính phí</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cho đến khi sạc đầy</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_checker">Kiểm tra pin</string>
     <string name="power_discharge_remaining">%1$s còn lại</string>
     <string name="power_discharging_duration">%1$s - Còn khoảng %2$s</string>
@@ -3458,8 +3449,6 @@ Có người dùng khác trên thiết bị này.
     <string name="private_sms_recording_intro_header">Vẽ hình mở khóa:</string>
     <string name="private_sms_reset_by_account">Để đặt lại mật khẩu, đăng nhập vào Tài khoản Mi</string>
     <string name="process_dex2oat_label">Tối ưu hóa ứng dụng</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="process_provider_in_use_description">Nhà cung cấp %1$s đang được sử dụng.</string>
     <string name="process_service_in_use_description">Dịch vụ %1$s đang được sử dụng.</string>
@@ -4085,7 +4074,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="security_encryption_attention_3">Bạn phải đặt mật khẩu màn hình khóa mới.</string>
     <string name="security_encryption_attention_4">Hãy chắc chắn rằng bạn nhớ mật khẩu màn hình khóa, nếu không bạn sẽ phải đặt lại và xóa tất cả dữ liệu trên thiết bị.</string>
     <string name="security_encryption_attention_info">Bạn có thể mã hóa tài khoản, cài đặt, ứng dụng tải xuống cùng với dữ liệu, phương tiện, và tập tin khác.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Quan trọng</string>
     <string name="security_encryption_close_dialog_info">Chọn không mã hóa thiết bị bằng sử dụng mật khẩu màn hình khóa có thể dẫn đến tình trạng một vài dịch vụ Google không khả dụng.</string>
     <string name="security_encryption_close_dialog_title">Quay về bảo vệ mật khẩu mặc định</string>
@@ -4338,7 +4326,6 @@ Có thể mã PIN không đúng."</string>
     <string name="sim_reenter_new">Nhập lại mã PIN mới</string>
     <string name="sim_select_card">Chọn thẻ SIM</string>
     <string name="sim_selection_required_pref">Lựa chọn là bắt buộc</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Thẻ SIM</string>
     <string name="sim_setup_wizard_title">Thẻ SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4352,7 +4339,6 @@ Có thể mã PIN không đúng."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Vẫn bỏ qua</string>
     <string name="skip_label">Bỏ qua</string>
@@ -4430,7 +4416,6 @@ Có thể mã PIN không đúng."</string>
     <string name="status_bar_settings_all_app_display_loading">Vui lòng chờ…</string>
     <string name="status_bar_settings_app_notification_preferences">Cài đặt ứng dụng</string>
     <string name="status_bar_settings_basic_settings">Cài đặt cơ bản</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Chỉnh sửa tên nhà mạng</string>
     <string name="status_bar_settings_custom_wifi_name">Chỉnh sửa tên Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Hiển thị thông báo</string>
@@ -4665,7 +4650,6 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="suggestions_title">Đề xuất</string>
     <string name="sum_carrier_select">Chọn nhà cung cấp dịch vụ mạng</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s đến %2$s</string>
     <string name="super_resolution_access_title">Ứng dụng có thể truy cập</string>
     <string name="super_resolution_desc">Làm cho ảnh rõ nét hơn bằng thuật toán AI</string>
@@ -5659,11 +5643,9 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Không</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

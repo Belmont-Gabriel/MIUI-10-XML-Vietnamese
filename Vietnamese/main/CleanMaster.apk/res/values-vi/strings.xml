@@ -92,7 +92,6 @@
     <string name="hints_apk_header_left">Gói cài đặt</string>
     <string name="hints_residual_header_left">Rác</string>
     <string name="hints_memory_header_left">Bộ nhớ</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Tập tin lớn: %d</string>
     <string name="hints_installed_apps_header_left">Ứng dụng đã cài đặt: %d</string>
     <string name="toast_resolve_apk_error">Lỗi phân tích tập tin apk</string>
@@ -300,7 +299,6 @@
     <string name="downloading">Đang tải xuống</string>
     <string name="installing">Đang cài đặt</string>
     <string name="start_install">Cài đặt ngay</string>
-    <string name="empty">" "</string>
     <string name="open_browser">Mở trong trình duyệt</string>
     <string name="title_share_link">Chia sẻ URL</string>
     <string name="connecting">Đang kết nối…</string>

@@ -126,7 +126,6 @@
     <string name="continue_backup">Tiếp tục</string>
     <string name="cp_info_first">"Dịch vụ phát nhạc trực tuyến
 được cung cấp bởi Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Không thể tạo đặt hàng, hãy thử lại.</string>
     <string name="create_playlist">Tạo danh sách phát</string>
     <string name="create_playlist_failure">Không thể tạo danh sách phát</string>
@@ -219,7 +218,6 @@
     <string name="download_method">Tải xuống</string>
     <string name="download_no_application_title">Không thể mở tập tin</string>
     <string name="download_paused_in_power_save_mode">Tải xuống đã tạm dừng khi Tiết kiệm Pin bật</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Đang tải xuống…</string>
     <string name="download_quality">Chất lượng tải xuống</string>
     <string name="download_quality_summary">Cài đặt bổ sung cho các bài hát mà bạn tải xuống</string>
@@ -301,9 +299,7 @@
     <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="exo_track_mono">Đơn âm</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Tự động</string>
     <string name="exo_track_selection_none">Không</string>
     <string name="exo_track_selection_title_audio">Âm thanh</string>
@@ -585,7 +581,6 @@
     <string name="priority_storage">Dùng thẻ nhớ SD</string>
     <string name="priority_storage_summary">Tự động tải xuống thẻ SD nếu khả dụng</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Điện thoại Mi</string>
     <string name="prompt_grant_write_settings_permission">Cho phép thay đổi cài đặt hệ thống</string>
     <string name="pulluprefreshrecyclerview_loading_error">Không tải được</string>
@@ -695,7 +690,6 @@
     <string name="start_to_check_new_version">Đang kiểm tra cập nhật…</string>
     <string name="start_to_download">Đang tải xuống…</string>
     <string name="start_to_play">Phát</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">Dừng</string>
     <string name="stop_backup">Dừng</string>
     <string name="storage_internal">Bộ nhớ trong</string>
@@ -757,7 +751,6 @@
     <string name="upgrade_music_message">Cập nhật hoàn tất. Khởi động lại ứng dụng để cập nhật.</string>
     <string name="upgrading_in_backstage">Đang cập nhật trong nền…</string>
     <string name="user_agreement">Thỏa thuận Người dùng</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Phiên bản</string>
     <string name="video_play_cellular">Thiết bị của bạn chưa kết nối Wi-Fi. Sử dụng dữ liệu di động?</string>
     <string name="video_replay_btn">Phát lại</string>

@@ -202,7 +202,6 @@
     <string name="file_size">Kích thước:</string>
     <string name="file_title">Tên:</string>
     <string name="file_width_height">Kích thước:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Tin nhắn mới</string>
     <string name="forward_from">Chuyển tiếp từ:</string>
     <string name="forward_prefix">"Fwd: "</string>
@@ -571,7 +570,6 @@
     <string name="send_signature_confirm_dialog_title">Gửi tin nhắn</string>
     <string name="send_sms">Gửi tin nhắn</string>
     <string name="send_to">Tới:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Đã gửi lúc: %1s</string>
     <string name="sent_label">"Đã gửi: "</string>
     <string name="service_message_not_found">Thông báo hết hạn hoặc không sẵn dùng.</string>

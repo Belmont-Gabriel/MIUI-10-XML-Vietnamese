@@ -148,7 +148,6 @@
     <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông sau khi tắt nguồn</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
     <string name="silent_alarm_summary">Im lặng</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
     <string name="slider_text">Trượt lên để tắt</string>
     <string name="snooze_confirm_cancel">Bỏ qua báo thức</string>
@@ -157,7 +156,6 @@
     <string name="start_up">Bắt đầu</string>
     <string name="stopwatch_lap_empty_text">Không có lần nào</string>
     <string name="stopwatch_title">Bấm giờ</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="system_time_settings_category_title">Cài đặt thời gian</string>
     <string name="temperature_unit">%1$s°</string>

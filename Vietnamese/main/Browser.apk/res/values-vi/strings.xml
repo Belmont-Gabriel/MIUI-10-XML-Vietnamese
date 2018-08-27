@@ -25,7 +25,6 @@
     <string name="s5">Tạo sự kiện lịch</string>
     <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
     <string name="s7">Quảng cáo thử nghiệm</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
     <string name="abc_action_bar_up_description">Quay lại</string>
     <string name="abc_action_menu_overflow_description">Thêm</string>
@@ -732,8 +731,6 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Để nhận nội dung được cá nhân hóa</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Để nhận nội dung được cá nhân hóa do Google đề xuất, hãy đăng nhập vào Chrome.</string>
     <string name="mw_time_picker_dialog_am">SA</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">CH</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Đặt giờ</string>

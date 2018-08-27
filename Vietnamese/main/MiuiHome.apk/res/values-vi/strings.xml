@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Thêm vào Không gian làm việc</string>
     <string name="activity_not_found">Ứng dụng chưa được cài đặt trên thiết bị của bạn</string>
     <string name="add_screen">Thêm màn hình</string>

@@ -57,7 +57,6 @@
     <string name="save_pic_success">Đã lưu ảnh vào %s</string>
     <string name="save_pic_fail">Không thể lưu ảnh, kiểm tra thẻ SD của bạn</string>
     <string name="pic_not_exist">Ảnh này không tồn tại</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Chọn sản phẩm</string>
     <string name="michat_skillset_business_type_title">Chọn dịch vụ</string>
     <string name="michat_close_text">Đã kết thúc trò chuyện</string>

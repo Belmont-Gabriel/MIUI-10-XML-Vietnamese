@@ -463,7 +463,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="face_name_edit">Sửa</string>
     <string name="face_name_input">Nhập tên</string>
     <string name="face_recommend">Kiến nghị</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Không thể hoàn thành thao tác</string>
     <string name="fail_to_pick_email">Địa chỉ email không hợp lệ</string>
     <string name="fail_to_sync_album">Không thể đồng bộ album. Kiểm tra mạng và thử lại.</string>
@@ -474,7 +473,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="feature_guidance_photo_effects">"Hiệu ứng ảnh mới 
 khả dụng"</string>
     <string name="feature_guidance_video_editor_smart_effects">Hiệu ứng ảnh mới khả dụng</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Hồi ức</string>
     <string name="filter_bi_mono">Đơn sắc</string>
     <string name="filter_bi_pink">Hồng</string>
@@ -543,7 +541,6 @@ khả dụng"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Đặt</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Thư viện cần truy cập vào 
 %s
  để hoạt động bình thường, chạm \"Đặt\" để truy cập Quyền."</string>
@@ -739,7 +736,6 @@ khả dụng"</string>
     <string name="people_mark_mode_title_no_mark_name">Chọn người</string>
     <string name="people_page_label">Khuôn mặt</string>
     <string name="people_page_unname">Chưa đặt tên</string>
-    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Ảnh thú cưng</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Ảnh</string>
@@ -992,9 +988,6 @@ khả dụng"</string>
     <string name="search_title_recommend">Đề nghị</string>
     <string name="search_title_suggestion">Kiến nghị</string>
     <string name="search_title_tag">Đối tượng</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Đang tìm máy chiếu…</string>
     <string name="secret_album_card_description">Nơi tốt nhất để lưu giữ bí mật</string>
     <string name="secret_album_card_title">Mở album ẩn</string>
@@ -1264,7 +1257,6 @@ khả dụng"</string>
     <string name="view_face_album">Xem album</string>
     <string name="view_more_face_desc">Xem thêm người</string>
     <string name="voice_assistant">Nhập thoại</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Chào mừng sử dụng Mi Cloud</string>
     <string name="where_is_barcode">Mã QR ở đâu?</string>
     <string name="who_is_this">Đây là ai?</string>

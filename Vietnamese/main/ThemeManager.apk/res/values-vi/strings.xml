@@ -55,9 +55,7 @@
     <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="exo_track_mono">Đơn âm</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Tự động</string>
     <string name="exo_track_selection_none">Không</string>
     <string name="exo_track_selection_title_audio">Âm thanh</string>
@@ -75,7 +73,6 @@
     <string name="s5">Tạo sự kiện lịch</string>
     <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
     <string name="search_menu_title">Tìm kiếm</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="account_info">Tài khoản của tôi</string>
     <string name="account_name_not_login">Đăng nhập</string>
     <string name="account_unactivated">Tài khoản chưa được kích hoạt</string>
@@ -181,7 +178,6 @@
     <string name="incompatible_dialog_ok">Tôi biết</string>
     <string name="incompatible_dialog_title">Vấn đề tương thích</string>
     <string name="is_setting_wallpaper_message">Đang cài đặt hình nền…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Báo thức</string>
     <string name="item_resource_audio_optional_color_ring">Nhạc chuông</string>
     <string name="item_resource_audio_optional_notification_ring">Thông báo</string>
@@ -375,7 +371,6 @@
     <string name="resource_pack_price_info">Giá gốc: %1$s</string>
     <string name="resource_pack_warning">Dù bạn đã mua %1$d phần của chủ đề này. Nó rẻ hơn nếu bạn mua các phần còn lại một cách riêng lẻ.</string>
     <string name="resource_present">Quà tặng</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Miễn phí</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Đã xảy ra lỗi, hãy thử lại</string>
@@ -522,7 +517,6 @@
     <string name="theme_is_external_priority_storage">Lưu trên thẻ SD</string>
     <string name="theme_is_external_priority_storage_summary">Ứng dụng chủ đề sẽ khởi động lại tự động để áp dụng cài đặt này.</string>
     <string name="theme_multiple_button_title_customize">Tùy chỉnh</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Không</string>
     <string name="theme_purchased_list_empty">Bạn chưa mua bất kỳ chủ đề nào.</string>
     <string name="theme_purchased_non_local">Trực tuyến</string>

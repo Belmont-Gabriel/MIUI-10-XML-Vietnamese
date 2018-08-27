@@ -105,7 +105,6 @@
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đủ.</string>
     <string name="accessibility_wifi_security_type_none">Mạng mở</string>
     <string name="accessibility_wifi_security_type_secured">Mạng bảo mật</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng bị xóa</string>
     <string name="tether_settings_title_usb">Chia sẻ kết nối Internet qua USB</string>
@@ -335,7 +334,6 @@ Chất lượng phát lại"</string>
     <string name="power_discharging_duration">^1 - còn khoảng ^2</string>
     <string name="power_discharging_duration_enhanced">^1 - còn khoảng ^2 dựa trên mức sử dụng của bạn</string>
     <string name="power_discharging_duration_short">^1 - còn lại ^2</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">^1 - ^2 cho tới khi được sạc đầy</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>

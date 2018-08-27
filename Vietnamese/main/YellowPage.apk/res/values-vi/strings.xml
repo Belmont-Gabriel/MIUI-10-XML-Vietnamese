@@ -243,7 +243,6 @@ Tổng: %3$s NDT"</string>
     <string name="sending_shortcut">Đang gửi…</string>
     <string name="service_unavailiable">Dịch vụ hiện không khả dụng</string>
     <string name="share">Chia sẻ</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">ID Người gọi</string>
     <string name="toast_finish_delete_call_log">Đã xóa lịch sử cuộc gọi</string>
     <string name="toast_text_copied">Đã sao chép văn bản</string>

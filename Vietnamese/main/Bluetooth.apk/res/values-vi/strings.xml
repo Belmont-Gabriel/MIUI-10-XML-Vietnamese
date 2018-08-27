@@ -95,9 +95,7 @@
     <string name="opp_notification_group">Chia sẻ qua Bluetooth</string>
     <string name="outbound_history_title">Nội dung chuyển đi</string>
     <string name="outbound_noti_title">Chia sẻ qua Bluetooth: Tệp đã gửi</string>
-    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Đã hết thời gian chờ chấp nhập kết nối với %1$s</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Đã hết thời gian chờ nhập khóa phiên với %1$s</string>
     <string name="pbap_notification_group">Chia sẻ liên hệ qua Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Yêu cầu khóa phiên của Bluetooth</string>

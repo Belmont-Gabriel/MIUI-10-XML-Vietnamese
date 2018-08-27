@@ -81,12 +81,10 @@
     <string name="daily_forecast_add_city_message">Theo dõi thời tiết trên %1$s để xem chi tiết dự báo.</string>
     <string name="daily_forecast_add_city_title">Theo dõi thời tiết trên %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Không thể nhận thông tin thời tiết
 Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="data_provided_by">Dữ liệu được cung cấp bởi</string>
     <string name="edit_city">Quản lý thành phố</string>
-    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý để Xiaomi thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố mà bạn tìm kiếm và các loại dữ liệu khác được quy định trong Chính sách Riêng tư. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách chạm vào \"Đồng ý\", bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="feedback_heavy_rain">Mưa lớn</string>
     <string name="feedback_heavy_snow">Tuyết rơi</string>
@@ -99,8 +97,6 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="first_start_network_title">Kết nối internet và truy cập thông tin vị trí</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Bây giờ</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">Dự báo 24h</string>
     <string name="hourly_forecast_title_hourly_desc">Dự báo hàng giờ</string>
@@ -114,12 +110,10 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="indices_title_feel">Cảm giác như</string>
     <string name="indices_title_pressure">Áp suất</string>
     <string name="install">Cài đặt</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ÁP SUẤT</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Chi tiết</string>
     <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">GIÓ</string>
     <string name="it_is_going_to_rain">Trời sắp mưa</string>
     <string name="locate_fail_detail_err">"Không thể định vị thiết bị
@@ -191,7 +185,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="share_menu_title">Chia sẻ</string>
     <string name="share_subject">Chia sẻ</string>
     <string name="share_weather_desc">\#Thời tiết MIUI#Hôm nay %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Không thể chụp màn hình</string>
     <string name="some_where_on_earth">Một nơi nào đó trên Trái đất</string>

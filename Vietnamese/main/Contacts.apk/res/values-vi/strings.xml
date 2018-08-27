@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Chi tiết lịch sử cuộc gọi</string>
     <string name="accessibility_contact_detail">Chi tiết liên hệ</string>
     <string name="account_container_title">Đã nhập từ</string>
@@ -100,7 +99,6 @@
     <string name="call_sim_menu_title_suffix">(Chính)</string>
     <string name="call_telex">Gọi số telex</string>
     <string name="call_tty_tdd">Gọi số TTY/TDD</string>
-    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Gọi số điện thoại cơ quan</string>
     <string name="call_work_mobile">Gọi số điện thoại di động tại cơ quan</string>
@@ -489,7 +487,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="force_touch_new_contact">Liên hệ mới</string>
     <string name="foundTooManyContacts">Nhiều hơn %d được tìm thấy.</string>
     <string name="frequentList">Thường xuyên</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Tên</string>
     <string name="gallery">Thư viện</string>
     <string name="generic_no_account_prompt">Giữ liên hệ của bạn được an toàn kể cả khi mất điện thoại, hãy đồng bộ với một dịch vụ trực tuyến.</string>
@@ -568,7 +565,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="keep_local">Không đồng bộ</string>
     <string name="keep_local_btn">Sử dụng bộ nhớ trong điện thoại</string>
     <string name="label_custom_type">Tùy chỉnh</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Không tìm thấy liên hệ trùng lặp nào</string>
     <string name="label_notes">Ghi chú</string>
     <string name="label_sip_address">Gọi internet</string>
@@ -672,7 +668,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="miprofile_contact_header">Liên hệ có thể thêm danh thiếp</string>
     <string name="miprofile_contact_meaasge">Liên hệ trên máy</string>
     <string name="miprofile_contact_verifying">Đang xác minh</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Chỉnh sửa hồ sơ</string>
     <string name="miprofile_error_accept_self">Không thể chuyển đổi danh thiếp của riêng bạn</string>
     <string name="miprofile_error_no_miaccount">Đăng nhập vào Tài khoản Mi</string>
@@ -826,10 +821,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="path_wipe_data">Ứng dụng hệ thống/Liên hệ/Sắp xếp liên hệ/Xóa dữ liệu</string>
     <string name="payphone">Điện thoại công cộng</string>
     <string name="people">Liên hệ</string>
-    <string name="percent_sign">%</string>
-    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Điện thoại</string>
-    <string name="phone_info_divider"> ｜ </string>
     <string name="phone_number_too_long_toast">Số quá dài</string>
     <string name="phone_primary">Chính</string>
     <string name="photoPickerNotFoundText">Không có ảnh khả dụng trên thiết bị.</string>
@@ -1078,7 +1070,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="sim_unloaded">Chưa lắp thẻ SIM</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Không có thành viên nhóm</string>
-    <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_company_label">Công ty</string>
     <string name="smart_group_company_unavailable">Không có thông tin công ty</string>
     <string name="smart_group_frequency_1">Trong tháng qua</string>
@@ -1213,7 +1204,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="voip_audio_description">Gọi VoIP</string>
     <string name="voip_video_description">Gọi video VoIP</string>
     <string name="websiteLabelsGroup">Trang web</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Xóa dữ liệu</string>
     <string name="yellowPageNavigationIconLabel">Danh bạ web</string>
     <string name="yellowPageNavigationLabel">Danh bạ web</string>

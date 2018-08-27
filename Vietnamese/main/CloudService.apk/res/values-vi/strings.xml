@@ -35,8 +35,6 @@
     <string name="mx_sub_dspt_provision_with_voip">Gọi qua internet</string>
     <string name="phone_number_required_dspt_provision">"Dịch vụ này yêu cầu số điện thoại của bạn. "</string>
     <string name="sync_dspt_provision">"Đồng bộ ảnh, liên hệ, ghi chú, và nhiều thứ nữa trên tất cả các thiết bị của bạn hoặc truy cập chúng tại "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.
 "</string>
     <string name="sync_dspt_entrance_provision">"Đồng bộ ảnh, liên hệ, lịch sử cuộc gọi, và tin nhắn trên tất cả các thiết bị. Truy cập những thứ bạn đồng bộ từ bất cứ trình duyệt nào tại %s. "</string>
@@ -47,8 +45,6 @@
     <string name="sync_dspt_entrance_provision_skip">Bỏ qua bước này</string>
     <string name="sync_dspt_entrance_provision_network">Ứng dụng này cần kết nối mạng để làm việc bình thường. Đồng bộ dữ liệu có thể yêu cầu kết nối dữ liệu di động và bật Wi-Fi.</string>
     <string name="find_device_dspt_provision">Nếu bạn đánh mất thiết bị, bạn có thể truy cập %s để định vị, khóa, hoặc đặt lại thiết bị. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
     <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho thiết bị MIUI khác mà không phải trả phí khi kết nối Wi-Fi.
 
@@ -290,7 +286,6 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_find_device_opened">Tìm thiết bị đã bật</string>
     <string name="micloud_find_device_open_fail">Không thể bật Tìm thiết bị</string>
     <string name="micloud_find_device_opened_content">Tìm thiết bị của bạn tại %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Không thể kích hoạt lại Tìm thiết bị</string>
     <string name="micloud_find_device_close_fail">Không thể tắt Tìm thiết bị</string>
     <string name="micloud_find_device_finish">Hoàn tất</string>
@@ -357,8 +352,6 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_main_head_menu_state_close">Tắt</string>
     <string name="micloud_main_head_menu_state_unavailable">Không hỗ trợ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Tìm thiết bị không khả dụng trong Không gian thứ hai, bạn có thể sử dụng trong Không gian thứ nhất.</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Thanh toán bằng vân tay</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
