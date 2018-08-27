@@ -10,7 +10,7 @@
         <item quantity="other">%d tin nhắn chưa được đồng bộ</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Xóa %1$s hội thoại đã chọn?</item>
+        <item quantity="other">Xóa %1$d cuộc hội thoại đã chọn?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Đã chọn %d</item>
@@ -28,7 +28,7 @@
         <item quantity="other">%1$s người</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s kết quả cho \"%2$s\"</item>
+        <item quantity="other">%1$s kết quả cho %2$s\"</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Đã gửi %1$s tin nhắn</item>

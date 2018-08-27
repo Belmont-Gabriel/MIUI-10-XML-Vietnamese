@@ -19,9 +19,9 @@ Nếu không phải bản thân bạn yêu cầu khôi phục, đừng cho phép
     <string name="backup_enc_password_optional">Nếu bạn muốn mã hóa toàn bộ dữ liệu sao lưu, hãy nhập mật khẩu bên dưới:</string>
     <string name="backup_enc_password_required">Vì thiết bị của bạn được mã hóa nên bạn phải mã hóa bản sao lưu của mình. Vui lòng nhập mật khẩu bên dưới:</string>
     <string name="restore_enc_password_text">Nếu dữ liệu khôi phục được mã hóa, vui lòng nhập mật khẩu bên dưới:</string>
-    <string name="toast_backup_started">Đang bắt đầu sao lưu…</string>
+    <string name="toast_backup_started">Đang bắt đầu sao lưu...</string>
     <string name="toast_backup_ended">Đã hoàn thành sao lưu</string>
-    <string name="toast_restore_started">Đang bắt đầu khôi phục…</string>
+    <string name="toast_restore_started">Đang bắt đầu khôi phục...</string>
     <string name="toast_restore_ended">Đã kết thúc quá trình khôi phục</string>
-    <string name="toast_timeout">Hết thời gian thao tác</string>
+    <string name="toast_timeout">Thao tác hết thời gian chờ</string>
 </resources>

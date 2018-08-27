@@ -7,9 +7,11 @@
     <string name="pre_installed_apps">Ứng dụng cài sẵn</string>
     <string name="policy_name">Giao thức: %s</string>
     <string name="mibi_license">Thỏa thuận Người dùng Mi Credit</string>
-    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, truy cập %s trên thiết bị đã kết nối khác."</string>
+    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, 
+truy cập %s trên thiết bị đã kết nối khác."</string>
     <string name="permdesc_accessDrm">Cho phép ứng dụng truy cập Nội dung bảo vệ DRM.</string>
     <string name="open_wifi_connect_title">Đã kết nối với %1$s</string>
+    <string name="open_wifi_connect_and_use_data_summary">tiếp tục sử dụng lưu lượng, chạm để chuyển đổi wifi và xác minh.</string>
     <string name="open_wifi_connect_summary">Chạm để xem chi tiết.</string>
     <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
     <string name="settings_license_activity_loading">Vui lòng chờ…</string>
@@ -22,5 +24,5 @@
     <string name="ad_service">Dịch vụ quảng cáo</string>
     <string name="settings_ad_loading">Vui lòng chờ…</string>
     <string name="settings_ad_loading_unavailable">Không thể tải thông tin.</string>
-    <string name="autoconnect">AutoConnect</string>
+    <string name="autoconnect">Kết nối tự động</string>
 </resources>

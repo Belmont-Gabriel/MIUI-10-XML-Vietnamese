@@ -12,9 +12,6 @@
     <plurals name="Nquit_warning">
         <item quantity="other">Trình phát sẽ dừng trong %d phút</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Bạn chọn tự động không tìm bìa album và lời bài hát cho các bài hát trên máy. Xóa thông tin cho %d bài hát?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Đã tạo %1$s | Tất cả %2$d bài hát</item>
     </plurals>
@@ -31,7 +28,7 @@
         <item quantity="other">%d bài hát đã xóa khỏi danh sách phát</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d bài hát tương tự</item>
+        <item quantity="other">%dbài hát tương tự</item>
     </plurals>
     <plurals name="Nunbackup_audios">
         <item quantity="other">%1$d bài hát chưa được sao lưu (%2$.1fMB)\"</item>
@@ -43,7 +40,11 @@
         <item quantity="other">%d bình luận</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Xóa %d nhiệm vụ?</item>
+        <item quantity="other">Xóa %d mục?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Xóa %d mục?
+Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Xóa %d bài hát?</item>
@@ -55,13 +56,13 @@
         <item quantity="other">Xóa %d bài hát khỏi Mi Cloud? Chúng cũng sẽ bị xóa khỏi danh sách phát.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đã tải xuống</item>
+        <item quantity="other">&lt;font color=\"red\">%d bài hát&lt;/font> đã tải xuống</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">Đã xóa %d tải xuống</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đang tải xuống</item>
+        <item quantity="other">&lt;font color=\"red\">%d bài hát&lt;/font> đang tải xuống</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d mục được chọn</item>
@@ -81,40 +82,7 @@
     <plurals name="songs_count">
         <item quantity="other">%d bài hát</item>
     </plurals>
-    <plurals name="Nartists_count">
-        <item quantity="other">%d ca sĩ</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">Còn lại %d ngày</item>
-    </plurals>
-    <plurals name="Ngroups_count">
-        <item quantity="other">%d ban nhạc</item>
-    </plurals>
-    <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d bài hát mới</item>
-    </plurals>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d bài hát được tìm thấy</item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d bài hát</item>
-    </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d bài hát sẽ được tải xuống</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d bài hát</item>
-    </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d bài hát đã được thêm</item>
-    </plurals>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Xóa %d danh sách phát?</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Tiếp tục tải xuống bài hát đã chọn?\"</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.\"</item>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s lượt xem</item>
     </plurals>
 </resources>

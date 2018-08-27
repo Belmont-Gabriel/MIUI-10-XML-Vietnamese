@@ -13,7 +13,7 @@
     <string name="find_device_error_server">Lỗi máy chủ (%s).</string>
     <string name="find_device_error_account_sys_timeout">"Không thể kết nối đến Tài khoản Mi. "</string>
     <string name="find_device_error_account_unknown_error">Lỗi Tài khoản Mi (%s).</string>
-    <string name="find_device_crash">Tìm thiết bị bị đóng đột ngột.</string>
+    <string name="find_device_crash">Tìm Thiết bị bị đóng đột ngột.</string>
     <string name="find_device_storage_corrupted">Tìm Thiết bị lưu trữ bị hỏng. Thiết bị của bạn hiện không an toàn.</string>
     <string name="find_device_telephony_fault">Tìm kiếm Thiết bị: Lỗi điện thoại (%s).</string>
     <string name="time_correction_success">Đã hiệu chỉnh thời gian</string>
@@ -21,9 +21,8 @@
     <string name="find_device_stop_noise">Bấm OK để im lặng</string>
     <string name="find_device_noise_title">Tìm báo động thiết bị</string>
     <string name="find_device_success_title">Tìm thiết bị</string>
-    <string name="find_device_notice_p1">Truy cập</string>
-    <string name="find_device_notice_p3">"để định vị, khóa, hoặc khôi phục lại điện thoại.
-Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này."</string>
+    <string name="find_device_notice">Truy cập&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />để định vị, khóa hoặc khôi phục thiết bị của bạn.</string>
+    <string name="find_device_notice_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Không thể kết nối mạng</string>
     <string name="unlock_error_device_id">Không thể nhận ID thiết bị</string>
@@ -38,6 +37,7 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="unlock_error_rpc">Lỗi RPC</string>
     <string name="unlock_error_abort">Đã hủy bởi người dùng</string>
     <string name="unlock_error_passport_sdk_timeout">SDK Tài khoản Mi không phản hồi</string>
+    <string name="open_wifi_settings">Mở cài đặt Wi-Fi</string>
     <string name="activate_xiaomi_account">Kích hoạt thiết bị này</string>
     <string name="login_extra_steps">Đăng nhập xác minh</string>
     <string name="phone_locked">Thiết bị này có thể đã liên kết với tài khoản Mi (%s). Đăng nhập để kích hoạt thiết bị này.</string>
@@ -56,14 +56,14 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="login_failed">Không thể đăng nhập. %s.</string>
     <string name="change_find_device_status_failed">Không thể mở khóa %s.</string>
     <string name="unlock_help_title">Trợ giúp mở khóa:</string>
-    <string name="unlock_help">"Duy trì kết nối mạng
-Hãy đảm bảo rằng bạn đã lắp đặt thẻ SIM còn hoạt động, và thiết bị được kết nối với mạng Wi-Fi ổn định
+    <string name="unlock_help">"Duy trì kết nối mạng.
+Hãy đảm bảo rằng bạn đã lắp đặt thẻ SIM còn hoạt động (nếu thiết bị của bạn hỗ trợ), và thiết bị đã kết nối với mạng Wi-Fi hợp lệ.
 
 Quên mật khẩu?
-Truy cập id.mi.com để đặt lại mật khẩu
+Truy cập id.mi.com để đặt lại mật khẩu.
 
 Lý do khác
-Đăng nhập vào i.mi.com và thử mở khóa thiết bị"</string>
+Đăng nhập vào i.mi.com và thử mở khóa thiết bị."</string>
     <string name="passport_vcode_prompt_long">Nhập mã xác minh</string>
     <string name="passport_trust_device">Tin tưởng thiết bị này</string>
     <string name="passport_verify">Xác minh</string>
@@ -77,11 +77,12 @@ Lý do khác
     <string name="default_lock_msg_words_with_phone">Xin chào! Tôi bị mất điện thoại. Bạn có thể liên lạc với tôi được không? Cám ơn!</string>
     <string name="default_lock_msg_words">Thiết bị này đã liên kết với Tài khoản Mi có sẵn. Vì lý do an toàn, bạn cần nhập mật khẩu để xác minh thiết bị.</string>
     <string name="lock_msg_phone">Thông tin liên lạc: %s</string>
+    <string name="emergency_call">Cuộc gọi khẩn cấp</string>
+    <string name="return_to_call">Quay trở lại cuộc gọi</string>
     <string name="default_debt_msg_words">"Thiết bị này đã bị khóa do chưa thanh toán trả góp.
 Liên hệ với đại lý bán hàng để biết thêm chi tiết."</string>
     <string name="sys_notification_async_verify_title">Kích hoạt lại Tìm thiết bị</string>
     <string name="sys_notification_async_verify_content">Chính sách bảo mật đã cập nhật yêu cầu Tìm thiết bị kích hoạt lại.</string>
     <string name="sys_notification_async_open_failed_title">Không thể bật Tìm thiết bị</string>
     <string name="sys_notification_async_open_failed_content">Chạm để thử lại hoặc hủy.</string>
-	<string name="find_device_notice_sms_alert">Nếu bạn đổi thẻ SIM, một SMS khác có thể được gửi tự động để kích hoạt lại tính năng này.</string>
 </resources>

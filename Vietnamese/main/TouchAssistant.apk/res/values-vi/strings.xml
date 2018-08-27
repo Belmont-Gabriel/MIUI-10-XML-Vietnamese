@@ -15,6 +15,7 @@
     <string name="hide_touch_assistant_intro">Ẩn Phím ảo trong ứng dụng đã chọn.</string>
     <string name="hide_when_fullscreen">Di chuyển qua bên cạnh khi toàn màn hình</string>
     <string name="hide_when_fullscreen_intro">Di chuyển qua bên cạnh khi vào chế độ toàn màn hình.</string>
+    <string name="mi_wallet_summary">Thẻ giao thông/Mi Pay/Key card</string>
     <string name="motion_behavior">Kiểu thao tác</string>
     <string name="name_alipay_payment_code">Thanh toán Alipay</string>
     <string name="name_alipay_scan">Quét Alipay</string>
@@ -22,6 +23,7 @@
     <string name="name_handy_mode">Chế độ một tay</string>
     <string name="name_long_press_power_key">Bấm giữ phím Nguồn</string>
     <string name="name_memory_clean">Xóa bộ nhớ đệm</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">Bài tiếp theo</string>
     <string name="name_music_prev_song">Bài trước</string>
     <string name="name_music_toggle">Phát/Tạm dừng bài hát</string>

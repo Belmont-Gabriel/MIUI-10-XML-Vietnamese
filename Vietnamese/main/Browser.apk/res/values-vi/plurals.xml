@@ -6,16 +6,19 @@
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d mục đã chặn</item>
     </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">%1$d bài viết đã được cập nhật cho bạn</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Xóa %d tác vụ?</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d kết quả phù hợp</item>
     </plurals>
-    <plurals name="last_num_days">
+    <plurals name="mw_last_num_days">
         <item quantity="other">%d ngày trước</item>
     </plurals>
-    <plurals name="matches_found">
+    <plurals name="mw_matches_found">
         <item quantity="other">%1$d trong tổng số%2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
@@ -32,6 +35,9 @@
     </plurals>
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d bài hát phổ biến</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Phát video sau %1$d giây</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Đã chọn %1$d</item>
@@ -54,7 +60,16 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">Còn lại %d phút</item>
     </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">%1$d video đã được cập nhật cho bạn</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Quang</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d trong tổng số%2$d</item>
     </plurals>
 </resources>

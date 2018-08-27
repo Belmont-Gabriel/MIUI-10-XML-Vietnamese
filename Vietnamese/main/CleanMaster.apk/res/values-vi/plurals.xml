@@ -55,7 +55,7 @@
         <item quantity="other">Không thể xuất %d video. Giải phóng dung lượng và thử lại</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d tập tin trống) %2$s</item>
+        <item quantity="other">(%1$d tập tin trống)</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Chưa sử dụng %d ngày</item>
@@ -68,5 +68,30 @@
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> ứng dụng không sử dụng trong thời gian dài, hãy kiểm tra.;&lt;/Data></item>
+    </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Đang dọn dẹp %1$d tập tin (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d mục/ giây | Thời gian còn lại: %2$s</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Xóa %1$d mục?</item>
     </plurals>
 </resources>

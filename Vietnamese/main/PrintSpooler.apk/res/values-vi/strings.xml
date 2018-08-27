@@ -22,7 +22,8 @@
     <string name="save_as_pdf">Lưu dưới dạng PDF</string>
     <string name="all_printers">Tất cả máy in…</string>
     <string name="print_dialog">Hộp thoại in</string>
-    <string name="page_description_template">Trang %1$d/%2$d</string>
+    <string name="current_page_template">%1$d/%2$d</string>
+    <string name="page_description_template">Trang %1$d / %2$d</string>
     <string name="summary_template">Tóm tắt, số bản sao %1$s, khổ giấy %2$s</string>
     <string name="expand_handle">Mở rộng điều khiển</string>
     <string name="collapse_handle">Thu gọn điều khiển</string>
@@ -38,7 +39,10 @@
     <string name="print_add_printer">Thêm máy in</string>
     <string name="print_select_printer">Chọn máy in</string>
     <string name="print_forget_printer">Bỏ qua máy in</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Thông tin khác về máy in này</string>
+    <string name="notification_channel_progress">Lệnh in đang chạy</string>
+    <string name="notification_channel_failure">Lệnh in bị lỗi</string>
     <string name="could_not_create_file">Không thể tạo tệp</string>
     <string name="print_services_disabled_toast">Một số dịch vụ in đã bị tắt</string>
     <string name="print_searching_for_printers">Đang tìm kiếm máy in</string>
@@ -67,10 +71,4 @@
     <string name="print_error_printer_unavailable">Máy in này hiện không khả dụng.</string>
     <string name="print_cannot_load_page">Không thể hiển thị bản xem trước</string>
     <string name="print_preparing_preview">Đang chuẩn bị xem trước…</string>
-    <string name="choose_print_service">Chọn dịch vụ in</string>
-    <string name="printer_unavailable">%1$s – không khả dụng</string>
-    <string name="permdesc_accessAllPrintJobs">Cho phép chủ sở hữu truy cập vào lệnh in được tạo bởi ứng dụng khác. Không bao giờ cần cho các ứng dụng thông thường.</string>
-    <string name="permdesc_startPrintServiceConfigActivity">Cho phép chủ sở hữu bắt đầu các hoạt động cấu hình của một dịch vụ in ấn. Không bao giờ cần cho các ứng dụng thông thường.</string>
-    <string name="permlab_accessAllPrintJobs">truy cập tất cả lệnh in</string>
-    <string name="permlab_startPrintServiceConfigActivity">bắt đầu hoạt động cấu hình dịch vụ in ấn</string>
 </resources>

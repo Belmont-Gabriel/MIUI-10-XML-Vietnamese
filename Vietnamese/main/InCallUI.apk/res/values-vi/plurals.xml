@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="call_recording_notification_complete">
-        <item quantity="other">%d cuộc gọi đã được ghi âm.</item>
-    </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">Còn lại %d phút</item>
+        <item quantity="other">Đã ghi âm %d cuộc gọi.</item>
     </plurals>
 </resources>

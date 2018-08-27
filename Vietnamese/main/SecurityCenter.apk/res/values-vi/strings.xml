@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="exo_controls_fastforward_description">Tua đi</string>
+    <string name="exo_controls_fullscreen_description">Chế độ toàn màn hình</string>
+    <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
+    <string name="exo_controls_pause_description">Tạm dừng</string>
+    <string name="exo_controls_play_description">Phát</string>
+    <string name="exo_controls_previous_description">Bản nhạc trước</string>
+    <string name="exo_controls_repeat_all_description">Lặp lại tất cả</string>
+    <string name="exo_controls_repeat_off_description">Không lặp lại</string>
+    <string name="exo_controls_repeat_one_description">Lặp lại một</string>
+    <string name="exo_controls_rewind_description">Tua lại</string>
+    <string name="exo_controls_shuffle_description">Phát ngẫu nhiên</string>
+    <string name="exo_controls_stop_description">Dừng</string>
+    <string name="exo_download_completed">Đã hoàn tất tải xuống</string>
+    <string name="exo_download_description">Tải xuống</string>
+    <string name="exo_download_downloading">Đang tải xuống</string>
+    <string name="exo_download_failed">Không tải xuống được</string>
+    <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
+    <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+    <string name="exo_track_mono">Đơn âm</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Tự động</string>
+    <string name="exo_track_selection_none">Không</string>
+    <string name="exo_track_selection_title_audio">Âm thanh</string>
+    <string name="exo_track_selection_title_text">Văn bản</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Âm thanh nổi</string>
+    <string name="exo_track_surround">Âm thanh vòm</string>
+    <string name="exo_track_surround_5_point_1">Âm thanh vòm 5.1</string>
+    <string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
+    <string name="exo_track_unknown">Không xác định</string>
     <string name="fw_blocked">Danh sách chặn</string>
     <string name="fw_oversea">Chặn cuộc gọi từ nước ngoài</string>
     <string name="fw_blocked_count">"Đã chặn "</string>
@@ -36,8 +68,8 @@
     <string name="dlg_clear_current_call">Xóa tất cả các cuộc gọi bị chặn từ số này?</string>
     <string name="dlg_clear_all_ok">Xóa tất cả</string>
     <string name="dlg_clear_current_ok">Xóa</string>
-    <string name="dlg_no_block">"Bỏ chặn và khôi phục các cuộc gọi từ số này vào lịch sử cuộc gọi?
-(Số này sẽ được thêm vào danh sách trắng cuộc gọi)"</string>
+    <string name="dlg_no_block">"Bỏ chặn số điện thoại này?
+Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
     <string name="dlg_add_blacklist_title">Thêm vào danh sách chặn</string>
     <string name="dlg_add_blacklist">Chặn số này?</string>
@@ -69,10 +101,20 @@
     <string name="back_sound_data">Bật dữ liệu di động và thử lại.</string>
     <string name="dlg_move_to_white">Thêm vào danh sách ngoại lệ</string>
     <string name="dlg_add_white">Cuộc gọi và tin nhắn mới từ các số được thêm vào danh sách ngoại lệ sẽ được hiển thị trong lịch sử cuộc gọi và hộp thư tin nhắn. Tuy nhiên, các mục bị chặn trước đó sẽ không xuất hiện. Thêm các số đã chọn vào danh sách ngoại lệ?</string>
-    <string name="dlg_not_block_sms">"Bỏ chặn các số đã chọn?\u000d
+    <string name="dlg_not_block_sms">"Bỏ chặn các số đã chọn?
 Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong hộp thư tin nhắn."</string>
-    <string name="dlg_not_block_call">"Bỏ chặn các số đã chọn?\u000d
+    <string name="dlg_not_block_call">"Bỏ chặn các số đã chọn?
 Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
+    <string name="dlg_update_date_title">Cảnh báo</string>
+    <string name="dlg_update_data_content">Bạn chưa kết nối Wi-Fi. Sử dụng dữ liệu di động có thể phát sinh phí bổ sung. Vẫn tiếp tục?</string>
+    <string name="dlg_sec_network_unavailable">Ứng dụng Bảo mật không thể cập nhật bởi vì bạn đã hạn chế kết nối internet. Cho phép Bảo mật kết nối internet?</string>
+    <string name="dlg_update_btn_contiue">Tiếp tục</string>
+    <string name="dlg_update_btn_open">Cho phép</string>
+    <string name="dlg_update_updating">Đang cập nhật…</string>
+    <string name="toast_update_nonetwork">Không thể kết nối mạng</string>
+    <string name="toast_update_fail">Không thể cập nhật</string>
+    <string name="toast_update_success">Đã cập nhật thành công</string>
+    <string name="toast_update_notneed">Đã cập nhật</string>
     <string name="menu_call">Quay số</string>
     <string name="menu_sms">Gửi tin nhắn</string>
     <string name="menu_bl_call_log">Xem cuộc gọi bị chặn</string>
@@ -168,7 +210,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="report_success">Đã báo cáo tin nhắn</string>
     <string name="report_error">Không thể báo cáo tin nhắn</string>
     <string name="report_warning">Báo cáo %1$s SMS tới Mi? Các tin nhắn và số điện thoại này sẽ được gửi lên máy chủ của Mi để xem xét. Bất kỳ thông tin cá nhân liên quan đến những tin nhắn này luôn luôn được bảo mật.</string>
-    <string name="report_warning_title">Báo cáo SMS</string>
+    <string name="report_warning_title">Chú ý</string>
     <string name="st_sub_title_customize_mode_name">Tên</string>
     <string name="read_all_sms">Đọc tất cả</string>
     <string name="loding">Tải dữ liệu</string>
@@ -177,8 +219,8 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_title_open_antispam">Danh sách chặn</string>
     <string name="st_title_antispam_mode">Quy tắc</string>
     <string name="st_sub_title_whiteblack_list_group">Danh sách chặn</string>
-    <string name="st_title_keywords_blacklist">Lọc từ khóa</string>
-    <string name="st_title_keywords_whitelist">Từ khóa danh sách trắng</string>
+    <string name="st_title_keywords_blacklist">Chặn theo từ khóa</string>
+    <string name="st_title_keywords_whitelist">Từ khóa danh sách ngoại lệ</string>
     <string name="st_title_blacklist_numbers">Số đã chặn</string>
     <string name="st_title_whitelist_numbers">Danh sách ngoại lệ</string>
     <string name="st_title_backsound_group">Âm báo từ chối</string>
@@ -253,6 +295,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Số lần báo cáo</string>
     <string name="sms_smart_engine_update">Tự động cập nhật bộ lọc SMS</string>
+    <string name="sms_smart_engine_update_now">Cập nhật</string>
     <string name="mark_number_setting_guide_title">Chặn số bị báo cáo</string>
     <string name="mark_number_setting_guide_content1">Chặn cuộc gọi từ số bị báo cáo?</string>
     <string name="mark_number_setting_guide_content2">Tự động chặn cuộc gọi từ các số đã được báo cáo bởi những người dùng khác</string>
@@ -284,9 +327,9 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_msg_intercept_contacts">Chặn SMS từ liên hệ</string>
     <string name="st_msg_stranger_group">Chặn SMS từ người lạ</string>
     <string name="st_msg_other_group">Khác</string>
-    <string name="st_msg_keyword_group">Chặn theo từ khóa</string>
-    <string name="st_msg_keyword_black">Từ khóa Danh sách chặn</string>
-    <string name="st_msg_keyword_white">Từ khóa Danh sách ngoại lệ</string>
+    <string name="st_msg_keyword_group">Từ khóa</string>
+    <string name="st_msg_keyword_black">Chặn theo từ khóa</string>
+    <string name="st_msg_keyword_white">Từ khóa danh sách ngoại lệ</string>
     <string name="st_call_settings">Chặn cuộc gọi</string>
     <string name="st_call_intercept_stranger">Chặn cuộc gọi từ người lạ</string>
     <string name="st_call_intercept_forwarding">Chặn cuộc gọi được chuyển tiếp</string>
@@ -306,7 +349,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="cta_dialog_title">Kết nối Internet</string>
     <string name="cta_dialog_msg">Bảo mật yêu cầu kết nối internet để nhận cập nhật, cũng như truy cập vị trí để hoạt động bình thường.</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
-    <string name="gdpr_msg">Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư</a>.</string>
+    <string name="gdpr_msg"><Data>Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a>.</Data></string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
     <string name="list_empty_text">Trống</string>
     <string name="dialog_title_attention">Chú ý</string>
@@ -316,6 +359,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="megabyteShort">MB</string>
     <string name="kilobyteShort">KB</string>
     <string name="byteShort">B</string>
+    <string name="yuan">NDT</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="main_toolbar_firewall">Hạn chế sử dụng dữ liệu</string>
     <string name="main_toolbar_statistic">Thống kê dữ liệu sử dụng</string>
@@ -366,6 +410,14 @@ phản hồi"</string>
     <string name="main_tobe_added_desc">Dữ liệu di động từ ¥0.03/MB</string>
     <string name="main_button_mi_sim_close">Kích hoạt Mi SIM</string>
     <string name="main_button_mi_sim_open">Xem chi tiết</string>
+    <string name="adjust_sms_cmd"><u>Điều chỉnh mẫu SMS hiệu chỉnh</u></string>
+    <string name="sms_detail_correct_success_text">Thống kê sử dụng dữ liệu từ hiệu chỉnh trước (%1$s):</string>
+    <string name="tc_send_sms_error">Không thể gửi SMS</string>
+    <string name="tc_cmd_invalid">Mẫu không hợp lệ</string>
+    <string name="tc_receive_timeout">Hiệu chỉnh hết giờ</string>
+    <string name="tc_parse_error">Không thể phân tích SMS</string>
+    <string name="tc_get_cmd_error">Không thể nhận mẫu</string>
+    <string name="tc_web_correct_error">Hiệu chỉnh thất bại</string>
     <string name="firewall_activity_lable">Hạn chế sử dụng dữ liệu bởi ứng dụng</string>
     <string name="firewall_applist">Ứng dụng</string>
     <string name="firewall_mobile">Dữ liệu di động</string>
@@ -379,13 +431,19 @@ phản hồi"</string>
     <string name="firewall_restrict_android_dialog_content">Để đảm bảo thiết bị làm việc bình thường, một vài ứng dụng hệ thống Android sẽ tiếp tục kết nối internet. Các ứng dụng này sẽ sử dụng kết nối dữ liệu di động và có thể phát sinh chi phí nhỏ từ nhà mạng.</string>
     <string name="background_restrict_app_dialog_message">Giới hạn truy cập mạng nền của ứng dụng này sẽ làm cho ứng dụng không thể hoạt động bình thường như nhận tin nhắn và tải xuống nội dung v.v...Vẫn giới hạn?</string>
     <string name="firewall_allow_network">Cho phép</string>
-    <string name="app_bg_restrict_dialog_message">Hạn chế kết nối mạng nền có thể ngăn ứng dụng hoạt động bình thường. Ví dụ: nó không thể nhận được tin nhắn hoặc cập nhật nội dung. Hạn chế không?</string>
+    <string name="app_bg_restrict_dialog_message">Hạn chế kết nối mạng nền có thể ngăn ứng dụng hoạt động bình thường. Ví dụ: ứng dụng không thể nhận được tin nhắn hoặc cập nhật nội dung.</string>
     <string name="firewall_network_allow">Đã cho phép %1$s sử dụng kết nối%2$s</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="firewall_mobile_dialog_message">Ứng dụng đã cài đặt không thể kết nối internet bằng dữ liệu di động khi tắt chuyển đổi này.</string>
     <string name="firewall_wifi_dialog_message">Ứng dụng đã cài đặt không thể kết nối internet bằng Wi-Fi khi tắt chuyển đổi này.</string>
     <string name="firewall_system_title">Sử dụng dữ liệu ứng dụng hệ thống</string>
     <string name="firewall_temp_rule_reason">%2$s giới hạn kết nối internet %1$s​</string>
+    <string name="dialog_restrict_all_wlan_title">Hạn chế kết nối Wi-Fi</string>
+    <string name="dialog_restrict_all_wlan_summary">Kết nối Wi-Fi tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
+    <string name="dialog_restrict_all_mobile_title">Hạn chế kết nối dữ liệu di động %s</string>
+    <string name="dialog_restrict_all_mobile_summary">%s Kết nối dữ liệu di động tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
+    <string name="dialog_restrict_positive">Hủy</string>
+    <string name="dialog_restrict_negative">Hạn chế</string>
     <string name="usage_sorted_activity_lable">Sử dụng dữ liệu</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
     <string name="usage_sorted_empty_text">Trống</string>
@@ -394,8 +452,8 @@ phản hồi"</string>
     <string name="deleted_apps">Đã xóa ứng dụng</string>
     <string name="root">Truy cập Root</string>
     <string name="app_detail">Chi tiết</string>
-    <string name="app_version">Phiên bản</string>
-    <string name="app_mobile">Di động</string>
+    <string name="app_version">Phiên bản:</string>
+    <string name="app_mobile">Dữ liệu di động</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Không</string>
     <string name="sorted_dialog_title">Sắp xếp theo</string>
@@ -406,9 +464,11 @@ phản hồi"</string>
     <string name="foreground_traffic">Nền trước %s</string>
     <string name="background_traffic">Nền sau %s</string>
     <string name="detail_app_button">Thông tin ứng dụng</string>
+    <string name="managed_user_title">Tất cả ứng dụng hoạt động</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_traffic_manage_title">Sử dụng dữ liệu</string>
-    <string name="pref_package_traffic_settings">Giới hạn dữ liệu di động</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_package_traffic_settings">Gói lưu lượng</string>
     <string name="pref_adjust_traffic_data">Thiết lập sử dụng dữ liệu</string>
     <string name="pref_category_title_other">Cài đặt bổ sung</string>
     <string name="pref_title_update_notification">Thông báo sử dụng dữ liệu</string>
@@ -417,9 +477,9 @@ phản hồi"</string>
     <string name="pref_title_declaration">Từ chối trách nhiệm quan trọng</string>
     <string name="pref_new_installed_preconfig_title">Cài đặt mặc định ứng dụng mới</string>
     <string name="pref_bg_network_title">Kết nối nền</string>
-    <string name="pref_mi_sim_settings">Cài đặt Mi SIM</string>
-    <string name="pref_title_upload_data_usage">Báo cáo trạng thái sử dụng dữ liệu</string>
-    <string name="pref_summary_upload_data_usage">Báo cáo thống kê sử dụng dữ liệu của bạn để giúp chúng tôi cải thiện MIUI. Báo cáo được thực hiện tuân theo Chính sách Bảo mật của chúng tôi.</string>
+    <string name="pref_mi_sim_settings">Cài đặt gói %s</string>
+    <string name="pref_title_upload_data_usage">Báo cáo thông tin sử dụng dữ liệu</string>
+    <string name="pref_summary_upload_data_usage">Báo cáo thông tin sử dụng dữ liệu của bạn để giúp chúng tôi cải thiện dịch vụ MIUI. Tiến trình báo cáo sẽ được thực hiện tuân theo Chính sách Riêng tư của chúng tôi.</string>
     <string name="pref_manual_adjust">Thiết lập số liệu thống kê sử dụng dữ liệu bằng tay</string>
     <string name="pref_daily_adjust">Thiết lập sử dụng dữ liệu hàng ngày</string>
     <string name="pref_free_adjust">Thiết lập sử dụng dữ liệu ngoài giờ cao điểm</string>
@@ -520,12 +580,18 @@ phản hồi"</string>
     <string name="leisure_usage_dialog_message">"Bạn đã đạt đến giới hạn dữ liệu ngoài giờ cao điểm.
 
 Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối dữ liệu di động."</string>
+    <string name="data_usage_protected_notify_title">Bạn đã sử dụng 5GB dữ liệu di động</string>
+    <string name="data_usage_protected_notify_message">MIUI đã tắt dữ liệu di động để chặn phát sinh phí từ nhà cung cấp.</string>
+    <string name="data_usage_mobile_dialog_title">Bạn đã sử dụng 5GB dữ liệu di động. MIUI đã tắt dữ liệu di động.</string>
+    <string name="data_usage_protected_dialog_message">"MIUI đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
+
+Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
     <string name="lock_screen_traffic_warn_title">Thông báo màn hình khóa</string>
     <string name="lock_screen_traffic_notify_body">Đã khóa %2$s vào %1$s, đã sử dụng dữ liệu %3$s</string>
-    <string name="timeshow_s">%d giây</string>
-    <string name="timeshow_m">%d phút</string>
-    <string name="timeshow_h">%.1f giờ</string>
-    <string name="timeshow_h_int">%d giờ</string>
+    <string name="timeshow_s">%d\"</string>
+    <string name="timeshow_m">%dphút</string>
+    <string name="timeshow_h">%.1fgiờ</string>
+    <string name="timeshow_h_int">%dgiờ</string>
     <string name="lock_screen_traffic_guide_notification_title">Chạm để quản lý sử dụng dữ liệu.</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s sử dụng khi khóa màn hình</string>
     <string name="lock_screen_traffic_purchase_textview">Mua dữ liệu di động</string>
@@ -560,7 +626,7 @@ Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác v�
 Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
     <string name="traffic_config_alert_setted">Đã áp dụng cài đặt</string>
     <string name="traffic_config_alert_package">"
-Đã chuyển qua dữ liệu bổ sung"</string>
+Rolled over extra data"</string>
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
     <string name="traffic_limit_error_alert_body">Dữ liệu còn lại của bạn tháng này (%1$s) lớn hơn gói hàng tháng của bạn (%2$s). Gói hàng tháng đã thay đổi?</string>
     <string name="traffic_limit_error_alert_package">"
@@ -618,7 +684,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="tc_sms_report_type">Loại báo cáo</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
     <string name="sc_allow_network_dialog_tiltle">Không thể sử dụng tính năng này</string>
-    <string name="sc_allow_network_dialog_message">Ứng dụng này cần phải kết nối Internet để làm việc bình thường.</string>
+    <string name="sc_allow_network_dialog_message">Bạn đã hạn chế kết nối mạng và truy cập vào vị trí của mình cho Bảo mật. Cấp các quyền yều cầu cho Bảo mật để sử dụng tính năng này.</string>
     <string name="privacy_prompt_upload">Tải lên</string>
     <string name="privacy_prompt_traffic_adjust_message">"Sau khi bạn bắt đầu hiệu chỉnh, MIUI sẽ kết nối mạng, mã hóa thông tin nhà mạng, số điện thoại, IMEI, Tài khoản Mi và tải lên máy chủ Mi để nhận mẫu hiệu chỉnh của nhà mạng và kiểm tra xem có thể mua dữ liệu ở khu vực bạn hay không.
 
@@ -651,8 +717,11 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="roaming_limit_dialog_message">Đã đạt đến giới hạn dữ liệu chuyển vùng hàng ngày.</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">Cho phép chuyển vùng dữ liệu di động?</string>
+    <string name="dialog_roaming_warning_message">Nhà mạng sẽ tính thêm phí sau khi bạn bật chuyển vùng dữ liệu quốc tế. Vẫn bật?</string>
+    <string name="dialog_roaming_warning_checkbox">Không hiển thị lại</string>
+    <string name="dialog_roaming_warning_ok">Bật</string>
     <string name="title_limit_traffic_per_day">Giới hạn sử dụng dữ liệu hàng ngày</string>
-    <string name="daily_limit_and_lock_screen">Giới hạn dữ liệu &amp; thông báo</string>
+    <string name="daily_limit_and_lock_screen">Cảnh báo sử dụng dữ liệu</string>
     <string name="pref_title_traffic_limit_number">Kích thước</string>
     <string name="pref_title_over_traffic_limit_warning">Khi vượt quá</string>
     <string name="reach_daily_limit_value_title">Đã đạt đến giới hạn dữ liệu hàng ngày</string>
@@ -667,7 +736,7 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="lock_screen_warning_switch_title">Hiển thị cảnh báo trên màn hình khóa</string>
     <string name="lock_screen_warning_switch_summary">Hiển thị cảnh báo trên màn hình khóa khi sử dụng dữ liệu vượt giá giá trị nhất định</string>
     <string name="lock_screen_warning_value">Cảnh báo sử dụng dữ liệu</string>
-    <string name="pref_normal_traffic_limit">Khi gói dữ liệu hàng ngày đã sử dụng hết</string>
+    <string name="pref_normal_traffic_limit">Khi gói lưu lượng đã sử dụng hết</string>
     <string name="pref_over_traffic_limit">Khi bạn vượt quá lưu lượng</string>
     <string name="traffic_warning_purchase_title">Cảnh báo sử dụng dữ liệu di động</string>
     <string name="traffic_purchase_body">Chạm để mua thêm lưu lượng.</string>
@@ -751,26 +820,28 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
 3. Đảm bảo rằng thẻ SIM và khe cắm SIM điện thoại của bạn không bị hư hỏng. Xác nhận rằng thẻ SIM bạn đang sử dụng đã được lắp đặt đúng vào khay SIM."</string>
     <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:
 
- \""<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"\"
+ "<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"
 Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
 
- \""<b>2. Vấn đề cung cấp dịch vụ Internet</b>"\"
+ "<b>2. Vấn đề cung cấp dịch vụ Internet</b>"
 
 Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với nhà cung cấp dịch vụ Internet.
 
- \""<b>3. Vấn đề về phần cứng bộ định tuyến</b>"\"
+ "<b>3. Vấn đề về phần cứng bộ định tuyến</b>"
 Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
 
- \""<b>4. Vấn đề về bộ định tuyến khác</b>"\"
+ "<b>4. Vấn đề về bộ định tuyến khác</b>"
 Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
 
- \""<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"\"
+ "<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"
 Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
-    <string name="permission_exception_title">Xem quyền truy cập mạng</string>
+    <string name="permission_exception_title">Hạn chế kết nối ứng dụng</string>
     <string name="bg_network_exception_title">Đã hạn chế kết nối nền</string>
     <string name="networkchanged_exception_title">Đã thay đổi kết nối</string>
     <string name="networkchanged_exception_summary">Kết nối mạng đã thay đổi. Vui lòng kiểm tra lại.</string>
     <string name="network_test_speed">Kiểm tra tốc độ Wi-Fi</string>
+    <string name="network_changed_noti_title">Đã ngắt kết nối Wi-Fi</string>
+    <string name="network_changed_noti_summary">Đang dùng dữ liệu di động</string>
     <string name="network_speed_for_apps_title">Kết nối</string>
     <string name="network_speed_for_apps_total">Tốc độ kết nối</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
@@ -840,6 +911,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="sms_detail_fragment_title_bill">Số dư tài khoản</string>
     <string name="menu_report">Báo cáo lỗi</string>
     <string name="menu_charge_traffic">Mua dữ liệu</string>
+    <string name="menu_setting_traffic">Thiết lập thủ công</string>
     <string name="menu_charge_bill">Nạp tiền</string>
     <string name="privacy_dialog_message">Khi bạn kết nối internet, tin nhắn này cùng thông tin nhà cung cấp sẽ được mã hóa và tải lên máy chủ Mi để giúp chúng tôi cải thiện giám sát sử dụng dữ liệu.</string>
     <string name="status_bar_network_flow_purchase">"   Mua >"</string>
@@ -849,6 +921,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="status_bar_network_flow_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Còn lại: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Tháng này: %2$s</string>
     <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Giới hạn dữ liệu sử dụng một lần</string>
     <string name="pref_key_tethering_title">Giới hạn dữ liệu sử dụng một lần</string>
     <string name="tether_limit_value_custom">Tùy chỉnh</string>
@@ -859,6 +932,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tether_over_limit_dialog_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="tether_over_limit_dialog_message">Bạn đã đạt đến giới hạn dữ liệu điểm phát sóng.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Đặt lại điểm phát sóng</string>
+    <string name="network_traffic_warning_title">Sử dụng dữ liệu ứng dụng hệ thống</string>
+    <string name="network_traffic_warning_text">MIUI không thể thống kê sử dụng dữ liệu cho ứng dụng hệ thống riêng lẻ ở đây. Bạn sẽ không thể nhìn thấy thông tin chi tiết liên quan về sử dụng dữ liệu trong ứng dụng trong trường hợp ứng dụng này sử dụng dữ liệu di động chủ động.</string>
     <string name="optimize_manage_title">Tăng tốc</string>
     <string name="cpu_usage_android_system">Hệ thống Android</string>
     <string name="cpu_usage_process_run_time_little_time">Ít hơn 1 phút</string>
@@ -884,11 +959,11 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="optimize_result_header_view_summary">Tăng tốc</string>
     <string name="optimize_result_available_memory_info">Bộ nhớ trống</string>
     <string name="optimize_result_title_uninstall_apps">Ứng dụng</string>
-    <string name="om_settings_title">Cài đặt tối ưu</string>
+    <string name="om_settings_title">Cài đặt</string>
     <string name="om_settings_lock_app_manage">Khóa ứng dụng</string>
     <string name="om_settings_lock_app">Khóa ứng dụng</string>
     <string name="om_settings_speed_up_auto">Tăng tốc tự động</string>
-    <string name="om_settings_memory_clean_lock_screen">Xóa bộ nhớ đệm khi tắt màn hình</string>
+    <string name="om_settings_memory_clean_lock_screen">Xóa bộ nhớ đệm khi thiết bị bị khóa</string>
     <string name="om_settings_notify_manage">Thông báo</string>
     <string name="om_settings_memory_occupy_notify">Thông báo chiếm dụng bộ nhớ</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Thông báo khi kích thước bộ nhớ đệm quá lớn</string>
@@ -920,6 +995,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Ứng dụng này có thể làm chậm
 thiết bị của bạn"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Gỡ cài đặt %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Gỡ cài đặt ứng dụng này để sửa vấn đề pin.</string>
     <string name="om_ill_proc_type_wakelock_title">Ứng dụng khóa chế độ ngủ và hao pin</string>
@@ -935,8 +1011,8 @@ thiết bị của bạn"</string>
     <string name="om_ill_proc_type_radio_title">Ứng dụng kết nối mạng thường xuyên và dẫn đến hao pin</string>
     <string name="om_ill_proc_type_radio_detail">Sửa vấn đề kết nối mạng</string>
     <string name="om_ill_proc_activity_title">Vấn đề</string>
-    <string name="power_center_title">Tiết kiệm pin</string>
-    <string name="power_center_back">Quay lại Sử dụng pin</string>
+    <string name="power_center_title">Sử dụng pin</string>
+    <string name="power_center_back">Quay lại</string>
     <string name="power_center_auto_shutdown">Hẹn giờ tắt/mở máy</string>
     <string name="power_center_ontime_boot">Thời gian mở</string>
     <string name="power_center_time_to_boot">Thời gian mở</string>
@@ -978,6 +1054,7 @@ thiết bị của bạn"</string>
     <string name="usage_type_data_send">Dữ liệu di động đã gửi</string>
     <string name="usage_type_no_coverage">Thời gian không có tín hiệu</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="power_screen">Màn hình</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -998,7 +1075,7 @@ thiết bị của bạn"</string>
     <string name="battery_history_seconds">%1$d giây</string>
     <string name="delete">Xóa</string>
     <string name="every_day">Mỗi ngày</string>
-    <string name="legal_workday">Ngày lễ</string>
+    <string name="legal_workday">Ngày làm việc</string>
     <string name="never">1 lần</string>
     <string name="power_20s_shutdown">Thiết bị sẽ tắt nguồn trong %d giây</string>
     <string name="boot_reminder">Hẹn giờ mở máy</string>
@@ -1062,7 +1139,7 @@ thiết bị của bạn"</string>
     <string name="battery_estimate_charge_time_title">Thời gian sạc</string>
     <string name="battery_temperature_title">Nhiệt độ</string>
     <string name="battery_capacity_title">Dung lượng pin</string>
-    <string name="battery_charge_full">Đã sạc</string>
+    <string name="battery_charge_full">Sạc đầy</string>
     <string name="battery_charge_estimating">Đang tính…</string>
     <string name="battery_charging_prompt">Đang sạc</string>
     <string name="deep_save_memory_clean_summary">Xóa bộ nhớ đệm khi bạn khóa thiết bị để hạn chế ứng dụng sử dụng pin</string>
@@ -1171,6 +1248,17 @@ thiết bị của bạn"</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">Nhiệm vụ tự động mới</string>
+    <string name="extreme_power_save_mode_title">Siêu tiết kiệm pin</string>
+    <string name="extreme_power_save_mode_summary">Siêu tiết kiệm pin hạn chế hoạt động nền, dừng đồng bộ và giảm hiển thị màu sắc.</string>
+    <string name="extreme_power_save_description"><li>Siêu tiết kiệm pin dừng tất cả hoạt động nền của một ứng dụng sau khi bạn rời khỏi ứng dụng và quay lại Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật.</li>"
+"<li>Nếu bạn muốn ứng dụng chạy trong nền, hãy khóa ứng dụng đó trong phần Gần đây hoặc thêm ứng dụng vào nền ngoại lệ bên dưới. Có thể chạy lên đến 4 ứng dụng trong nền khi Siêu tiết kiệm pin được bật. </li>"
+"<li>Siêu tiết kiệm pin sẽ tắt NFC theo mặc định. Bạn có thể thay đổi điều này trong Cài đặt.</li>"
+"<li>Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng của thiết bị, Siêu tiết kiệm pin sẽ tự động tắt khi pin của bạn sạc được 30%.</li></string>
+    <string name="extreme_add_white_list_title">Nền ngoại lệ</string>
+    <string name="extreme_add_white_list_summary">Thêm lên đến 4 ứng dụng</string>
+    <string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
+    <string name="notification_exit_extreme_mode_title">Đã tắt Siêu tiết kiệm pin</string>
+    <string name="notification_exit_extreme_mode_text">Pin đã được sạc hơn %s</string>
     <string name="handle_bar_title_system">Hệ thống</string>
     <string name="apps_list_header_title_sms">Kiểm tra ứng dụng tin nhắn</string>
     <string name="apps_list_header_title_sms_access">Giới hạn truy cập vào mã xác minh</string>
@@ -1264,7 +1352,7 @@ thiết bị của bạn"</string>
     <string name="sp_background_risk_type_sign">Ứng dụng không chính thức đang chạy</string>
     <string name="sp_background_risk_type_root">Hệ thống đã bị root</string>
     <string name="resource_securitycenter_settings">Bảo mật</string>
-    <string name="keywords_securitycenter_settings">Sử dụng pin;Quản lý tự khởi chạy;Cài đặt qua USB;Quyền ứng dụng;Mua dữ liệu di động;Danh sách chặn;Sử dụng dữ liệu;Hiệu chỉnh gói dữ liệu;Kiểm tra mạng; Tiết kiệm pin;Quá nhiệt;Bật;Tắt;Pin;Hao pin;Vấn đề pin;Năng lượng;Tiết kiệm pin;Tiết kiệm năng lượng; Tự khởi chạy;Quyền;Tự khởi chạy MIUI;Tự khởi chạy Ứng dụng;Tự khởi chạy ứng dụng;Chuỗi tự khởi chạy;đã đưa vào chuỗi tự khởi chạy;đã kích hoạt tự khởi chạy; cài đặt USB;cài đặt từ máy tính;cài đặt ADB; Vị trí;Truy cập liên hệ; dữ liệu;dữ liệu di động;mua dữ liệu;nạp tiền dữ liệu;gói dữ liệu; Chặn;Danh sách đen;Danh sách chặn thông minh;Lừa đảo;Kinh doanh;Môi giới;Danh sách chặn cuộc gọi;Danh sách chặn tin nhắn;Danh sách chặn SMS;danh sách đen;danh sách chặn;lừa đảo;khóa liên hệ; Lưu lượng; Hiệu chỉnh; Kết nối;Internet;Kiểm tra; Sử dụng pin</string>
+    <string name="keywords_securitycenter_settings">Sử dụng pin;Quản lý tự khởi chạy;Cài đặt qua USB;Quyền ứng dụng;Mua dữ liệu di động;Danh sách chặn;Sử dụng dữ liệu;Hiệu chỉnh gói lưu lượng;Kiểm tra mạng; Tiết kiệm pin;Quá nóng;Bật;Tắt;Pin;Hao pin;Vấn đề pin;Năng lượng;Tiết kiệm pin;Tiết kiệm năng lượng;Tiết kiệm năng lượng;Tiết kiệm pin; Tự khởi chạy;Quyền;Tự khởi chạy;Tự khởi chạy MIUI;Tự khởi chạy Ứng dụng;Tự khởi chạy ứng dụng;Khởi chạy dây chuyền;khởi chạy dây chuyền;đã kích hoạt khởi chạy; cài đặt USB;cài đặt từ máy tính;cài đặt ADB; Vị trí;Truy cập liên hệ; dữ liệu;dữ liệu di động;mua dữ liệu;nạp tiền dữ liệu;gói lưu lượng; Chặn;Danh sách đen;Danh sách chặn thông minh;Lừa đảo;Bán hàng;Đại lý;Danh sách chặn cuộc gọi;Danh sách chặn tin nhắn;Danh sách chặn tin nhắn;Danh sách chặn SMS;danh sách đen;danh sách chặn;danh sách chặn;lừa đảo;chặn liên hệ;chặn liên hệ; Lưu lượng; Hiệu chỉnh; Kết nối;Internet;Kiểm tra; Sử dụng pin; Trò chơi;tăng tốc;Glory of king;Chế độ hiệu suất;Không làm phiền;DND</string>
     <string name="path_securitycenter_settings">Ứng dụng hệ thống/Bảo mật</string>
     <string name="resource_securitycenter">Bảo mật</string>
     <string name="keywords_securitycenter">Bảo mật;Kiểm tra;Quét</string>
@@ -1313,25 +1401,44 @@ thiết bị của bạn"</string>
     <string name="ok">OK</string>
     <string name="exit">Thoát</string>
     <string name="cancel">Hủy</string>
-    <string name="score_pts">%</string>
     <string name="btn_text_quick_cleanup">Dọn dẹp</string>
     <string name="btn_text_power_cleanup">Dọn dẹp sâu</string>
     <string name="btn_text_network_speed_detail">Kết nối</string>
     <string name="btn_text_quick_scan">Quét</string>
     <string name="menu_text_antivirus">Quét bảo mật</string>
+    <string name="menu_summary_antivirus">Quét virus trên thiết bị</string>
+    <string name="menu_summary_antivirus_2">Đã tìm thấy nguy cơ</string>
+    <string name="menu_summary_antivirus_3">Chưa quét thiết bị</string>
     <string name="menu_text_optimize_manage">Tăng tốc</string>
     <string name="menu_text_networkassistants">Sử dụng dữ liệu</string>
+    <string name="menu_summary_networkassistants">Quản lý kế hoạch dữ liệu của bạn</string>
+    <string name="menu_text_networkassistants_2">%s</string>
+    <string name="menu_summary_networkassistants_2">Vượt quá giới hạn</string>
+    <string name="menu_summary_networkassistants_3">Lưu lượng dữ liệu còn lại đầy đủ</string>
+    <string name="menu_summary_networkassistants_4">Sắp hết lưu lượng dữ liệu</string>
     <string name="menu_text_networkassistants_remain">Còn lại %s</string>
     <string name="menu_text_networkassistants_danger">Vượt quá %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">Danh sách chặn</string>
+    <string name="menu_summary_antispam">Chặn cuộc gọi và tin nhắn</string>
+    <string name="menu_summary_antispam_2">Đã chặn cuộc gọi và tin nhắn</string>
     <string name="menu_text_license_manager">Quyền</string>
     <string name="menu_text_garbage_cleanup">Trình dọn dẹp</string>
+    <string name="menu_summary_garbage_cleanup">Không tìm thấy rác</string>
+    <string name="menu_summary_garbage_cleanup_2">Kích thước rác</string>
+    <string name="menu_summary_garbage_cleanup_3">Dọn dẹp rác ngay</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Sử dụng pin</string>
-    <string name="menu_text_power_percent_title_default">Pin</string>
+    <string name="menu_summary_power_manager">Tiết kiệm pin giúp bạn kéo dài thời gian sử dụng</string>
+    <string name="menu_summary_power_manager_1">Pin đã được sạc đầy</string>
+    <string name="menu_summary_power_manager_2">Còn lại %s</string>
+    <string name="menu_summary_power_manager_3">Kết nối bộ sạc</string>
+    <string name="menu_summary_power_manager_4">%s đến khi đầy</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>
     <string name="examination_score_80_100">Một số mục có thể được tối ưu hóa</string>
@@ -1345,6 +1452,8 @@ thiết bị của bạn"</string>
     <string name="activity_title_license_manager">Quyền</string>
     <string name="activity_title_power_manager">Sử dụng pin</string>
     <string name="activity_title_garbage_cleanup">Trình dọn dẹp</string>
+    <string name="menu_summary_app_manager">Cập nhật và gỡ cài đặt ứng dụng</string>
+    <string name="menu_summary_app_manager_2">Cập nhật khả dụng</string>
     <string name="memory_check_content">Đã giải phóng %s</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
     <string name="activity_title_virus">Virus</string>
@@ -1389,6 +1498,7 @@ thiết bị của bạn"</string>
     <string name="item_mms">Lọc tin nhắn không mong muốn</string>
     <string name="item_dev_mode">Tùy chọn nhà phát triển</string>
     <string name="menu_item_about_title">Giới thiệu</string>
+    <string name="menu_item_about_privacy_title">Chính sách Riêng tư</string>
     <string name="menu_item_about_content">Phiên bản %s</string>
     <string name="menu_item_about_summary">Phiên bản %s</string>
     <string name="menu_item_shortcut_title">Quản lý các lối tắt</string>
@@ -1538,7 +1648,7 @@ thiết bị của bạn"</string>
     <string name="title_mifi_insurance">Gia hạn bảo hành</string>
     <string name="summary_mifi_insurance">Nhận gói đổi điện thoại miễn phí 1 năm trong trường hợp phần cứng bị hư hỏng</string>
     <string name="title_cloud_space_almost_full">Dung lượng lưu trữ đám mây gần đầy, nhiều mục có thể không được đồng bộ</string>
-    <string name="summary_cloud_space_almost_full">Thêm dung lượng lưu trữ</string>
+    <string name="summary_cloud_space_almost_full">Nhận dung lượng</string>
     <string name="title_cloud_space_full">Mi Cloud đã đầy</string>
     <string name="summary_cloud_space_full">Thêm dung lượng lưu trữ và tính năng mới</string>
     <string name="title_auto_update">Cập nhật tự động</string>
@@ -1560,6 +1670,9 @@ thiết bị của bạn"</string>
     <string name="toast_garbage_lib">Đã bật tự động cập nhật cho Trình dọn dẹp</string>
     <string name="title_app_lock_disable">Khóa ứng dụng</string>
     <string name="summary_app_lock_disable">Bảo vệ dữ liệu bằng Khóa ứng dụng</string>
+    <string name="title_first_aid_kit">Cấp cứu điện thoại</string>
+    <string name="summary_first_aid_kit">Sửa vấn đề bằng Hộp cấp cứu điện thoại</string>
+    <string name="button_first_aid_kit">Sửa ngay</string>
     <string name="info_and_call">Cuộc gọi và tin nhắn</string>
     <string name="SMS_and_MMS">SMS và MMS</string>
     <string name="permission_with_SMS_and_MMS">Quyền liên quan đến SMS và MMS</string>
@@ -1574,6 +1687,24 @@ thiết bị của bạn"</string>
     <string name="title_garbage_clean">Kích thước bộ nhớ đệm ứng dụng %s</string>
     <string name="summary_garbage_clean">Xóa bộ nhớ đệm để giải phóng dung lượng</string>
     <string name="summary_consume_power">Đã tìm thấy vấn đề quá nhiệt, điều này có thể ảnh hưởng đến tuổi thọ pin</string>
+    <string name="title_restrict_data_usage">%s không thể kết nối Internet?</string>
+    <string name="summary_restrict_data_usage">Bạn đã giới hạn việc sử dụng dữ liệu cho ứng dụng này.</string>
+    <string name="button_restrict_data_usage">Cho phép</string>
+    <string name="title_background_connection">Không thể sử dụng %s trong nền?</string>
+    <string name="summary_background_connection">Bạn đã giới hạn kết nối nền cho ứng dụng này.</string>
+    <string name="button_background_connection">Cho phép</string>
+    <string name="title_block_calls_from_cantacts">Cuộc gọi nhỡ từ liên hệ?</string>
+    <string name="summary_block_calls_from_cantacts">Cuộc gọi từ liên hệ bị chặn.</string>
+    <string name="button_block_calls_from_cantacts">Bỏ chặn</string>
+    <string name="title_block_calls_from_strangers">Bỏ lỡ cuộc gọi quan trọng?</string>
+    <string name="summary_block_calls_from_strangers">Cuộc gọi từ người lạ bị chặn.</string>
+    <string name="button_block_calls_from_strangers">Bỏ chặn</string>
+    <string name="title_do_not_disturb">Không thể nghe nhạc chuông của bạn?</string>
+    <string name="summary_do_not_disturb">Bạn đang sử dụng chế độ không làm phiền.</string>
+    <string name="button_do_not_disturb">Tắt</string>
+    <string name="title_eye_shield">Màu sắc màn hình không đúng?</string>
+    <string name="summary_eye_shield">Tắt chế độ Đọc để quay lại cài đặt mặc định.</string>
+    <string name="button_eye_shield">Tắt</string>
     <string name="summary_default_app">%s không được thiết lập như là một ứng dụng hệ thống mặc định</string>
     <string name="notification_summary_cmcc_app_check">Chạm để xem chi tiết.</string>
     <string name="title_cmcc_app_check">Xác minh không hoàn chỉnh</string>
@@ -1670,22 +1801,23 @@ thiết bị của bạn"</string>
     <string name="preferred_app_entries_gallery">Thư viện</string>
     <string name="preferred_app_entries_music">Nhạc</string>
     <string name="preferred_app_entries_email">Email</string>
-    <string name="card_main_applock_title">K.ứng dụng</string>
-    <string name="card_main_applock_summary">Bảo vệ tin nhắn, ảnh và các mục khác bằng mật khẩu.</string>
+    <string name="card_main_applock_title">Khóa ứng dụng</string>
+    <string name="card_main_applock_summary">Bảo vệ các ứng dụng đã chọn bằng mật khẩu.</string>
     <string name="card_main_applock_action">Bật</string>
     <string name="card_main_deepclean_title">Dọn dẹp sâu</string>
     <string name="card_main_deepclean_summary">Xóa tập tin không cần thiết</string>
     <string name="card_main_deepclean_action">Xóa</string>
-    <string name="card_main_deepclean_wechat_title">Khoá ứng dụng</string>
-    <string name="card_main_deepclean_wechat_summary">Bảo vệ các mục riêng tư với Khóa ứng dụng</string>
-    <string name="card_main_deepclean_wechat_action">Bật</string>
+    <string name="card_main_deepclean_wechat_title">Bộ nhớ đệm WeChat</string>
+    <string name="card_main_deepclean_wechat_summary">Xóa bộ nhớ đệm WeChat để giải phóng dung lượng</string>
+    <string name="card_main_deepclean_wechat_action">Dọn dẹp</string>
     <string name="card_main_sectool_title">Công cụ</string>
     <string name="card_main_monthreport_action">Xem</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Kiểm tra mạng</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
-    <string name="card_main_hbassistant_title">Cập nhật</string>
-    <string name="card_main_hbassistant_summary">Copyright NXT - TEAM MIUI.VN</string>
+    <string name="card_main_hbassistant_title">Trợ giúp lì xì</string>
+    <string name="card_main_hbassistant_summary">Sử dụng công cụ này để nhận lì xì nhanh hơn</string>
     <string name="card_main_deepclean_qq_title">Trình dọn dẹp QQ</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_80_100">Tối ưu</string>
@@ -1694,7 +1826,7 @@ thiết bị của bạn"</string>
     <string name="card_main_optimize_manage_title">Tăng tốc</string>
     <string name="card_main_optimize_manage_summary">Xóa bộ nhớ đệm để tăng tốc thiết bị</string>
     <string name="card_main_optimize_manage_action">Tăng tốc ngay</string>
-    <string name="card_main_private_space_title">K.gian thứ hai</string>
+    <string name="card_main_private_space_title">Không gian Thứ hai</string>
     <string name="card_main_private_space_summary">Sử dụng Không gian thứ hai giống như có hai thiết bị</string>
     <string name="card_main_private_space_action">Tạo</string>
     <string name="card_main_xspace_title">Ứng dụng kép</string>
@@ -1702,6 +1834,16 @@ thiết bị của bạn"</string>
     <string name="card_main_xspace_action">Tạo</string>
     <string name="card_main_overscroll_tips">Bảo mật bảo vệ an toàn tuyệt đối thiết bị của bạn</string>
     <string name="card_main_gamebooster_title">Tăng tốc trò chơi</string>
+    <string name="card_main_gamebooster_summary">Tăng ổn định kết nối để chơi game</string>
+    <string name="exit_dialog_scan_title">Tối ưu hiệu suất</string>
+    <string name="exit_dialog_scan_message">Điểm hiệu suất thiết bị thấp hơn 75 điểm. Tối ưu ngay?</string>
+    <string name="exit_dialog_scan_positive_button">Tối ưu</string>
+    <string name="exit_dialog_garbage_clean_title">Dọn dẹp rác</string>
+    <string name="exit_dialog_garbage_clean_message">Rác trên thiết bị của bạn đã hơn %s. Xóa rác?</string>
+    <string name="exit_dialog_garbage_clean_positive_button">Dọn dẹp</string>
+    <string name="exit_dialog_release_storage_title">Giải phóng dung lượng</string>
+    <string name="exit_dialog_release_storage_message">Hơn 80% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
+    <string name="exit_dialog_release_storage_positive_button">Giải phóng dung lượng</string>
     <string name="skin_change_close_toast">Thay đổi sẽ được áp dụng lần tới khi bạn khởi chạy Bảo mật</string>
     <string name="password_type">Thay đổi mật khẩu</string>
     <string name="password_type_underline"><u>Thay đổi mật khẩu</u></string>
@@ -1709,14 +1851,20 @@ thiết bị của bạn"</string>
     <string name="more_lock">Thêm</string>
     <string name="app_name">Khóa ứng dụng</string>
     <string name="back_app_name">Quay lại Khóa ứng dụng</string>
-    <string name="notification_item">Bảo vệ ứng dụng bằng Khóa ứng dụng</string>
+    <string name="ac_notification_contentTitle">Bảo vệ ứng dụng bằng Khóa ứng dụng</string>
+    <string name="ac_pre_notification_contentTitle">Thử Khóa ứng dụng</string>
+    <string name="ac_post_notification_contentTitle">Bật Khóa ứng dụng</string>
+    <string name="midrop_post_notification_contentTitle">Cần chuyển tập tin?</string>
     <string name="notification_masked_item">Ẩn thông báo</string>
     <string name="lock_mode_title">Cài đặt khóa</string>
     <string name="after_the_lock_screen">Khóa ứng dụng cùng với màn hình</string>
     <string name="set_applock_password">Thiết lập mật khẩu</string>
     <string name="ac_firstUseApplock_title">Đặt mật khẩu để bảo vệ ứng dụng</string>
     <string name="ac_firstUseApplock_subTitle">Tin cậy hơn với công cụ bảo mật cấp hệ thống</string>
-    <string name="notification_subtitle">Chạm để bật</string>
+    <string name="ac_notification_contentText">Chạm để bật</string>
+    <string name="ac_pre_notification_contentText">Bảo vệ thông tin cá nhân của bạn</string>
+    <string name="ac_post_notification_contentText">Nhận bảo vệ cấp hệ thống</string>
+    <string name="midrop_post_notification_contentText">Thử Mi Drop. Nhanh và không có quảng cáo.</string>
     <string name="notification_masked_subtitle">Ẩn thông báo từ các ứng dụng được bảo vệ bằng Khóa ứng dụng</string>
     <string name="ac_enter_applock">Vào Khóa ứng dụng</string>
     <string name="ac_mask_all_apps">Ẩn tất cả ứng dụng</string>
@@ -1725,6 +1873,8 @@ thiết bị của bạn"</string>
     <string name="ac_summaryOff">Đã tắt, không yêu cầu mật khẩu để mở ứng dụng</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
+    <string name="lockpattern_tutorial_continue_label_next">Chạm \"Tiếp theo\"</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Chạm \"OK\"</string>
     <string name="lockpattern_retry_button_text">Vẽ lại</string>
     <string name="numeric_retry_button_text">Hủy</string>
     <string name="mixed_retry_button_text">Hủy</string>
@@ -1734,7 +1884,7 @@ thiết bị của bạn"</string>
     <string name="back_modifypassword">Quay lại thay đổi mật khẩu</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
     <string name="notification_mask_title">Ẩn nội dung</string>
-    <string name="notification_mask_summary">Không hiển thị nội dung thông báo trên Màn hình khóa và Thanh thông báo</string>
+    <string name="notification_mask_summary">Ẩn nội dung thông báo trên Màn hình khóa và Thanh thông báo</string>
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
     <string name="suggest_app_tolock">Kiến nghị</string>
@@ -1797,6 +1947,12 @@ thiết bị của bạn"</string>
     <string name="confirm_fingerprint_msg">Xác minh vân tay của bạn</string>
     <string name="fingerprint_identify_msg">Bật mở khóa vân tay</string>
     <string name="fingerprint_not_identified_msg">Không thể đọc vân tay. Nhập mật khẩu của bạn</string>
+    <string name="fod_button_password">Nhập mật khẩu</string>
+    <string name="fod_button_finger">Sử dụng vân tay</string>
+    <string name="fod_finger_notice_title">Đặt ngón tay của bạn trên màn hình</string>
+    <string name="fod_finger_windows_tips">Xác minh vân tay của bạn</string>
+    <string name="fod_authentication_shift_button">Hủy</string>
+    <string name="fod_tips_split_screen_more_than_half">Nhập mật khẩu</string>
     <string name="lockscreen_access_pattern_start">Bắt đầu vẽ hình mở khóa</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
@@ -1810,7 +1966,7 @@ thiết bị của bạn"</string>
     <string name="applock_not_login_account">Bạn chưa đăng nhập</string>
     <string name="applock_bind_account_title">Quên mật khẩu</string>
     <string name="applock_close_dialog_title">Tắt Khóa ứng dụng?</string>
-    <string name="applock_close_dialog_summary">Ứng dụng sẽ không được bảo vệ và mật khẩu của bạn sẽ bị xóa sau khi bạn tắt Khóa ứng dụng.</string>
+    <string name="applock_close_dialog_summary">Tất cả ứng dụng ẩn sẽ được bỏ ẩn, lối tắt Màn hình chính của ứng dụng ẩn sẽ được khôi phục và mật khẩu Khóa ứng dụng của bạn sẽ bị xóa. Tắt Khóa ứng dụng?</string>
     <string name="applock_header_text_less_than_half">Quá nhỏ. Kéo to hơn.</string>
     <string name="quite_all_string">Hủy</string>
     <string name="delete_input">Xóa</string>
@@ -1825,6 +1981,9 @@ thiết bị của bạn"</string>
     <string name="set_pattern_password_name">Thiết lập hình mở khóa</string>
     <string name="set_numeric_password_name">Thiết lập mã PIN</string>
     <string name="set_mixed_password_name">Thiết lập mật khẩu</string>
+    <string name="reset_data_title">Không thể khôi phục mật khẩu</string>
+    <string name="reset_data_dialog_message">Thiết bị này chưa được liên kết với Tài khoản Mi của bạn. Không thể khôi phục hoặc đặt lại mật khẩu. Sao lưu tất cả các mục quan trọng và thực hiện đặt lại dữ liệu gốc. Tất cả dữ liệu sẽ bị xóa vĩnh viễn, thẻ SD của bạn sẽ được định dạng trong khi đặt lại dữ liệu gốc.</string>
+    <string name="reset_data_dialog_ok">Đặt lại dữ liệu gốc</string>
     <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
     <string name="unlike">Không, cảm ơn</string>
     <string name="toast_network_eror">Không thể kết nối mạng</string>
@@ -1898,12 +2057,12 @@ thiết bị của bạn"</string>
     <string name="sponsored_sec_fb">Tài trợ</string>
     <string name="add_game_notification_summary">Chạm để khởi chạy &amp; tăng tốc</string>
     <string name="app_manager_title">Quản lý ứng dụng</string>
-    <string name="app_manager_app_lock">K.ứng dụng</string>
+    <string name="app_manager_uninstall">Gỡ cài đặt</string>
     <string name="app_manager_bipartition">Ứng dụng kép</string>
     <string name="app_manager_perm">Quyền</string>
     <string name="app_manager_app_update">Cập nhật</string>
     <string name="app_manager_details_storage_title">Lưu trữ</string>
-    <string name="app_manager_details_traffic_title">Sử dụng dữ liệu tháng này</string>
+    <string name="app_manager_details_traffic_title">Sử dụng dữ liệu</string>
     <string name="app_manager_details_electric_title">Pin</string>
     <string name="app_manager_card_permission_title">Quyền</string>
     <string name="app_manager_permission_startself_title">Tự khởi chạy</string>
@@ -1929,8 +2088,8 @@ thiết bị của bạn"</string>
     <string name="app_usage_recently">Đã sử dụng gần đây</string>
     <string name="app_manager_have_not_consume">Không</string>
     <string name="app_manager_menu_clear_data">Xóa dữ liệu</string>
-    <string name="app_manager_clear_data_dlg_title">Xóa dữ liệu ứng dụng?</string>
-    <string name="app_manager_clear_data_dlg_message">Tất cả dữ liệu của ứng dụng này sẽ bị xóa vĩnh viễn. Bao gồm tất cả các tập tin, cài đặt, tài khoản, cơ sở dữ liệu, v.v...</string>
+    <string name="app_manager_clear_data_dlg_title">Xóa tất cả dữ liệu?</string>
+    <string name="app_manager_clear_data_dlg_message">Tất cả dữ liệu ứng dụng, bao gồm tập tin, cài đặt, tài khoản, cơ sở dữ liệu và bộ nhớ đệm sẽ bị xóa vĩnh viễn.</string>
     <string name="app_manager_clear_dlg_title">Xóa dữ liệu</string>
     <string name="app_manager_clear_failed_dlg_message">Không thể xóa dữ liệu ứng dụng.</string>
     <string name="app_manager_manage_space">Quản lý Không gian</string>
@@ -1971,10 +2130,10 @@ thiết bị của bạn"</string>
     <string name="app_manager_reset_app_preferences_title">Đặt lại tùy chọn ứng dụng?</string>
     <string name="app_manager_reset_app_preferences_desc">"Sẽ thiết lập lại tất cả thiết lập dưới đây:
 
- \""<li>Ứng dụng đã vô hiệu hóa</li>"\"
- \""<li>Thông báo ứng dụng đã vô hiệu hóa</li>"\"
- \""<li>Ứng dụng mặc đinh</li>"\"
- \""<li>Giới hạn dữ liệu nền ứng dụng</li>"\"
+ "<li>Ứng dụng đã vô hiệu hóa</li>"
+ "<li>Thông báo ứng dụng đã vô hiệu hóa</li>"
+ "<li>Ứng dụng mặc đinh</li>"
+ "<li>Giới hạn dữ liệu nền ứng dụng</li>"
 
  Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_manager_reset_app_preferences_button">Đặt lại ứng dụng</string>
@@ -2005,14 +2164,14 @@ thiết bị của bạn"</string>
     <string name="app_manager_cache_size">Bộ nhớ đệm</string>
     <string name="app_manager_clear_all_data">Xóa tất cả dữ liệu</string>
     <string name="app_manager_dlg_clear_cache_title">Xóa bộ nhớ đệm?</string>
-    <string name="app_manager_support_uninstall">Bạn có thể gỡ cài đặt các ứng dụng này</string>
-    <string name="app_manager_not_support_uninstall">Không thể gỡ cài đặt ứng dụng này</string>
-    <string name="app_manager_comuting_size">Đang tính toán…</string>
+    <string name="app_manager_comuting_size">Đang tính…</string>
     <string name="app_manager_show_all_apps_opened">Đang hiển thị kết quả từ tất cả các ứng dụng…</string>
     <string name="app_manager_search_prompt">Không tìm thấy kết quả? Thử hiển thị kết quả từ tất cả các ứng dụng.</string>
     <string name="app_manager_open_show_all_apps_immediate">Hiển thị tất cả kết quả</string>
     <string name="app_manager_mobile_slot1">Dữ liệu di động (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Dữ liệu di động (SIM 2)</string>
+    <string name="app_manager_details_title">Thông tin ứng dụng</string>
+    <string name="manage_hybrid_permissions">Quản lý quyền ứng dụng</string>
     <string name="ad_btn_default_text">Tìm hiểu thêm</string>
     <string name="open_activity_err">Không tìm thấy ứng dụng này</string>
     <string name="low_memory_warning_dialog_title">Không đủ dung lượng trống</string>
@@ -2034,10 +2193,12 @@ thiết bị của bạn"</string>
     <string name="gs_anto_clean_memory_whitelist">Danh sách ngoại lệ</string>
     <string name="gs_call_handsfree">Trả lời cuộc gọi rảnh tay</string>
     <string name="gs_call_handsfree_mute">Chế độ im lặng</string>
+    <string name="gs_gamebox">Lối tắt trong trò chơi</string>
+    <string name="gs_gamebox_detail">Hiển thị điều khiển lối tắt trong trò chơi</string>
     <string name="gs_forbid_autosync">Hạn chế đồng bộ nền</string>
     <string name="gs_app_back_self_start">Tiết kiệm Pin</string>
     <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để tiết kiệm pin cho trò chơi</string>
-    <string name="gs_game_shortcut">Tận hưởng trải nghiệm game mượt mà</string>
+    <string name="gs_game_shortcut">Cải thiện trải nghiệm chơi game</string>
     <string name="gs_game_net_priority">Ưu tiên kết nối</string>
     <string name="gs_game_net_priority_detail">Giới hạn tốc độ tải xuống để có đủ băng thông cho trò chơi</string>
     <string name="gs_performance_mode">Chế độ hiệu suất</string>
@@ -2065,29 +2226,17 @@ thiết bị của bạn"</string>
     <string name="no_game">Không tìm thấy trò chơi</string>
     <string name="gamebooster_network_dialog_title">Vài tính năng không khả dụng</string>
     <string name="gamebooster_network_dialog_message">Cho phép Bảo mật kết nối mạng để sử dụng tất cả tính năng Tăng tốc trò chơi?</string>
-    <string name="game_improve_title">Tối ưu hiệu suất</string>
-    <string name="game_net_title">Tối ưu tốc độ kết nối</string>
-    <string name="save_energy_title">Tối ưu Pin</string>
-    <string name="dont_bore_title">Chế độ Không làm phiền</string>
-    <string name="game_improve_text1">Dọn dẹp bộ nhớ đệm nền để giải phóng bộ nhớ khi chơi game</string>
-    <string name="game_improve_text2">Dọn dẹp bộ nhớ đệm nền để giải phóng bộ nhớ khi chơi game và cải thiện hiệu suất GPU</string>
-    <string name="game_net_text1">Giới hạn tốc độ tải xuống trong nền để giảm độ trễ mạng</string>
-    <string name="game_net_text2">Tăng tốc độ kết nối game đồng thời hạn chế tốc độ tải xuống nền để giảm độ trễ mạng</string>
-    <string name="save_energy_text">Chặn tự khởi chạy và đồng bộ ứng dụng chạy nền để kéo dài thời gian sử dụng pin</string>
-    <string name="dont_bore_text">Im lặng thông báo và tắt các phím để tránh bị phân tâm</string>
+    <string name="ask_create_shortcut">Tạo lối tắt Màn hình chính?</string>
     <string name="create_shortcut">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
-    <string name="intro_improve">Tăng tốc trải nghiệm chơi game cấp hệ thống</string>
     <string name="i_know">Tôi biết</string>
-    <string name="dialog_text">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
-    <string name="intro_skip">Bỏ qua</string>
     <string name="open_game">Mở</string>
     <string name="try_game">Chơi thử</string>
     <string name="more_game">Thêm trò chơi</string>
-    <string name="sys_title_gamebooster_unit_gb">G</string>
-    <string name="sys_title_gamebooster_unit_mb">M</string>
+    <string name="sys_title_gamebooster_unit_gb">GB</string>
+    <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="gmscore_support_service">Dịch vụ Google</string>
     <string name="gmscore_support_remind">Bật tính năng này nếu bạn gặp sự cố khi sử dụng Gmail, Google Map và các ứng dụng khác của Google. Điều này sẽ giảm nhẹ thời gian sử dụng pin.</string>
-    <string name="google_base_app_install_choice">\"%s\" yêu cầu Google Service Framework (Khung dịch vụ Google) để hoạt động bình thường. Tải xuống và cài đặt?</string>
+    <string name="google_base_app_install_choice">Ứng dụng yêu cầu Google Services Framework (Khung dịch vụ Google) để hoạt động bình thường. Tải xuống và cài đặt?</string>
     <string name="application_item_disable">Đã giới hạn</string>
     <string name="application_item_already_permission">Đã cho phép</string>
     <string name="man_add_application">Thêm ứng dụng tự khởi chạy thủ công</string>
@@ -2134,7 +2283,7 @@ thiết bị của bạn"</string>
     <string name="wifi_optizition_tip">Bật tăng tốc Wi-Fi để kết nối Wi-Fi ổn định hơn (sẽ sử dụng lượng nhỏ lưu lượng dữ liệu di động).</string>
     <string name="wifi_optizition_loading">Đang bật Tăng tốc mạng Xunyou…</string>
     <string name="free_send_net_booster">Tăng tốc mạng miễn phí</string>
-    <string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi game siêu mượt với Tăng tốc mạng miễn phí.</string>
+    <string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi game siêu mượt với tăng tốc mạng miễn phí.</string>
     <string name="free_send_net_booster_busniess">Nhận tăng tốc Xunlei miễn phí</string>
     <string name="free_send_net_booster_busniess_tip">Chạm để nhận</string>
     <string name="net_booster_overdue_notification">Tăng tốc mạng sắp hết hạn</string>
@@ -2164,7 +2313,127 @@ thiết bị của bạn"</string>
     <string name="gs_autobooster_detail">Tự động tăng tốc cho các trò chơi đã chọn</string>
     <string name="gs_autobooster_dialog_message">Nếu bạn đang sử dụng tăng tốc Xunyou, hãy mở trò chơi trên trang được chỉ định.</string>
     <string name="accessibility_gameboosterservice_description">Bật để im lặng cuộc gọi đến WeChat khi bạn đang chơi game</string>
+    <string name="gb_cutoff">|</string>
+    <string name="gb_ad_game_size">MB</string>
     <string name="gb_new_feature">Tính năng mới</string>
+    <string name="gb_sign_notification_title">Tăng tốc mạng để chơi game</string>
+    <string name="gb_sign_notification_summary">Check in hàng ngày để nhận tăng tốc Xunyou</string>
+    <string name="gs_sign_notification">Nhắc nhở check in vào 20:00 hàng ngày</string>
+    <string name="gb_sign_gift">Check in để nhận phần thưởng</string>
+    <string name="signed_rule">Quy tắc</string>
+    <string name="signed_rule_one">1. Check in 10, 20, hoặc 28 ngày liên tục mỗi tháng để nhận được tăng tốc Xunyou 1, 2, 3 ngày tương ứng.</string>
+    <string name="signed_rule_two">2. Bạn chỉ có thể nhận được 1 lần tăng tốc Xunyou mỗi tháng.</string>
+    <string name="signed_rule_three">3. Khi bạn không check in vào ngày bắt đầu mỗi tháng. Các ngày còn lại sẽ không được tính.</string>
+    <string name="gb_get_gift_right_now">Check in ngay</string>
+    <string name="gb_have_signed">Đã check in hôm nay</string>
+    <string name="gb_sign_gift_button_text">Nhận</string>
+    <string name="gb_xunyou_gift_type_one">Tăng tốc Xunyou 1 ngày</string>
+    <string name="gb_xunyou_gift_type_two">Tăng tốc Xunyou 2 ngày</string>
+    <string name="gb_xunyou_gift_type_three">Tăng tốc Xunyou 3 ngày</string>
+    <string name="gb_signed_title">Đã check in tháng này</string>
+    <string name="gb_network_status_bad">Lỗi kết nối.</string>
+    <string name="gs_open_game_booster_summary">Tăng tốc mạng để chơi game</string>
+    <string name="gb_signed_gift_loading_summary">Vui lòng chờ…</string>
+    <string name="gb_signed_gift_loading_fail">Không tải được</string>
+    <string name="gb_msg_completely_shielded">Ẩn tin nhắn</string>
+    <string name="gb_msg_quickly_answer">Cho phép trả lời nhanh</string>
+    <string name="gb_msg_transparent_dispaly">Thông báo với nền trong suốt</string>
+    <string name="gb_msg_completely_shielded_summary">Ẩn</string>
+    <string name="gb_msg_not_shielded_summary">Hiển thị</string>
+    <string name="gb_msg_quickly_answer_summary">Trả lời nhanh</string>
+    <string name="gb_msg_transparent_dispaly_summary">Trong suốt</string>
+    <string name="exit_dialog_homepage_optimise_message">Điểm hiệu suất thiết bị thấp hơn 80 điểm. Tối ưu ngay?</string>
+    <string name="screenrecord_not_find">Cài đặt phiên bản mới nhất Quay phim Màn hình và thử lại.</string>
+    <string name="gamebox_qq_not_find">Cài đặt QQ và thử lại.</string>
+    <string name="gamebox_wechat_not_find">Cài đặt WeChat và thử lại.</string>
+    <string name="gamebox_type_close">Không hiển thị</string>
+    <string name="gamebox_type_float">Lối tắt cố định</string>
+    <string name="gamebox_type_gesture">Trượt để hiển thị</string>
+    <string name="gb_first_window_title">Tăng tốc trò chơi</string>
+    <string name="gb_first_window_summary">Tăng tốc và hiệu suất cấp hệ thống</string>
+    <string name="gb_first_window_gamebox_summary_four">Sử dụng trả lời nhanh, quay màn hình và ảnh chụp màn hình</string>
+    <string name="gb_first_window_gamebox_summary_six">Xóa bộ nhớ đệm, quay màn hình và ảnh chụp màn hình</string>
+    <string name="gb_first_window_handsfree_title">Cuộc gọi rảnh tay</string>
+    <string name="gb_first_window_handsfree_summary">Bật loa tự động</string>
+    <string name="gb_first_window_antimsg_title">Thông báo tiện lợi</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Sử dụng trả lời nhanh</string>
+    <string name="gb_first_window_antimsg_summary_transparent_show">Xem văn bản với nền trong suốt</string>
+    <string name="gb_first_window_start">Bắt đầu chơi</string>
+    <string name="gb_create_icon_summary">Tạo lối tắt Màn hình chính</string>
+    <string name="title_reply">Bình luận</string>
+    <string name="title_like">Thích</string>
+    <string name="ellipsis">…</string>
+    <string name="game_video_net_data">Dữ liệu di động</string>
+    <string name="game_wid_viewpoint_buttom">Nghỉ ngơi chốc lát.</string>
+    <string name="video_repeat">Phát lại</string>
+    <string name="game_video_network_eror">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+    <string name="notify_channel_name_security">Bảo mật hệ thống</string>
+    <string name="privacy_apps_category_title">Ứng dụng ẩn</string>
+    <string name="privacy_apps">Ứng dụng ẩn</string>
+    <string name="privacy_apps_enable_summary">Di chuyển ứng dụng sang thư mục ẩn và xóa phím tắt Màn hình chính của ứng dụng</string>
+    <string name="privacy_apps_manage">Quản lý ứng dụng ẩn</string>
+    <string name="privacy_apps_tutorial">Hướng dẫn</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Khi bạn ẩn ứng dụng, ứng dụng sẽ được di chuyển vào thư mục ẩn. Lối tắt màn hình chính của ứng dụng cũng sẽ được ẩn.
+Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">Trượt hai ngón tay trên màn hình. Bạn sẽ nhìn thấy tin nhắn yêu cầu bạn nhập mật khẩu Khóa ứng dụng.</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">Sau khi bạn nhập mật khẩu, thư mục ứng dụng ẩn sẽ xuất hiện.</string>
+    <string name="privacy_apps_manage_dialog_title">Giới thiệu ứng dụng ẩn</string>
+    <string name="privacy_apps_manager_dialog_message">Ẩn các ứng dụng yêu cầu cài đặt Khóa màn hình ứng dụng của bạn. Thông báo ứng dụng ẩn sẽ bị tắt. Ẩn ứng dụng này?</string>
+    <string name="privacy_apps_checkbox_remind_choice">Không hiển thị lại</string>
+    <string name="privacy_apps_go_to_use">Bắt đầu</string>
+    <string name="privacy_apps_close">Đóng</string>
+    <string name="first_aid_stop_scan">Dừng quét</string>
+    <string name="first_aid_scanning_item1">Đang kiểm tra các vấn đề về hiệu suất…</string>
+    <string name="first_aid_scanning_item2">Đang kiểm tra các vấn đề về mạng…</string>
+    <string name="first_aid_scanning_item3">Đang kiểm tra các cài đặt không chính xác…</string>
+    <string name="first_aid_scanning_item4">Đang kiểm tra các vấn đề về Pin…</string>
+    <string name="first_aid_scanning_item5">Đang kiểm tra các vấn đề khác…</string>
+    <string name="first_aid_activity_title">Cấp cứu điện thoại</string>
+    <string name="first_aid_item1_content">Hiệu suất</string>
+    <string name="first_aid_item2_content">Mạng</string>
+    <string name="first_aid_item3_content">Cài đặt</string>
+    <string name="first_aid_item4_content">Pin</string>
+    <string name="first_aid_item5_content">Vấn đề khác</string>
+    <string name="first_aid_card_consume_power_title">Sử dụng pin</string>
+    <string name="first_aid_card_consume_power_summary1">Hơn 5 ứng dụng được phép tự khởi động. Hạn chế để tiết kiệm pin.</string>
+    <string name="first_aid_card_consume_power_button1">Hạn chế</string>
+    <string name="first_aid_card_consume_power_summary2">Tắt điểm phát sóng di động để tiết kiệm pin</string>
+    <string name="first_aid_card_consume_power_button2">Tắt</string>
+    <string name="first_aid_card_consume_power_summary3">Tắt Bluetooth để tiết kiệm pin</string>
+    <string name="first_aid_card_consume_power_button3">Tắt</string>
+    <string name="first_aid_card_consume_power_summary4">Tắt GPS để tiết kiệm pin</string>
+    <string name="first_aid_card_consume_power_button4">Tắt</string>
+    <string name="first_aid_card_system_root_title">Bạn đã cho phép truy cập root</string>
+    <string name="first_aid_card_system_root_summary">Hạn chế quyền truy cập root để ngăn chặn rủi ro bảo mật</string>
+    <string name="first_aid_card_system_root_button">Hạn chế</string>
+    <string name="first_aid_card_float_window_title">Bạn đã cho phép thông báo nổi</string>
+    <string name="first_aid_card_float_window_summary">%s có thể được hiển thị không chính xác. Hạn chế thông báo nổi.</string>
+    <string name="first_aid_card_float_window_button">Hạn chế</string>
+    <string name="first_aid_card_wifi_or_flow_title">Không thể kết nối Internet</string>
+    <string name="first_aid_card_wifi_or_flow_summary">Bật Wi-Fi hoặc dữ liệu di động để kết nối</string>
+    <string name="first_aid_card_wifi_or_flow_button">Kết nối</string>
+    <string name="first_aid_card_airplane_title">Không thể thực hiện cuộc gọi hoặc kết nối mạng</string>
+    <string name="first_aid_card_airplane_summary">Tắt Chế độ máy bay để có thể thực hiện cuộc gọi và kết nối mạng</string>
+    <string name="first_aid_card_airplane_button">Tắt</string>
+    <string name="first_aid_card_apn_title">Không thể kết nối mạng</string>
+    <string name="first_aid_card_apn_summary">APN đã được thay đổi. Sửa để có thể kết nối mạng.</string>
+    <string name="first_aid_card_apn_button">Sửa</string>
+    <string name="first_aid_card_unable_install_title">Không thể cài đặt ứng dụng</string>
+    <string name="first_aid_card_unable_install_summary">Chỉ có %s lưu trữ khả dụng. Giải phóng dung lượng để có thể cài đặt ứng dụng.</string>
+    <string name="first_aid_card_unable_install_button">Giải phóng dung lượng</string>
+    <string name="first_aid_result_summary_normal">Tất cả mọi thứ đều tốt!</string>
+    <string name="first_aid_result_feedback_title">Phản hồi</string>
+    <string name="first_aid_result_feedback_summary">Tôi không thể giải quyết vấn đề trên thiết bị của mình.</string>
+    <string name="first_aid_result_feedback_button">Gửi</string>
+    <string name="first_aid_card_kadun_title">Thiết bị chậm</string>
+    <string name="first_aid_card_kadun_summary1">Giải phóng dung lượng bộ nhớ để thiết bị của bạn hoạt động bình thường.</string>
+    <string name="first_aid_card_kadun_button1">Giải phóng dung lượng</string>
+    <string name="first_aid_card_kadun_summary2">Một số ứng dụng có quyền quản trị viên. Điều này có thể làm chậm thiết bị của bạn.</string>
+    <string name="first_aid_card_kadun_button2">Hạn chế</string>
+    <string name="first_aid_card_kadun_summary3">Quá nhiều tính năng truy cập đang hoạt động cùng một lúc. Điều này có thể làm chậm thiết bị của bạn.</string>
+    <string name="first_aid_card_kadun_button3">Tắt</string>
+    <string name="first_aid_dialog_title_stop_scan">Dừng quét</string>
+    <string name="first_aid_dialog_msg_stop_scan">Dừng quét ngay?</string>
     <string name="power_center_consume_rank">Sử dụng pin</string>
     <string name="power_center_custom_title">Chế độ pin</string>
     <string name="power_center_auto_shutdown_summary_default">Hẹn giờ tự động tắt mở máy</string>
@@ -2276,6 +2545,7 @@ thiết bị của bạn"</string>
     <string name="power_save_on_time_end_time_summary">Kết thúc</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Trong giai đoạn này chuyển sang</string>
+    <string name="power_save_on_time_option_summary">Khi kết thúc giai đoạn này, thiết bị sẽ chuyển đổi sang chế độ được sử dụng gần đây</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_total_software">Ứng dụng: %1$d%%</string>
     <string name="power_consume_total_hardware">Phần cứng: %1$d%%</string>
@@ -2310,99 +2580,4 @@ thiết bị của bạn"</string>
     <string name="shutdown_time_day">Tắt vào: %2$s sau %1$d ngày</string>
     <string name="shutdown_time_day_tomorrow">Tắt: %1$s ngày mai</string>
     <string name="shutdown_time">Tắt: %1$s</string>
-	<string name="dlg_update_date_title">Cảnh báo</string>
-    <string name="dlg_update_data_content">Bạn chưa kết nối Wi-Fi. Sử dụng dữ liệu di động có thể phát sinh phí bổ sung. Vẫn tiếp tục?</string>
-    <string name="dlg_sec_network_unavailable">Ứng dụng Bảo mật không thể cập nhật bởi vì bạn đã hạn chế kết nối internet. Cho phép Bảo mật kết nối internet?</string>
-    <string name="dlg_update_btn_contiue">Tiếp tục</string>
-    <string name="dlg_update_btn_open">Cho phép</string>
-    <string name="dlg_update_updating">Đang cập nhật…</string>
-    <string name="toast_update_nonetwork">Không thể kết nối mạng</string>
-    <string name="toast_update_fail">Không thể cập nhật</string>
-    <string name="toast_update_success">Đã cập nhật thành công</string>
-    <string name="toast_update_notneed">Đã cập nhật</string>
-	<string name="sms_smart_engine_update_now">Cập nhật</string>
-	<string name="adjust_sms_cmd"><u>Điều chỉnh mẫu SMS hiệu chỉnh</u></string>
-    <string name="sms_detail_correct_success_text">Thống kê sử dụng dữ liệu từ hiệu chỉnh trước (%1$s):</string>
-    <string name="tc_send_sms_error">Không thể gửi SMS</string>
-    <string name="tc_cmd_invalid">Mẫu không hợp lệ</string>
-    <string name="tc_receive_timeout">Hiệu chỉnh hết giờ</string>
-    <string name="tc_parse_error">Không thể phân tích SMS</string>
-    <string name="tc_get_cmd_error">Không thể nhận mẫu</string>
-    <string name="tc_web_correct_error">Hiệu chỉnh thất bại</string>
-	<string name="dialog_restrict_all_wlan_title">Hạn chế kết nối Wi-Fi</string>
-    <string name="dialog_restrict_all_wlan_summary">Kết nối Wi-Fi tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
-    <string name="dialog_restrict_all_mobile_title">Hạn chế kết nối dữ liệu di động %s</string>
-    <string name="dialog_restrict_all_mobile_summary">%s Kết nối dữ liệu di động tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
-    <string name="dialog_restrict_positive">Hủy</string>
-    <string name="dialog_restrict_negative">Hạn chế</string>
-	<string name="managed_user_title">Tất cả ứng dụng hoạt động</string>
-	<string name="data_usage_protected_notify_title">Bạn đã sử dụng 5GB dữ liệu di động</string>
-    <string name="data_usage_protected_notify_message">MIUI đã tắt dữ liệu di động để chặn phát sinh phí từ nhà cung cấp.</string>
-    <string name="data_usage_mobile_dialog_title">Bạn đã sử dụng 5GB dữ liệu di động. MIUI đã tắt dữ liệu di động.</string>
-    <string name="data_usage_protected_dialog_message">"MIUI đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
-
-Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
-    <string name="dialog_roaming_warning_message">Nhà mạng sẽ tính thêm phí sau khi bạn bật chuyển vùng dữ liệu quốc tế. Vẫn bật?</string>
-    <string name="dialog_roaming_warning_checkbox">Không hiển thị lại</string>
-    <string name="dialog_roaming_warning_ok">Bật</string>
-	<string name="network_changed_noti_title">Đã ngắt kết nối Wi-Fi</string>
-    <string name="network_changed_noti_summary">Đang dùng dữ liệu di động</string>
-	<string name="menu_setting_traffic">Thiết lập thủ công</string>
-	<string name="title_restrict_data_usage">%s không thể kết nối Internet?</string>
-    <string name="summary_restrict_data_usage">Bạn đã giới hạn việc sử dụng dữ liệu cho ứng dụng này. Chạm để sửa.</string>
-    <string name="title_background_connection">Không thể sử dụng %s trong nền?</string>
-    <string name="summary_background_connection">Bạn đã giới hạn kết nối nền cho ứng dụng này. Chạm để sửa.</string>
-    <string name="title_block_calls_from_cantacts">Cuộc gọi nhỡ từ liên hệ?</string>
-    <string name="summary_block_calls_from_cantacts">Bạn đang sử dụng danh sách chặn. Chạm để sửa.</string>
-    <string name="title_block_calls_from_strangers">Bỏ lỡ cuộc gọi quan trọng?</string>
-    <string name="summary_block_calls_from_strangers">Bạn chỉ cho phép cuộc gọi từ liên hệ. Chạm để sửa.</string>
-    <string name="title_do_not_disturb">Không thể nghe nhạc chuông của bạn?</string>
-    <string name="summary_do_not_disturb">Bạn đang sử dụng chế độ không làm phiền. Chạm để sửa.</string>
-    <string name="title_eye_shield">Màu sắc màn hình không đúng?</string>
-    <string name="summary_eye_shield">Bạn đang sử dụng Chế độ đọc. Chạm để sửa.</string>
-    <string name="dialog_button_ignore">Bỏ qua</string>
-    <string name="dialog_button_yes">Đồng ý</string>
-	<string name="exit_dialog_scan_title">Tối ưu hiệu suất</string>
-    <string name="exit_dialog_scan_message">Điểm hiệu suất thiết bị thấp hơn 75 điểm. Tối ưu ngay?</string>
-    <string name="exit_dialog_scan_positive_button">Tối ưu</string>
-    <string name="exit_dialog_garbage_clean_title">Dọn dẹp rác</string>
-    <string name="exit_dialog_garbage_clean_message">Rác trên thiết bị của bạn đã hơn %s. Xóa rác?</string>
-    <string name="exit_dialog_garbage_clean_positive_button">Dọn dẹp</string>
-    <string name="exit_dialog_release_storage_title">Giải phóng dung lượng</string>
-    <string name="exit_dialog_release_storage_message">Hơn 80% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
-    <string name="exit_dialog_release_storage_positive_button">Giải phóng dung lượng</string>
-	<string name="ac_pre_notification_contentTitle">Thử Khóa ứng dụng</string>
-    <string name="ac_post_notification_contentTitle">Bật Khóa ứng dụng</string>
-	<string name="ac_pre_notification_contentText">Bảo vệ thông tin cá nhân của bạn</string>
-    <string name="ac_post_notification_contentText">Nhận bảo vệ cấp hệ thống</string>
-	<string name="lockpattern_tutorial_continue_label_next">Chạm \"Tiếp theo\"</string>
-    <string name="lockpattern_tutorial_continue_label_confirm">Chạm \"OK\"</string>
-	<string name="app_manager_uninstall">Gỡ cài đặt</string>
-	<string name="gb_sign_notification_title">Tăng tốc mạng để chơi game</string>
-    <string name="gb_sign_notification_summary">Check in hàng ngày để nhận tăng tốc Xunyou</string>
-    <string name="gs_sign_notification">Nhắc nhở check in vào 20:00 hàng ngày</string>
-    <string name="gb_sign_gift">Check in để nhận phần thưởng</string>
-    <string name="signed_rule">Quy tắc</string>
-    <string name="signed_rule_one">1. Check in 10, 20, hoặc 28 ngày liên tục mỗi tháng để nhận được tăng tốc Xunyou 1, 2, 3 ngày tương ứng.</string>
-    <string name="signed_rule_two">2. Bạn chỉ có thể nhận được 1 tăng tốc Xunyou mỗi tháng.</string>
-    <string name="signed_rule_three">3. Khi bạn không check in vào ngày bắt đầu mỗi tháng. Các ngày còn lại sẽ không được gia hạn.</string>
-    <string name="gb_get_gift_right_now">Check in ngay</string>
-    <string name="gb_have_signed">Đã check in hôm nay</string>
-    <string name="gb_sign_gift_button_text">Nhận</string>
-    <string name="gb_xunyou_gift_type_one">Tăng tốc Xunyou 1 ngày</string>
-    <string name="gb_xunyou_gift_type_two">Tăng tốc Xunyou 2 ngày</string>
-    <string name="gb_xunyou_gift_type_three">Tăng tốc Xunyou 3 ngày</string>
-    <string name="gb_signed_title">Đã check in tháng này</string>
-    <string name="gb_network_status_bad">Lỗi kết nối.</string>
-    <string name="gs_open_game_booster_summary">Tăng tốc mạng để chơi game</string>
-    <string name="gb_signed_gift_loading_summary">Vui lòng chờ…</string>
-    <string name="gb_signed_gift_loading_fail">Không tải được</string>
-    <string name="gb_msg_completely_shielded">Ẩn tin nhắn</string>
-    <string name="gb_msg_quickly_answer">Cho phép trả lời nhanh</string>
-    <string name="gb_msg_transparent_dispaly">Thông báo với nền trong suốt</string>
-    <string name="gb_msg_completely_shielded_summary">Ẩn</string>
-    <string name="gb_msg_quickly_answer_summary">Trả lời nhanh</string>
-    <string name="gb_msg_transparent_dispaly_summary">Trong suốt</string>
-    <string name="exit_dialog_homepage_optimise_message">Điểm hiệu suất thiết bị thấp hơn 80 điểm. Tối ưu ngay?</string>
-	<string name="power_save_on_time_option_summary">Khi kết thúc giai đoạn này, thiết bị sẽ chuyển đổi sang chế độ được sử dụng gần đây</string>
 </resources>
