@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="xiaomi_update_dialog_title">Tìm thấy phiên bản mới</string>
+    <string name="xiaomi_update_dialog_title">Tìm thấy phiên bản mới!</string>
     <string name="xiaomi_update_dialog_message">"Giới thiệu phiên bản %1$s
 Kích thước: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Giới thiệu phiên bản %1$s
@@ -15,8 +15,8 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="button_cancel">Hủy</string>
     <string name="button_send">Gửi</string>
     <string name="backup_empty">Không có bản sao lưu nào.</string>
-    <string name="data_detail_description">Chi tiết</string>
-    <string name="comma_seperator">", "</string>
+    <string name="backup_items_sysdata_tailer">" tập tin dữ liệu hệ thống,"</string>
+    <string name="backup_items_app_tailer">" tập tin dữ liệu ứng dụng"</string>
     <string name="backup_failed">Không thể sao lưu</string>
     <string name="sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="backup_progress">Đang sao lưu…</string>
@@ -29,8 +29,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="delete_backup_title">Xóa sao lưu</string>
     <string name="delete">Xóa</string>
     <string name="cancel">Hủy</string>
-    <string name="reconnect">Kết nối lại</string>
-    <string name="pause">Tạm dừng</string>
     <string name="delete_backup_process">Đang xóa…</string>
     <string name="backup_error">Không thể sao lưu</string>
     <string name="delete_failed_backup_confirm">Bản sao lưu này có lỗi.</string>
@@ -38,6 +36,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="start_restore">Khôi phục</string>
     <string name="backup_file_error">Không thể sao lưu</string>
     <string name="unit_byte">B</string>
+    <string name="unit_piece">" mục"</string>
     <string name="restore_finished">Khôi phục thành công</string>
     <string name="restore_report">Chi tiết khôi phục</string>
     <string name="restore_progress">Đang khôi phục…</string>
@@ -46,7 +45,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="restore_launcher_layout_hit">Khôi phục cài đặt trình khởi chạy</string>
     <string name="settings_summary">Cài đặt điện thoại và tin nhắn</string>
     <string name="camera_summary">Cài đặt Máy ảnh (không bao gồm ảnh)</string>
-    <string name="account_summary">Sao lưu Tài khoản Google, Tài khoản Mi, và dữ liệu người dùng khác</string>
+    <string name="account_summary">Sao lưu Tài khoản Google, Tài khoản Xiaomi và dữ liệu người dùng khác</string>
     <string name="cloud_app_name">Sao lưu lên MiCloud</string>
     <string name="cloud_home_title">MiCloud</string>
     <string name="prompt_reading">Đang đọc…</string>
@@ -94,7 +93,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="task_stopped_exception">Đã hủy khôi phục</string>
     <string name="sdcard_no_enough_space">Không đủ dung lượng</string>
     <string name="sdcard_no_enough_space_message">Không còn đủ dung lượng lưu trữ trên thẻ SD của bạn.</string>
-    <string name="data_no_enough_space_message">Không đủ dung lượng lưu trữ trên thiết bị của bạn.</string>
+    <string name="data_no_enough_space_message">Không đủ dung lượng trống trên bộ nhớ trong thiết bị.</string>
     <string name="task_running_hint">Dịch vụ này đang được chạy trong nền</string>
     <string name="task_running_dialog">Sao lưu và khôi phục đang được tiến hành. Bấm OK để xem.</string>
     <string name="task_running_backup_hint">Nhiệm vụ này đang được chạy trong nền</string>
@@ -126,7 +125,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="button_finish">Hoàn tất</string>
     <string name="progress_backup_hint">Đang sao lưu…</string>
     <string name="cancel_backup">Hủy sao lưu</string>
-    <string name="cancel_restore">Hủy khôi phục</string>
+    <string name="cancel_restore">Dừng</string>
     <string name="restore_contact">Khôi phục liên hệ</string>
     <string name="restore_contact_content">Khôi phục có thể dẫn đến các liên hệ bị trùng.</string>
     <string name="progress_restore_hint">Đang khôi phục…</string>
@@ -136,7 +135,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="local_select_account_contact">Tài khoản &amp; liên hệ</string>
     <string name="local_select_files">Thẻ SD</string>
     <string name="local_select_image">Ảnh</string>
-    <string name="local_select_audio">Tập tin âm thanh</string>
+    <string name="local_select_audio">Âm thanh</string>
     <string name="local_select_video">Video</string>
     <string name="local_select_doc">Tài liệu</string>
     <string name="data_item_desc">Dữ liệu</string>
@@ -164,7 +163,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -172,6 +171,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="reverse_all">Xóa hết</string>
     <string name="refresh">Làm mới</string>
     <string name="cloud_item_info_summary">" (Trên máy: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="total_num">%d mục,</string>
     <string name="cloud_restore_guide">Để khôi phục dữ liệu người dùng cho %s, chạm Khôi phục</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Cài ứng dụng Mi Talk và đăng nhập.
 \u0009http://www.miliao.com
@@ -194,9 +194,9 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="enable_encrypt_summery1">Đăng nhập bằng Tài khoản Mi của bạn để truy cập vào sao lưu được mã hóa.</string>
     <string name="enable_encrypt_summery2">Sao lưu của bạn sẽ được mã hóa tự động. Bạn cần phải đăng nhập vào Tài khoản Mi của bạn để truy cập chúng.</string>
     <string name="enable_encrypt_xiaomi_account">Bản sao lưu này được tạo bởi %1$s. Để khôi phục, hãy xóa tài khoản hiện tại và đăng nhập vào tài khoản %2$s.</string>
-    <string name="button_got_it">OK</string>
+    <string name="enable_encrypt_ok">OK</string>
     <string name="no_encrypt_password">Không có mật khẩu</string>
-    <string name="enable_encrypt_fail">Lỗi mã hóa</string>
+    <string name="enable_encrypt_fail">Mã hóa thất bại</string>
     <string name="read_encrypt_fail">Đọc sao lưu đã được mã hóa thất bại</string>
     <string name="exchange_account">Chuyển đổi tài khoản</string>
     <string name="system_backup">Sao lưu</string>
@@ -205,7 +205,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="system_backup_info">Cài đặt hệ thống và bố trí Màn hình chính</string>
     <string name="software_backup_info">Dữ liệu ứng dụng</string>
     <string name="account_contact_backup_info">Dữ liệu Tài khoản Google, Tài khoản Mi và Liên hệ</string>
-    <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng...)</string>
+    <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng…)</string>
     <string name="select_backup_item">Chọn mục sao lưu</string>
     <string name="restore_data">Chọn mục để khôi phục</string>
     <string name="backup_data">Chọn mục để sao lưu</string>
@@ -223,15 +223,16 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="file_uploading">Đang tải lên…</string>
     <string name="new_backup">Sao lưu</string>
     <string name="restore_backup">Khôi phục</string>
+<<<<<<< HEAD
     <string name="enable_encrypt_description">Mã hóa</string>
     <string name="disable_encrypt_description">Không mã hóa</string>
+=======
+>>>>>>> parent of 8e09ec3... Full Update
     <string name="state_waiting">Vui lòng chờ…</string>
     <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
     <string name="abort_restore_confirm">Khôi phục chưa hoàn tất. Vẫn dừng lại?</string>
     <string name="feature_title_call_log">Lịch sử cuộc gọi</string>
-    <string name="feature_title_contacts">Liên hệ</string>
-    <string name="feature_title_sms">Tin nhắn</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Tài khoản Mi</string>
     <string name="feature_title_antispam">Danh sách chặn</string>
@@ -239,7 +240,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="summary_err_restore_encrypting">Không thể khôi phục. Đảm bảo bản sao lưu này được tạo ra bằng Tài khoản Mi của bạn.</string>
     <string name="summary_err_backup_no_network">Không thể kết nối mạng</string>
     <string name="summary_err_restore_no_network">Không thể kết nối mạng</string>
-    <string name="err_authentication_failed">Không thể xác thực</string>
+    <string name="err_authentication_failed">Xác thực thất bại</string>
     <string name="err_low_storage">Không đủ dung lượng</string>
     <string name="err_unknown">Lỗi không xác định</string>
     <string name="err_version_too_old">Tập tin sao lưu quá cũ.</string>
@@ -248,12 +249,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="err_filesystem_mount">Không thể truy cập bộ nhớ bộ định tuyến</string>
     <string name="err_router_disconnected">Kiểm tra kết nối bộ định tuyến và thử lại.</string>
     <string name="err_router_files_delete">Không thể xóa tập tin sao lưu trên bộ định tuyến</string>
-    <string name="err_acquire_system_service">Không thể bắt đầu dịch vụ hệ thống.</string>
-    <string name="err_not_allow">Không hỗ trợ</string>
-    <string name="err_bakfile_not_exist">Tập tin sao lưu không tồn tại.</string>
-    <string name="err_pkg_not_exist">Không tìm thấy ứng dụng.</string>
-    <string name="err_user_abort">Đã hủy bởi người dùng.</string>
-    <string name="err_binder_died">Ứng dụng đã dừng đột ngột.</string>
     <string name="backup_is_running">Đang sao lưu thiết bị</string>
     <string name="restore_is_running">Đang khôi phục thiết bị</string>
     <string name="notif_backup_title">Sao lưu dữ liệu</string>
@@ -266,21 +261,18 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="notif_trans_receiving_completed">Dữ liệu đã nhận thành công</string>
     <string name="notif_trans_sending_failed">Không thể gửi dữ liệu</string>
     <string name="notif_trans_receiving_failed">Không thể nhận dữ liệu</string>
-    <string name="notif_trans_wait_for_reconnecting">Kết nối đã bị gián đoạn. Kết nối lại.</string>
-    <string name="notif_trans_auto_reconnecting_title">Kết nối đã bị gián đoạn. Đang kết nối lại tự động…</string>
-    <string name="notif_trans_auto_reconnecting_content">Bạn có thể hủy tác vụ hiện tại nếu cần.</string>
+    <string name="custom_progress">%d mục</string>
     <string name="remote_receive">Nhận</string>
     <string name="click_to_view">Chạm để xem</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">Chuyển danh bạ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đặt... đến thiết bị mới</string>
+    <string name="trans_main_tutor">Chuyển danh bạ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đặt… đến thiết bị mới</string>
     <string name="trans_sender">Tôi là người gửi</string>
     <string name="trans_receiver">Tôi là người nhận</string>
     <string name="trans_waiting_for_sender">Đang chờ thiết bị cũ kết nối…</string>
-    <string name="trans_waiting_ensurance">"Hãy chắc chắn đã mở thiết bị cũ
-và Mi Mover"</string>
+    <string name="trans_waiting_ensurance">Hãy chắc chắn đã mở thiết bị cũ và Mi Mover</string>
     <string name="trans_my_device">Thiết bị của tôi</string>
     <string name="trans_sender_searching">Tìm kiếm thiết bị mới</string>
-    <string name="trans_sender_searching_ensurance">"Hãy đảm bảm thiết bị cũ bật
+    <string name="trans_sender_searching_ensurance">"Hãy chắc chắn đã mở thiết bị cũ.
 Đang chờ thiết bị cũ kết nối…"</string>
     <string name="trans_select_device_send">Chọn một thiết bị để chuyển dữ liệu.</string>
     <string name="trans_sender_connectting">Xác nhận trên thiết bị mới</string>
@@ -288,19 +280,93 @@ và Mi Mover"</string>
     <string name="trans_backingup">Đang sao lưu…</string>
     <string name="trans_backingup_no_items">Đang đồng bộ…</string>
     <string name="trans_restoring">Đang khôi phục…</string>
-    <string name="trans_sender_time_remained">"Còn lại %s.
+    <string name="trans_sender_time_remained">"Còn lại %s. 
 Không tắt Wi-Fi.
 Giữ các thiết bị gần nhau."</string>
     <string name="trans_receiver_time_remained">"Còn lại %s.
 Không tắt Điểm phát sóng Wi-Fi.
 Giữ các thiết bị gần nhau."</string>
-    <string name="trans_time_spent">Thời gian đã dùng: %s</string>
-    <string name="trans_restoring_no_items">Đang nhận thông tin…</string>
-    <string name="trans_detail_category_sysdata">Dữ liệu hệ thống (bao gồm tin nhắn, liên hệ, và lịch sử cuộc gọi)</string>
+    <string name="trans_time_spent">"
+Thời gian đã dùng: %s"</string>
+    <string name="trans_restoring_no_items">Đang đồng bộ các mục</string>
+    <string name="trans_detail_category_sysdata">Dữ liệu hệ thống</string>
     <string name="trans_detail_category_userdata">Ứng dụng</string>
     <string name="trans_detail_category_account">Tài khoản và liên hệ</string>
     <string name="trans_detail_category_files">Tập tin</string>
-    <string name="trans_detail_category_audio_video_doc">Âm thanh, video, và tập tin</string>
+    <string name="trans_sending_completed">Gửi thành công</string>
+    <string name="trans_receiving_completed">Nhận thành công</string>
+    <string name="trans_time_format_second">Ít hơn một phút</string>
+    <string name="trans_progress_subdescript_transing_sender">Đang gửi %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transing_receiver">Đang nhận %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsd_sender">Đang gửi tập tin, %s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">Đang nhận tập tin, %s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">Đang gửi %1$s tập tin thẻ SD, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">Đang nhận %1$s tập tin thẻ SD %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_br_sender">Đang sao lưu %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_br_receiver">Đang khôi phục %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_waiting">Đang chờ để nhận %s</string>
+    <string name="trans_progress_subdescript_br_sender_finish">Đã sao lưu %s, đang chờ gửi…</string>
+    <string name="trans_progress_subdescript_transing_receiver_finish">Đã nhận %s, chờ khôi phục…</string>
+    <string name="trans_cancel_confirm">Đang chuyển, dừng ngay?</string>
+    <string name="trans_cancelling">Đang hủy…</string>
+    <string name="trans_device_disconnected">Thiết bị đã ngắt kết nối</string>
+    <string name="trans_connecting_toast">Đang kết nối…</string>
+    <string name="trans_connect_failed_toast">Không thể kết nối</string>
+    <string name="trans_generate_qr_code_failed">Không thể tạo mã QR</string>
+    <string name="trans_scan_invalid_qrcode">Mã QR không hợp lệ</string>
+    <string name="trans_scan_qr_code_tips">Quét mã QR trên thiết bị mới</string>
+    <string name="trans_show_qr_code_label">Kết nối với thiết bị cũ</string>
+    <string name="trans_show_qr_code_tips">Sử dụng thiết bị cũ quét mã QR</string>
+    <string name="trans_operate_new_phone_tips">"Vào Cài đặt > Cài đặt Bổ sung > Mi Mover
+Chạm [Tôi là người nhận] để tạo Mã QR"</string>
+    <string name="trans_operate_func_one">Phương pháp A</string>
+    <string name="trans_operate_func_two">Phương pháp B</string>
+    <string name="trans_operate_old_phone_tips1">"1. Cài đặt ứng dụng Mi Mover trên thiết bị cũ
+2. Mở ứng dụng và chạm Bắt đầu
+3. Quét mã QR trên thiết bị cũ"</string>
+    <string name="trans_operate_old_phone_tips2">Vào cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi]</string>
+    <string name="trans_wait_trans_data">"Đã kết nối với thiết bị cũ.
+Đang chờ chuyển…"</string>
+    <string name="trans_select_data">Chọn mục để gửi</string>
+    <string name="trans_select_data_tips">"Chọn mục để chuyển
+Tập tin tương tự trên thiết bị mới sẽ được ghi đè"</string>
+    <string name="trans_select_data_no_space">"Không đủ dung lượng trống trên thiết bị mới
+Chọn lại tập tin hoặc giải phóng %s dung lượng trên thiết bị mới"</string>
+    <string name="trans_calculating_base_size">Đang tính kích thước dữ liệu</string>
+    <string name="trans_calculating">Đang tính…</string>
+    <string name="trans_native_no_space">"Không đủ dung lượng trên thiết bị này.
+Giải phóng ít nhất %s."</string>
+    <string name="trans_calculating_app_sd_size">Đang tính kích thước: %s</string>
+    <string name="trans_please_waiting">Vui lòng chờ</string>
+    <string name="size_byte">B</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="trans_connect_failed_title">Không thể kết nối</string>
+    <string name="trans_connect_failed_message">Không thể kết nối, thử lại hoặc khởi động lại. Trên thiết bị khác, vào Cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi], hoặc khởi chạy lại Mi Mover lại sau khi khởi động.</string>
+    <string name="trans_retry">Thử lại</string>
+    <string name="trans_start_failed_title">Không thể bắt đầu chuyển</string>
+    <string name="trans_start_failed_message">Không thể bắt đầu chuyển, thử lại hoặc khởi động lại thiết bị.</string>
+    <string name="trans_connection_failed">Thiết bị đã ngắt kết nối</string>
+    <string name="user_notice_title">Chú ý</string>
+    <string name="user_notice_message">Một số tính năng yêu cầu phải kết nối internet để hoạt động bình thường.</string>
+    <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
+    <string name="total_size">, %s</string>
+    <string name="btn_got_it">Tôi biết</string>
+    <string name="backup_security_tips_title">Sao lưu không làm việc</string>
+    <string name="backup_security_tips_message">Vài ứng dụng không hỗ trợ sao lưu hoặc khôi phục.</string>
+    <string name="trans_security_tips_title">Khả năng tương thích Mi Mover</string>
+    <string name="trans_security_tips_message">Vài ứng dụng không hỗ trợ Mi Mover.</string>
+    <string name="guarded_mode_dialog_message">Tính năng này không khả dụng ở chế độ Khách.</string>
+	<string name="data_detail_description">Chi tiết</string>
+	<string name="reconnect">Kết nối lại</string>
+    <string name="pause">Tạm dừng</string>
+	<string name="enable_encrypt_description">Mã hóa</string>
+    <string name="disable_encrypt_description">Không mã hóa</string>
+	<string name="notif_trans_wait_for_reconnecting">Kết nối đã bị gián đoạn. Kết nối lại.</string>
+    <string name="notif_trans_auto_reconnecting_title">Kết nối đã bị gián đoạn. Đang kết nối lại tự động…</string>
+    <string name="notif_trans_auto_reconnecting_content">Bạn có thể hủy tác vụ hiện tại nếu cần.</string>
+	<string name="trans_detail_category_audio_video_doc">Âm thanh, video, và tập tin</string>
     <string name="trans_detail_category_wechat_qq">Dữ liệu WeChat và QQ (bao gồm lịch sử trò chuyện)</string>
     <string name="trans_detail_category_user_app_data">Dữ liệu ứng dụng</string>
     <string name="trans_detail_wechat_data">Dữ liệu WeChat (bao gồm lịch sử trò chuyện)</string>
@@ -320,95 +386,15 @@ Giữ các thiết bị gần nhau."</string>
     <string name="trans_detail_app_apk_page_title">Chọn ứng dụng</string>
     <string name="trans_detail_wechat_qq_page_title">Chọn dữ liệu WeChat, QQ, và ứng dụng</string>
     <string name="trans_detail_audio_video_doc_page_title">Chọn âm thanh, video, và tập tin</string>
-    <string name="trans_sending_completed">Gửi thành công</string>
-    <string name="trans_receiving_completed">Nhận thành công</string>
-    <string name="trans_time_format_second">Ít hơn một phút</string>
-    <string name="trans_progress_subdescript_transing_sender">Đang gửi %1$s, %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_transing_receiver">Đang nhận %1$s, %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_transingsd_sender">Đang gửi tập tin, %s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_transingsd_receiver">Đang nhận tập tin, %s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_transingsddata_sender">Đang gửi %1$s tập tin thẻ SD, %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_transingsddata_receiver">Đang nhận %1$s tập tin thẻ SD %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_br_sender">Đang sao lưu %1$s, %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_br_receiver">Đang khôi phục %1$s, %2$s đã hoàn tất</string>
-    <string name="trans_progress_subdescript_waiting">Đang chờ để nhận %s</string>
-    <string name="trans_progress_subdescript_br_sender_finish">Đã sao lưu %s, đang chờ gửi…</string>
-    <string name="trans_progress_subdescript_transing_receiver_finish">Đã nhận %s, chờ khôi phục…</string>
-    <string name="trans_cancel_confirm">Đang chuyển, dừng ngay?</string>
-    <string name="trans_cancelling">Đang hủy…</string>
-    <string name="trans_pausing">Đang tạm dừng…</string>
-    <string name="trans_device_disconnected">Kết nối đã bị gián đoạn</string>
+	<string name="trans_pausing">Đang tạm dừng…</string>
     <string name="trans_device_wait_for_reconnecting">Kết nối đã bị gián đoạn. Kết nối lại để tiếp tục.</string>
-    <string name="trans_device_auto_reconnecting">Thiết bị đã ngắt kết nối. Đang kết nối lại tự động…</string>
-    <string name="trans_connecting_toast">Đang kết nối…</string>
-    <string name="trans_switching_5g">Đang chuyển sang Wi-Fi 5GHz…</string>
-    <string name="trans_connect_failed_toast">Không thể kết nối</string>
-    <string name="trans_open_camera_failed_title">Không thể kết nối với Máy ảnh</string>
-    <string name="trans_open_camera_failed_message">Khởi động lại thiết bị của bạn hoặc kiểm tra xem Mi Mover có được phép sử dụng &lt;b>Máy ảnh&lt;/b> hay không.</string>
-    <string name="trans_generate_qr_code_failed">Không thể tạo mã QR</string>
-    <string name="trans_scan_invalid_qrcode">Mã QR không hợp lệ</string>
-    <string name="trans_scan_qr_code_tips">Sử dụng thiết bị mới quét mã QR</string>
-    <string name="trans_show_qr_code_label">Kết nối với thiết bị cũ</string>
-    <string name="trans_show_qr_code_tips">Sử dụng thiết bị cũ quét mã QR</string>
-    <string name="trans_operate_new_phone_tips">"Vào Cài đặt > Cài đặt Bổ sung > Mi Mover
-Chạm [Tôi là người nhận] để tạo Mã QR"</string>
-    <string name="trans_operate_func_one">Phương pháp A</string>
-    <string name="trans_operate_func_two">Phương pháp B</string>
-    <string name="trans_operate_old_phone_tips1">"1. Cài đặt ứng dụng Mi Mover trên thiết bị cũ
-2. Mở ứng dụng và chạm Bắt đầu
-3. Quét mã QR trên thiết bị cũ"</string>
-    <string name="trans_operate_old_phone_tips2">Vào cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi]</string>
-    <string name="trans_operate_tip_for_other_android">Mở Mi Mover trên điện thoại cũ của bạn, chạm \"Bắt đầu\" và quét mã QR ở trên.</string>
-    <string name="trans_operate_reconnect_new_tips">"Chờ đến khi điện thoại mới hiển thị \"Kết nối đã bị gián đoạn\".
+	<string name="trans_operate_reconnect_new_tips">"Chờ đến khi điện thoại mới hiển thị \"Kết nối đã bị gián đoạn\".
 Sau đó nhấp vào \"Kết nối lại\" để tạo mã QR."</string>
     <string name="trans_operate_reconnect_old_tips">"Chờ đến khi điện thoại cũ hiển thị \"Kết nối đã bị gián đoạn\".
 Sau đó chạm vào \"Kết nối lại\" để quét mã QR."</string>
-    <string name="trans_generating_qrcode">Đang tạo Mã QR…</string>
-    <string name="trans_generate_qrcode_failed">Tạo mã QR thất bại. Hãy thử lại.</string>
-    <string name="trans_wait_trans_data">"Đã kết nối với thiết bị cũ.
-Đang chờ chuyển…"</string>
-    <string name="trans_select_data">Chọn mục để gửi</string>
-    <string name="trans_select_data_tips">"Chọn mục để chuyển
-Tập tin tương tự trên thiết bị mới sẽ được ghi đè"</string>
-    <string name="trans_select_data_no_space">"Không đủ dung lượng lưu trữ trên thiết bị mới (%s khả dụng).
-Giải phóng dung lượng lưu trữ hoặc chỉ chuyển các mục quan trọng."</string>
     <string name="trans_select_data_too_large">"Bạn đã chọn quá nhiều mục cần chuyển.
 Chọn các mục quan trọng để chuyển nhanh hơn."</string>
-    <string name="trans_calculating">Đang tính…</string>
-    <string name="trans_calculating_tip">Đang tính %s…</string>
-    <string name="trans_calculating_media_description">Tập tin phương tiện</string>
-    <string name="trans_calculating_app_sd_description">Dữ liệu trên thẻ SD</string>
-    <string name="trans_native_no_space">"Không đủ dung lượng lưu trữ trên thiết bị cũ (%s khả dụng).
-Giải phóng dung lượng lưu trữ hoặc chỉ chuyển các mục quan trọng."</string>
-    <string name="trans_please_waiting">Vui lòng chờ</string>
-    <string name="trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
-    <string name="trans_old_phone_low_space_msg">Mi Mover cần dung lượng lưu trữ để đóng gói dữ liệu đã chuyển, nhưng dường như không đủ dung lượng lưu trữ trên thiết bị cũ. Giải phóng dung lượng trong \"Bảo mật\" hoặc chỉ chuyển mục quan trọng.</string>
-    <string name="button_clean_garbage">Giải phóng dung lượng</string>
-    <string name="button_quit">Thoát</string>
-    <string name="trans_install_guide_page_title">Cài đặt Mi Mover trên điện thoại cũ của bạn</string>
-    <string name="trans_install_guide_scan_install_tip">"Quét mã QR này bằng điện thoại cũ của bạn
-để tải xuống và cài đặt Mi Mover."</string>
-    <string name="trans_install_guide_step1_title">Bước 1</string>
-    <string name="trans_install_guide_step1_content">Quét mã QR bằng điện thoại cũ của bạn để tải xuống và cài đặt \"Mi Mover\".</string>
-    <string name="trans_install_guide_step2_title">Bước 2</string>
-    <string name="trans_install_guide_step2_content">Sau khi cài đặt hoàn tất, chạm \"Bắt đầu\" bên dưới.</string>
-    <string name="trans_install_guide_button_start">Bắt đầu</string>
-    <string name="size_byte">B</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="trans_connect_failed_title">Không thể kết nối</string>
-    <string name="trans_connect_failed_message">Không thể kết nối, thử lại hoặc khởi động lại. Trên thiết bị khác, vào Cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi], hoặc khởi chạy lại Mi Mover lại sau khi khởi động.</string>
-    <string name="trans_retry">Thử lại</string>
-    <string name="trans_start_failed_title">Không thể bắt đầu chuyển</string>
-    <string name="trans_start_failed_message">Không thể bắt đầu chuyển, thử lại hoặc khởi động lại thiết bị.</string>
-    <string name="trans_connect_failed_device_incompatible">Thiết bị không tương thích. Hủy quá trình chuyển và thử lại.</string>
-    <string name="trans_connection_failed">Kết nối đã bị gián đoạn</string>
-    <string name="user_notice_title">Chú ý</string>
-    <string name="user_notice_message">Một số tính năng yêu cầu phải kết nối internet để hoạt động bình thường.</string>
-    <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
-    <string name="total_size">, %s</string>
-    <string name="trans_intro_title">Câu hỏi thường gặp</string>
+	<string name="trans_intro_title">Câu hỏi thường gặp</string>
     <string name="trans_intro_question_1">%d. Cách sử dụng Mi Mover để chuyển dữ liệu từ thiết bị iOS?</string>
     <string name="trans_intro_desc_1">Trên điện thoại Mi, kết nối với Wi-Fi và chạm \"Tôi là người nhận\". Chọn thiết bị iOS, đăng nhập iCloud, và nhập dữ liệu.</string>
     <string name="trans_intro_question_2">%d. Cách sử dụng Mi Mover để chuyển dữ liệu từ thiết bị Android?</string>
@@ -416,12 +402,10 @@ Giải phóng dung lượng lưu trữ hoặc chỉ chuyển các mục quan tr�
     <string name="trans_intro_desc_new">Chạm \"Tôi là người nhận\". Mã QR sẽ được tạo.</string>
     <string name="trans_intro_title_old">Trên điện thoại cũ:</string>
     <string name="trans_intro_desc_old">Chạm \"Tôi là người gửi\". Quét mã QR trên điện thoại mới, chờ Mi Mover tính tập tin gửi, và chạm \"Gửi\".</string>
-    <string name="trans_intro_desc_old_market">Chạm \"Bắt đầu\". Quét mã QR trên điện thoại mới, chờ Mi Mover tính tập tin gửi, và chạm \"Gửi\".</string>
     <string name="trans_intro_question_3">%d. Tôi phải làm gì nếu Mi Mover bị đứng?</string>
     <string name="trans_intro_desc_3">Hủy chuyển, thoát Mi Mover, và bắt đầu lại. Những tập tin trùng sẽ bị ghi đè khi chuyển lại.</string>
     <string name="trans_intro_question_4">%d. Tại sao tôi không thể sử dụng Wi-Fi khi chuyển?</string>
     <string name="trans_intro_desc_4">Mi Mover sử dụng Wi-Fi để chuyển tập tin. Đó là lý do tại sao bạn không thể kết nối Internet bằng Wi-Fi cả hai thiết bị khi chuyển. Bạn vẫn có thể sử dụng dữ liệu di động. Tuy nhiên, một số thiết bị mới (ví dụ Mi 6) vẫn có thể kết nối với Internet bằng Wi-Fi khi chuyển.</string>
-    <string name="trans_intro_desc_4_market">Mi Mover sử dụng Wi-Fi để chuyển tập tin. Đó là lý do tại sao bạn không thể kết nối Internet bằng Wi-Fi cả hai thiết bị khi chuyển. Bạn vẫn có thể sử dụng dữ liệu di động.</string>
     <string name="trans_intro_question_5">%d. Tại sao Mi Mover hiển thị dung lượng lưu trữ trên điện thoại cũ không đủ?</string>
     <string name="trans_intro_desc_5">Dung lượng lưu trữ trên thiết bị cũ được sử dụng để tạo gói chuyển. Chắc chắn bạn có ít nhất 500MB - 1GB dung lượng trống trên điện thoại cũ trước khi bắt đầu chuyển.</string>
     <string name="trans_intro_question_6">%d. Tại sao một vài ứng dụng không thể chuyển?</string>
@@ -439,33 +423,11 @@ Giải phóng dung lượng lưu trữ hoặc chỉ chuyển các mục quan tr�
     <string name="trans_intro_desc_multiuser">Mi Mover không thể truy cập các mục trên Không gian thứ hai. Di chuyển các mục đến Không gian thứ nhất và khởi chạy Mi Mover ở đây.</string>
     <string name="trans_intro_title_multiapp">Dữ liệu ứng dụng kép:</string>
     <string name="trans_intro_desc_multiapp">Mi Mover không chuyển Dữ liệu ứng dụng kép để tránh xung đột tập tin.</string>
-    <string name="trans_intro_question_9_market">%d. Phản hồi.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Chia sẻ phản hồi của bạn bằng ứng dụng \"Phản hồi\".</string>
-    <string name="trans_intro_desc_9_method_1_dec">Vào Màn hình chính > Công cụ > Phản hồi.</string>
-    <string name="trans_intro_desc_9_method_2_title">2. Gửi email cho chúng tôi</string>
-    <string name="trans_intro_desc_9_method_2_dec">Gửi phản hồi của bạn đến miui-mover@xiaomi.com.</string>
-    <string name="trans_intro_desc_9_method_3_title">3. Báo cáo vấn đề trên QQ</string>
-    <string name="trans_intro_desc_9_method_3_dec">QQ nhóm của Mi Mover: 687338378</string>
-    <string name="btn_got_it">Tôi biết</string>
-    <string name="backup_security_tips_title">Vài sao lưu có thể không khả dụng</string>
-    <string name="backup_security_tips_message">Vài ứng dụng không hỗ trợ sao lưu hoặc khôi phục.</string>
-    <string name="trans_security_tips_title">Khả năng tương thích Mi Mover</string>
-    <string name="trans_security_tips_message">Vài ứng dụng không hỗ trợ Mi Mover.</string>
-    <string name="trans_cancel_selection_title">Vẫn sử dụng Mi Mover</string>
-    <string name="trans_cancel_selection_message">Nếu bạn thoát Mi Mover, chuyển đi sẽ bị gián đoạn. Hãy chờ cho đến khi chuyển hoàn tất.</string>
-    <string name="trans_select_notification_title">Mi Mover đang làm việc…</string>
-    <string name="trans_select_notification_message">Chạm để xem</string>
-    <string name="trans_button_stay">Sử dụng</string>
-    <string name="trans_button_exit">Thoát</string>
-    <string name="trans_wlan_tips_title">Không tắt Wi-Fi</string>
+	<string name="trans_wlan_tips_title">Không tắt Wi-Fi</string>
     <string name="trans_wlan_tips_message">Không tắt Wi-fi hoặc chuyển sang mạng Wi-Fi khác khi chuyển. Nếu không, Mi Mover sẽ không thể truyền dữ liệu.</string>
     <string name="trans_disconnected_tips_title">Thiết bị điều khiển đã ngắt kết nối</string>
     <string name="trans_disconnected_tips_message">Thiết bị điều khiển đã ngắt kết nối. Kết nối lại thủ công hoặc huỷ chuyển.</string>
     <string name="trans_button_cancel">Hủy</string>
-    <string name="trans_success_dialog_market_comment_title">"Đã chuyển sang điện thoại mới thành công
-Bạn có thích Mi Mover?"</string>
-    <string name="trans_success_dialog_button_market_favourable_comment">Đánh giá Mi Mover</string>
-    <string name="trans_failed_details_page_title">Chuyển không thành công</string>
     <string name="close_twice_auth_tutor">Tắt xác thực hai yếu tố Apple ID</string>
     <string name="close_twice_auth_steps">Thực hiện theo các bước sau để tắt xác thực hai yếu tố cho Apple ID:</string>
     <string name="close_twice_auth_step_1">1. Mở bất kỳ trình duyệt web nào trên máy tính và truy cập appleid.apple.com.</string>
@@ -478,8 +440,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
     <string name="platform_chooser_title">Chọn thiết bị cũ</string>
     <string name="platform_chooser_item_ios">Nhập từ thiết bị iOS</string>
-    <string name="platform_chooser_item_android_mi">Điện thoại Mi</string>
-    <string name="platform_chooser_item_android_others">Thương hiệu khác</string>
+    <string name="platform_chooser_item_android">Nhập từ thiết bị Android</string>
     <string name="icloud_need_wifi_title">Kết nối Wi-Fi</string>
     <string name="icloud_need_wifi_message">Bạn hiện chưa kết nối Wi-Fi. Để nhập dữ liệu từ iCloud, hãy kết nối Wi-Fi.</string>
     <string name="icloud_login_title">Đăng nhập iCloud</string>
@@ -556,7 +517,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="error_permissions">Ứng dụng này không được cấp quyền để truy cập Lịch. Vào Cài đặt và kiểm tra quyền để tiếp tục.</string>
     <string name="succ_description">Thành công</string>
     <string name="failed_description">Thất bại</string>
-    <string name="notif_miasist_try_to_connect">Mi PC Suite đang cố gắng kết nối với thiết bị của bạn</string>
     <string name="notif_connect_miasist">Đã kết nối với Mi PC Suite</string>
     <string name="notif_disconnect_miasist">Chưa kết nối với Mi PC Suite</string>
     <string name="notif_sending_transingsd">Đang gửi %1$s (%2$s)…</string>
@@ -573,36 +533,17 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite đang yêu cầu quyền để khôi phục các mục trên điện thoại của bạn. Cho phép?</string>
     <string name="alert_button_deny">Từ chối</string>
     <string name="alert_button_agree_and_continue">Cho phép</string>
-    <string name="trans_open_location_button">Bật</string>
-    <string name="trans_open_location_title">Bật dịch vụ vị trí</string>
-    <string name="trans_open_location_message">Bật dịch vụ vị trí để nhận danh sách mạng Wi-Fi khả dụng.</string>
-    <string name="perm_camera">Máy ảnh</string>
-    <string name="perm_read_contacts">Đọc liên hệ</string>
-    <string name="perm_location">Vị trí</string>
-    <string name="perm_read_phone_state">Đọc trạng thái điện thoại</string>
-    <string name="perm_read_call_log">Đọc lịch sử cuộc gọi</string>
-    <string name="perm_read_sms">Đọc SMS</string>
-    <string name="perm_storage">Đọc và ghi trên bộ nhớ ngoài</string>
-    <string name="lack_perm_title">Yêu cầu quyền</string>
-    <string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b>%s&lt;/b>.</string>
-    <string name="flash_drive_backup_restore">Sao lưu USB</string>
-    <string name="flash_drive_backup_note">"Sao lưu ứng dụng vào ổ USB.
-Chắc chắn ổ USB có đủ dung lượng lưu trữ trước khi bạn bắt đầu."</string>
-    <string name="flash_drive_backup_btn">Sao lưu trên ổ USB</string>
-    <string name="flash_drive_restore_btn">Khôi phục từ ổ USB</string>
-    <string name="usb_backup_select_data_too_large">"Các tập đã chọn quá lớn. Hãy chắc chắn ổ USB có đủ dung lượng lưu trữ.
-Chỉ nên chuyển các mục quan trọng."</string>
-    <string name="flash_drive_search_backup_files">"Đang tìm sao lưu USB…
-Không thay đổi hoặc đổi tên tập tin sao lưu."</string>
-    <string name="flash_drive_connection_failed">Đã ngắt kết nối ổ USB</string>
-    <string name="storage_sd_card">Thẻ SD</string>
-    <string name="storage_usb">Ổ USB</string>
-    <string name="usb_trans_select_data_no_space">"Chỉ %s khả dụng trên ổ USB.
-Giải phóng dung lượng hoặc chỉ chuyển những mục quan trọng."</string>
-    <string name="usb_restore_select_data_too_large">"Tập tin sao lưu rất lớn, dẫn đến thời gian khôi phục sẽ kéo dài.
-Chỉ khôi phục mục quan trọng để rút ngắn thời gian."</string>
-    <string name="usb_trans_native_no_space">"Chỉ %s trống trên thiết bị.
-Giải phóng dung lượng hoặc chuyển dữ liệu nhiều lần."</string>
-    <string name="usb_trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
-    <string name="usb_trans_old_phone_low_space_msg">Tăng dung lượng bổ sung để lưu trữ sao lưu. Không đủ dung lượng lưu trữ để tiếp tục chuyển. Bạn có thể giải phóng dung lượng và xóa các tệp không cần thiết trong Bảo mật hoặc chỉ thử chuyển các mục quan trọng.</string>
+    <string name="button_clean_garbage">Giải phóng dung lượng</string>
+    <string name="button_got_it">OK</string>
+    <string name="button_quit">Thoát</string>
+    <string name="err_bakfile_not_exist">"Tệp sao lưu không tồn tại."</string>
+    <string name="err_binder_died">Ứng dụng đã dừng đột ngột.</string>
+    <string name="err_pkg_not_exist">"Không thể tìm thấy ứng dụng."</string>
+    <string name="err_user_abort">Đã bị hủy bởi người dùng.</string>
+    <string name="trans_failed_details_page_title">Chuyển không thành công</string>
+    <string name="trans_generate_qrcode_failed">"Không thể tạo mã QR. Thử lại."</string>
+    <string name="trans_generating_qrcode">Đang tạo mã QR…</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover cần một số dung lượng lưu trữ để đóng gói dữ liệu được chuyển, nhưng có vẻ như không có đủ dung lượng trống trên thiết bị cũ. Giải phóng dung lượng trong \"Bảo Mật\" hoặc chỉ chuyển các mục quan trọng."</string>
+    <string name="trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
+
 </resources>

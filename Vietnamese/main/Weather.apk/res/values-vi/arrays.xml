@@ -8,22 +8,6 @@
         <item>Ô nhiễm nặng</item>
         <item>Ô nhiễm nghiêm trọng</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
@@ -57,6 +41,7 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Moscow</item>
+        <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
@@ -71,6 +56,19 @@
         <item>Bangkok</item>
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Yếu</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>Rất to</item>
@@ -135,21 +133,6 @@
         <item>T</item>
         <item>TB</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-    </string-array>
     <string-array name="wind_unit_detail">
         <item>Thang sức gió Beaufort</item>
         <item>Kilômét mỗi giờ (km/h)</item>
@@ -163,5 +146,12 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Thang sức gió Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
 </resources>

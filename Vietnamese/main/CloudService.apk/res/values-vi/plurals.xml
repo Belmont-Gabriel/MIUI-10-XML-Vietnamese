@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d tắt</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Mục đang chờ đồng bộ: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d mục đang chờ đồng bộ</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d liên hệ</item>
@@ -36,12 +42,12 @@
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d dữ liệu danh sách chặn</item>
     </plurals>
-    <plurals name="dirty_personalAssistant_count">
+	<plurals name="dirty_personalAssistant_count">
         <item quantity="other">Vào %d App vault</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
+	<plurals name="dirty_secretphoto_count">
         <item quantity="other">%d ảnh ẩn chưa được đồng bộ. Đăng xuất sau khi tất cả các mục đã được đồng bộ để lưu trữ, nếu không các mục này sẽ bị xóa.</item>
-    </plurals>
+    </plurals>										
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Tiếp tục đồng bộ sau %d giờ</item>
     </plurals>

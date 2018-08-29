@@ -8,10 +8,10 @@
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>Tất cả các đài</item>
-        <item>Hit</item>
+        <item>Bản hit cho người lớn</item>
         <item>Cổ điển</item>
         <item>Rock cổ điển</item>
-        <item>Trường học</item>
+        <item>Cao đẳng</item>
         <item>Quốc gia</item>
         <item>Khẩn cấp</item>
         <item>Kiểm tra khẩn cấp</item>
@@ -19,17 +19,17 @@
         <item>Thông tin</item>
         <item>Jazz</item>
         <item>Tin tức</item>
-        <item>Nhạc buồn</item>
+        <item>Hoài niệm</item>
         <item>Cổ xưa</item>
-        <item>Cá nhân</item>
-        <item>Công cộng</item>
+        <item>Người nổi tiếng</item>
+        <item>Công chúng</item>
         <item>Nhạc tôn giáo</item>
         <item>Thảo luận tôn giáo</item>
-        <item>Nhịp điệu và Blue</item>
+        <item>Nhịp điệu và Blues</item>
         <item>Rock</item>
         <item>Nhẹ</item>
         <item>Rock nhẹ</item>
-        <item>Nhịp điệu nhẹ và nhạc blue</item>
+        <item>Nhịp điệu nhẹ và nhạc Blues</item>
         <item>Thể thao</item>
         <item>Trò chuyện</item>
         <item>Top 40</item>
@@ -38,12 +38,12 @@
     <string-array name="search_category_rds_entries">
         <item>Tất cả các đài</item>
         <item>Văn hóa</item>
-        <item>Chủ đề hiện tại</item>
-        <item>Trẻ em</item>
+        <item>Công việc hiện tại</item>
+        <item>Chương trình thiếu nhi</item>
         <item>Nhạc đồng quê</item>
         <item>Phim tài liệu</item>
         <item>Kịch</item>
-        <item>Dễ nghe</item>
+        <item>Nhạc dễ nghe</item>
         <item>Giáo dục</item>
         <item>Khẩn cấp</item>
         <item>Kiểm tra khẩn cấp</item>
@@ -54,15 +54,15 @@
         <item>Cổ điển nhẹ</item>
         <item>Giải trí</item>
         <item>Tin tức</item>
-        <item>Nhạc dân ca truyền thống</item>
-        <item>Khác</item>
-        <item>Cổ xưa</item>
-        <item>Phone in</item>
+        <item>Nhạc dân tộc</item>
+        <item>Nhạc khác</item>
+        <item>Nhạc xưa</item>
+        <item>Trên điện thoại</item>
         <item>Nhạc Pop</item>
         <item>Tôn giáo</item>
         <item>Nhạc Rock</item>
         <item>Khoa học</item>
-        <item>Cổ điển</item>
+        <item>Cổ điển kinh điển</item>
         <item>Công việc xã hội</item>
         <item>Thể thao</item>
         <item>Du lịch</item>
@@ -132,7 +132,7 @@
         <item>Ấn Độ (từ 91,0 MHz tới 106,4MHz ở bước 100 Khz)</item>
         <item>Ai-len (từ 87,5 MHz tới 108,0 MHz ở bước 50 Khz)</item>
         <item>Ý (từ 87,5 MHz tới 108,0 MHz ở bước 50 Khz)</item>
-        <item>Hàn Quốc (từ 87,5 Mhz đến 108,0 Mhz Bước sóng 200 Khz)</item>
+        <item>Hàn Quốc (từ 87,5 MHz tới 108,0 MHz ở bước 200 Khz)</item>
         <item>Mexico (từ 88,1 MHz tới 107,9 MHz ở bước 200 Khz)</item>
         <item>Hà Lan (từ 87,5 MHz tới 108,0 MHz ở bước 100 Khz)</item>
         <item>Niu Di-lân (từ 88,0 MHz tới 107,0 MHz ở bước 100 Khz)</item>
@@ -153,7 +153,7 @@
     <string-array name="rf_cfg">
         <item>Nhận thông số đài phát hiện tại</item>
         <item>Nhận thông số đài phát (lặp lại 20 lần)</item>
-        <item>Nhận thông số tìm kiếm đài</item>
+        <item>Nhận thông số tìm kiếm đài phát</item>
         <item>Nhận thông số quét băng tần FM</item>
         <item>Định cấu hình thông số tìm kiếm FM</item>
     </string-array>

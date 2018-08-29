@@ -3,7 +3,7 @@
     <string name="app_name">Trình cài đặt Chứng chỉ</string>
     <string name="pick_file_title">Chọn chứng chỉ</string>
     <string name="pkcs12_password_dialog_title">Trích xuất chứng chỉ</string>
-    <string name="extracting_pkcs12">Đang trích xuất...</string>
+    <string name="extracting_pkcs12">Đang trích xuất…</string>
     <string name="pkcs12_file_password_dialog_title">Trích xuất từ %s</string>
     <string name="name_credential_dialog_title">Đặt tên chứng chỉ</string>
     <string name="credential_name">Tên chứng chỉ:</string>
@@ -18,6 +18,7 @@
     <string name="password_empty_error">Nhập mật khẩu.</string>
     <string name="name_empty_error">Nhập tên.</string>
     <string name="name_char_error">Nhập tên chỉ chứa chữ cái và số.</string>
+    <string name="storage_error">Không thể lưu chứng chỉ. Chạm OK để thử lại.</string>
     <string name="unable_to_save_cert">Không thể lưu chứng chỉ. Bộ nhớ thông tin xác thực chưa được bật hoặc khởi tạo đúng cách.</string>
     <string name="cert_not_saved">Chứng chỉ không được cài đặt.</string>
     <string name="no_cert_to_saved">Không có chứng chỉ để cài đặt.</string>
@@ -26,8 +27,8 @@
     <string name="cert_too_large_error">Không thể cài đặt vì kích thước chứng chỉ quá lớn.</string>
     <string name="cert_missing_error">Không thể cài đặt vì không thể định vị tệp chứng chỉ.</string>
     <string name="cert_read_error">Không thể cài đặt vì không thể đọc tệp chứng chỉ.</string>
-    <string name="no_cert_file_found">Không tìm thấy tệp chứng chỉ trong thẻ SD.</string>
-    <string name="sdcard_not_present">Hiện không có thẻ SD.</string>
+    <string name="no_cert_file_found">Không tìm thấy tệp chứng chỉ nào trong bộ nhớ USB.</string>
+    <string name="sdcard_not_present">Bộ nhớ USB không khả dụng.</string>
     <string name="only_primary_user_allowed">Chỉ chủ sở hữu thiết bị này mới có thể cài đặt các chứng chỉ.</string>
     <string name="credential_usage_label">Sử dụng bản xác thực:</string>
     <string name="wifi_title">Cấu hình Wi-Fi</string>

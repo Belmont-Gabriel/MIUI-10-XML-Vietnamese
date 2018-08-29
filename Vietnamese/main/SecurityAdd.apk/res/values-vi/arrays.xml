@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="app_start_setting">
-        <item>仅允许自启动白名单</item>
-        <item>全部禁止</item>
+        <item>Chỉ cho phép tự khởi chạy từ danh sách ngoại lệ</item>
+        <item>Chặn tất cả</item>
     </string-array>
 </resources>

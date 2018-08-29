@@ -17,12 +17,12 @@
         <item quantity="one">sau %d ngày</item>
     </plurals>
     <plurals name="duration_days_shortest">
-        <item quantity="other">%dng</item>
-        <item quantity="one">%dng</item>
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
-        <item quantity="other">sau %dng</item>
-        <item quantity="one">sau %dng</item>
+        <item quantity="other">sau %d ngày</item>
+        <item quantity="one">sau %d ngày</item>
     </plurals>
     <plurals name="duration_hours_relative">
         <item quantity="other">%d giờ trước</item>
@@ -33,12 +33,12 @@
         <item quantity="one">sau %d giờ</item>
     </plurals>
     <plurals name="duration_hours_shortest">
-        <item quantity="other">%dh</item>
-        <item quantity="one">%dh</item>
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
     </plurals>
     <plurals name="duration_hours_shortest_future">
-        <item quantity="other">sau %dh</item>
-        <item quantity="one">sau %dh</item>
+        <item quantity="other">sau %d giờ</item>
+        <item quantity="one">sau %d giờ</item>
     </plurals>
     <plurals name="duration_minutes_relative">
         <item quantity="other">%d phút trước</item>
@@ -49,12 +49,12 @@
         <item quantity="one">sau %d phút</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%dph</item>
-        <item quantity="one">%dph</item>
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">sau %dph</item>
-        <item quantity="one">sau %dph</item>
+        <item quantity="other">sau %d phút</item>
+        <item quantity="one">sau %d phút</item>
     </plurals>
     <plurals name="duration_years_relative">
         <item quantity="other">%d năm trước</item>
@@ -65,12 +65,12 @@
         <item quantity="one">sau %d năm</item>
     </plurals>
     <plurals name="duration_years_shortest">
-        <item quantity="other">%dn</item>
-        <item quantity="one">%dn</item>
+        <item quantity="other">%d năm</item>
+        <item quantity="one">%d năm</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">sau %dn</item>
-        <item quantity="one">sau %dn</item>
+        <item quantity="other">sau %d năm</item>
+        <item quantity="one">sau %d năm</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d ngày qua</item>
@@ -78,7 +78,7 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d trong số %2$d</item>
-        <item quantity="one">1 trận đấu</item>
+        <item quantity="one">1 kết quả</item>
     </plurals>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
@@ -135,5 +135,17 @@
     <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">Trong %1$d phút (cho đến %2$s)</item>
         <item quantity="one">Trong 1 phút (cho đến %2$s)</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
     </plurals>
 </resources>

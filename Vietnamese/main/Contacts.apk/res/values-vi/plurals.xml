@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Tức thì</item>
     </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">sau %1$d phút</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Vừa mới</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%1$d phút trước</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Xóa %1$d liên hệ?</item>
@@ -26,9 +44,6 @@
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d liên hệ đã nhập</item>
-    </plurals>
-    <plurals name="device_import_progress_toast_plurals">
-        <item quantity="other">Đã nhập %1$d liên hệ</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Chặn %1$d số điện thoại?</item>
@@ -107,5 +122,17 @@
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d người</item>
+    </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d người</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">Đã sao chép %1$d liên hệ</item>
+    </plurals>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">Đã chuyển %1$d liên hệ</item>
+    </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Phút</item>
     </plurals>
 </resources>

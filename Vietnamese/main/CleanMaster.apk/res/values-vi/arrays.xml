@@ -13,62 +13,71 @@
         <item>Kích thước</item>
     </string-array>
     <string-array name="auto_clean_size">
-        <item>100MB</item>
-        <item>300MB</item>
-        <item>500MB</item>
-        <item>1GB</item>
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Thông báo</item>
+        <item>Nhắc nhở bằng thông báo</item>
+        <item>Dọn dẹp trong nền</item>
+        <item>Hiển thị thông báo sau khi dọn dẹp</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Xem vị trí tập tin</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Xem vị trí tập tin</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Mở</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
         <item>Dọn dẹp</item>
-        <item>Dọn dẹp và thông báo</item>
     </string-array>
-    <string-array name="hide_installed_packages">
-        <item>com.miui.klo.bugreport</item>
-        <item>com.mfashiongallery.emag</item>
-        <item>com.miui.miuibbs</item>
-        <item>com.xiaomi.smarthome</item>
-        <item>com.wali.live</item>
-        <item>com.xiaomi.o2o</item>
-        <item>com.mi.vtalk</item>
-        <item>com.xiaomi.shop</item>
-        <item>com.xiaomi.jr</item>
-        <item>com.duokan.reader</item>
-        <item>com.ximalaya.ting.android</item>
-        <item>com.mi.misupport</item>
-        <item>com.xiaomi.channel</item>
-        <item>com.xiaomi.adecom</item>
-        <item>com.sohu.inputmethod.sogou.xiaomi</item>
-        <item>com.baidu.input_mi</item>
-        <item>com.amazon.appmanager</item>
-        <item>com.xiaomi.mihomemanager</item>
-        <item>com.baidu.duersdk.opensdk</item>
-        <item>com.google.android.marvin.talkback</item>
-        <item>com.iflytek.speechcloud</item>
-        <item>com.xiaomi.jr.security</item>
+    <string-array name="apk_clean_menu">
+        <item>Dọn dẹp</item>
+        <item>Cài đặt ứng dụng này</item>
+        <item>Xem trong thư mục</item>
     </string-array>
-    <string-array name="hide_path">
-        <item>/FileExplorer/.safebox</item>
-        <item>/DCIM/.thumbnails</item>
-        <item>/Android/data/com.miui.cleanmaster/cache</item>
-        <item>tencent/MicroMsg</item>
-        <item>/Android/data/com.tencent.KiHan</item>
+    <string-array name="long_add_menu">
+        <item>Thêm vào danh sách ngoại lệ</item>
     </string-array>
-    <string-array name="hide_packages">
-        <item>com.tencent.mm</item>
-        <item>com.tencent.mobileqq</item>
+    <string-array name="long_add_app_menu">
+        <item>Thêm ứng dụng vào danh sách ngoại lệ</item>
     </string-array>
-    <string-array name="white_list_cache">
-        <item>/MIUI/theme/.data</item>
-        <item>/MIUI/contactphoto/.data</item>
-        <item>/MIUI/wallpaper</item>
-        <item>/MIUI/ringtone</item>
-        <item>/MIUI/Gallery/cloud</item>
-        <item>/MiMarket/files</item>
-        <item>/miliao/cache</item>
-        <item>/tencent/blob/mqq</item>
+    <string-array name="app_clean_menu">
+        <item>Gỡ cài đặt</item>
     </string-array>
-    <string-array name="white_list_ad">
-        <item>/MIUI/debug_log</item>
+    <string-array name="auto_alert_apps_time">
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+        <item>Mỗi 30 ngày</item>
+    </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Xóa</item>
+        <item>Xem</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Mỗi ngày</item>
+        <item>Mỗi 3 ngày</item>
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Dọn dẹp</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
     </string-array>
 </resources>

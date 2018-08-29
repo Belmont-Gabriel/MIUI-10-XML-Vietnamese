@@ -4,7 +4,7 @@
         <item quantity="other">Sao lưu mỗi %d ngày</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">%1$s sao lưu (%2$s)</item>
+        <item quantity="other">%1$s sao lưu, kích thước: %2$s</item>
     </plurals>
     <plurals name="restoring_file_tile">
         <item quantity="other">Đang khôi phục %d tập tin</item>

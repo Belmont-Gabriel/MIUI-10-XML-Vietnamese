@@ -61,7 +61,7 @@
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Hình mở khóa hoàn tất</string>
-    <string name="memory_clear_result">Đã xóa %1$sB</string>
+    <string name="memory_clear_result">Xóa %1$sB | Trống %2$sB</string>
     <string name="memory_clear_nothing_result">Không có gì để dọn dẹp trong bộ nhớ đệm</string>
     <string name="shutdown_confirm_title">Tắt thiết bị ngay?</string>
     <string name="shutdown_progress">Đang tắt…</string>
@@ -113,6 +113,10 @@
     <string name="maml_component_customization_title">Cài đặt</string>
     <string name="default_name">Mặc định</string>
     <string name="resource_select">Chọn</string>
+    <string name="group_name_contacts">Liên hệ</string>
+    <string name="group_name_friends">Bạn bè</string>
+    <string name="group_name_family">Gia đình</string>
+    <string name="group_name_coworkers">Đồng nghiệp</string>
     <string name="fp_nav_center_action_choose_dlg_title">Bật Chạm nhanh</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Bạn có thể quay lại Màn hình chính bằng cách chạm nhẹ vào phím Trang chính. Bạn có thể bật và tắt tính năng này trong Cài đặt > Cài đặt bổ sung > Phím > Chạm phím Trang chính để quay lại Màn hình chính.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Bật</string>
@@ -172,12 +176,8 @@
     <string name="wifi_assistant_wifi_no_internet">Mạng Wi-Fi này không thể truy cập vào internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Chạm để xem chi tiết</string>
     <string name="resolver_app_recommend_flag">Kiến nghị</string>
-    <string name="voice_button_action_up">Nhấn để nói</string>
-    <string name="voice_button_action_down">Thả để tìm kiếm</string>
-    <string name="voice_begin">Bạn muốn tìm gì?</string>
-    <string name="voice_input_error_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
-    <string name="voice_input_error_other">Xảy ra lỗi. Chờ một hoặc hai phút và thử lại.</string>
-    <string name="miui_warning_button_ok">OK</string>
-    <string name="miui_warning_button_cancel">Hủy</string>
-    <string name="miui_warning_tip_info">Đã xảy ra lỗi %1$s. Đóng ứng dụng này ngay?</string>
+    <string name="status_bar_toggle_ac">Khóa ứng dụng</string>
+    <string name="status_bar_toggle_privacy_mode">C.độ Khách</string>
+    <string name="screen_button_disabled_message">Phím điều hướng đã bị vô hiệu hóa. Để bật lại, chạm đồng thời phím Trang chính và nút Nguồn.</string>
+    <string name="screen_button_enabled_message">Phím điều hướng đã được bật.</string>
 </resources>

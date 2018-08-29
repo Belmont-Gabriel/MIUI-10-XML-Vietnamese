@@ -15,21 +15,17 @@ Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
     <string name="sim_card_detection_info">Để lắp thẻ SIM, hãy đọc các tài liệu hướng dẫn được kèm theo thiết bị của bạn.</string>
     <string name="sim_card_detecting">Đang kiểm tra thẻ SIM…</string>
     <string name="sim_card_detecting_check">Không tìm thấy thẻ SIM. Hãy chắc chắn rằng thẻ SIM được lắp đặt đúng và bạn có đủ tiền trong tài khoản.</string>
-    <string name="sim_card_detection_mobile_not_available">Thẻ SIM không thể kết nối mạng</string>
-    <string name="sim_scard_detecting_check_mobile_not_available">Thẻ SIM của bạn không thể kết nối với mạng nhà mạng hợp lệ. Chắc chắn bạn có đủ số dư trong tài khoản của mình và thử kết nối lại.</string>
-    <string name="sim_card_detecting_confirm_turn_on_network">Cho phép kết nối với mạng dữ liệu di động? Nếu bạn cho phép, thẻ SIM mà bạn lắp sẽ được sử dụng để kết nối mạng dữ liệu di động.</string>
     <string name="other_settings">Cài đặt bổ sung</string>
     <string name="other_settings_location">Vị trí</string>
-    <string name="other_settings_location_summary">Cho phép ứng dụng truy cập vị trí của bạn</string>
+    <string name="other_settings_location_summary">Cho phép các ứng dụng truy cập vào vị trí của bạn.</string>
     <string name="other_settings_user_experience">Chương trình Trải nghiệm Người dùng</string>
-    <string name="other_settings_user_experience_summary">Giúp chúng tôi cải thiện sản phẩm và dịch vụ bằng cách chia sẻ thống kê sử dụng của bạn. Xem chi tiết</string>
-    <string name="other_settings_user_experience_summary_index">Xem chi tiết</string>
+    <string name="other_settings_user_experience_summary">Giúp cải thiện sản phẩm và dịch vụ của chúng tôi bằng cách gửi dữ liệu sử dụng ẩn danh.</string>
     <string name="other_settings_upload_debug_log_title">Gửi dữ liệu chuẩn đoán tự động</string>
-    <string name="other_settings_upload_debug_log_summary">Số liệu thống kê sử dụng dữ liệu giúp chúng tôi định vị và giải quyết vấn đề có thể chứa thông tin cá nhân của bạn</string>
-    <string name="other_settings_auto_update">Cập nhật tự động</string>
-    <string name="other_settings_auto_update_summary">MIUI sẽ chọn thời điểm tốt nhất để cài đặt cập nhật</string>
-    <string name="other_settings_ad_enable">Kiến nghị quảng cáo cá nhân</string>
-    <string name="other_settings_ad_enable_summary">Nhận quảng cáo cá nhân dựa trên dữ liệu hành vi</string>
+    <string name="other_settings_upload_debug_log_summary">Thông tin mà chúng tôi thu thập sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và có thể chứa thông tin cá nhân. Không có dữ liệu nào được sử dụng để nhận dạng cá nhân bạn.</string>
+    <string name="other_settings_auto_update">Cài đặt tự động</string>
+    <string name="other_settings_auto_update_summary">MIUI sẽ chọn thời gian thích hợp để cài đặt cập nhật.</string>
+    <string name="other_settings_ad_enable">Kiến nghị Quảng cáo Cá nhân</string>
+    <string name="other_settings_ad_enable_summary">Kiến nghị quảng cáo cá nhân dựa trên dữ liệu hành vi</string>
     <string name="back">Quay lại</string>
     <string name="next">Tiếp theo</string>
     <string name="skip_underline">Bỏ qua bước này</string>
@@ -47,28 +43,17 @@ Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
     <string name="terms_of_use">Điều khoản và Điều kiện</string>
     <string name="terms_of_use_label">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
 
-Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. %s và thành phần Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
-    <string name="terms_of_use_lable_apps">Dịch vụ Mi, Dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm Trò chơi, MAB, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch thuật, Ứng dụng nhanh, App vault, thống kê, Liên kết Mi</string>
-    <string name="terms_of_use_lable_gms">, Dịch vụ Google Play</string>
-    <string name="terms_of_use_label_systemhelper">, Dịch vụ tự đăng ký</string>
-    <string name="terms_of_use_lable_smart_cards">, Thẻ thông minh</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Trong khi kích hoạt, dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Mô đun Màn hình chính, Dịch vụ Game, Thành phần hệ thống MAB và MSA, Dịch vụ Trực tiếp, Quick Card, thống kê, Mi SmartCard, Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
+    <string name="terms_of_use_label_gms">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
 
-Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"
-
-Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử dụng tính năng này."</string>
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm trò chơi, MAB, thành phần hệ thống Miui Daemon và MSA, ứng dụng web, Kho ứng dụng, thống kê, thẻ thông minh, Liên kết Mi, Tài khoản Mi và dịch vụ Google Play sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
-    <string name="terms_privacy_policy_input_method_kika">Chính sách Riêng tư Kika</string>
-    <string name="terms_privacy_policy_input_method_facemoji">Chính sách Riêng tư Facemoji</string>
     <string name="application_permissions">Quyền ứng dụng</string>
     <string name="agree">Đồng ý</string>
     <string name="disagree">Hủy</string>
     <string name="setting_locale">Đang thiết lập khu vực…</string>
     <string name="agree_terms">Tôi đã đọc và đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư.</string>
-    <string name="agree_terms_input_method_facemoji">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Facemoji.</string>
-    <string name="agree_terms_input_method_kika">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Kika.</string>
     <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Điều khoản Dịch vụ tại %s.</string>
     <string name="miui_privacy_policy_no_network">Bạn không có kết nối internet. Xem Chính sách Riêng tư tại %s.</string>
     <string name="locale_picker_title">Chọn khu vực</string>
@@ -82,23 +67,35 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, hoặc đăng nhập ứng dụng và dịch vụ.</string>
     <string name="content_description_start">Bắt đầu</string>
-    <string name="start_up_slogan">Thiết kế để trải nghiệm màn hình tràn cạnh</string>
-    <string name="content_description_miui_version">MIUI 10</string>
+    <string name="content_description_miui_version">MIUI.VN</string>
     <string name="content_description_complete">Hoàn tất</string>
     <string name="language_picker_other_languages_title">Thêm ngôn ngữ</string>
     <string name="language_settings">Chọn ngôn ngữ</string>
-    <string name="navigation_picker_radio_text_full_screen">Cử chỉ màn hình tràn cạnh</string>
-    <string name="navigation_picker_radio_text_virtual_key">Phím</string>
+    <string name="navigation_picker_radio_text_full_screen">Chế độ màn hình tràn cạnh</string>
+    <string name="navigation_picker_radio_text_virtual_key">Chế độ phím ảo</string>
     <string name="congratulation_swipe">Trượt lên để vào hệ thống</string>
     <string name="enable_accessibility_dialog_message">Bạn bật TalkBack bằng cách dùng 2 ngón tay bấm màn hình hơn 10 giây. TalkBack phản hồi bằng giọng nói cho người khiếm thị. Nếu bạn vô tình bật, hãy chạm nút Hủy và chạm đúp màn hình.</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="enable_accessibility_dialog_negative_btn">Hủy</string>
     <string name="cm_terms_title">Thỏa thuận Nhà cung cấp Mạng Di động</string>
     <string name="cm_terms_content">Để cải thiện dịch vụ cung cấp cho bạn, nhà cung cấp mạng di dộng mà bạn chọn có thể tải dữ liệu cá nhân và thông tin thiết bị này đến máy chủ qua mạng Wi-Fi hoặc kết nối dữ liệu di động. Thông tin này chỉ được sử dụng cho mục đích thống kê để cải thiện chất lượng dịch vụ và công cấp nhiều nội dung cá nhân hơn. Thông tin này sẽ không được dùng để dịnh dạng cá nhân và sẽ không được tiết lộ cho bên thứ ba.</string>
-    <string name="enable_accessibility_canceled">Đã hủy khả năng truy cập.</string>
     <string name="accessibility_enabled">Đã bật khả năng truy cập.</string>
     <string name="continue_to_enable_accessibility">Bấm giữ hai ngón tay để bật khả năng truy cập.</string>
     <string name="voice_assist_title">Đánh thức bằng âm thanh</string>
     <string name="voice_assist_desp">Nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
-    <string name="voice_assist_desp_screen_light">Sau khi màn hình sáng lên, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
+    <string name="other_settings_user_experience_summary1">Chính sách Riêng tư</string>
+    <string name="summary_sim_card">Thẻ %1$d</string>
+    <string name="two_dimensional_code_scan">Quét mã QR</string>
+    <string name="user_strayed_warning">Trang này được thiết kế riêng cho thử nghiệm nhà máy kiểm tra thiết bị. Chạm quay lại để thoát.</string>
+    <string name="fail_to_generate_qr_code">Tạo mã QR thất bại, vui lòng vào lại trang này.</string>
+    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi và Tìm kiếm thiết bị.</string>
+    <string name="page_layout_label">Điều chỉnh kích thước văn bản và bố cục cho Màn hình chính, thanh thông báo, bàn phím quay số và nhiều thứ nữa.</string>
+    <string name="page_layout_title">Bố cục hệ thống</string>
+    <string name="provision_finish">OK</string>
+    <string name="provision_finish_restart">Khởi động lại</string>
+    <string name="summary_sim_card_with_operator">Thẻ %1$d: %2$s</string>
+    <string name="title_congratulation">Xin chúc mừng!</string>
+    <string name="content_description_language_picker">Chọn ngôn ngữ</string>
+    <string name="other_settings_mifg_online_content">Tạp chí Khóa màn hình</string>
+    <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
 </resources>

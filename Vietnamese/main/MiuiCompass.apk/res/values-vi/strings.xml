@@ -5,7 +5,7 @@
     <string name="location_north">Vĩ Bắc</string>
     <string name="location_south">Vĩ Nam</string>
     <string name="location_east">Kinh Đông</string>
-    <string name="location_west">Kinh Nam</string>
+    <string name="location_west">Kinh Tây</string>
     <string name="calibrate_success">Cân chỉnh hoàn tất</string>
     <string name="calibrate_failed_no_location">Không thể hiệu chỉnh</string>
     <string name="calibrate_failed_timeout">Không thể kết nối đến máy chủ</string>
@@ -16,21 +16,20 @@
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
-    <string name="angle">%.0f</string>
     <string name="dialog_title_no_network">Bật mạng</string>
     <string name="dialog_body_no_network">Không thể kết nối mạng</string>
     <string name="dialog_calibrat_altitude">Đang đo…</string>
     <string name="latitude">Vĩ độ</string>
     <string name="longitude">Kinh độ</string>
-    <string name="direction_north">B</string>
-    <string name="direction_south">N</string>
-    <string name="direction_east">Đ</string>
-    <string name="direction_west">T</string>
-    <string name="direction_north_east">ĐB</string>
-    <string name="direction_north_west">TB</string>
-    <string name="direction_south_east">ĐN</string>
-    <string name="direction_south_west">TN</string>
-    <string name="unit_degree">Độ</string>
+    <string name="direction_north">Bắc</string>
+    <string name="direction_south">Nam</string>
+    <string name="direction_east">Đông</string>
+    <string name="direction_west">Tây</string>
+    <string name="direction_north_east">Đông Bắc</string>
+    <string name="direction_north_west">Tây Bắc</string>
+    <string name="direction_south_east">Đông Nam</string>
+    <string name="direction_south_west">Tây Nam</string>
+	<string name="unit_degree">Độ</string>
     <string name="guide_toast">Để hiệu chỉnh la bàn, hãy di chuyển điện thoại của bạn như trong hình dưới đây.</string>
     <string name="mobiledata_alert_dialog_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="mobiledata_alert_dialog_message">Kết nối internet để đo đạc độ cao?</string>
@@ -54,13 +53,9 @@
     <string name="altitude_uncalibrate_msg">Không thể đo chính xác độ cao nếu không có kết nối dữ liệu di động hoặc GPS.</string>
     <string name="altitude_uncalibrate_refresh">Thử lại</string>
     <string name="altitude_uncalibrate_cancel">Hủy</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">Giới thiệu về La bàn</string>
     <string name="app_description_content">La bàn được sử dụng để điều hướng, định hướng và hiển thị phương hướng. Chắc chắn rằng bạn có thể thực hiện mà không cần tính năng này trước khi gỡ cài đặt ứng dụng.</string>
-    <string name="open_perm_msg">La bàn cần truy cập thông tin vị trí và máy ảnh để xác định hệ tọa độ địa lý và chế độ xem trực tiếp. Vẫn cho phép?</string>
-    <string name="open_perm_title">Yêu cầu quyền</string>
-    <string name="cancel">Hủy</string>
-    <string name="allow">Cho phép</string>
-    <string name="preference_other">Khác</string>
-    <string name="preference_privacy_title">Chính sách Riêng tư</string>
+    <string name="calibrate_altitude">Đang đo…</string>
+    <string name="getting_location">Đang đo…</string>
+    <string name="menu_calibrate">Cân chỉnh la bàn</string>
 </resources>
