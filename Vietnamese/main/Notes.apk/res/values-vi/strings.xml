@@ -78,7 +78,6 @@
     <string name="app_widget">Ghi chú</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
     <string name="widget_content_loading">Vui lòng chờ…</string>
-    <string name="notelist_string_info">...</string>
     <string name="note_alert_expired">Đã hết hạn</string>
     <string name="notealert_ok">Bỏ qua</string>
     <string name="notealert_enter">Mở ghi chú</string>

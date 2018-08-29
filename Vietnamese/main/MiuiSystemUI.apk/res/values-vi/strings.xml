@@ -506,7 +506,6 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="monitoring_description_named_vpn">Bạn đã kết nối %1$s. Ứng dụng này thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
     <string name="monitoring_description_personal_profile_named_vpn">Hồ sơ cá nhân của bạn đã kết nối %1$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
     <string name="monitoring_description_two_named_vpns">Bạn đã kết nối %1$s và %2$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_description_vpn_settings">Mở cài đặt VPN</string>
     <string name="monitoring_title">Giám sát mạng</string>
     <string name="monitoring_subtitle_ca_certificate">Chứng chỉ CA</string>
@@ -584,7 +583,6 @@ d MMMM"</string>
     <string name="settings_toggle_position">Quản lý phím nhanh</string>
     <string name="settings_toggle_position_divider_list">Các phím nhanh trên thanh này hoạt động</string>
     <string name="settings_toggle_position_reset">Thiết lập lại phím nhanh</string>
-    <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">Phím Mi</string>
     <string name="camera_key_action_category_title">Sử dụng nếu ứng dụng Máy ảnh không được mở</string>
     <string name="camera_key_action_none_title">Không có hoạt động nào</string>
@@ -803,10 +801,8 @@ d MMMM"</string>
     <string name="monitoring_description_do_header_generic">Thiết bị của bạn do %1$s quản lý.</string>
     <string name="monitoring_description_do_header_with_name">%1$s sử dụng %2$s để quản lý thiết bị của bạn.</string>
     <string name="monitoring_description_do_body">Quản trị viên của bạn có thể giám sát và quản lý cài đặt, quyền truy cập dữ liệu công ty, ứng dụng, dữ liệu được liên kết với thiết bị và thông tin vị trí thiết bị của bạn.</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_do_learn_more">Tìm hiểu thêm</string>
     <string name="monitoring_description_do_body_vpn">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_cert_settings">Mở thông tin xác thực tin cậy</string>
     <string name="monitoring_description_network_logging">"Quản trị viên đã bật tính năng ghi nhật ký mạng. Tính năng này giám sát lưu lượng truy cập trên thiết bị của bạn.
 
