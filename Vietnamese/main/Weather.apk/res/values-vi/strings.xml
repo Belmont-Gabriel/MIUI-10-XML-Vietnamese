@@ -76,8 +76,8 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="indices_title_visibility">Tầm nhìn</string>
     <string name="indices_title_uv">Chỉ số UV</string>
     <string name="indices_title_pressure">Áp suất</string>
-    <string name="indices_title_feel">Nhiệt độ</string>
-    <string name="indices_desc_feel">Nhiệt độ %1$s°C</string>
+    <string name="indices_title_feel">Cảm giác như</string>
+    <string name="indices_desc_feel">Cảm giác như %1$s°C</string>
     <string name="indices_title_sport">Thể thao</string>
     <string name="indices_title_car_wash">Rửa xe</string>
     <string name="indices_title_restriction">Hạn chế số xe</string>
@@ -89,29 +89,6 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="daily_forcast_no_wind">0</string>
     <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
     <string name="daily_forcast_whirl_wind">Gió lốc</string>
-<<<<<<< HEAD
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="daily_forecast_add_city_add">Theo dõi</string>
-    <string name="daily_forecast_add_city_message">Theo dõi thời tiết trên %1$s để xem chi tiết dự báo.</string>
-    <string name="daily_forecast_add_city_title">Theo dõi thời tiết trên %1$s</string>
-    <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_no_data">"Không thể nhận thông tin thời tiết
-Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
-    <string name="data_provided_by">Dữ liệu được cung cấp bởi</string>
-    <string name="edit_city">Quản lý thành phố</string>
-    <string name="eu_region_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý để Xiaomi thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố mà bạn tìm kiếm và các loại dữ liệu khác được quy định trong Chính sách Riêng tư. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách chạm vào \"Đồng ý\", bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
-    <string name="feedback_heavy_rain">Mưa lớn</string>
-    <string name="feedback_heavy_snow">Tuyết rơi</string>
-    <string name="feedback_light_rain">Mưa nhỏ</string>
-    <string name="feedback_overcast">Âm u</string>
-    <string name="feedback_result_fail_no_choice">Chọn thời tiết hiện tại</string>
-    <string name="feedback_result_success">Đã gửi thành công, cảm ơn phản hồi của bạn.</string>
-    <string name="feedback_sand">Bụi cát</string>
-    <string name="feedback_sunny">Quang</string>
-    <string name="first_start_network_title">Kết nối internet và truy cập thông tin vị trí</string>
-    <string name="global_aqi">AQI: %1$s %2$s</string>
-    <string name="hourly_forcast_now">Bây giờ</string>
-=======
     <string name="daily_forcast_no_stable_direction">Gió nhẹ</string>
     <string name="title_share_link">Chia sẻ URL</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
@@ -150,7 +127,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Gió</string>
-    <string name="realtime_humidity_title">Độ ẩm</string>
+    <string name="realtime_humidity_title">Độ ẩm tương đối</string>
     <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
     <string name="aqi_detail_sub_title">Chi tiết AQI</string>
     <string name="aqi_publish_time">Đã cập nhật %1$s</string>
@@ -179,7 +156,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="open">Mở</string>
     <string name="open_now">Mở</string>
     <string name="daily_forecast_detail_date">d/M</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="hourly_forecast_date">d/M</string>
     <string name="aqi_publish_source">Đã cập nhật vào lúc %1$s bởi CNEMC</string>
     <string name="aqi_data_source">๖ۣۜßεℓ™ - MIUI.VN</string>
@@ -194,7 +170,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="more_details">Thêm chi tiết</string>
     <string name="international_details_title">Chi tiết</string>
     <string name="international_details_wind_title">GIÓ</string>
-    <string name="international_details_real_feel_title">NHIỆT ĐỘ</string>
+    <string name="international_details_real_feel_title">CẢM THẤY NHƯ®</string>
     <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
     <string name="international_details_pressure_title">ÁP SUẤT</string>
     <string name="pressure_connect">%1$s mb</string>
@@ -207,19 +183,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="index_item_install_dialog" />
     <string name="index_item_install_dialog_cancel" />
     <string name="index_item_install_dialog_open" />
-<<<<<<< HEAD
-    <string name="index_item_install_now">Cài đặt ngay</string>
-    <string name="index_item_installing">Đang cài đặt</string>
-    <string name="indices_desc_humidity">Độ ẩm %1$s%%</string>
-    <string name="indices_title_feel">Cảm giác như</string>
-    <string name="indices_title_pressure">Áp suất</string>
-    <string name="install">Cài đặt</string>
-    <string name="international_details_pressure_title">ÁP SUẤT</string>
-    <string name="international_details_real_feel_title">REAL FEEL®</string>
-    <string name="international_details_title">Chi tiết</string>
-    <string name="international_details_uv_index_title">CHỈ SỐ UV</string>
-    <string name="international_details_wind_title">GIÓ</string>
-=======
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="set_land_mile">mph</string>
@@ -231,7 +194,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="night_not_disturb_settings_title">Không làm phiền buổi tối</string>
     <string name="night_not_disturb_settings_summary">Im lặng cảnh báo từ 23:00-7:00</string>
     <string name="reminder_from_xiaomi_weather_app">Cảnh báo Thời tiết Mi</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="it_is_going_to_rain">Trời sắp mưa</string>
     <string name="your_location">Vị trí của bạn</string>
     <string name="update_setting_title_text">Cập nhật thông tin thời tiết</string>
@@ -319,79 +281,4 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="privacy_revoke_failed">Không thể hủy ủy quyền. Chờ một hoặc hai phút và thử lại.</string>
     <string name="privacy_revoke_success">Hủy ủy quyền thành công</string>
     <string name="privacy_settings">Chính sách Riêng tư</string>
-<<<<<<< HEAD
-    <string name="pull_fresh_updated">Đã cập nhật thành công</string>
-    <string name="pull_fresh_updating">Đang cập nhật…</string>
-    <string name="radar_cloud_image_title">Bản đồ radar</string>
-    <string name="rainfall_settings_summary">Cảnh báo mưa</string>
-    <string name="rainfall_settings_title">Mưa</string>
-    <string name="real_time_sunrise">Bình minh %1$s</string>
-    <string name="real_time_sunset">Hoàng hôn %1$s</string>
-    <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
-    <string name="realtime_humidity_title">Độ ẩm tương đối</string>
-    <string name="realtime_temperature_no_data">Không có dữ liệu</string>
-    <string name="realtime_wind_default_title">Gió</string>
-    <string name="refresh_fail">Không thể kết nối mạng</string>
-    <string name="reminder_from_xiaomi_weather_app">Cảnh báo Thời tiết Mi</string>
-    <string name="retry">Hãy thử lại</string>
-    <string name="search_weather">Thời tiết</string>
-    <string name="search_weather_keywords">Nhiệt độ;Dự báo thời tiết;Thời tiết;Chất lượng không khí;Mức độ ô nhiễm;Độ ẩm</string>
-    <string name="set">Cài đặt</string>
-    <string name="set_degree_centigrade">°C</string>
-    <string name="set_fahrenheit">°F</string>
-    <string name="share">Chia sẻ</string>
-    <string name="share_button">Chia sẻ</string>
-    <string name="share_menu_title">Chia sẻ</string>
-    <string name="share_subject">Chia sẻ</string>
-    <string name="share_weather_desc">\#Thời tiết MIUI#Hôm nay %1$s %2$s</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Không thể chụp màn hình</string>
-    <string name="some_where_on_earth">Một nơi nào đó trên Trái đất</string>
-    <string name="sunrise">Bình minh</string>
-    <string name="sunset">Hoàng hôn</string>
-    <string name="temperature_unit_C">%1$s℃</string>
-    <string name="temperature_unit_F">%1$s℉</string>
-    <string name="title_share_link">Chia sẻ URL</string>
-    <string name="top_pollution_co">CO</string>
-    <string name="top_pollution_no2">NO2</string>
-    <string name="top_pollution_o3">O3</string>
-    <string name="top_pollution_pm10">PM10</string>
-    <string name="top_pollution_pm25">PM2.5</string>
-    <string name="top_pollution_so2">SO2</string>
-    <string name="traffic_control_daty_after_tomorrow_numbers">Ngày kia: %1$s</string>
-    <string name="traffic_control_today_numbers">Hôm nay: %1$s</string>
-    <string name="traffic_control_tomorrow_numbers">Ngày mai: %1$s</string>
-    <string name="traffic_controls">Hạn chế số xe</string>
-    <string name="tts_report_aqi" />
-    <string name="tts_report_defautl_head" />
-    <string name="tts_report_split" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_wind" />
-    <string name="unit">Đơn vị</string>
-    <string name="unit_temperature">Đơn vị nhiệt độ</string>
-    <string name="unit_wind">Đơn vị tốc độ gió</string>
-    <string name="update_night_setting_summary_text">Cập nhật thông tin thời tiết từ 23:00 đến 7:00</string>
-    <string name="update_night_setting_title_text">Cập nhật buổi tối tự động</string>
-    <string name="update_setting_title_text">Cập nhật thông tin thời tiết</string>
-    <string name="updated_a_moment_ago">Vừa cập nhật</string>
-    <string name="updating">Đang cập nhật…</string>
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_title" />
-    <string name="view_forecast_item_yesterday">Hôm qua</string>
-    <string name="view_indexes_item_today">Hôm nay</string>
-    <string name="view_indexes_item_tommorrow">Ngày mai</string>
-    <string name="wind_direction_no_data">Gió</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">Thời tiết cung cấp cho bạn thông tin thời tiết chính xác. Không có ứng dụng này, thanh trạng thái và tiện ích Thời tiết Màn hình chính không thể làm việc bình thường. Chắc chắn rằng bạn không cần tính năng này trước khi bạn gỡ cài đặt ứng dụng.</string>
-    <string name="xiaomi_weather_description_title">Giới thiệu Thời tiết</string>
-    <string name="yes_vote_ratio">Đồng ý %1$s%%</string>
-    <string name="your_location">Vị trí của bạn</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
 </resources>

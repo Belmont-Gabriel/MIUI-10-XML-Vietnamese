@@ -22,11 +22,7 @@
     <string name="save_as_pdf">Lưu dưới dạng PDF</string>
     <string name="all_printers">Tất cả máy in…</string>
     <string name="print_dialog">Hộp thoại in</string>
-<<<<<<< HEAD
-    <string name="page_description_template">Trang %1$d / %2$d</string>
-=======
     <string name="page_description_template">Trang %1$d/%2$d</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="summary_template">Tóm tắt, số bản sao %1$s, khổ giấy %2$s</string>
     <string name="expand_handle">Mở rộng điều khiển</string>
     <string name="collapse_handle">Thu gọn điều khiển</string>

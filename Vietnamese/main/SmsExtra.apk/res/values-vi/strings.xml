@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
-=======
     <string name="activity_not_found">Không tìm thấy ứng dụng nào để xử lý tác vụ này</string>
     <string name="back_to_message_list">Quay lại danh sách tin nhắn</string>
     <string name="confirm_delete_all_conversations">Xóa tất cả cuộc hội thoại?</string>
@@ -46,5 +44,4 @@
     <string name="view_message_details">Xem chi tiết</string>
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
->>>>>>> parent of 8e09ec3... Full Update
 </resources>

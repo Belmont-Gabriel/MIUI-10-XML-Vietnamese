@@ -762,47 +762,4 @@ Hãy thử tìm kiếm cái gì khác."</string>
 	<string name="offline_setting_mobile_net_limit_title">Giới hạn sử dụng dữ liệu di động</string>
 	<string name="offline_setting_mobile_net_unlimited">Không giới hạn</string>
 	<string name="offline_success">Tải xuống hoàn tất</string>
-	<string name="install">Cài dặt</string>
-    <string name="installing">Đang cài đặt</string>
-    <string name="message_center_activity_title">Tin nhắn của tôi</string>
-    <string name="message_center_activity_title_setting">Cài đặt</string>
-    <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Me&lt;/font></Data>: %s</string>
-    <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>My&lt;/font></Data> trả lời <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
-    <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> đã trả lời:</string>
-    <string name="message_list_fragment_login_comment">Đăng nhập để xem tin nhắn về bình luận.</string>
-    <string name="message_list_fragment_login_praise">Đăng nhập để xem tin nhắn về lượt thích.</string>
-    <string name="message_list_fragment_no_message">"Không có tin nhắn."</string>
-    <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=#3f3f3f>and&lt;/font></Data> %3$s <Data>&lt;font color=#3f3f3f>người khác&lt;/font></Data></string>
-    <string name="message_praise_item_my_content"><Data>&lt;font color=#3f3f3f>Me&lt;/font></Data>: %s</string>
-    <string name="message_praise_item_my_reply_content"><Data>&lt;font color=#3f3f3f>My&lt;/font></Data> trả lời <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
-    <string name="message_praise_item_praise">Yêu thích bình luận của bạn</string>
-    <string name="message_praise_item_praised">Đã yêu thích</string>
-    <string name="message_setting">Quản lý tin nhắn</string>
-    <string name="message_setting_clear_message_dialog_clear_all">Tất cả tin nhắn</string>
-    <string name="message_setting_clear_message_dialog_clear_comment">Tin nhắn về những bình luận</string>
-    <string name="message_setting_clear_message_dialog_clear_notification">Thông báo</string>
-    <string name="message_setting_clear_message_dialog_clear_prasie">Tin nhắn về lượt yêu thích</string>
-    <string name="message_setting_clear_message_dialog_title">Xóa tin nhắn</string>
-    <string name="message_setting_clear_message_title">Xóa tin nhắn</string>
-    <string name="message_setting_clear_message_toast_fail">"Không thể xóa"</string>
-    <string name="message_setting_clear_message_toast_success">Đã xóa</string>
-    <string name="message_setting_unread_message_summary">Bật để nhận thông báo</string>
-    <string name="message_setting_unread_message_title">Thông báo về tin nhắn chưa đọc</string>
-    <string name="notification_desc_offline">Thông báo khi tải xuống thành công</string>
-    <string name="notification_name_apklaunch">Thông báo khi chạy một ứng dụng khác</string>
-    <string name="notification_name_appupdate">Làm mới thông báo</string>
-    <string name="notification_name_common">Thông báo thường xuyên</string>
-    <string name="notification_name_message_push">Thông báo đẩy</string>
-    <string name="notification_name_offline">Thông báo đã tải xuống</string>
-    <string name="open">Mở</string>
-    <string name="operate_message_item_dialog_comment">Xem bình luận</string>
-    <string name="operate_message_item_dialog_delete">Xóa</string>
-    <string name="operate_message_item_dialog_reply">Trả lời</string>
-    <string name="operate_message_item_dialog_video">Lượt xem \"%s\"</string>
-    <string name="privacy">Chính sách bảo mật</string>
-    <string name="toast_operate_message_delete_success">Đã xóa</string>
-    <string name="toast_gprs_network">Sử dụng dữ liệu di động để phát video…</string>
-    <string name="v_notification_settings_summary">Thông báo trên thanh trạng thái</string>
-    <string name="v_notification_settings_title">Quản lý thông báo</string>
-    <string name="dolby_audio_cant_play">"Không thể phát bản âm thanh này do các hạn chế bản quyền."</string>
 </resources>

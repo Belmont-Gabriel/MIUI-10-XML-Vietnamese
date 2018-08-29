@@ -63,11 +63,6 @@
     <string name="accessibility_wifi_two_bars">Tín hiệu Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Tín hiệu Wi-Fi ba vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đủ.</string>
-<<<<<<< HEAD
-    <string name="accessibility_wifi_security_type_none">Mạng mở</string>
-    <string name="accessibility_wifi_security_type_secured">Mạng bảo mật</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng bị xóa</string>
     <string name="tether_settings_title_usb">Truy cập Internet qua USB</string>
@@ -262,17 +257,6 @@
     <string name="accessibility_display_daltonizer_preference_title">Sửa màu</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm và có thể ảnh hưởng đến hoạt động.</string>
     <string name="daltonizer_type_overridden">Bị ghi đè bởi %1$s</string>
-<<<<<<< HEAD
-    <string name="power_remaining_duration_only">Còn khoảng ^1</string>
-    <string name="power_remaining_duration_only_enhanced">Còn khoảng ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_remaining_charging_duration_only">Còn ^1 cho tới khi được sạc đầy</string>
-    <string name="power_remaining_duration_only_short">Còn lại ^1</string>
-    <string name="power_remaining_duration_only_short_enhanced">Còn ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration">^1 - còn khoảng ^2</string>
-    <string name="power_discharging_duration_enhanced">^1 - còn khoảng ^2 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration_short">^1 - còn lại ^2</string>
-    <string name="power_charging_duration">^1 - ^2 cho tới khi được sạc đầy</string>
-=======
     <string name="power_remaining_duration_only">Còn khoảng %1$s</string>
     <string name="power_remaining_duration_only_short">Còn lại %1$s</string>
     <string name="power_discharging_duration">%1$s - còn khoảng %2$s</string>
@@ -281,7 +265,6 @@
     <string name="power_charging_duration_ac">%1$s - %2$s cho đến khi đầy khi cắm vào nguồn AC</string>
     <string name="power_charging_duration_usb">%1$s - %2$s cho đến khi đầy qua USB</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s cho đến khi đầy từ không dây</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_ac">Sạc trên AC</string>
@@ -506,16 +489,6 @@
     <string name="sum_cfu_enabled_no_number">Số không có</string>
     <string name="sum_cfu_disabled">Tắt</string>
     <string name="set_time_period">Đặt thời gian</string>
-<<<<<<< HEAD
-    <string name="all_day">" Cả ngày "</string>
-    <string name="time_start">" Từ "</string>
-    <string name="time_start_hour">thời gian bắt đầu giờ</string>
-    <string name="time_start_minute">thời gian bắt đầu phút</string>
-    <string name="time_end">" Đến "</string>
-    <string name="time_next_day">" ngày kế tiếp "</string>
-    <string name="time_end_hour">thời gian kết thúc giờ</string>
-    <string name="time_end_minute">thời gian kết thúc phút</string>
-=======
     <string name="all_day">Cả ngày</string>
     <string name="time_start">Từ</string>
     <string name="time_start_hour">Thời gian bắt đầu (giờ)</string>
@@ -523,7 +496,6 @@
     <string name="time_end">Tới</string>
     <string name="time_end_hour">Thời gian kết thúc (giờ)</string>
     <string name="time_end_minute">Thời gian kết thúc (phút)</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="time_formate_am">SA</string>
     <string name="time_formate_pm">CH</string>
     <string name="labelCFB">Chuyển tiếp khi bận</string>
@@ -955,11 +927,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="accessibility_settings_activity_title">Khả năng truy cập</string>
     <string name="status_hint_label_incoming_wifi_call">Cuộc gọi Wi-Fi đến</string>
     <string name="status_hint_label_wifi_call">Cuộc gọi Wi-Fi</string>
-<<<<<<< HEAD
-    <string name="emergency_action_launch_hint">Chạm lại để mở</string>
-=======
     <string name="emergency_action_launch_hint">Chạm lần nữa để mở</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="message_decode_error">Lỗi khi giải mã tin nhắn.</string>
     <string name="callFailed_cdma_activation">Thẻ SIM đã kích hoạt dịch vụ và cập nhật khả năng chuyển vùng điện thoại.</string>
     <string name="callFailed_cdma_call_limit">Thực hiện quá nhiều cuộc gọi. Kết thúc hoặc hợp nhất các cuộc gọi hiện có trước khi thực hiện cuộc gọi mới.</string>
@@ -1558,6 +1526,7 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="unlock_failed">Yêu cầu mở khóa Mạng SIM không thành công.</string>
     <string name="unlock_success">Mạng SIM mở khóa thành công.</string>
     <string name="time_zone_gmt">GMT</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="label_nsdp">Mở khóa SIM mạng con</string>
     <string name="label_cdp">Công ty SIM mở khóa PIN</string>
     <string name="label_spdp">Nhà cung cấp dịch vụ SIM mở khóa PIN</string>

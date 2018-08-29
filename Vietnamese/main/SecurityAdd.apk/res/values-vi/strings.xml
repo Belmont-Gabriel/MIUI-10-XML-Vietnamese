@@ -13,8 +13,6 @@
     <string name="no_network_btn">Hãy thử lại</string>
     <string name="main_toolbar_purchase">Nạp tiền</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
-<<<<<<< HEAD
-=======
     <string name="month_report_activity_label">Báo cáo tháng</string>
     <string name="month_report_disconnect_tip">Không thể kết nối mạng</string>
     <string name="month_report_click_reconnect_network">Hãy thử lại</string>
@@ -33,7 +31,6 @@
     <string name="month_report_follow_service_positive">Theo dõi</string>
     <string name="month_report_follow_service_negative">Không, cảm ơn</string>
     <string name="app_not_installed_toast">Ứng dụng chưa được cài đặt trên thiết bị của bạn.</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="share">Chia sẻ</string>
     <string name="open_browser">Mở trong trình duyệt</string>
     <string name="title_share_link">Chia sẻ URL</string>

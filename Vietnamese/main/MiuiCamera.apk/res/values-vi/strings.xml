@@ -354,31 +354,8 @@
     <string name="dual_camera_too_close_toast">Máy ảnh quá gần với đối tượng.</string>
     <string name="dual_camera_lowlight_toast">Dường như ở đây quá tối.</string>
     <string name="dual_camera_lens_covered_toast">Ống kính bị che khuất.</string>
-<<<<<<< HEAD
-    <string name="dual_camera_use_hint">Đảm bảo rằng khoảng cách máy ảnh và đối tượng không xa hơn 2 mét.</string>
-    <string name="bokeh_use_hint">Xóa phông</string>
-    <string name="back_bokeh_use_hint">Đảm bảo rằng khoảng cách máy ảnh và đối tượng không xa hơn 1.5 mét.</string>
-    <string name="pref_camera_zoom_ratio_wide">100</string>
-    <string name="pref_camera_zoom_ratio_tele">200</string>
-    <string name="pref_camera_zoom_mode_title">ỐNG KÍNH</string>
-    <string name="pref_camera_zoom_mode_entry_wide">GÓC RỘNG</string>
-    <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_standard">THÔNG THƯỜNG</string>
-    <string name="pref_camera_zoom_mode_entry_high_pixel">ÁNH SÁNG YẾU</string>
-    <string name="pref_camera_zoom_value_title">Thu phóng</string>
-    <string name="pref_camera_portrait_mode_title">Chế độ chân dung</string>
-    <string name="pref_camera_portrait_mode_entry_off">Tắt chế độ chân dung</string>
-    <string name="pref_camera_portrait_mode_entry_on">Bật Chế độ chân dung</string>
-    <string name="portrait_mode_lowlight_hint">Quá tối</string>
-    <string name="portrait_mode_too_close_hint">Di chuyển xa hơn</string>
-    <string name="portrait_mode_too_far_hint">Đặt đối tượng trong phạm vi 2m</string>
-    <string name="portrait_mode_depth_effect_success_hint">Xóa phông</string>
-    <string name="portrait_mode_use_hint">"Chế độ chân dung làm mờ bối cảnh
-và nổi bật đối tượng phía trước."</string>
-=======
     <string name="dual_camera_use_hint">"Chế độ lập thể giúp bạn làm mờ bối cảnh.
 Khoảng cách máy ảnh và đối tượng không nên xa hơn 2 mét."</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="pref_camera_square_mode_title">Ảnh vuông</string>
     <string name="simple_mode_button_text_square">Tắt Ảnh vuông</string>
     <string name="face_beauty_smart">Thông minh</string>
@@ -393,10 +370,7 @@ Khoảng cách máy ảnh và đối tượng không nên xa hơn 2 mét."</stri
     <string name="pref_camera_beautify_entry_low">Thấp</string>
     <string name="pref_camera_beautify_entry_normal">Trung bình</string>
     <string name="pref_camera_beautify_entry_high">Cao</string>
-<<<<<<< HEAD
-=======
     <string name="pref_camera_beautify_entry_close">Tắt</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="camera_mode_options">Chế độ</string>
     <string name="button_front_camera_title">Chụp ảnh selfie</string>
     <string name="button_normal_video_title">Quay video</string>

@@ -37,39 +37,6 @@
         <item>Khác</item>
         <item>Tùy chỉnh</item>
     </string-array>
-    <string-array name="app_ops_labels">
-        <item>Đang cố bật Wi-Fi</item>
-        <item>Đang cố bật BlueTooth</item>
-    </string-array>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Thử lại</item>
-        <item></item>
-        <item></item>
-        <item>Dùng ngón tay của bạn che máy quét vân tay hoàn toàn và sử dụng 1 chút lực</item>
-        <item></item>
-        <item>Dùng ngón tay của bạn che máy quét vân tay hoàn toàn và sử dụng 1 chút lực</item>
-        <item>Dùng ngón tay của bạn che máy quét vân tay hoàn toàn và sử dụng 1 chút lực</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Dùng ngón tay của bạn che máy quét vân tay hoàn toàn và sử dụng 1 chút lực</item>
-        <item>Dùng ngón tay của bạn che máy quét vân tay hoàn toàn và sử dụng 1 chút lực</item>
-        <item>"Quá nhanh! Không thể nhận dạng vân tay"</item>
-        <item>Di chuyển ngón tay của bạn một chút và thử lại</item>
-        <item>Nhấc ngón tay lên và đặt lại trên máy quét</item>
-        <item>Giữ ngón tay của bạn trên máy quét lâu hơn một chút</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Di chuyển ngón tay của bạn một chút</item>
-        <item>Dấu vân tay này đã được thêm, sử dụng ngón tay khác</item>
-    </string-array>
     <string-array name="imAddressTypes">
         <item>Nhà riêng</item>
         <item>Cơ quan</item>
@@ -77,7 +44,7 @@
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>Dữ liệu di động</item>
+        <item>dữ liệu di động</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>

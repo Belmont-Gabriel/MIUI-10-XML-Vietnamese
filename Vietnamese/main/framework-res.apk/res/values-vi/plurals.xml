@@ -78,7 +78,7 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d trong số %2$d</item>
-        <item quantity="one">1 kết quả</item>
+        <item quantity="one">1 trận đấu</item>
     </plurals>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Bạn còn %d lần thử trước khi SIM bị khóa.</item>

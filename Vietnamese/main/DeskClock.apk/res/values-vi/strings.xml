@@ -121,10 +121,6 @@
     <string name="shutdown_alarm_disable_summary">Báo thức sẽ không đổ chuông sau khi tắt nguồn</string>
     <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông sau khi tắt nguồn</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
-<<<<<<< HEAD
-    <string name="silent_alarm_summary">Im lặng</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
     <string name="slider_text">Trượt lên để tắt</string>
     <string name="snooze_confirm_cancel">Bỏ qua báo thức</string>

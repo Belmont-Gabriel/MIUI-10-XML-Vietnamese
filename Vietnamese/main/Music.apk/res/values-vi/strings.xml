@@ -293,39 +293,6 @@
     <string name="error_not_acceptable">Đồng bộ đã bị tắt.</string>
     <string name="error_title">Không thể đồng bộ với Tài khoản Mi</string>
     <string name="error_unauthorized">Đồng bộ đã bị tắt do cố gắng đăng nhập quá nhiều.</string>
-<<<<<<< HEAD
-    <string name="exo_controls_fastforward_description">Tua đi</string>
-    <string name="exo_controls_fullscreen_description">Chế độ toàn màn hình</string>
-    <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
-    <string name="exo_controls_pause_description">Tạm dừng</string>
-    <string name="exo_controls_play_description">Phát</string>
-    <string name="exo_controls_previous_description">Bản nhạc trước</string>
-    <string name="exo_controls_repeat_all_description">Lặp lại tất cả</string>
-    <string name="exo_controls_repeat_off_description">Không lặp lại</string>
-    <string name="exo_controls_repeat_one_description">Lặp lại một</string>
-    <string name="exo_controls_rewind_description">Tua lại</string>
-    <string name="exo_controls_shuffle_description">Phát ngẫu nhiên</string>
-    <string name="exo_controls_stop_description">Dừng</string>
-    <string name="exo_download_completed">Đã hoàn tất tải xuống</string>
-    <string name="exo_download_description">Tải xuống</string>
-    <string name="exo_download_downloading">Đang tải xuống</string>
-    <string name="exo_download_failed">Không tải xuống được</string>
-    <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
-    <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_mono">Đơn âm</string>
-    <string name="exo_track_selection_auto">Tự động</string>
-    <string name="exo_track_selection_none">Không</string>
-    <string name="exo_track_selection_title_audio">Âm thanh</string>
-    <string name="exo_track_selection_title_text">Văn bản</string>
-    <string name="exo_track_selection_title_video">Video</string>
-    <string name="exo_track_stereo">Âm thanh nổi</string>
-    <string name="exo_track_surround">Âm thanh vòm</string>
-    <string name="exo_track_surround_5_point_1">Âm thanh vòm 5.1</string>
-    <string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
-    <string name="exo_track_unknown">Không xác định</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="expired">Đã hết hạn</string>
     <string name="fail_to_fetch_payment_page_url">Không thể nhận thông tin thanh toán</string>
     <string name="fail_to_play">Không thể phát bài hát</string>

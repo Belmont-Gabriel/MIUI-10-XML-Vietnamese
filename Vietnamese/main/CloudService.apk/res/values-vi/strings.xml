@@ -65,11 +65,7 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Đồng bộ</string>
     <string name="sync_dspt_provision">"Đồng bộ ảnh, liên hệ, ghi chú, và nhiều thứ nữa trên tất cả các thiết bị của bạn hoặc truy cập chúng tại "</string>
-<<<<<<< HEAD
     <string name="sync_dspt_provision3">". Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.
-=======
-    <string name="sync_dspt_provision3">". Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.
->>>>>>> parent of 8e09ec3... Full Update
 "</string>
     <string name="sync_dspt_entrance_provision">"Đồng bộ ảnh, liên hệ, lịch sử cuộc gọi, và tin nhắn trên tất cả các thiết bị. Truy cập những thứ bạn đồng bộ từ bất cứ trình duyệt nào tại %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Tìm hiểu thêm</string>
@@ -80,11 +76,8 @@
     <string name="sync_dspt_entrance_provision_skip">Bỏ qua bước này</string>
     <string name="sync_dspt_entrance_provision_network">Ứng dụng này cần kết nối mạng để làm việc bình thường. Đồng bộ dữ liệu có thể yêu cầu kết nối dữ liệu di động và bật Wi-Fi.</string>
     <string name="find_device_dspt_provision">Nếu bạn đánh mất thiết bị, bạn có thể truy cập %s để định vị, khóa, hoặc đặt lại thiết bị. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
-<<<<<<< HEAD
-=======
     <string name="find_device_dspt_provision_3">. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
     <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
     <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho thiết bị MIUI khác mà không phải trả phí khi kết nối Wi-Fi.
 Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt."</string>

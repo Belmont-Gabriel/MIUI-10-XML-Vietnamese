@@ -140,8 +140,8 @@
         <item>22/12 - 19/01</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Tiến tới</item>
-        <item>Lùi lại</item>
+        <item>Về trước</item>
+        <item>Về sau</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Vào thời gian sự kiện</item>
@@ -154,14 +154,6 @@
         <item>Trước 2 ngày</item>
         <item>Trước 1 tuần</item>
     </string-array>
-<<<<<<< HEAD
-    <string-array name="delete_repeating_labels">
-        <item>Chỉ sự kiện này</item>
-        <item>Sự kiện này và trong tương lai</item>
-        <item>Tất cả sự kiện</item>
-    </string-array>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string-array name="gemini_info">
         <item>cung song tử</item>
         <item>Cung Song Tử</item>

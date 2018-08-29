@@ -223,11 +223,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="file_uploading">Đang tải lên…</string>
     <string name="new_backup">Sao lưu</string>
     <string name="restore_backup">Khôi phục</string>
-<<<<<<< HEAD
-    <string name="enable_encrypt_description">Mã hóa</string>
-    <string name="disable_encrypt_description">Không mã hóa</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="state_waiting">Vui lòng chờ…</string>
     <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>

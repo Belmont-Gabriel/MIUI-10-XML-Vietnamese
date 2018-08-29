@@ -63,11 +63,6 @@
     <string name="accessibility_wifi_two_bars">Tín hiệu Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Tín hiệu Wi-Fi ba vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đủ.</string>
-<<<<<<< HEAD
-    <string name="accessibility_wifi_security_type_none">Mạng mở</string>
-    <string name="accessibility_wifi_security_type_secured">Mạng bảo mật</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng bị xóa</string>
     <string name="tether_settings_title_usb">Chia sẻ kết nối Internet qua USB</string>
@@ -262,17 +257,6 @@
     <string name="accessibility_display_daltonizer_preference_title">Sửa màu</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm và có thể ảnh hưởng đến hoạt động.</string>
     <string name="daltonizer_type_overridden">Bị ghi đè bởi %1$s</string>
-<<<<<<< HEAD
-    <string name="power_remaining_duration_only">Còn khoảng ^1</string>
-    <string name="power_remaining_duration_only_enhanced">Còn khoảng ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_remaining_charging_duration_only">Còn ^1 cho tới khi được sạc đầy</string>
-    <string name="power_remaining_duration_only_short">Còn lại ^1</string>
-    <string name="power_remaining_duration_only_short_enhanced">Còn ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration">^1 - còn khoảng ^2</string>
-    <string name="power_discharging_duration_enhanced">^1 - còn khoảng ^2 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration_short">^1 - còn lại ^2</string>
-    <string name="power_charging_duration">^1 - ^2 cho tới khi được sạc đầy</string>
-=======
     <string name="power_remaining_duration_only">Còn khoảng %1$s</string>
     <string name="power_remaining_duration_only_short">Còn lại %1$s</string>
     <string name="power_discharging_duration">%1$s - còn khoảng %2$s</string>
@@ -281,7 +265,6 @@
     <string name="power_charging_duration_ac">%1$s - %2$s cho đến khi đầy khi cắm vào nguồn AC</string>
     <string name="power_charging_duration_usb">%1$s - %2$s cho đến khi đầy qua USB</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s cho đến khi đầy từ không dây</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_ac">Sạc trên AC</string>

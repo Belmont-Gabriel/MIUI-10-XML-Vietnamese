@@ -78,6 +78,7 @@
     <string name="app_widget">Ghi chú</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
     <string name="widget_content_loading">Vui lòng chờ…</string>
+    <string name="notelist_string_info">...</string>
     <string name="note_alert_expired">Đã hết hạn</string>
     <string name="notealert_ok">Bỏ qua</string>
     <string name="notealert_enter">Mở ghi chú</string>
@@ -91,25 +92,6 @@
     <string name="menu_folders">Thư mục</string>
     <string name="menu_stick">Ghim</string>
     <string name="menu_unstick">Gỡ</string>
-<<<<<<< HEAD
-    <string name="not_now">Không phải bây giờ</string>
-    <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Mi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
-    <string name="note_description_title">Giới thiệu về Ghi chú </string>
-    <string name="note_link_email">Soạn email</string>
-    <string name="note_link_other">Mở bằng ứng dụng bản đồ</string>
-    <string name="note_link_select">Chọn văn bản</string>
-    <string name="note_link_tel">Gọi</string>
-    <string name="note_link_web">Xem trong trình duyệt</string>
-    <string name="note_sort_way">Chọn cách bạn muốn sắp xếp ghi chú</string>
-    <string name="notealert_enter">Mở ghi chú</string>
-    <string name="notealert_ok">Bỏ qua</string>
-    <string name="notify_alarm_title">Nhắc nhở ghi chú</string>
-    <string name="permdesc_accessNote">Ứng dụng độc hại có thể sử dụng để truy cập thông tin cá nhân của bạn.</string>
-    <string name="permlab_accessNote">Truy cập ghi chú</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Không yêu cầu xác nhận khi xóa ghi chú bằng cử chỉ</string>
-    <string name="pref_title_cloud_trash_bin">Đã xóa ghi chú trên Mi Cloud</string>
-    <string name="pref_title_common">Cài đặt bổ sung</string>
-=======
     <string name="folder_exist">Một thư mục có cùng tên đã tồn tại</string>
     <string name="menu_send_to_desktop">Thêm vào màn hình chính</string>
     <string name="menu_title_select_folder">Chọn thư mục</string>
@@ -136,7 +118,6 @@
     <string name="error_unsupport_content">Ghi chú này chứa nội dung không được hỗ trợ, chạm vào đây để cập nhật</string>
     <string name="error_contact_not_exist">Liên hệ không tồn tại</string>
     <string name="sync_tips">Chạm để đồng bộ ghi chú với Mi Cloud.</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="pref_title_font_size">Cỡ chữ</string>
     <string name="call_folder_name">Ghi chú cuộc gọi</string>
     <string name="trash_folder_name">Thùng rác</string>

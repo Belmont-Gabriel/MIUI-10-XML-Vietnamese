@@ -449,23 +449,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="family_member_invitation_text">Thành viên gia đình khác</string>
     <string name="fast_share_auto_render">Làm đẹp</string>
     <string name="fast_share_auto_render_finish">Đã làm đẹp</string>
-<<<<<<< HEAD
-    <string name="feature_guidance_photo_effects">"Hiệu ứng ảnh mới 
-khả dụng"</string>
-    <string name="feature_guidance_video_editor_smart_effects">Hiệu ứng ảnh mới khả dụng</string>
-    <string name="filter_bi_memory">Hồi ức</string>
-    <string name="filter_bi_mono">Đơn sắc</string>
-    <string name="filter_bi_pink">Hồng</string>
-    <string name="filter_bi_portrait">Chân dung</string>
-    <string name="filter_bi_retro">Hoài cổ</string>
-    <string name="filter_bi_romantic">Lãng mạn</string>
-    <string name="filter_bi_strong">Mạnh mẽ</string>
-    <string name="filter_bi_sunny">Nắng</string>
-    <string name="filter_bi_sweet">Ngọt ngào</string>
-    <string name="filter_bi_warm">Ấm áp</string>
-    <string name="filter_bi_young">Trẻ trung</string>
-=======
->>>>>>> parent of 8e09ec3... Full Update
     <string name="filter_category_film">Phim</string>
     <string name="filter_category_food">Thức ăn</string>
     <string name="filter_category_portrait">Chân dung</string>
@@ -513,13 +496,8 @@ khả dụng"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Đặt</string>
-<<<<<<< HEAD
-    <string name="grant_permission_text">"Thư viện cần truy cập vào 
-%s
-=======
     <string name="grant_permission_text">"Thư viện cần truy cập vào \u000d
 %s\u000d
->>>>>>> parent of 8e09ec3... Full Update
  để hoạt động bình thường, chạm \"Đặt\" để truy cập Quyền."</string>
     <string name="grant_permission_title">Cho phép truy cập</string>
     <string name="grant_permission_unlock_and_set">Mở khóa và đặt</string>
@@ -1130,12 +1108,7 @@ khả dụng"</string>
     <string name="video_not_exist">Video không tồn tại</string>
     <string name="view_by_gallery_tip">Thư viện MIUI</string>
     <string name="view_face_album">Xem album</string>
-<<<<<<< HEAD
-    <string name="view_more_face_desc">Xem thêm người</string>
-    <string name="voice_assistant">Nhập thoại</string>
-=======
     <string name="view_queuing_status">Kiểm tra trạng thái</string>
->>>>>>> parent of 8e09ec3... Full Update
     <string name="welcome_to_micloud">Chào mừng sử dụng Mi Cloud</string>
     <string name="where_is_barcode">Mã QR ở đâu?</string>
     <string name="who_is_this">Đây là ai?</string>
