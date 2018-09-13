@@ -372,7 +372,6 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Mã tính năng đã hoàn tất.</string>
     <string name="fcError">Sự cố kết nối hoặc mã tính năng không hợp lệ.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Tìm</string>
     <string name="find_next">Tìm kết quả phù hợp tiếp theo</string>
     <string name="find_on_page">Tìm kiếm trên trang</string>
@@ -1527,7 +1526,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
     <string name="zen_mode_forever_dnd">Cho đến khi bạn tắt Đừng làm phiền</string>
-    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Cho đến %1$s</string>
     <string name="RestrictedStateContentMsimTemplate">Nhà mạng đã tạm thời tắt dịch vụ này đối với SIM %d</string>
     <string name="add_calendar_event">Lịch biểu</string>
