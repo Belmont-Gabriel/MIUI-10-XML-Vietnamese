@@ -2418,8 +2418,6 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="button_first_aid_kit">Sửa ngay</string>
      <string name="button_restrict_data_usage">Cho phép</string>
      <string name="card_main_gamebooster_summary">Tăng ổn định kết nối để chơi game</string>
-     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
-     <string name="ellipsis">…</string>
      <string name="exo_controls_fastforward_description">Tua đi</string>
      <string name="exo_controls_fullscreen_description">Chế độ toàn màn hình</string>
      <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
@@ -2439,9 +2437,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
      <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
      <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
      <string name="exo_track_mono">Đơn âm</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_selection_auto">Tự động</string>
      <string name="exo_track_selection_none">Không</string>
      <string name="exo_track_selection_title_audio">Âm thanh</string>
@@ -2569,10 +2565,6 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="menu_summary_power_manager_2">Còn lại %s</string>
      <string name="menu_summary_power_manager_3">Kết nối bộ sạc</string>
      <string name="menu_summary_power_manager_4">%s đến khi đầy</string>
-     <string name="menu_text_garbage_cleanup_danger">%s</string>
-     <string name="menu_text_networkassistants_2">%s</string>
-     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
-     <string name="menu_text_power_percent_title">%s</string>
      <string name="midrop_post_notification_contentText">Thử Mi Drop. Nhanh và không có quảng cáo.</string>
      <string name="midrop_post_notification_contentTitle">Cần chuyển tập tin?</string>
      <string name="network_traffic_warning_text">MIUI không thể thống kê sử dụng dữ liệu cho ứng dụng hệ thống riêng lẻ ở đây. Bạn sẽ không thể nhìn thấy thông tin chi tiết liên quan về sử dụng dữ liệu trong ứng dụng trong trường hợp ứng dụng này sử dụng dữ liệu di động chủ động.</string>
@@ -2581,13 +2573,10 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="notification_exit_extreme_mode_title">Đã tắt Siêu tiết kiệm pin</string>
      <string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
      <string name="notify_channel_name_security">Bảo mật hệ thống</string>
-     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
      <string name="pc_main_activity_back">Quay lại</string>
      <string name="pc_settings_title">Cài đặt sử dụng pin</string>
      <string name="power_center_hints_scan_danger_result">Bạn có thể sửa vấn đề pin ngay</string>
      <string name="power_center_list_item_auto_brightness">Tự động điều chỉnh độ sáng màn hình</string>
-     <string name="power_center_list_item_battery_status_capacity">mAh</string>
-     <string name="power_center_list_item_battery_status_temperature">℃</string>
      <string name="power_center_list_item_battery_status_time">giờ</string>
      <string name="power_center_list_item_close_bluetooth">Tắt Bluetooth</string>
      <string name="power_center_list_item_deep_save_title">Cài đặt nâng cao</string>
@@ -2606,7 +2595,6 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="power_center_scan_result_safe">Không tìm thấy vấn đề pin</string>
      <string name="power_center_stop_scan_title">Dừng quét</string>
      <string name="power_save_started_summary_text">power_save_started_summary_text\">Tiết kiệm Pin đang bật. Nó làm giảm hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
-     <string name="pref_operator_setting">%1$s%2$s</string>
      <string name="privacy_apps">Ứng dụng ẩn</string>
      <string name="privacy_apps_category_title">Ứng dụng ẩn</string>
      <string name="privacy_apps_checkbox_remind_choice">Không hiển thị lại</string>
@@ -2621,7 +2609,6 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
 Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
      <string name="privacy_apps_tutorial_prompt_pagethree">Sau khi bạn nhập mật khẩu, thư mục ứng dụng ẩn sẽ xuất hiện.</string>
      <string name="privacy_apps_tutorial_prompt_pagetwo">Trượt hai ngón tay trên màn hình. Bạn sẽ nhìn thấy tin nhắn yêu cầu bạn nhập mật khẩu Khóa ứng dụng.</string>
-     <string name="process_kernel_label">Android</string>
      <string name="reset_data_dialog_message">Thiết bị này chưa được liên kết với Tài khoản Mi của bạn. Không thể khôi phục hoặc đặt lại mật khẩu. Sao lưu tất cả các mục quan trọng và thực hiện đặt lại dữ liệu gốc. Tất cả dữ liệu sẽ bị xóa vĩnh viễn, thẻ SD của bạn sẽ được định dạng trong khi đặt lại dữ liệu gốc.</string>
      <string name="reset_data_dialog_ok">Đặt lại dữ liệu gốc</string>
      <string name="reset_data_title">Không thể khôi phục mật khẩu</string>
