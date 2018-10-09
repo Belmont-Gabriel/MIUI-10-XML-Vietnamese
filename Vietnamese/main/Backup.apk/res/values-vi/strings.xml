@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="comma_seperator">", "</string>
+     <string name="digit_percent">%</string>
+     <string name="err_acquire_system_service">Không thể bắt đầu dịch vụ hệ thống.</string>
+     <string name="err_not_allow">Không hỗ trợ</string>
+     <string name="feature_title_contacts">Liên hệ</string>
+     <string name="feature_title_sms">Tin nhắn</string>
+     <string name="flash_drive_backup_btn">Sao lưu trên ổ USB</string>
+     <string name="flash_drive_backup_note">"Sao lưu ứng dụng vào ổ USB.
+Chắc chắn ổ USB có đủ dung lượng lưu trữ trước khi bạn bắt đầu."</string>
+     <string name="flash_drive_backup_restore">Sao lưu USB</string>
+     <string name="flash_drive_connection_failed">Đã ngắt kết nối ổ USB</string>
+     <string name="flash_drive_restore_btn">Khôi phục từ ổ USB</string>
+     <string name="flash_drive_search_backup_files">"Đang tìm sao lưu USB…
+Không thay đổi hoặc đổi tên tập tin sao lưu."</string>
+     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+     <string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b>%s&lt;/b>.</string>
+     <string name="lack_perm_title">Yêu cầu quyền</string>
+     <string name="notif_miasist_try_to_connect">Mi PC Suite đang cố gắng kết nối với thiết bị của bạn</string>
+     <string name="perm_camera">Máy ảnh</string>
+     <string name="perm_location">Vị trí</string>
+     <string name="perm_read_call_log">Đọc lịch sử cuộc gọi</string>
+     <string name="perm_read_contacts">Đọc liên hệ</string>
+     <string name="perm_read_phone_state">Đọc trạng thái điện thoại</string>
+     <string name="perm_read_sms">Đọc SMS</string>
+     <string name="perm_storage">Đọc và ghi trên bộ nhớ ngoài</string>
+     <string name="platform_chooser_item_android_mi">Điện thoại Mi</string>
+     <string name="platform_chooser_item_android_others">Thương hiệu khác</string>
+     <string name="storage_sd_card">Thẻ SD</string>
+     <string name="storage_usb">Ổ USB</string>
+     <string name="trans_button_exit">Thoát</string>
+     <string name="trans_button_stay">Sử dụng</string>
+     <string name="trans_calculating_app_sd_description">Dữ liệu trên thẻ SD</string>
+     <string name="trans_calculating_media_description">Tập tin phương tiện</string>
+     <string name="trans_calculating_tip">Đang tính %s…</string>
+     <string name="trans_cancel_selection_message">Nếu bạn thoát Mi Mover, chuyển đi sẽ bị gián đoạn. Hãy chờ cho đến khi chuyển hoàn tất.</string>
+     <string name="trans_cancel_selection_title">Vẫn sử dụng Mi Mover</string>
+     <string name="trans_connect_failed_device_incompatible">Thiết bị không tương thích. Hủy quá trình chuyển và thử lại.</string>
+     <string name="trans_device_auto_reconnecting">Thiết bị đã ngắt kết nối. Đang kết nối lại tự động…</string>
+     <string name="trans_install_guide_button_start">Bắt đầu</string>
+     <string name="trans_install_guide_page_title">Cài đặt Mi Mover trên điện thoại cũ của bạn</string>
+     <string name="trans_install_guide_scan_install_tip">"Quét mã QR này bằng điện thoại cũ của bạn
+để tải xuống và cài đặt Mi Mover."</string>
+     <string name="trans_install_guide_step1_content">Quét mã QR bằng điện thoại cũ của bạn để tải xuống và cài đặt \"Mi Mover\".</string>
+     <string name="trans_install_guide_step1_title">Bước 1</string>
+     <string name="trans_install_guide_step2_content">Sau khi cài đặt hoàn tất, chạm \"Bắt đầu\" bên dưới.</string>
+     <string name="trans_install_guide_step2_title">Bước 2</string>
+     <string name="trans_intro_desc_4_market">Mi Mover sử dụng Wi-Fi để chuyển tập tin. Đó là lý do tại sao bạn không thể kết nối Internet bằng Wi-Fi cả hai thiết bị khi chuyển. Bạn vẫn có thể sử dụng dữ liệu di động.</string>
+     <string name="trans_intro_desc_9_method_1_dec">Vào Màn hình chính > Công cụ > Phản hồi.</string>
+     <string name="trans_intro_desc_9_method_1_title">1. Chia sẻ phản hồi của bạn bằng ứng dụng \"Phản hồi\".</string>
+     <string name="trans_intro_desc_9_method_2_dec">Gửi phản hồi của bạn đến miui-mover@xiaomi.com.</string>
+     <string name="trans_intro_desc_9_method_2_title">2. Gửi email cho chúng tôi</string>
+     <string name="trans_intro_desc_9_method_3_dec">QQ nhóm của Mi Mover: 687338378</string>
+     <string name="trans_intro_desc_9_method_3_title">3. Báo cáo vấn đề trên QQ</string>
+     <string name="trans_intro_desc_old_market">Chạm \"Bắt đầu\". Quét mã QR trên điện thoại mới, chờ Mi Mover tính tập tin gửi, và chạm \"Gửi\".</string>
+     <string name="trans_intro_question_9_market">%d. Phản hồi.</string>
+     <string name="trans_open_camera_failed_message">Khởi động lại thiết bị của bạn hoặc kiểm tra xem Mi Mover có được phép sử dụng &lt;b>Máy ảnh&lt;/b> hay không.</string>
+     <string name="trans_open_camera_failed_title">Không thể kết nối với Máy ảnh</string>
+     <string name="trans_open_location_button">Bật</string>
+     <string name="trans_open_location_message">Bật dịch vụ vị trí để nhận danh sách mạng Wi-Fi khả dụng.</string>
+     <string name="trans_open_location_title">Bật dịch vụ vị trí</string>
+     <string name="trans_operate_tip_for_other_android">Mở Mi Mover trên điện thoại cũ của bạn, chạm \"Bắt đầu\" và quét mã QR ở trên.</string>
+     <string name="trans_select_notification_message">Chạm để xem</string>
+     <string name="trans_select_notification_title">Mi Mover đang làm việc…</string>
+     <string name="trans_success_dialog_button_market_favourable_comment">Đánh giá Mi Mover</string>
+     <string name="trans_success_dialog_market_comment_title">"Đã chuyển sang điện thoại mới thành công
+Bạn có thích Mi Mover?"</string>
+     <string name="trans_switching_5g">Đang chuyển sang Wi-Fi 5GHz…</string>
+     <string name="usb_backup_select_data_too_large">"Các tập đã chọn quá lớn. Hãy chắc chắn ổ USB có đủ dung lượng lưu trữ.
+Chỉ nên chuyển các mục quan trọng."</string>
+     <string name="usb_restore_select_data_too_large">"Tập tin sao lưu rất lớn, dẫn đến thời gian khôi phục sẽ kéo dài.
+Chỉ khôi phục mục quan trọng để rút ngắn thời gian."</string>
+     <string name="usb_trans_native_no_space">"Chỉ %s trống trên thiết bị.
+Giải phóng dung lượng hoặc chuyển dữ liệu nhiều lần."</string>
+     <string name="usb_trans_old_phone_low_space_msg">Tăng dung lượng bổ sung để lưu trữ sao lưu. Không đủ dung lượng lưu trữ để tiếp tục chuyển. Bạn có thể giải phóng dung lượng và xóa các tệp không cần thiết trong Bảo mật hoặc chỉ thử chuyển các mục quan trọng.</string>
+     <string name="usb_trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
+     <string name="usb_trans_select_data_no_space">"Chỉ %s khả dụng trên ổ USB.
+Giải phóng dung lượng hoặc chỉ chuyển những mục quan trọng."</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_title">Tìm thấy phiên bản mới!</string>
     <string name="xiaomi_update_dialog_message">"Giới thiệu phiên bản %1$s
 Kích thước: %2$s"</string>

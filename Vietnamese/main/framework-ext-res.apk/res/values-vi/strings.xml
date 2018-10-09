@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="miui_forbid_poweroff_when_device_locked">Không thể tắt, thiết bị đã khóa.</string>
+     <string name="miui_warning_button_cancel">Hủy</string>
+     <string name="miui_warning_button_ok">OK</string>
+     <string name="miui_warning_tip_info">Đã xảy ra lỗi %1$s. Đóng ứng dụng này ngay?</string>
+     <string name="resolver_app_recommend_flag">Kiến nghị</string>
+     <string name="super_resolution_maintain_tips">Siêu phân giải chưa khả dụng.</string>
+     <string name="voice_begin">Bạn muốn tìm gì?</string>
+     <string name="voice_button_action_down">Thả để tìm kiếm</string>
+     <string name="voice_button_action_up">Nhấn để nói</string>
+     <string name="voice_input_error_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+     <string name="voice_input_error_other">Xảy ra lỗi. Chờ một hoặc hai phút và thử lại.</string>
+     <string name="wifi_assistant_wifi_no_internet">Mạng Wi-Fi này không thể truy cập vào internet</string>
+     <string name="wifi_assistant_wifi_no_internet_detail">Chạm để xem chi tiết</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Độ sáng</string>
     <string name="status_bar_toggle_data">Dữ liệu</string>
