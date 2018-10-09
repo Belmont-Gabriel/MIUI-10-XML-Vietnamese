@@ -136,6 +136,10 @@
         <item quantity="other">Trong %1$d phút (cho đến %2$s)</item>
         <item quantity="one">Trong 1 phút (cho đến %2$s)</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Hãy thử lại sau %d giây.</item>
+        <item quantity="one">Hãy thử lại sau 1 giây.</item>
+    </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d giờ</item>
         <item quantity="one">1 giờ</item>
