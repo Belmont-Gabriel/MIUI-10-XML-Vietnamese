@@ -13,20 +13,16 @@
      <string name="collage_drawable_rect_date_year">yyyy</string>
      <string name="enter_choice_mode">Đã nhập hộp thoại chia sẻ</string>
      <string name="exit_choice_mode">Đã rời hộp thoại chia sẻ</string>
-     <string name="face_recommend_group_number">%1$d/%2$d</string>
      <string name="feature_guidance_photo_effects">"Hiệu ứng ảnh mới 
 khả dụng"</string>
      <string name="feature_guidance_video_editor_smart_effects">Hiệu ứng ảnh mới khả dụng</string>
-     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="filter_people_movie">Phim</string>
      <string name="filter_people_riddle">Huyền bí</string>
      <string name="filter_people_story">Câu chuyện</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="image_with_time">Ảnh được chụp vào %s</string>
      <string name="image_with_time_and_location">Ảnh được chụp vào %1$s. Vị trí: %2$s.</string>
      <string name="more">Thêm</string>
      <string name="operation_favorites">Yêu thích</string>
-     <string name="percent_sign">%</string>
      <string name="photo_editor_crop_auto">Tự động</string>
      <string name="photo_editor_talkback_crop_16_9">16:9</string>
      <string name="photo_editor_talkback_crop_1_1">1:1</string>
@@ -52,9 +48,6 @@ khả dụng"</string>
      <string name="removed_from_favorites_desc">Đã xóa khỏi yêu thích</string>
      <string name="search_empty_title">Tìm thấy ảnh cùng người, địa điểm và đối tượng cụ thể trong Thư viện của bạn</string>
      <string name="search_request_requesting">Đã áp dụng. Vui lòng chờ trong giây lát.</string>
-     <string name="search_transition_element_icon">search_icon</string>
-     <string name="search_transition_element_input">search_input</string>
-     <string name="search_transition_element_voice">search_voice</string>
      <string name="secret_reason_video_not_support">Không thể thêm video vào album ẩn</string>
      <string name="storage_description_usb">Lưu trữ USB</string>
      <string name="unchecked">Bỏ chọn</string>

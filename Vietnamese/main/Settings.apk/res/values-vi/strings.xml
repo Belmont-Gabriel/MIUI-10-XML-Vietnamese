@@ -6620,7 +6620,6 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="keyguard_security_setting_others">Khác</string>
      <string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>
      <string name="launch_error">Không thể bật ứng dụng!</string>
-     <string name="link_speed">%1$d Mb/giây</string>
      <string name="lockdown_vpn_already_connected">Đã bật chế độ Luôn kết nối VPN để kết nối.</string>
      <string name="lockpassword_choose_your_pin_title">Nhập 4-16 chữ số</string>
      <string name="mi_pay_summary">Thẻ xe bus/Mi Pay/Card Emulator</string>

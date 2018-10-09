@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="clean_summary">Đã xóa %1$s tập tin</string>
-     <string name="empty">" "</string>
-     <string name="hints_header_left">%d</string>
      <string name="main_total_garbage">Kích thước rác</string>
      <string name="memory_clean_icon_text">Xóa bộ nhớ</string>
      <string name="memory_clean_no_trash_tip">Mọi thứ đều tốt</string>

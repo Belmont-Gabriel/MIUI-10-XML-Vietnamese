@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="comma_seperator">", "</string>
-     <string name="digit_percent">%</string>
      <string name="err_acquire_system_service">Không thể bắt đầu dịch vụ hệ thống.</string>
      <string name="err_not_allow">Không hỗ trợ</string>
      <string name="feature_title_contacts">Liên hệ</string>
@@ -14,7 +13,6 @@ Chắc chắn ổ USB có đủ dung lượng lưu trữ trước khi bạn bắ
      <string name="flash_drive_restore_btn">Khôi phục từ ổ USB</string>
      <string name="flash_drive_search_backup_files">"Đang tìm sao lưu USB…
 Không thay đổi hoặc đổi tên tập tin sao lưu."</string>
-     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
      <string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b>%s&lt;/b>.</string>
      <string name="lack_perm_title">Yêu cầu quyền</string>
      <string name="notif_miasist_try_to_connect">Mi PC Suite đang cố gắng kết nối với thiết bị của bạn</string>
@@ -77,9 +75,6 @@ Giải phóng dung lượng hoặc chuyển dữ liệu nhiều lần."</string>
      <string name="usb_trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
      <string name="usb_trans_select_data_no_space">"Chỉ %s khả dụng trên ổ USB.
 Giải phóng dung lượng hoặc chỉ chuyển những mục quan trọng."</string>
-     <string name="xiaomi_bytes_unit">%1$sB</string>
-     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_title">Tìm thấy phiên bản mới!</string>
     <string name="xiaomi_update_dialog_message">"Giới thiệu phiên bản %1$s
 Kích thước: %2$s"</string>
