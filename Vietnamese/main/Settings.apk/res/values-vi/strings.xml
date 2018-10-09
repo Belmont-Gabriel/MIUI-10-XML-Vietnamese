@@ -414,7 +414,6 @@
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
     <string name="status_bar_settings_custom_carrier">Chỉnh sửa tên nhà mạng</string>
     <string name="status_bar_settings_no_carrier">Không</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_show_carrier_summary">Tên nhà mạng sẽ vẫn hiển thị trên màn hình khóa và trong thanh thông báo khi tính năng này tắt</string>
     <string name="status_bar_settings_show_wifi_name">Hiển thị Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Chỉnh sửa tên Wi-Fi</string>
