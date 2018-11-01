@@ -1794,8 +1794,8 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="miui_ringer_standard">Im lặng</string>
     <string name="miui_ringer_standard_description">Tắt nhạc chuông cho cuộc gọi đến và thông báo</string>
     <string name="miui_ringer_total_description">Tắt âm thanh và rung cho mọi thứ, trừ báo thức</string>
-    <string name="miui_toast_zen_dnd_to_off">Chuông và rung quay về bình thường</string>
-    <string name="miui_toast_zen_standard_to_off">Chuông quay về bình thường</string>
+    <string name="miui_toast_zen_dnd_to_off">Nhạc chuông và rung trở lại bình thường</string>
+    <string name="miui_toast_zen_standard_to_off">Nhạc chuông trở lại bình thường</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được phát.</string>
     <string name="miui_toast_zen_to_dnd">Đã tắt âm thanh và rung</string>
     <string name="miui_toast_zen_to_standard">Đã tắt âm thanh cuộc gọi và thông báo</string>
