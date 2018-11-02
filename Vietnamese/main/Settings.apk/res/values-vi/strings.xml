@@ -5078,7 +5078,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
     <string name="bluetooth_device_misc_title">Thiết bị Bluetooth hiếm khi sử dụng</string>
     <string name="bt_rarely_used_device_title">Thiết bị hiếm khi sử dụng (%d)</string>
-    <string name="search_input_hint">Cài đặt tìm kiếm</string>
+    <string name="search_input_hint">Tìm kiếm cài đặt</string>
     <string name="back_button">Quay lại</string>
     <string name="launcher_title">Màn hình chính &amp; Nhiệm vụ gần đây</string>
     <string name="defalut_launcher_title">Trình khởi chạy mặc định</string>
