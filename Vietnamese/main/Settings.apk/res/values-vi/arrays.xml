@@ -1391,4 +1391,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Độ phân giải</item>
         <item>P.bản Android</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Đồ họa</item>
+        <item>Phần trăm</item>
+    </string-array>
+	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Tìm kiếm</item>
+        <item>Cài đặt</item>
+    </string-array>
 </resources>

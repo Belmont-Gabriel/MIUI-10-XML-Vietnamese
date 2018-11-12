@@ -67,4 +67,24 @@ Chạm vào biểu tượng hộp chọn ở phía dưới ghi chú để thêm 
 Chạm \"Thêm\" ở góc trên bên phải của ghi chú, chọn \"Nhắc nhở\", đặt thời gian.
 "</item>
     </string-array>
+	<string-array name="first_guide_contents">
+        <item>Chào mừng sử dụng Ghi chú!</item>
+        <item>Tạo ghi chú</item>
+        <item>Bạn có thể sử dụng văn bản, ảnh, và ghi âm giọng nói trong ghi chú của bạn. Một thư viện phong phú về kiểu chữ và phông chữ sẽ làm cho những nét vẽ nguệch ngoạc của bạn trông tuyệt đẹp.</item>
+        <item>Checklist và Nhắc nhở tới để giúp khi bạn cần công cụ cơ bản và hiệu quả để lập kế hoạch cho chuyến đi tiếp theo hoặc lên một danh sách tạp hóa.</item>
+        <item>Chia sẻ ghi chú</item>
+        <item>Bạn có thể chụp ảnh màn hình cuộn trong Ghi chú tự động, và chia sẻ với bạn bè</item>
+        <item>Tạo &amp; chuyển giữa các thư mục</item>
+        <item>Nhấn vào mũi tên bên dưới để tạo thư mục mới hoặc chuyển giữa các thư mục đã có.</item>
+    </string-array>
+
+	<string-array name="second_guide_contents">
+        <item>Ghi chú bằng giọng nói</item>
+        <item>Tạo ghi chú giọng nói bằng công cụ chuyển giọng nói thành văn bản tích hợp, đính kèm ghi âm vào ghi chú.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Ghi chú bằng giọng nói</item>
+        <item>Bạn có thể tạo ghi chú bằng giọng nói ngay bây giờ. Chỉ cần nhấn vào biểu tượng, ghi âm lại, và lưu tệp âm thanh lại trong ghi chú của bạn.</item>
+    </string-array>
+ 
 </resources>

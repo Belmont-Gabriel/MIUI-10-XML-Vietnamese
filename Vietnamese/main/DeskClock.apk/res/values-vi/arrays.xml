@@ -83,4 +83,13 @@
         <item>Bão cát đang đến, đeo mặt nạ.</item>
         <item>Chúc một ngày tốt lành!</item>
     </string-array>
+	<string-array name="timer_duration">
+        <item>Tổng %1$s</item>
+        <item>Tổng %2$s</item>
+        <item>Tổng %1$s %2$s</item>
+        <item>Tổng %3$s</item>
+        <item>Tổng %1$s %3$s</item>
+        <item>Tổng %2$s %3$s</item>
+        <item>Tổng %1$s %2$s %3$s</item>
+    </string-array>
 </resources>
