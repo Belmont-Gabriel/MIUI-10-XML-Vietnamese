@@ -82,4 +82,9 @@
     <string name="storage_location_summary">Chọn tùy chọn lưu trữ ưu tiên</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Chưa chọn</string>
+    <string name="first_using_mic_dialog_message">Quay phim màn hình cần truy cập micro để ghi âm. Cho phép?</string>
+    <string name="first_using_mic_dialog_title">Yêu cầu quyền truy cập</string>
+    <string name="sound_source_summary_without_system_sounds">Sử dụng micro hoặc tắt âm</string>
+    <string name="using_record_confirm_cancel">Hạn chế</string>
+    <string name="using_record_confirm_ok">Cho phép</string>
 </resources>

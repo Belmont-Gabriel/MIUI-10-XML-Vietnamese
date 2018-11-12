@@ -12,4 +12,16 @@
         <item quantity="other">%d chưa đồng bộ</item>
         <item quantity="one">%d chưa đồng bộ</item>
     </plurals>
+	<plurals name="notification_warning">
+        <item quantity="other">Dung lượng lưu trữ còn ít (ít hơn %d phút)</item>
+        <item quantity="one">Dung lượng lưu trữ còn ít (ít hơn %d phút)</item>
+    </plurals>
+    <plurals name="btn_clear_records">
+        <item quantity="other">Xóa %d ghi âm</item>
+        <item quantity="one">Xóa %d ghi âm</item>
+    </plurals>
+    <plurals name="choose_call_records_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+    </plurals>
 </resources>
