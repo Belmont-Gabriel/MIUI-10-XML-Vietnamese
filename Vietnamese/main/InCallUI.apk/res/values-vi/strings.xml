@@ -260,4 +260,6 @@
     <string name="crbt_second_hold_prompt_no_name">Cuộc gọi trước đang giữ…</string>
     <string name="crbt_second_hold_prompt_conference">Cuộc gọi hội nghị đang giữ…</string>
 	<string name="prompt_no_volte_when_failed">Dịch vụ VoLTE không khả dụng.</string>
+	<string name="conference_call_recorder_title">Cuộc gọi hội nghị</string>
+    <string name="description_message_list_title">Danh sách trả lời nhanh</string>
 </resources>

@@ -102,4 +102,8 @@
         <item>Băng tuyết</item>
         <item></item>
     </string-array>
+	<string-array name="pref_navscreen_layoutstate_choices">
+        <item>Xem theo chiều dọc</item>
+        <item>Xem theo chiều ngang</item>
+    </string-array>
 </resources>

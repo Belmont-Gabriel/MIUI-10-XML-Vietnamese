@@ -336,4 +336,25 @@
 	<string name="screen_cells_config_title">Bố cục Màn hình chính</string>
 	<string name="show_mem_info_title">Hiển thị trạng thái bộ nhớ</string>
 	<string name="title_jeejen">Màn hình chính Jeejen</string>
+	<string name="announce_for_checked">%1$s, đã kiểm tra</string>
+    <string name="announce_for_move">Chuyển đến dòng %1$d cột %2$d</string>
+    <string name="announce_for_move_hotseat">Chuyển đến vị trí dock %1$d</string>
+    <string name="announce_for_unchecked">%1$s, chưa kiểm tra</string>
+    <string name="backup_fail">Không thể sao lưu trình khởi chạy</string>
+    <string name="default_folder_title_services">Dịch vụ</string>
+    <string name="edit_mode_group">Nhóm</string>
+    <string name="edit_mode_group_error_full">Không đủ dung lượng</string>
+    <string name="edit_mode_group_error_in_folder">Đóng thư mục trước khi nhóm các biểu tượng</string>
+    <string name="edit_mode_group_error_one_folder">Không thể trùng lặp thư mục với biểu tượng đã chọn</string>
+    <string name="edit_mode_uninstall">Gỡ cài đặt</string>
+    <string name="icon_reorganize_channel">Sắp xếp biểu tượng</string>
+    <string name="memory_clear_result">Đã xóa %1$sB</string>
+    <string name="notification_reset_title">Sắp xếp biểu tượng thành công</string>
+    <string name="open_personal_assistant_dialog_desc_international">Bạn sẽ không thể sử dụng ứng dụng thẻ App vault (cổ phiếu, phím tắt, vv) và nhận cập nhật sau khi bạn tắt tính năng này.</string>
+    <string name="quick_app">Ứng dụng nhanh</string>
+    <string name="refresh">Làm mới</string>
+    <string name="reset_description_first_time">Bạn có thể khôi phục bố cục từ %1$s trong vòng 2 giờ</string>
+    <string name="reset_description_others">Bạn có thể khôi phục bố cục từ %1$s</string>
+    <string name="reset_fail">Không thể khôi phục</string>
+    <string name="reset_title">Khôi phục</string>
 </resources>

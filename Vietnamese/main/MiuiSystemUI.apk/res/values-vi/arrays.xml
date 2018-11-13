@@ -291,4 +291,33 @@
         <item>OpenGL (Mặc định)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+	<string-array name="battery_options">
+        <item>Luôn hiển thị phần trăm</item>
+        <item>Hiển thị phần trăm khi sạc (mặc định)</item>
+        <item>Không hiển thị biểu tượng này</item>
+    </string-array>
+	<string-array name="clock_options">
+        <item>Hiển thị giờ, phút và giây</item>
+        <item>Hiển thị giờ và phút (mặc định)</item>
+        <item>Không hiển thị biểu tượng này</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Tắt</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>8 giờ</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Bộ nhớ đệm</item>
+        <item>Mã phím</item>
+        <item>Chuyển đổi bàn phím</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Bình thường</item>
+        <item>Nhỏ gọn</item>
+        <item>Nghiêng trái</item>
+        <item>Nghiêng phải</item>
+    </string-array>
 </resources>

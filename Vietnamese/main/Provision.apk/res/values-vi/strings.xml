@@ -98,4 +98,37 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="content_description_language_picker">Chọn ngôn ngữ</string>
     <string name="other_settings_mifg_online_content">Tạp chí Khóa màn hình</string>
     <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
+	<string name="agree_terms_input_method_facemoji">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Facemoji.</string>
+    <string name="agree_terms_input_method_kika">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Kika.</string>
+    <string name="ai_button_desc">Sử dụng phím này để kích hoạt Mi AI và hoàn thành các tác vụ trên điện thoại chỉ bằng giọng nói của bạn</string>
+    <string name="ai_button_double_press">Bấm đúp</string>
+    <string name="ai_button_double_press_desc">Thiết lập tính năng Mi AI</string>
+    <string name="ai_button_long_press">Chạm và giữ</string>
+    <string name="ai_button_long_press_desc">Nói lệnh của bạn và thả phím</string>
+    <string name="ai_button_single_press">Bấm</string>
+    <string name="ai_button_single_press_desc">Kích hoạt Mi AI</string>
+    <string name="ai_button_title">Giới thiệu Phím AI</string>
+    <string name="enable_accessibility_canceled">Đã hủy khả năng truy cập.</string>
+    <string name="other_settings_user_experience_summary_index">Xem chi tiết</string>
+    <string name="poco_agree_terms_other">(Bao gồm Chính sách Riêng tư và Thỏa thuận Người dùng Trình khởi chạy POCO)</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Cho phép kết nối với mạng dữ liệu di động? Nếu bạn cho phép, thẻ SIM mà bạn lắp sẽ được sử dụng để kết nối mạng dữ liệu di động.</string>
+    <string name="sim_card_detection_mobile_not_available">Thẻ SIM không thể kết nối mạng</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">Thẻ SIM của bạn không thể kết nối với mạng nhà mạng hợp lệ. Chắc chắn bạn có đủ số dư trong tài khoản của mình và thử kết nối lại.</string>
+    <string name="start_up_slogan">Thiết kế để trải nghiệm màn hình tràn cạnh</string>
+    <string name="terms_of_use_label_systemhelper">, Dịch vụ tự đăng ký</string>
+    <string name="terms_of_use_lable_apps">Dịch vụ Mi, Dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm Trò chơi, MAB, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch thuật, Ứng dụng nhanh, App vault, thống kê, Liên kết Mi</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử dụng tính năng này."</string>
+    <string name="terms_of_use_lable_gms">, Dịch vụ Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">, Thẻ thông minh</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Chính sách Riêng tư Facemoji</string>
+    <string name="terms_privacy_policy_input_method_kika">Chính sách Riêng tư Kika</string>
+    <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1% mỗi giờ).</string>
+    <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
+. Khi màn hình bật.
+2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
 </resources>

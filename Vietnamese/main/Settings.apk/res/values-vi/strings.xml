@@ -6934,5 +6934,11 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="keyguard_vertical_clock_title">Đồng hồ đứng</string>
     <string name="status_bar_settings_expand_top_notification">Mở rộng thông báo trên cùng</string>
     <string name="status_bar_settings_notification_use_app_icon">Sử dụng biểu tượng ứng dụng cho thông báo</string>
-
+    <string name="accessibility_summary_source">Cung cấp bởi %s</string>
+	<string name="dual_setting_simcard1">SIM 1</string>
+    <string name="dual_setting_simcard2">SIM 2</string>
+	<string name="emergency_sos_title">SOS khẩn cấp</string>
+	<string name="link_speed">%1$d Mb/giây</string>
+	<string name="miui_sos_call_log_sec">giây</string>
+	<string name="no_account_found">Không tìm thấy ứng dụng có thể thêm tài khoản</string>
 </resources>

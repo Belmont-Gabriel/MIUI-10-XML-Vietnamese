@@ -221,4 +221,15 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="pref_config_title">Tối ưu Hiệu suất</string>
     <string name="app_preload_policies_title">Tải trước AI</string>
     <string name="app_preload_policies_summary">Sử dụng máy học để dự đoán ứng dụng mà bạn thường sử dụng, và tải trước tài nguyên.</string>
+	<string name="about_extreme_mode">Chế độ siêu tiết kiệm pin</string>
+    <string name="active_classify">Sắp xếp theo trạng thái hoạt động</string>
+    <string name="appconfig_active_app_dialog_title">Quản lý ứng dụng hoạt động thường xuyên</string>
+    <string name="config_classify">Sắp xếp theo cài đặt ứng dụng</string>
+    <string name="extreme_mode_max_item_alert">Bạn có thể chọn tối đa 4 ứng dụng để chạy trong nền ở chế độ siêu tiết kiệm pin</string>
+    <string name="high_temp_state">Nhiệt độ cao</string>
+    <string name="high_temp_state_message">Bảo vệ nhiệt độ cao, dữ liệu, wifiap, gps, máy ảnh, v.v.. sẽ bị hạn chế</string>
+    <string name="message_i_know">Tôi biết</string>
+    <string name="privacy">Chính sách Riêng tư</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="sleepmode_privacy_title">Chế độ ngủ</string>
 </resources>

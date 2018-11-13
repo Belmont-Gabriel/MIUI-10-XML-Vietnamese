@@ -1817,4 +1817,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="volume_dialog_accessibility_shown_message">%s chỉnh âm lượng đã hiển thị. Vuốt lên để tắt.</string>
     <string name="keyguard_left_bankcard">Máy tính</string>
     <string name="keyguard_left_buscard">Ghi chú</string>
+	<string name="face_unlock_sc_status">Kéo màn hình xuống để mở máy ảnh</string>
+	<string name="miui_ringer_total">Không làm phiền</string>
 </resources>

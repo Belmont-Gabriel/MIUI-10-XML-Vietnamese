@@ -84,4 +84,8 @@ Liên hệ với đại lý bán hàng để biết thêm chi tiết."</string>
     <string name="sys_notification_async_open_failed_title">Không thể bật Tìm thiết bị</string>
     <string name="sys_notification_async_open_failed_content">Chạm để thử lại hoặc hủy.</string>
 	<string name="find_device_notice_sms_alert">Nếu bạn đổi thẻ SIM, một SMS khác có thể được gửi tự động để kích hoạt lại tính năng này.</string>
+	<string name="emergency_call">Cuộc gọi khẩn cấp</string>
+    <string name="find_device_notice">Truy cập&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />để định vị, khóa hoặc khôi phục thiết bị của bạn.</string>
+    <string name="open_wifi_settings">Mở cài đặt Wi-Fi</string>
+    <string name="return_to_call">Quay trở lại cuộc gọi</string>
 </resources>

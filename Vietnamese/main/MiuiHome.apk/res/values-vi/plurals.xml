@@ -21,4 +21,7 @@
 	<plurals name="announce_for_drag">
         <item quantity="other">đang kéo %1$d mục</item>
     </plurals>
+	<plurals name="announce_for_unread">
+        <item quantity="other">%2$s chưa đọc từ %1$s</item>
+    </plurals>
 </resources>
