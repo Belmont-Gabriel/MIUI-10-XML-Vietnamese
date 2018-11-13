@@ -1308,8 +1308,6 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Để nhận nội dung được cá nhân hóa</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Để nhận nội dung được cá nhân hóa do Google đề xuất, hãy đăng nhập vào Chrome.</string>
     <string name="mw_time_picker_dialog_am">SA</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">CH</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Đặt giờ</string>
@@ -1355,7 +1353,6 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="share_video">Chia sẻ video</string>
     <string name="soft_toast_see_view">Xem</string>
     <string name="source_dislike">Không thích</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="support_pwa">PWA</string>
     <string name="transfer_prompt_0">Phát video</string>
     <string name="transfer_restart">Khởi động lại</string>

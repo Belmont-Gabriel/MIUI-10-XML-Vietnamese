@@ -6938,7 +6938,6 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
 	<string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
 	<string name="emergency_sos_title">SOS khẩn cấp</string>
-	<string name="link_speed">%1$d Mb/giây</string>
 	<string name="miui_sos_call_log_sec">giây</string>
 	<string name="no_account_found">Không tìm thấy ứng dụng có thể thêm tài khoản</string>
 </resources>
