@@ -592,7 +592,6 @@
     <string name="confirm_description">Xác nhận</string>
     <string name="delete_description">Xóa</string>
     <string name="deselect_all_description">Bỏ chọn tất cả</string>
-    <string name="empty" />
     <string name="select_all_description">Chọn tất cả</string>
     <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
 </resources>

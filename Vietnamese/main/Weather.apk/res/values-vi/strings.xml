@@ -293,7 +293,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="daily_forecast_add_city_title">Theo dõi thời tiết trên %1$s</string>
     <string name="hourly_forecast_title_24_hours_desc">Dự báo 24h</string>
     <string name="hourly_forecast_title_hourly_desc">Dự báo hàng giờ</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="menu_speaker">Phát thanh</string>
     <string name="minute_rain">Dự báo lượng mưa</string>
     <string name="no_data">Không có dữ liệu</string>

@@ -1086,7 +1086,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="checking_new_version">Đang kiểm tra cập nhật…</string>
     <string name="confirm_exit">Lưu thay đổi?</string>
     <string name="connect_now">Kết nối</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="dialog_renew_failure">Rất tiếc, thao tác thất bại</string>
     <string name="dialog_renew_positive_text">VÂNG, TÔI MUỐN CHƠI ROCK NHƯ NGƯỜI CHUYÊN NGHIỆP</string>
     <string name="dialog_renew_success">Cảm ơn sự xác nhận của bạn</string>
@@ -1116,7 +1115,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="exo_download_failed">Không tải xuống được</string>
     <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="exo_track_mono">Đơn âm</string>
     <string name="exo_track_selection_auto">Tự động</string>
     <string name="exo_track_selection_none">Không</string>
