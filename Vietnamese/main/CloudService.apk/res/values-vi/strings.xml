@@ -600,5 +600,14 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="some_sync_item_close">%d chưa bật</string>
 	<string name="micloud_main_see_unsynced_data">Kiểm tra dữ liệu được đồng bộ hóa</string>
     <string name="micloud_find_device_sms_alert">Một tin nhắn SMS gửi đi có thể được yêu cầu để kích hoạt dịch vụ này. Nhà mạng của bạn sẽ tính phí cho bạn đối với tin nhắn này. Khi bạn đổi thẻ SIM, một tin nhắn có thể được gửi tự động để kích hoạt lại tính năng này.</string>
- 
+    <string name="close_shortcut">Đóng</string>
+	<string name="member_menu_vipname_free">Miễn phí</string>
+	<string name="micloud_dspt_provision_xms">Sử dụng Mi Cloud để đồng bộ dữ liệu.</string>
+	<string name="micloud_main_cancel_sync_now">Đang hủy…</string>
+	<string name="micloud_main_simple_last_sync_time">Đồng bộ lần cuối: %s</string>
+    <string name="micloud_main_simple_off">Đồng bộ tắt</string>
+    <string name="micloud_main_simple_pending">Đang chờ</string>
+    <string name="micloud_main_simple_synced">Đã đồng bộ</string>
+    <string name="micloud_main_simple_syncing">Đang đồng bộ</string>
+    <string name="micloud_privacy_progress_content">Đang cấp ủy quyền…</string>
 </resources>

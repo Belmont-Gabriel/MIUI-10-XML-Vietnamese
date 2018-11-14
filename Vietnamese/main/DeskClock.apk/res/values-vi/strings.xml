@@ -216,4 +216,13 @@
     <string name="worldclock_world_time">Múi giờ</string>
     <string name="worldcolock_timezone_current">Hiện tại: %1$s</string>
     <string name="worldcolock_timezone_local">Như giờ địa phương</string>
+	<string name="search_alarm_clock_keywords">Báo thức; Đồng hồ Báo thức;</string>
+    <string name="search_worldclock_keywords">Giờ; Đồng hồ thế giới; Đồng hồ</string>
+	<string name="time_picker_label_hour">Giờ</string>
+    <string name="time_picker_label_minute">Phút</string>
+    <string name="time_picker_label_second">Giây</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
+    <string name="worldcolock_timezone_date">dd MMM</string>
+    <string name="worldcolock_timezone_gap">Giờ</string>
 </resources>

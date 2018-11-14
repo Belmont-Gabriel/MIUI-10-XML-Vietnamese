@@ -53,4 +53,6 @@
     <string name="show_on_keyguard">Hiển thị trên Màn hình khóa</string>
     <string name="theme_manager_not_supported">Quản lý chủ đề không được hỗ trợ.</string>
     <string name="three_seconds_auto_hide">Dính vào cạnh sau 3 giây không hoạt động</string>
+	<string name="mi_wallet_summary">Thẻ giao thông/Mi Pay/Key card</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
 </resources>

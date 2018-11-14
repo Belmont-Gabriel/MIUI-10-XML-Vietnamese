@@ -48,4 +48,7 @@
     <plurals name="to_count">
         <item quantity="other">%d người nhận</item>
     </plurals>
+	<plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Đánh dấu là %2$s bởi %1$d người</item>
+    </plurals>
 </resources>

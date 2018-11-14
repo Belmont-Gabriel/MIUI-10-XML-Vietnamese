@@ -84,4 +84,5 @@
     <string name="sim_type_sim_name">Công cụ SIM</string>
     <string name="sim_type_usim_name">Công cụ SIM</string>
     <string name="sim_type_uim_name">Công cụ SIM</string>
+	<string name="default_setup_call_msg">Đang cài đặt cuộc gọi…</string>
 </resources>

@@ -588,4 +588,11 @@
     <string name="actionbar_immersion_button_more_description">Thêm</string>
     <string name="actionbar_button_up_description">Quay lại</string>
     <string name="clearable_edittext_clear_description">Xóa</string>
+	<string name="cancel_description">Hủy</string>
+    <string name="confirm_description">Xác nhận</string>
+    <string name="delete_description">Xóa</string>
+    <string name="deselect_all_description">Bỏ chọn tất cả</string>
+    <string name="empty" />
+    <string name="select_all_description">Chọn tất cả</string>
+    <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
 </resources>
