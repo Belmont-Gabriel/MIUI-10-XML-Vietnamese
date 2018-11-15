@@ -115,4 +115,13 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="phone_get_text">Cho phép %1$s nhận số điện thoại của bạn (%2$s)?</string>
     <string name="phone_get_processing">Đang nhận…</string>
     <string name="agree">Cho phép</string>
+	<string name="activate_feature_voip">Mi Message VoIP</string>
+    <string name="checking_client">Đang kiểm tra môi trường kích hoạt</string>
+    <string name="error_checking_client">Xảy ra rỗi khi kích hoạt</string>
+    <string name="error_network_io">Lỗi kết nối mạng</string>
+    <string name="error_no_send_sms_permission">Dịch vụ Kích hoạt SIM Xiaomi cần quyền để gửi SMS</string>
+    <string name="error_sim_not_in_service">Không thể kích hoạt thẻ SIM. Chắc chắn rằng tài khoản của bạn đủ tiền.</string>
+    <string name="privacy_revoke_failed_msg">Kích hoạt yêu cầu cấp ủy quyền vì thế Tin nhắn có thể nhận số điện thoại của bạn.</string>
+    <string name="privacy_revoke_tips">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và xóa tất cả dữ liệu của bạn từ máy chủ. Đồng bộ Mi Cloud, Tin nhắn Mi, và tính năng tin nhắn khác sẽ không khả dụng. Vẫn tiếp tục hủy ủy quyền?</string>
+    <string name="waiting_sim_in_service">Đang chờ SIM được kích hoạt</string>
 </resources>
