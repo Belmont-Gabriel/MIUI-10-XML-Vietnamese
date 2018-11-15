@@ -860,7 +860,6 @@ Vị trí: %s
     <string name="cast_forward">Tua đi</string>
     <string name="cast_forward_10">Tua đi 10 giây</string>
     <string name="cast_forward_30">Tua đi 30 giây</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Tắt tiếng</string>
     <string name="cast_notification_connected_message">Đã kết nối với %1$s</string>
     <string name="cast_notification_connecting_message">Đang kết nối với %1$s</string>
