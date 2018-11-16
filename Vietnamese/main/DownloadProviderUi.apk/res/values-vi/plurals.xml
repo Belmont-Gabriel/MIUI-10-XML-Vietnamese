@@ -12,4 +12,12 @@
         <item quantity="other">Tìm thấy %d kết quả</item>
         <item quantity="one">Tìm thấy 1 kết quả</item>
     </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Xóa %d tải xuống?</item>
+        <item quantity="one">Xóa %d tải xuống?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Xóa %s tải xuống thành công</item>
+        <item quantity="one">Xóa %s tải xuống thành công</item>
+    </plurals>
 </resources>
