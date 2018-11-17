@@ -302,4 +302,74 @@
     <string name="michat_mesage_resend_error_network">Không thể kết nối mạng</string>
     <string name="michat_mesage_send_error_network">Không thể gửi, kiểm tra kết nối mạng</string>
 	<string name="submit_dialog_content_global">"Phản hồi của bạn, cùng với tệp đính kèm và nhật ký, sẽ được gửi đến các máy chủ của MIUI. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Bạn có thể chọn không gửi bản ghi bằng cách bỏ chọn hộp tương ứng."</string>
+	<string name="app_search">Tìm kiếm ứng dụng</string>
+    <string name="bugreport_tool_log_dumping_desc">Mất khoảng một phút</string>
+    <string name="bugreport_tool_log_dumping_title">Đang tạo báo cáo lỗi</string>
+    <string name="catch_full_log_action_cancel">Hủy</string>
+    <string name="catch_full_log_action_complete">Kết thúc và tải lên</string>
+    <string name="catch_full_log_action_start">Tạo nhật ký</string>
+    <string name="catch_full_log_add_original_photo">Thêm ảnh</string>
+    <string name="catch_full_log_add_photo">Thêm ảnh</string>
+    <string name="catch_full_log_add_photo_dialog_content">Nếu sự cố bạn đang báo cáo có liên quan đến chất lượng hình ảnh của máy ảnh, hãy thêm ảnh mẫu gốc (chưa được cắt) để giúp chúng tôi xác định sự cố. Thêm ảnh ngay?</string>
+    <string name="catch_full_log_dialog_confirm_text">Vào Màn hình chính</string>
+    <string name="catch_full_log_dialog_content">MIUI đang tạo nhật ký. Điều này có thể ảnh hưởng đến hiệu suất của thiết bị. Nếu bạn không thể tạo lại vấn đề bạn muốn báo cáo, hãy quay lại nhật ký và chạm \"Hủy\".</string>
+    <string name="catch_full_log_dump_hprof_failed">Không thể tạo nhật ký treo máy</string>
+    <string name="catch_full_log_item_content_catch_direct">"Bước:
+1. Quay lại tính năng bạn muốn báo cáo và thực hiện lại.
+2. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
+    <string name="catch_full_log_item_content_need_open">"Bước:
+1. Chạm \"Tạo nhật ký\".
+2. Quay lại tính năng bạn muốn báo cáo và tái tạo nó.
+3. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
+    <string name="catch_full_log_item_title_audio">Âm thanh, ghi âm, và âm thanh cuộc gọi</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Treo máy</string>
+    <string name="catch_full_log_item_title_gps">Dịch vụ vị trí</string>
+    <string name="catch_full_log_item_title_sensor">Cảm biến</string>
+    <string name="catch_full_log_item_title_signal">Điện thoại, tín hiệu và mạng di động</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi và Mi Drop</string>
+    <string name="catch_full_log_notification_content">Chạm để quay lại nhật ký</string>
+    <string name="catch_full_log_notification_title">Đang tạo nhật ký…</string>
+    <string name="catch_full_log_start_dump_hprof">Tạo nhật ký treo máy</string>
+    <string name="catch_full_log_submit_directly">Gửi</string>
+    <string name="customer_service_apply">Yêu cầu dịch vụ khách hàng</string>
+    <string name="customer_service_complain">Báo cáo dịch vụ khách hàng</string>
+    <string name="customer_service_station">Vị trí dịch vụ</string>
+    <string name="feedback_choose_reproductivity">Sản phẩm</string>
+    <string name="feedback_choose_third_app_name">Chọn tên ứng dụng</string>
+    <string name="feedback_delete_images">Xóa ảnh</string>
+    <string name="feedback_description_hint">Mô tả vấn đề mà bạn gặp phải</string>
+    <string name="feedback_select_modem_log_not_select_desc">Chưa chọn \"Thêm nhật ký modem\"</string>
+    <string name="feedback_select_modem_log_select_desc">Đã chọn \"Thêm nhật ký modem\"</string>
+    <string name="feedback_select_problem_not_select_desc">Chưa chọn \"Vấn đề\"</string>
+    <string name="feedback_select_problem_select_desc">Đã chọn \"Vấn đề\"</string>
+    <string name="feedback_select_suggestion_not_select_desc">Chưa chọn \"Kiến nghị\"</string>
+    <string name="feedback_select_suggestion_select_desc">Đã chọn \"Kiến nghị\"</string>
+    <string name="feedback_select_upload_log_not_select_desc">Chưa chọn \"Thêm nhật ký\"</string>
+    <string name="feedback_select_upload_log_select_desc">Đã chọn \"Thêm Nhật ký\"</string>
+    <string name="feedback_status_collect_log_failed">Không thể nhận nhật ký</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">Không thể nhận URL tập tin đính kèm</string>
+    <string name="feedback_status_save_log_info_failed">Không thể thay đổi URL tập tin đính kèm</string>
+    <string name="feedback_status_submit_attachment">Đã gửi đính kèm thành công</string>
+    <string name="feedback_status_submit_bbs_failed">Không thể gửi nội dung phản hồi</string>
+    <string name="feedback_status_submit_feedback_failed">Không thể gửi phản hồi</string>
+    <string name="feedback_status_upload_log_failed">Không thể tải lên tập tin đính kèm</string>
+    <string name="feedback_submit_hint_gone">Đóng tin nhắn</string>
+    <string name="feedback_title_reproductivity">Chọn sản phẩm</string>
+    <string name="issue_search">Tìm kiếm</string>
+    <string name="modem_tool_log_dumping_desc">Chạm biểu tượng để dừng</string>
+    <string name="modem_tool_log_dumping_title">Đang thu thập modem log</string>
+    <string name="modem_tool_log_finish_desc">Log được lưu vào %s</string>
+    <string name="modem_tool_log_finish_title">Đã thu thập modem log</string>
+    <string name="privacy_category_title">Riêng tư</string>
+    <string name="privacy_policy_title">Chính sách riêng tư</string>
+    <string name="reply_option_log_hint">Tùy chọn</string>
+    <string name="reply_select_log_hint">Chọn nhật ký</string>
+    <string name="select_system_app_tag">Chọn vấn đề</string>
+    <string name="tab_title_preferences">Cài đặt</string>
+    <string name="title_catch_full_log">Nhật ký</string>
+    <string name="toast_catch_full_log_catching">Bạn chỉ có thể tạo một nhật ký tại một thời điểm.</string>
+    <string name="toast_loading_app_id">Đang nhận thông tin…</string>
+    <string name="toast_log_too_large">Không thể tải lên. Tập tin quá lớn.</string>
+    <string name="toast_screenshot_too_large">Không thể tải tập tin lớn hơn 10MB.</string>
 </resources>

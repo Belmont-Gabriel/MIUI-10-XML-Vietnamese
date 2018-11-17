@@ -300,4 +300,5 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="Su_Package_Forbidden">%1$s không có quyền root.</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\" không có quyền để %2$s. Bạn có thể đổi quyền truy cập ứng dụng bất kỳ lúc nào trong Bảo mật > Quyền.</string>
     <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
+	<string name="permission_warning_template_ask">Cho phép %1$s quyền bên dưới?</string>
 </resources>

@@ -197,4 +197,7 @@
     <string name="unbind_device_alert_content">Mất kết nối với %1$s. Để tiết kiệm pin, hủy ghép nối thiết bị này ngay.</string>
     <string name="unbind_device_alert_ok">Hủy ghép nối</string>
     <string name="unbind_device_alert_title">Hủy ghép nối thiết bị</string>
+	<string name="a2dp_sink_mbs_label">Âm thanh Bluetooth</string>
+    <string name="opp_notification_group">Chia sẻ qua Bluetooth</string>
+    <string name="pbap_notification_group">Chia sẻ liên hệ qua Bluetooth</string>
 </resources>
