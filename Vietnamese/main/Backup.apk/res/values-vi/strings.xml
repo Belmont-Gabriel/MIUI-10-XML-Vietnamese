@@ -615,5 +615,11 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="trans_generating_qrcode">Đang tạo mã QR…</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover cần một số dung lượng lưu trữ để đóng gói dữ liệu được chuyển, nhưng có vẻ như không có đủ dung lượng trống trên thiết bị cũ. Giải phóng dung lượng trong \"Bảo Mật\" hoặc chỉ chuyển các mục quan trọng."</string>
     <string name="trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
-
+    <string name="trans_cancel_dialog_survey_title">Tại sao bạn làm gián đoạn quá trình chuyển?</string>
+    <string name="trans_dialog_survey_finish">Gửi</string>
+    <string name="trans_success_dialog_button_market_comment">Bình luận</string>
+    <string name="trans_success_dialog_button_survey">Khảo sát</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">Xin chúc mừng! Hãy cho chúng tôi biết cảm nghĩ của bạn về Mi Mover.</string>
+    <string name="trans_success_dialog_survey_title">Chúng tôi đánh giá cao phản hồi của bạn</string>
+    <string name="trans_success_survey_hint">Điền vào tất cả các trường trước.</string>
 </resources>
