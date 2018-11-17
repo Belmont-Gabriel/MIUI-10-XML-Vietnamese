@@ -367,7 +367,7 @@
     <string name="not_supported_due_to_language">Tính năng này chỉ có ở ngôn ngữ Trung Quốc</string>
     <string name="preference_follow_web_summary">www.miui.vn</string>
     <string name="preference_other">Khác</string>
-    <string name="preference_privacy_title">Chính sách bảo mật</string>
+    <string name="preference_privacy_title">Chính sách Riêng tư</string>
     <string name="reciprocalDesc">Đối ứng</string>
     <string name="scannerDesc">Máy quét</string>
     <string name="scanner_had_been_uninstalled">Máy quét đã bị gỡ cài đặt</string>

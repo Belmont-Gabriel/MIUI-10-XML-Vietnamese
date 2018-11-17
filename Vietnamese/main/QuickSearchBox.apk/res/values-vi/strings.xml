@@ -90,7 +90,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
     <string name="pull_to_input">Kéo xuống để hiển thị thanh tìm kiếm</string>
     <string name="release_to_input">Thả ra để hiển thị thanh tìm kiếm</string>
     <string name="choose_search_engine">Chọn công cụ tìm kiếm web mặc định</string>
-    <string name="setting_other">Khá</string>
+    <string name="setting_other">Khác</string>
     <string name="setting_version">Phiên bản ứng dụng</string>
     <string name="setting_version_title">Phiên bản ứng dụng</string>
     <string name="barcode_uninstalled">Máy quét đã được gỡ cài đặt</string>

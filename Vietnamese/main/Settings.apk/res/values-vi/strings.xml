@@ -3744,7 +3744,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_legal_information">Thông tin pháp lý</string>
     <string name="search_copyright_title">Bản quyền</string>
     <string name="search_user_agreement">Điều khoản Dịch vụ</string>
-    <string name="search_privacy_policy">Chính sách Bảo mật</string>
+    <string name="search_privacy_policy">Chính sách Riêng tư</string>
     <string name="search_device_status">Trạng thái</string>
     <string name="search_sim_status_title">Trạng thái thẻ SIM;SIM</string>
     <string name="search_slot_status_title">Thông tin IMEI;IMEI</string>
@@ -6920,7 +6920,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="restore_dialog_positive">Khôi phục</string>
     <string name="restore_dialog_title">Nhắc nhở</string>
     <string name="select_sim_card">Chọn thẻ SIM</string>
-    <string name="sos_privacy_and_content_policy">Thỏa thuận người dùng và Chính sách bảo mật</string>
+    <string name="sos_privacy_and_content_policy">Thỏa thuận người dùng và Chính sách Riêng tư</string>
     <string name="sos_privacy_dialog_button_cancel">Hủy</string>
     <string name="sos_privacy_dialog_button_ok">Tiếp tục</string>
     <string name="sos_privacy_dialog_title">Điều khoản và điều kiện</string>
