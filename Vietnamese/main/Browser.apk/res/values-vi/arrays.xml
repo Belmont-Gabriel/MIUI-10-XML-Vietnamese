@@ -106,4 +106,26 @@
         <item>Xem theo chiều dọc</item>
         <item>Xem theo chiều ngang</item>
     </string-array>
+	<string-array name="pref_fling_gesture_entries">
+        <item>Quay lại trang trước</item>
+        <item>Chuyển tab</item>
+        <item>Không</item>
+    </string-array>
+	<string-array name="pref_tab_restore_array">
+        <item>Luôn hỏi</item>
+        <item>Mở</item>
+        <item>Đóng</item>
+    </string-array>
+	<string-array name="readmode_theme_background_color">
+        <item>trắng</item>
+        <item>be</item>
+        <item>nâu</item>
+        <item>xanh lá</item>
+        <item>xám</item>
+        <item>đen</item>
+    </string-array>
+	<string-array name="suggestion_topic_tips">
+        <item>Xem tập trung</item>
+        <item>Vấn đề trọng tâm</item>
+    </string-array>
 </resources>
