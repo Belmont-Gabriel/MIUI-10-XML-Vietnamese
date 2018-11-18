@@ -1372,4 +1372,21 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="calllog_call_note_menu">Ghi chú cuộc gọi</string>
     <string name="calllog_call_record_menu">Ghi âm cuộc gọi</string>
 	<string name="back_description">Quay lại</string>
+	<string name="contact_detail_entry_pay_request">Yêu cầu tiền</string>
+    <string name="description_image_button_sim1_named_dial">Gọi bằng SIM1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Gọi bằng SIM2 %s</string>
+    <string name="import_from_other_device">Nhập từ thiết bị khác</string>
+    <string name="no_setting_menu">Không có tùy chọn menu nào</string>
+    <string name="pref_key_sdn_manage">Xem SDN</string>
+    <string name="pref_key_sdn_manage1">Xem SDN thẻ 1</string>
+    <string name="pref_key_sdn_manage2">Xem SDN thẻ 2</string>
+    <string name="preference_privacy_policy_title">Chính sách Riêng tư</string>
+    <string name="preference_show_firewall_calllog">Hiển thị cuộc gọi đã chặn trong lịch sử</string>
+    <string name="rcs_app_name">Ứng dụng nhỏ</string>
+    <string name="scan_business_card">Quét danh thiếp</string>
+    <string name="scan_bussiness_card_merge_tip">Dữ liệu xung đột đã được thay thế</string>
+    <string name="sdnContacts_empty">Không có SDN</string>
+    <string name="sdnContacts_emptyLoading">Đang tải SDN…</string>
+    <string name="toast_call_no_SoundRecorder">Ghi âm không khả dụng</string>
+    <string name="toast_call_no_notes">Ứng dụng Ghi chú không khả dụng</string>
 </resources>
