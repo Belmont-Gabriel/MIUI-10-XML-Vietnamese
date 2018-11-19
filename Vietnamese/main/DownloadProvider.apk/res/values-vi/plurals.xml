@@ -8,4 +8,8 @@
         <item quantity="other">%d tệp đang chờ tải xuống</item>
         <item quantity="one">1 tệp đang chờ tải xuống</item>
     </plurals>
+	<plurals name="notification_download_failed_more">
+        <item quantity="other">"Không thể tải xuống %1$d mục"</item>
+        <item quantity="one">"Không thể tải xuống %1$d mục"</item>
+    </plurals>
 </resources>

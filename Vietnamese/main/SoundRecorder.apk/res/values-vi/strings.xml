@@ -161,6 +161,6 @@
     <string name="sync_records">Đồng bộ với Mi Cloud</string>
     <string name="alert_message_delete_local_record">Xóa bản ghi âm này?</string>
     <string name="dialog_privacy_revoke_tips">Sau khi bạn thu hồi quyền, ứng dụng sẽ ngừng thu thập thông tin, và tất cả các dữ liệu liên quan sẽ được xóa trên máy chủ. Ứng dụng có thể không sử dụng được. Thu hồi quyền? Để đảm bảo an toàn, hãy đăng nhập vào i.mi.com trước khi thu hồi quyền cho dịch vụ Mi Cloud.</string>
-    <string name="privacy_policy_title">Chính sách bảo mật</string>
+    <string name="privacy_policy_title">Chính sách Riêng tư</string>
     <string name="record_format_preference_title">Định dạng ghi âm</string>
 </resources>

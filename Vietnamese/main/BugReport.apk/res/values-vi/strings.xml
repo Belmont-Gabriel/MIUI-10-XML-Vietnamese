@@ -372,4 +372,6 @@
     <string name="toast_loading_app_id">Đang nhận thông tin…</string>
     <string name="toast_log_too_large">Không thể tải lên. Tập tin quá lớn.</string>
     <string name="toast_screenshot_too_large">Không thể tải tập tin lớn hơn 10MB.</string>
+	<string name="title_first_aid">Hộp cấp cứu</string>
+    <string name="toast_catch_full_log_open_failed">Không thể bắt đầu ghi nhật ký.</string>
 </resources>

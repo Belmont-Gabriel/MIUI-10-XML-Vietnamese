@@ -565,4 +565,28 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="find_device_display_id">Số mở khóa: %s</string>
     <string name="miui_provision_find_status_text">"Thiết bị này đã được liên kết với Tài khoản Mi có sẵn (%1$s), nhập mật khẩu để xác minh thiết bị.
 (Số mở khóa: %2$s)"</string>
+	<string name="account_invalid_user_avatar">Ảnh này không hợp lệ. Thử lại ảnh khác.</string>
+    <string name="account_mibi_charge">Lên trên</string>
+    <string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
+    <string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
+    <string name="diagnosis_log_sent_format">Nhật ký chẩn đoán đã gửi. ID:%s Hãy gửi mã này cho kỹ thuật viên.</string>
+    <string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chuẩn đoán.</string>
+    <string name="passport_Resend">Gửi lại</string>
+    <string name="passport_btn_change_account">Đổi tài khoản</string>
+    <string name="passport_error_empty_voice_code">Nhập mã captcha</string>
+    <string name="passport_input_voice_hint">Nhập mã âm thanh</string>
+    <string name="passport_international_register_by_email">Tạo tài khoản bằng email</string>
+    <string name="passport_license_info_collapse">Thu gọn</string>
+    <string name="passport_license_info_open">Chi tiết</string>
+    <string name="passport_new_user_register">Tạo tài khoản</string>
+    <string name="passport_register_using_other_ways">Cách khác để tạo tài khoản</string>
+    <string name="passport_sms_verification_code_login_or_register">Đăng nhập hoặc đăng ký sử dụng SMS</string>
+    <string name="passport_talkback_image_captcha">Mã xác nhận hình ảnh</string>
+    <string name="passport_talkback_switch_image_captcha">Chuyển sang mã xác nhận hình ảnh</string>
+    <string name="passport_talkback_switch_voice_captcha">Chuyển sang mã xác nhận âm thanh</string>
+    <string name="passport_talkback_voice_captcha">Phát mã xác nhận âm thanh</string>
+    <string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
+    <string name="send_diagnosis_log">Gửi nhật ký chuẩn đoán</string>
+    <string name="sending">Đang gửi</string>
+    <string name="temporary_not_available">tạm thời không khả dụng</string>
 </resources>

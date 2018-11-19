@@ -1399,4 +1399,33 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tìm kiếm</item>
         <item>Cài đặt</item>
     </string-array>
+	<string-array name="dark_ui_mode_entries">
+        <item>Tự đông (dựa trên thời gian trong ngày)</item>
+        <item>Luôn bật</item>
+        <item>Luôn tắt</item>
+    </string-array>
+	<string-array name="bluetooth_max_connected_audio_devices">
+        <item>Sử dụng mặc định hệ thống: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>Tắt</item>
+        <item>64K mỗi bộ đệm nhật ký</item>
+        <item>256K mỗi bộ đệm nhật ký</item>
+        <item>1M mỗi bộ đệm nhật ký</item>
+        <item>4M mỗi bộ đệm nhật ký</item>
+        <item>16M mỗi bộ đệm nhật ký</item>
+    </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Tắt</item>
+        <item>Error</item>
+        <item>Warn</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
 </resources>

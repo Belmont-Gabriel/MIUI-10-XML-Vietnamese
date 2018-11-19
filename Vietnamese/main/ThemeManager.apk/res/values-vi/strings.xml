@@ -660,4 +660,20 @@
     <string name="wifi_check_tip">Không hiển thị lại</string>
     <string name="xiaoai_speech_not_installed_download">Tải xuống</string>
     <string name="xiaoai_speech_not_installed_message">Tải xuống và cài đặt trợ thoại Mi AI để tiếp tục.</string>
+	<string name="app_ad_title">Đề xuất hàng ngày</string>
+    <string name="component_title_settings_video_wallpaper">Hình nền với hiệu ứng đặc biệt</string>
+    <string name="exo_track_unknown">Chưa biết</string>
+    <string name="hide_pull_down_negative">Không ẩn</string>
+    <string name="hide_pull_down_positive">Ẩn</string>
+    <string name="no_net_work_connection">Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+    <string name="password_toggle_content_description">Chuyển đổi chế độ hiển thị mật khẩu</string>
+    <string name="pull_down_view_error_message">Ôi! Không có kết nối mạng. Kiểm tra kết nối và thử lại.</string>
+    <string name="pull_down_view_refresh">Làm mới</string>
+    <string name="pull_down_view_title">Có gì mới</string>
+    <string name="request_time_out">Đã hết thời gian yêu cầu. Thử lại.</string>
+    <string name="swipe_find_more">vuốt lên</string>
+    <string name="theme_detail_tab_comment">Bình luận</string>
+    <string name="theme_detail_tab_recommend">Đề xuất</string>
+    <string name="theme_detail_tab_theme">Chủ đề</string>
+    <string name="xiaoai_speech_not_installed_title">Trợ lí âm thanh Mi AI chưa được cài đặt.</string>
 </resources>

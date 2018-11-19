@@ -1151,4 +1151,24 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="tab_claim">Nhận</string>
     <string name="next_time">Lần tới</string>
     <string name="add_follow">Theo dõi</string>
+	<string name="ad_txt">Quảng cáo</string>
+    <string name="apk_installing">Đang cài đặt…</string>
+    <string name="cancel_text">Hủy</string>
+    <string name="exo_controls_fastforward_description">Tua nhanh</string>
+    <string name="exo_controls_next_description">Bài kế tiếp</string>
+    <string name="exo_controls_pause_description">Tạm dừng</string>
+    <string name="exo_controls_play_description">Phát</string>
+    <string name="exo_controls_previous_description">Bài trước</string>
+    <string name="exo_controls_rewind_description">Tua lại</string>
+    <string name="exo_controls_stop_description">Dừng</string>
+    <string name="operation_show_privacy_policy">Hiển thị chính sách Riêng tư</string>
+    <string name="path_download">Quản lý tải xuống</string>
+    <string name="path_hot_sticker">Nhãn dán phổ biến</string>
+    <string name="path_hot_video">Xem video ngắn phổ biến miễn phí</string>
+    <string name="path_kuai_chuan">Truyền tệp ngang hàng</string>
+    <string name="path_recent_file">Quản lý tập tin trong thiết bị</string>
+    <string name="rename_input_null">Nhập tên tệp mới</string>
+    <string name="search_download">Tải xuống;Tải xuống gần đây</string>
+    <string name="search_guid_hint">Tìm kiếm tập tin</string>
+    <string name="search_hot_sticker">Nhãn dán; Nhãn dán đã tải</string>
 </resources>

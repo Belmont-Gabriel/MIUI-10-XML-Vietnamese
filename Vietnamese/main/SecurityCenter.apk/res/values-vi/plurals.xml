@@ -233,4 +233,22 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Đã check in %d ngày liên tục</item>
     </plurals>
+	<plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d ứng dụng có thể hiển thị sai. Giới hạn thông báo nổi.</item>
+    </plurals>
+	<plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d vấn đề cần tối ưu</item>
+    </plurals>
+	<plurals name="power_center_menu_text">
+        <item quantity="other">mục</item>
+    </plurals>
+	<plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d mục</item>
+    </plurals>
+	<plurals name="menu_text_antispam_2">
+        <item quantity="other">%d mục</item>
+    </plurals>
+	<plurals name="menu_text_antivirus_3">
+        <item quantity="other">"%d ngày"</item>
+    </plurals>
 </resources>
