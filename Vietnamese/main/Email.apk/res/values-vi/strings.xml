@@ -226,7 +226,6 @@
     <string name="battery_saver">Tiết kiệm pin</string>
     <string name="battery_saver_keywords">tiết kiệm pin;pin mail</string>
     <string name="bcc">Bcc</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Cài đặt hóa đơn</string>
     <string name="bill_center_setting_head">Nhập thông tin từ các tài khoản này</string>
     <string name="bill_cycle_text">Chu kỳ hóa đơn</string>
@@ -247,7 +246,6 @@
     <string name="cancel_pop3_attchemt_downloading">Không thể hủy tải xuống tập tin đính kèm của tài khoản POP3</string>
     <string name="cant_move_or_change_labels">Không thể di chuyển nội dung từ nhiều tài khoản.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Đổi thư mục</string>
@@ -265,7 +263,6 @@
     <string name="click_download_all_content">[Click vào để tải nội dung thư]</string>
     <string name="click_to_reload">Chạm màn hình để làm mới</string>
     <string name="collapse_recipient_details">Thu gọn chi tiết người nhận</string>
-    <string name="colon">:</string>
     <string name="compose">Soạn</string>
     <string name="compose_attachment_number_limit">Không thể thêm hơn 10 đính kèm</string>
     <string name="compose_paste_address_oob">Quá nhiều ký tự</string>
@@ -480,7 +477,6 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Đăng nhập vào Gmail</string>
     <string name="header_category_account">Tài khoản</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Phản hồi</string>
     <string name="header_label_general_preferences">Chung</string>
     <string name="help_and_info">Trợ giúp</string>
@@ -502,7 +498,6 @@
     <string name="invalid_recipient">Địa chỉ %s không hợp lệ.</string>
     <string name="invalid_recipient_title">Lỗi người nhận</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Tìm kiếm hộp thư trên máy chủ</string>
     <string name="load_more">Tải thêm</string>
     <string name="loading_conversation">Đang tải…</string>
@@ -956,7 +951,6 @@ Hãy thử hộp thư khác."</string>
     <string name="silent_ringtone">Im lặng</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Mật khẩu của máy chủ thư đi không chính xác</string>
     <string name="sort_attachment">Sắp xếp theo</string>
     <string name="storage">Bộ nhớ</string>
@@ -1069,7 +1063,6 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="you_are_in_mobile_network">Sử dụng dữ liệu di động để tải lên bản ghi?</string>
     <string name="youfuli">Mail đề xuất</string>
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
-    <string name="account_cache_provider">Nhà cung cấp Bộ đệm tài khoản</string>
     <string name="account_settings_preference_add_account">Thêm tài khoản email</string>
     <string name="add_file_exception">Thêm lỗi. Vui lòng thử thêm từ đường dẫn khác.</string>
     <string name="auto_mail_enable_txt">Bắt đầu Cài đặt</string>
@@ -1077,7 +1070,6 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="chinese">Trung Quốc</string>
     <string name="config_cancel">Hủy</string>
     <string name="config_retry">Thử lại</string>
-    <string name="conversation_content_provider">Nhà cung cấp nội dung trò chuyện</string>
     <string name="float_window_title">Đang cấu hình…</string>
     <string name="folder_drafts_name_en0">Thư nháp</string>
     <string name="folder_drafts_name_en1">Thư nháp</string>

@@ -359,5 +359,4 @@
     <string name="reset_title">Khôi phục</string>
 	<string name="memory_clear_nothing_result">Không có gì để quét trong bộ nhớ đệm</string>
     <string name="use_theme_screen_cells_title">Cho phép chủ đề ghi đè bố cục màn hình chính</string>
-    <string name="wallpaper_scrolling">tất cả</string>
 </resources>
