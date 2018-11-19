@@ -1354,9 +1354,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="operation_set_slide_wallpaper">Đặt làm hình nền trình chiếu</string>
     <string name="photo_editor_talkback_crop_screen">Tỷ lệ toàn màn hình</string>
     <string name="picker_origin_request_progress_fail">Không thể tải ảnh gốc xuống do lỗi mạng.</string>
-    <string name="search_transition_element_icon">biểu tượng tìm kiếm</string>
-    <string name="search_transition_element_input">tìm kiếm đầu vào</string>
-    <string name="search_transition_element_voice">tìm kiếm bằng giọng nói</string>
     <string name="set_as_slide_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
     <string name="set_as_slide_wallpaper_title">Đặt làm hình nền trình chiếu</string>
     <string name="unsupport_video">%s không làm việc với video</string>

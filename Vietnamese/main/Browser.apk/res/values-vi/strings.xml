@@ -1656,11 +1656,8 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="exo_controls_rewind_description">Tua lại</string>
     <string name="exo_controls_shuffle_description">Trộn bài</string>
     <string name="exo_controls_stop_description">Ngừng</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="replay">Phát lại</string>
     <string name="share_slide_video_text">Hãy xem những gì tôi đã chia sẻ: %1$s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="view_source">Xem nguồn</string>
     <string name="vmate_download_content">Thưởng thức tất cả các video chơi khăm, hài kịch, âm nhạc, khiêu vũ</string>
     <string name="vmate_download_title">Ứng dụng giải trí thú vị nhất của Ấn Độ</string>

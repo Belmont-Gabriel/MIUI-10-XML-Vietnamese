@@ -179,7 +179,6 @@
     <string name="home_hint_other_launcher">Màn hình chính khác</string>
     <string name="home_restore_error">Không thể khôi phục Màn hình chính</string>
     <string name="load_backup_failed">Tải sao lưu thất bại</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="loading_user_backup">Đang tải sao lưu người dùng…</string>
     <string name="main_space">Không gian chính</string>
     <string name="msg_alert_cancel_restore">Đang khôi phục. Dừng ngay?</string>
