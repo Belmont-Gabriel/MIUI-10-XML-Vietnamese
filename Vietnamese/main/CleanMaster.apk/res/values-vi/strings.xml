@@ -605,4 +605,17 @@
     <string name="wechat_clean_downloads_desc">Đã nhận tập tin trên WeChat</string>
     <string name="wechat_normal_files">Rác</string>
 	<string name="pref_category_title_auto_clean_config_settings">Tự động dọn dẹp</string>
+	<string name="app_clean_group_document_recv">Tập tin đã nhận</string>
+    <string name="app_clean_group_document_send">Tập tin đã gửi</string>
+    <string name="app_clean_group_image_recv">Ảnh đã nhận</string>
+    <string name="app_clean_group_image_send">Ảnh đã gửi</string>
+    <string name="facebook_clean_exit_confirm_cancel">Tiếp tục quét</string>
+    <string name="facebook_clean_exit_confirm_msg">Chưa kết thúc quét Facebook. Dừng quét ngay?</string>
+    <string name="facebook_clean_exit_confirm_ok">Dừng</string>
+    <string name="facebook_clean_exit_confirm_title">Dừng quét?</string>
+    <string name="facebook_cleaner">Trình dọn dẹp Facebook</string>
+    <string name="facebook_group_cache">Tập tin bộ nhớ đệm</string>
+    <string name="facebook_group_gif">GIF</string>
+    <string name="facebook_group_image">Ảnh</string>
+    <string name="facebook_group_video">Video</string>
 </resources>

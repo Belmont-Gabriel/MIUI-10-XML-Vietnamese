@@ -359,4 +359,10 @@
     <string name="reset_title">Khôi phục</string>
 	<string name="memory_clear_nothing_result">Không có gì để quét trong bộ nhớ đệm</string>
     <string name="use_theme_screen_cells_title">Cho phép chủ đề ghi đè bố cục màn hình chính</string>
+    <string name="announce_for_app_move_in_folder">Đã di chuyển đến vị trí %1$d trong thư mục</string>
+    <string name="announce_for_create_folder_with_app">Đã tạo thư mục bằng %1$s</string>
+    <string name="announce_for_widget_span">Chiều rộng %1$d, chiều cao %2$d</string>
+    <string name="recommend_apps_no_data_toast">Hiện không có kiến nghị nào.</string>
+    <string name="recommend_refresh">Làm mới</string>
+    <string name="recommend_xout">Không hiển thị</string>
 </resources>

@@ -6,4 +6,13 @@
     <plurals name="livetalk_left_minute">
         <item quantity="other">Còn lại %d phút</item>
     </plurals>
+	<plurals name="duration_hours">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d giây</item>
+    </plurals>
 </resources>

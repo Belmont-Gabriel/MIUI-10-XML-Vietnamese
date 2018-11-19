@@ -22,5 +22,7 @@
     <string name="ad_service">Dịch vụ quảng cáo</string>
     <string name="settings_ad_loading">Vui lòng chờ…</string>
     <string name="settings_ad_loading_unavailable">Không thể tải thông tin.</string>
-    <string name="autoconnect">AutoConnect</string>
+    <string name="autoconnect">Tự động kết nối</string>
+	<string name="open_wifi_connect_and_use_data_summary">Đang sử dụng dữ liệu di động. Chạm để chuyển sang Wi-Fi.</string>
+    <string name="poco_privacy_policy">Chính sách Riêng tư Trình khởi chạy POCO &amp; Thỏa thuận Người dùng Trình khởi chạy POCO</string>
 </resources>

@@ -262,4 +262,5 @@
 	<string name="prompt_no_volte_when_failed">Dịch vụ VoLTE không khả dụng.</string>
 	<string name="conference_call_recorder_title">Cuộc gọi hội nghị</string>
     <string name="description_message_list_title">Danh sách trả lời nhanh</string>
+	<string name="volume_boost_text">Tăng âm lượng thành công</string>
 </resources>

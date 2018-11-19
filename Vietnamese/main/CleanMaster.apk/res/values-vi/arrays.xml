@@ -80,4 +80,8 @@
         <item>Clean Master</item>
         <item>Tencent</item>
     </string-array>
+	<string-array name="wechat_sort">
+        <item>Ngày</item>
+        <item>Kích thước</item>
+    </string-array>
 </resources>

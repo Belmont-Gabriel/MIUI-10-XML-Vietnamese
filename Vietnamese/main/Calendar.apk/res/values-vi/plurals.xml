@@ -94,4 +94,7 @@
         <item quantity="other">%d phút</item>
         <item quantity="one">1 phút</item>
     </plurals>
+	<plurals name="event_reminders_to_max">
+        <item quantity="other">Có thể thiết lập đến %d nhắc nhở</item>
+    </plurals>
 </resources>

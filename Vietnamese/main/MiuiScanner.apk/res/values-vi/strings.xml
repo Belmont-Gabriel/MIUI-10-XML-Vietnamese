@@ -213,4 +213,19 @@
     <string name="send_mail">Gửi email</string>
     <string name="switch_open">Bật</string>
     <string name="tel">Điện thoại</string>
+	<string name="select_dialog_confirm">OK</string>
+    <string name="translate_auto_lock">Khóa bản dịch</string>
+    <string name="translate_auto_unlock">Mở khóa bản dịch</string>
+    <string name="translate_copy_success">Sao chép thành công</string>
+    <string name="translate_dest_lang">Ngôn ngữ mục tiêu</string>
+    <string name="translate_fail">Không thể dịch</string>
+    <string name="translate_loading">Đang dịch…</string>
+    <string name="translate_save_fail">Không thể lưu ghi chú</string>
+    <string name="translate_src_lang">Ngôn ngữ nguồn</string>
+    <string name="translate_text_compare">So sánh</string>
+    <string name="translate_text_compare_copy">Sao chép</string>
+    <string name="translate_text_compare_save">Lưu</string>
+    <string name="translate_try_again">Chạm để thử lại</string>
+    <string name="translate_type_take_pic">Ảnh</string>
+    <string name="wifi_exist_fail">Điểm phát sóng Wi-Fi \"%1$s\" đã tồn tại. Xóa nó và thử lại.</string>
 </resources>

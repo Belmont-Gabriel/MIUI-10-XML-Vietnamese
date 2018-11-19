@@ -83,4 +83,13 @@
     <plurals name="i">
         <item quantity="other">Gửi %1$d tập tin (%2$s)</item>
     </plurals>
+	 <plurals name="j">
+        <item quantity="other">Gửi %1$d tập tin (%2$s)</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Tìm thấy bản cập nhật %d ứng dụng</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$s đã chia sẻ %2$s mục</item>
+    </plurals>
 </resources>
