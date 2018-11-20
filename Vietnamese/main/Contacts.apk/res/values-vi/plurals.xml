@@ -135,4 +135,19 @@
     <plurals name="livetalk_unit">
         <item quantity="other">Phút</item>
     </plurals>
+	<plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Đã nhập %1$d liên hệ</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Tìm thấy nhiều hơn %d liên hệ.</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d liên hệ với một phần thông tin trùng lặp</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Không chọn vượt quá %1$d, không thể chọn tất cả</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Không chọn vượt quá %1$d</item>
+    </plurals>
 </resources>

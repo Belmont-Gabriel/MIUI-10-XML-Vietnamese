@@ -40,4 +40,7 @@
         <item quantity="other">%1$d giây</item>
         <item quantity="one">%1$d giây</item>
     </plurals>
+	<plurals name="second">
+        <item quantity="other">%d giây</item>
+    </plurals>
 </resources>

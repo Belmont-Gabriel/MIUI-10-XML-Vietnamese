@@ -1389,4 +1389,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="sdnContacts_emptyLoading">Đang tải SDN…</string>
     <string name="toast_call_no_SoundRecorder">Ghi âm không khả dụng</string>
     <string name="toast_call_no_notes">Ứng dụng Ghi chú không khả dụng</string>
+	<string name="conference_call_disable_tip">Không thể thực hiện cuộc gọi. Đảm bảo thiết bị của bạn được kết nối với mạng 4G có hỗ trợ VoLTE.</string>
+	<string name="special_code_security_exception">Không thể hoàn tất thao tác. Đây không phải là bàn phím mặc định của bạn.</string>
 </resources>

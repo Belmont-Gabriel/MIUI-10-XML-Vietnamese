@@ -188,4 +188,9 @@
     <string name="status_bar_toggle_privacy_mode">C.độ Khách</string>
     <string name="screen_button_disabled_message">Phím điều hướng đã bị vô hiệu hóa. Để bật lại, chạm đồng thời phím Trang chính và nút Nguồn.</string>
     <string name="screen_button_enabled_message">Phím điều hướng đã được bật.</string>
+	<string name="security_permission_network_failed_text">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+    <string name="security_permission_open_wifi_settings">Mở cài đặt Wi-Fi</string>
+    <string name="talk_back_water_mark_string1">TalkBack đã bật</string>
+    <string name="talk_back_water_mark_string2">Bấm và giữ \"Phím tăng âm lượng\" và \"Phím giảm âm lượng\" trong 3 giây để tắt</string>
+    <string name="xspace_head">Ứng dụng kép</string>
 </resources>

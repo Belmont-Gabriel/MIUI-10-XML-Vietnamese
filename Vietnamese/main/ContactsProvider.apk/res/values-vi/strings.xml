@@ -29,4 +29,6 @@
     <string name="third_party_delete_contact_info">\"%s\" đang cố gắng để xóa liên hệ của bạn. Hành động này không thể được thực hiện bởi các ứng dụng của bên thứ ba. Để xóa liên hệ, sử dụng ứng dụng Liên hệ được xây dựng trong MIUI thay thế.</string>
     <string name="low_memory_toast">Không thể tiếp tục sử dụng do không đủ bộ nhớ.</string>
 	<string name="update_accounts_changed">Tài khoản đã thay đổi</string>
+	<string name="sim_state_changed">Thẻ SIM đã thay đổi</string>
+    <string name="voicemail_cleanup">Dọn dẹp thư thoại</string>
 </resources>

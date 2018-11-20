@@ -169,4 +169,24 @@
 	<string name="dialog_btn_restore_skip">Khôi phục sau</string>
 	<string name="dialog_msg_restore_require_wlan">Khôi phục sao lưu cần kết nối với Wi-Fi.</string>
 	<string name="dialog_title_require_wlan">Kết nối Wi-Fi</string>
+	<string name="btn_restore_abort">Hủy</string>
+    <string name="btn_restore_cancel">Hủy</string>
+    <string name="btn_restore_resume">Tiếp tục</string>
+    <string name="btn_restore_retry">Thử lại</string>
+    <string name="error_retry_later">Thất bại, vui lòng thử lại sau.</string>
+    <string name="get_device_id_error">Không thể nhận ID thiết bị</string>
+    <string name="home_hint_global_launcher">Màn hình chính Poco</string>
+    <string name="home_hint_other_launcher">Màn hình chính khác</string>
+    <string name="home_restore_error">Không thể khôi phục Màn hình chính</string>
+    <string name="load_backup_failed">Tải sao lưu thất bại</string>
+    <string name="loading_user_backup">Đang tải sao lưu người dùng…</string>
+    <string name="main_space">Không gian chính</string>
+    <string name="msg_alert_cancel_restore">Đang khôi phục. Dừng ngay?</string>
+    <string name="msg_alert_restore_error">Không thể khôi phục các mục từ Mi Cloud. Hãy thử lại.</string>
+    <string name="second_space">Không gian thứ hai</string>
+    <string name="self_device">"Điện thoại này "</string>
+    <string name="title_alert_cancel_restore">Dừng khôi phục</string>
+    <string name="title_alert_restore_error">Không thể khôi phục</string>
+    <string name="try_continue">Chạm để tiếp tục</string>
+    <string name="unsupported_home">Vui lòng cập nhật lên hệ điều hành mới nhất.</string>
 </resources>

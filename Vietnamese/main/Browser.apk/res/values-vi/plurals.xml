@@ -57,4 +57,25 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">Quang</item>
     </plurals>
+	<plurals name="articles_updated_amount">
+        <item quantity="other">Xem %1$d bài viết mới</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d trong tổng số%2$d</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Phát video sau %1$d giây</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">Xem %1$d video mới</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d lượt xem</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d người đã bình chọn</item>
+    </plurals>
 </resources>

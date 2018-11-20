@@ -376,4 +376,9 @@
     <string name="clear_all">Xóa tất cả</string>
     <string name="clear">Xóa</string>
     <string name="clear_all_message">Xóa tất cả thông tin và liên hệ?</string>
+	<string name="fail_add_contact">Không thể đọc thông tin liên hệ bình thường</string>
+    <string name="fail_display_contact">Không thể hiển thị liên hệ</string>
+    <string name="fail_load_contact_picker">Không thể tìm thấy bộ chọn liên hệ</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="tap_pencil">Nếu đây là điện thoại của bạn, hãy nhấn vào biểu tượng bút chì để thêm thông tin sẽ được hiển thị tại đây trong trường hợp khẩn cấp</string>
 </resources>

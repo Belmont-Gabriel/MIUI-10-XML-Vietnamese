@@ -1334,5 +1334,27 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="story_remove_confirm_title">Đang xóa ảnh</string>
     <string name="story_rename_invalid_char">Không thể sử dụng \"%s\" trong tiêu đề của câu chuyện. Sử dụng chữ cái, số, và kí tự Trung Quốc.</string>
     <string name="story_rename_invalid_prefix">Tiêu đề câu chuyện không thể bắt đầu bằng \".\" hoặc \"_\"</string>
-
+    <string name="document_provider_guide_step_1">1. Chạm vào phím \"Thêm\".</string>
+    <string name="document_provider_guide_step_2">2. Chạm \"Hiển thị bộ nhớ trong\".</string>
+    <string name="document_provider_guide_step_3">3. Chạm vào phím menu.</string>
+    <string name="document_provider_guide_step_4">4. Chọn \"Thẻ SD\".</string>
+    <string name="document_provider_guide_step_5">5. Chạm \"Chọn\".</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Thư viện sẽ lưu các mục vào bộ nhớ trong. Bạn có thể thay đổi điều này trong Cài đặt > Lưu trữ > Cài đặt lưu trữ.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">Không thể cấp quyền.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Tiếp theo</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Cấp quyền</string>
+    <string name="ext_sdcard_guide_text">Thư viện cần quyền truy cập vào thẻ SD. Dưới đây là những gì bạn có thể làm:</string>
+    <string name="ext_sdcard_operation_failed_text">Thư viện cần quyền truy cập thẻ SD.</string>
+    <string name="ext_sdcard_operation_failed_title">Không thể hoàn tất tác vụ này</string>
+    <string name="ext_sdcard_permission_request_button_text">Tôi biết</string>
+    <string name="ext_sdcard_permission_request_reason">Thư viện cần quyền truy cập vào thẻ SD. Điều này cho phép bạn xóa và chỉnh sửa ảnh và video được lưu trữ trên thẻ SD của bạn.</string>
+    <string name="ext_sdcard_permission_request_title">Cho phép Thư viện truy cập thẻ SD</string>
+    <string name="ext_sdcard_request_failed_button_text">OK</string>
+    <string name="ext_sdcard_request_succeed_toast_text">Xin chúc mừng!</string>
+    <string name="operation_set_slide_wallpaper">Đặt làm hình nền trình chiếu</string>
+    <string name="photo_editor_talkback_crop_screen">Tỷ lệ toàn màn hình</string>
+    <string name="picker_origin_request_progress_fail">Không thể tải ảnh gốc xuống do lỗi mạng.</string>
+    <string name="set_as_slide_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
+    <string name="set_as_slide_wallpaper_title">Đặt làm hình nền trình chiếu</string>
+    <string name="unsupport_video">%s không làm việc với video</string>
 </resources>

@@ -1643,5 +1643,22 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="voice_start_description">Bắt đầu</string>
     <string name="voice_stop_description">Dừng</string>
     <string name="show_check_security_url_check_tip_dialog_description">Chúng tôi sẽ thu thập và sử dụng dữ liệu cá nhân của bạn nếu bạn chọn dịch vụ của chúng tôi. Đây là những dữ liệu chúng tôi sẽ thu thập: 1. Những URL an toàn: Chúng tôi sẽ thu thập URL của các trang web bạn xem khi sử dụng dịch vụ của chúng tôi. 2. Dữ liệu vị trí: Chúng tôi sẽ truy cập thông tin vị trí, đó là cách chúng tôi sử dụng dữ liệu thu thập được: 1. Bảo mật: Chúng tôi sử dụng dữ liệu của bạn khi bảo vệ bạn khỏi gian lận và vi-rút, như lý do lưu trữ và sao lưu. 2. Nội dung: Dữ liệu của bạn giúp chúng tôi cung cấp nội dung bản địa có liên quan. Trình duyệt cần kết nối internet để hoạt động bình thường. Bạn phải đồng ý với %2$s và %1$s để có thể sử dụng Trình duyệt.​</string>
-
+    <string name="change_news_language">Thay đổi ngôn ngữ tin tức?</string>
+    <string name="download_btn">Tải xuống</string>
+    <string name="exo_controls_fastforward_description">Tua đi</string>
+    <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
+    <string name="exo_controls_pause_description">Tạm dừng</string>
+    <string name="exo_controls_play_description">Phát</string>
+    <string name="exo_controls_previous_description">Bản nhạc trước</string>
+    <string name="exo_controls_repeat_all_description">Lặp lại tất cả</string>
+    <string name="exo_controls_repeat_off_description">Không lặp lại</string>
+    <string name="exo_controls_repeat_one_description">Lặp lại một mục</string>
+    <string name="exo_controls_rewind_description">Tua lại</string>
+    <string name="exo_controls_shuffle_description">Trộn bài</string>
+    <string name="exo_controls_stop_description">Ngừng</string>
+    <string name="replay">Phát lại</string>
+    <string name="share_slide_video_text">Hãy xem những gì tôi đã chia sẻ: %1$s</string>
+    <string name="view_source">Xem nguồn</string>
+    <string name="vmate_download_content">Thưởng thức tất cả các video chơi khăm, hài kịch, âm nhạc, khiêu vũ</string>
+    <string name="vmate_download_title">Ứng dụng giải trí thú vị nhất của Ấn Độ</string>
 </resources>

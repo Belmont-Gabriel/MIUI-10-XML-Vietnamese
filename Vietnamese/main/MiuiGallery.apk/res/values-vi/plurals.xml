@@ -254,4 +254,7 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">Không thể chia sẻ. Tiếp tục xử lý %d ảnh…</item>
     </plurals>
+	<plurals name="creation_max_image">
+        <item quantity="other">Chọn tối đa %d ảnh</item>
+    </plurals>
 </resources>

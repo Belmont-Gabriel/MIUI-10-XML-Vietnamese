@@ -463,4 +463,20 @@
     <string name="unit_data_display_currency_vnd">Việt Nam đồng</string>
     <string name="unit_data_display_currency_zar">Rand Nam Phi</string>
     <string name="unit_data_display_currency_zmw">Kwacha Zambia</string>	
+	<string name="degDesc">Độ</string>
+    <string name="global_search_key_area_convertion">Diện tích;Chuyển đổi diện tích;Chuyển đổi diện tích</string>
+    <string name="global_search_key_calculation">Tính toán;Máy tính;Chuyển đổi đơn vị;Bộ chuyển đổi;Bộ chuyển đổi đơn vị</string>
+    <string name="global_search_key_date_convertion">Chuyển đổi thời gian;Đơn vị thời gian;Chuyển đổi thời gian;Thời gian</string>
+    <string name="global_search_key_exchange_rate">Tỷ giá hối đoái;Chuyển đổi tỷ giá hối đoái;Chuyển đổi tiền tệ;Tiền tệ;Tỷ giá hối đoái</string>
+    <string name="global_search_key_length_convertion">Chiều dài;Chuyển đổi chiều dài;Chuyển đổi chiều dài</string>
+    <string name="global_search_key_mortgage">Tính toán thế chấp;Tính toán thế chấp;Thế chấp</string>
+    <string name="global_search_key_personal_tax">Thuế thu nhập cá nhân;Thu nhập sau thuế;Tính thuế;Tính thu nhập cá nhân;Tính thu nhập;Tính thu nhập sau thuế;thuế thu nhập cá nhân;thuế;thuế</string>
+    <string name="global_search_key_scientific_convertion">Máy tính khoa học;Chức năng tính toán;Toán học;Đại số</string>
+    <string name="global_search_key_speed_convertion">Chuyển đổi đơn vị vận tốc;Chuyển đổi vận tốc;Chuyển đổi vận tốc;Chuyển đổi vận tốc;Vận tốc;Vận tốc</string>
+    <string name="global_search_key_temperature_convertion">Chuyển đổi đơn vị nhiệt độ;Chuyển đổi nhiệt độ;Chuyển đổi nhiệt độ;Độ F;Độ C;Độ C</string>
+    <string name="global_search_key_volume_convertion">Chuyển đổi đơn vị khối lượng;Chuyển đổi khối lượng;Chuyển đổi khối lượng</string>
+    <string name="global_search_key_weight_convertion">Chuyển đổi đơn vị trọng lượng;Chuyển đổi trọng lượng;Kg;Kg;Kg;Pound;Pound;lbs</string>
+    <string name="global_search_key_word_figure">Đặc điểm tài chính</string>
+    <string name="golbal_search_calculator_setting">Máy tính;Cài đặt máy tính;Cài đặt</string>
+    <string name="golbal_search_path_calculator_setting">Ứng dụng hệ thống/Máy tính/Cài đặt</string>
 </resources>
