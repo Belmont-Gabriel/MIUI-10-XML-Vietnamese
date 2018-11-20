@@ -1562,7 +1562,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="quick_settings_rotation_unlocked_label">Tự động xoay</string>
      <string name="quick_settings_rssi_emergency_only">Chỉ cuộc gọi khẩn cấp</string>
      <string name="quick_settings_screenbutton_label">Phím</string>
-     <string name="quick_settings_screenlock_label">Màn hình khóa</string>
+     <string name="quick_settings_screenlock_label">Khóa màn hình</string>
      <string name="quick_settings_screenshot_label">Chụp ảnh màn hình</string>
      <string name="quick_settings_secondary_label_until">Đến %s</string>
      <string name="quick_settings_settings_label">Cài đặt</string>
