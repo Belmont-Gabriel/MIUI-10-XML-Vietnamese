@@ -7262,7 +7262,7 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng 
     <string name="gesture_prevent_ringing_screen_title">Ngăn đổ chuông</string>
     <string name="gesture_prevent_ringing_sound_title">Lối tắt để ngăn đổ chuông</string>
     <string name="gesture_prevent_ringing_title">Nhấn nút Nguồn &amp; Tăng âm lượng cùng lúc</string>
-    <string name="keywords_ambient_display_screen">Ambient display, Hiển thị màn hình khóa</string>
+    <string name="keywords_ambient_display_screen">Màn hình Ambient, Hiển thị màn hình khóa</string>
     <string name="keywords_android_version">mức bản vá bảo mật android, phiên bản baseband, phiên bản kernel</string>
     <string name="keywords_assist_gesture_launch">cử chỉ</string>
     <string name="keywords_assist_input">mặc định, trợ lý</string>
@@ -7740,4 +7740,5 @@ Cập nhật cài đặt thành:
     <string name="zone_menu_by_region">Chọn theo vùng</string>
     <string name="zone_time_type_dst">Giờ mùa hè</string>
     <string name="zone_time_type_standard">Giờ tiêu chuẩn</string>
+	<string name="ambient_display_screen_title">Màn hình Ambient</string>
 </resources>
