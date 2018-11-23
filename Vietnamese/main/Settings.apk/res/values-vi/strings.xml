@@ -6931,7 +6931,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="status_bar_settings_notification_led_custom">Tùy chỉnh màu</string>
     <string name="extended_power_menu">Mở rộng power menu</string>
     <string name="unmute_sound_title">Âm thanh bật tiếng</string>
-    <string name="keyguard_vertical_clock_title">Đồng hồ đứng</string>
+    <string name="keyguard_vertical_clock_title">Đồng hồ dọc</string>
     <string name="status_bar_settings_expand_top_notification">Mở rộng thông báo trên cùng</string>
     <string name="status_bar_settings_notification_use_app_icon">Sử dụng biểu tượng ứng dụng cho thông báo</string>
     <string name="accessibility_summary_source">Cung cấp bởi %s</string>
@@ -7741,4 +7741,17 @@ Cập nhật cài đặt thành:
     <string name="zone_time_type_dst">Giờ mùa hè</string>
     <string name="zone_time_type_standard">Giờ tiêu chuẩn</string>
 	<string name="ambient_display_screen_title">Màn hình Ambient</string>
+	<string name="long_press_power_key_half_of_second">Bấm và giữ phím nguồn trong 0.5 giây để bật Trợ lý Google</string>
+    <string name="mi_pay_indonesia">Tài khoản Mi Pay</string>
+    <string name="notification_log_details_package">gói</string>
+    <string name="power_key_how_power_force_off">Làm cách nào để buộc thiết bị khởi động lại</string>
+    <string name="power_key_how_power_force_off_detail">Bấm và giữ phím Nguồn cho đến khi thiết bị của bạn khởi động lại</string>
+    <string name="power_key_how_power_off">Làm cách nào để mở trang tắt nguồn</string>
+    <string name="power_key_how_power_off_detail">Bấm và giữ phím Nguồn trong 3 giây</string>
+    <string name="power_key_how_start">Làm cách nào để đánh thức Trợ lý Google</string>
+    <string name="power_key_how_start_detail">Bấm và giữ phím Nguồn trong 0,5 giây. Thả ra để nói.</string>
+    <string name="power_key_start_enjoy">Tìm hiểu thêm về Trợ lý Google</string>
+    <string name="power_key_start_guide">Đánh thức Trợ lý Google sử dụng phím Nguồn trên thiết bị toàn màn hình</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Đánh thức trợ lý giọng nói ở chế độ toàn màn hình (không có phím ảo)</string>
+
 </resources>

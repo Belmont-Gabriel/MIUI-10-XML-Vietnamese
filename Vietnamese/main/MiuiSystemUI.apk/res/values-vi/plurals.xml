@@ -112,4 +112,7 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Thử lại sau %d giây</item>
     </plurals>
+	<plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Yêu cầu vẽ mẫu hình sau %d giờ không hoạt động</item>
+    </plurals>
 </resources>
