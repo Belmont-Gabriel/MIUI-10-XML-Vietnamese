@@ -39,7 +39,7 @@
     <string name="handle_return_to_voice_label">Chuyển sang Giọng nói</string>
     <string name="mask_extra_hint_message">Vuốt lên để chuyển sang chế độ tiện dụng và hoàn tất tác vụ.</string>
     <string name="miuilab_advice_and_feedback">Tùy chọn phản hồi</string>
-    <string name="miuilab_advice_and_feedback_detail">MIUI Forum:<a href="http://www.miui.com/type-38-7546.html"><font color="#0099FF">Gợi ý chế độ lái xe</font></a></string>
+    <string name="miuilab_advice_and_feedback_detail">MIUI Forum:<a href="http://www.miui.com/type-38-7546.html"><font color="#0099FF"> Gợi ý chế độ lái xe</font></a></string>
     <string name="miuilab_dialog_cancel">Hủy</string>
     <string name="miuilab_dialog_confirm">Tiếp tục</string>
     <string name="miuilab_dialog_title">Về Chế độ xe hơi</string>
@@ -99,8 +99,8 @@
     <string name="tutorial_warning_message_confirm">Tôi đã đọc cảnh báo và riêng tư bên trên.</string>
     <string name="tutorial_watch_again">Xem lại</string>
     <string name="miuilab_dialog_summary">Làm quen với Chế độ xe hơi trước khi lái xe. Để cải thiện nhận diện giọng nói, để cửa xe đóng và tránh xa những tiếng ồn không cần thiết. Chế độ xe hơi bật tắt trên Bảng thông báo.</string>
-    <string name="miuilab_letter_to_mifans1">"  Điều khiển giọng nói là tương lai của tương tác thiết bị điện tử. Chúng hiệu quả hơn, tự nhiên và thuận tiện hơn so với giao diện đồ họa thông thường. Chế độ xe hơi là một bổ sung lớn cho MIUI 10. Mi Ai sẽ tiếp quản và giúp bạn điều hướng, trả lời cuộc gọi, phát nhạc, đọc tin nhắn Wechat thậm chí trả lời chỉ sử dụng giọng nói của bạn. Tuy nhiên, chế độ xe hơi vẫn đang được thử nghiệm và phát triển, vẫn còn một con đường dài phía trước. Đóng góp của bạn cho Chế độ xe hơi thực sự là vô giá."</string>
-    <string name="miuilab_letter_to_mifans2">"  Phản hồi của bạn thực sự có thể thay đổi cách chúng ta giao tiếp với máy móc!"</string>
+    <string name="miuilab_letter_to_mifans1">"   Điều khiển giọng nói là tương lai của tương tác thiết bị điện tử. Chúng hiệu quả hơn, tự nhiên và thuận tiện hơn so với giao diện đồ họa thông thường. Chế độ xe hơi là một bổ sung lớn cho MIUI 10. Mi Ai sẽ tiếp quản và giúp bạn điều hướng, trả lời cuộc gọi, phát nhạc, đọc tin nhắn Wechat thậm chí trả lời chỉ sử dụng giọng nói của bạn. Tuy nhiên, chế độ xe hơi vẫn đang được thử nghiệm và phát triển, vẫn còn một con đường dài phía trước. Đóng góp của bạn cho Chế độ xe hơi thực sự là vô giá."</string>
+    <string name="miuilab_letter_to_mifans2">"   Phản hồi của bạn thực sự có thể thay đổi cách chúng ta giao tiếp với máy móc!"</string>
     <string name="miuilab_letter_to_mifans3">"MIUI &amp; Mi AI
-Tháng 5 31, 2018"</string>
+31 Tháng 5, 2018"</string>
 </resources>
