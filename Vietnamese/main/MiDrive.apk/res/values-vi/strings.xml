@@ -129,4 +129,14 @@
     <string name="files">Tập tin</string>
     <string name="category_midrive">Mi Drive</string>
     <string name="category_transport">Xem chuyển giao</string>
+	<string name="drive_low_memory_description_content">Không thể sử dụng Mi Drive do không đủ dung lượng bộ nhớ.</string>
+    <string name="drive_low_memory_description_title">Đầy bộ nhớ</string>
+    <string name="drive_low_memory_description_toast">Không thể sử dụng Mi Drive do không đủ dung lượng bộ nhớ. Giải phóng bộ nhớ và thử lại.</string>
+    <string name="drive_low_memory_positive_content">Giải phóng</string>
+    <string name="need_get_accounts_and_storage_permission">Mi Drive cần truy cập tài khoản và bộ nhớ ngoài của bạn để hoạt động bình thường.</string>
+    <string name="request_permission_msg">Cho phép Mi Drive truy cập thông tin tài khoản và bộ nhớ ngoài để nó có thể hoạt động bình thường.</string>
+    <string name="request_permission_title">Yêu cầu quyền</string>
+    <string name="source_file_missing">Không tìm thấy tệp.</string>
+    <string name="xiaomi_drive_description_title">Về Mi Drive</string>
+    <string name="xiaomi_drive_description_content">Mi Drive là một công cụ lưu trữ trực tuyến cho phép bạn lưu trữ tệp trực tuyến và giải phóng bộ nhớ trên thiết bị. Dừng sử dụng Mi Drive?</string>
 </resources>

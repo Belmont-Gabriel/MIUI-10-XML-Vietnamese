@@ -113,4 +113,6 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_history_sms">Tin nhắn SMS đã được gửi trong khi kích hoạt.</string>
     <string name="activate_history_success">Thành công</string>
     <string name="activate_history_cancelled">Đã hủy</string>
+	<string name="pop_up_allow_notify_dialog">Cho phép</string>
+    <string name="pop_up_deny_notify_dialog">Từ chối</string>
 </resources>

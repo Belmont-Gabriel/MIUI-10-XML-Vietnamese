@@ -589,4 +589,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="send_diagnosis_log">Gửi nhật ký chuẩn đoán</string>
     <string name="sending">Đang gửi</string>
     <string name="temporary_not_available">tạm thời không khả dụng</string>
+	<string name="passport_input_phone_password">Nhập mật khẩu cho %s</string>
 </resources>

@@ -40,7 +40,7 @@
     <string name="is_checked">Đã chọn</string>
     <string name="is_go_home">Quay lại Quay phim màn hình</string>
     <string name="is_go_home_summary">Mở trang chính Quay phim màn hình sau khi bạn dừng quay</string>
-    <string name="loopback_sound">Loa</string>
+    <string name="loopback_sound">Âm thanh hệ thống</string>
     <string name="low_battery">Sạc điện thoại trước khi bắt đầu quay</string>
     <string name="low_battery_title">Pin yếu</string>
     <string name="low_battery_warning">Pin yếu. Đã dừng quay phim và lưu video.</string>

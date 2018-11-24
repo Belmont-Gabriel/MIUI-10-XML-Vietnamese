@@ -1282,9 +1282,9 @@ hoàn toàn"</string>
      <string name="keyguard_indication_charging_time_slowly">Đang sạc chậm (%s cho đến khi đầy)</string>
      <string name="keyguard_indication_trust_disabled">Thiết bị sẽ khóa cho đến khi bạn mở khóa thủ công</string>
      <string name="keyguard_instructions_when_pattern_disabled">Bấm Menu để mở khóa.</string>
-     <string name="keyguard_left_remotecentral">Điều khiển Mi</string>
+     <string name="keyguard_left_remotecentral">Lịch</string>
      <string name="keyguard_left_torch">Đèn Pin</string>
-     <string name="keyguard_left_view_lock_wallpaper">Tạp chí Khóa màn hình</string>
+     <string name="keyguard_left_view_lock_wallpaper">Nhạc</string>
      <string name="keyguard_low_battery">Kết nối bộ sạc ngay.</string>
      <string name="keyguard_missing_sim_instructions">Lắp thẻ SIM.</string>
      <string name="keyguard_missing_sim_instructions_long">Thẻ SIM không tìm thấy hoặc không thể đọc được. Xin vui lòng lắp thẻ SIM.</string>

@@ -124,4 +124,5 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="privacy_revoke_failed_msg">Kích hoạt yêu cầu cấp ủy quyền vì thế Tin nhắn có thể nhận số điện thoại của bạn.</string>
     <string name="privacy_revoke_tips">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và xóa tất cả dữ liệu của bạn từ máy chủ. Đồng bộ Mi Cloud, Tin nhắn Mi, và tính năng tin nhắn khác sẽ không khả dụng. Vẫn tiếp tục hủy ủy quyền?</string>
     <string name="waiting_sim_in_service">Đang chờ SIM được kích hoạt</string>
+	<string name="activate_sms_postfix">SMS này đã được dùng để kích hoạt dịch vụ Mi của bạn</string>
 </resources>

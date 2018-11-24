@@ -3979,7 +3979,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="battery_settings">Pin</string>
     <string name="battery_settings_title">Pin</string>
     <string name="power_center">Pin</string>
-    <string name="power_hide_mode_title">Quản lý sử dụng pin của ứng dụng</string>
+    <string name="power_hide_mode_title">Quản lý sử dụng pin</string>
     <string name="power_hide_mode_summary">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>

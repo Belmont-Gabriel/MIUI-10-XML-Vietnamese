@@ -58,4 +58,11 @@
     <string name="calibrate_altitude">Đang đo…</string>
     <string name="getting_location">Đang đo…</string>
     <string name="menu_calibrate">Cân chỉnh la bàn</string>
+	<string name="allow">Cho phép</string>
+    <string name="cancel">Hủy</string>
+    <string name="keywords_search_compass">La bàn, Hiệu chỉnh la bàn, Áp suất, Độ cao, Vĩ độ, Kinh độ, Kiểm tra kinh độ; Kiểm tra vĩ độ, MIUI Compass, ứng dụng Compass, ứng dụng MIUI Compass, Compass ở đâu, Tải Compass, Áp suất khí quyển; Kiểm tra độ cao, độ cao bao nhiêu</string>
+    <string name="open_perm_msg">La bàn cần quyền truy cập vào thông tin vị trí và máy ảnh. Điều này là cần thiết để xác định tọa độ và cung cấp bản xem trước trực tiếp. Cho phép?</string>
+    <string name="open_perm_title">Yêu cầu quyền</string>
+    <string name="preference_other">Khác</string>
+    <string name="preference_privacy_title">Chính sách Riêng tư</string>
 </resources>

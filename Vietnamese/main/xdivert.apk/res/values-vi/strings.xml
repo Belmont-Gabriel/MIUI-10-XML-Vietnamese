@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="xdivert_title">X-Divert</string>
+    <string name="xdivert_title">Smart-Divert</string>
     <string name="xdivert_summary">Chuyển tiếp cuộc gọi khi không thể truy cập</string>
     <string name="phone_numbers">Nhập số điện thoại</string>
-    <string name="sub1LineNumber">Số SIM 1:</string>
-    <string name="sub2LineNumber">Số SIM 2:</string>
+    <string name="sub1LineNumber">Số Sub 1:</string>
+    <string name="sub2LineNumber">Số Sub 2:</string>
     <string name="proceed">Tiến hành</string>
-    <string name="xdivert_button">Cài đặt X-Divert</string>
-    <string name="xdivert_setting">Cài đặt X-Divert</string>
-    <string name="sum_xdivert_enabled">X-Divert đã bật</string>
-    <string name="sum_xdivert_disabled">X-Divert đã tắt</string>
-    <string name="xdivert_not_supported">X-Divert không hỗ trợ cho CDMA</string>
+    <string name="xdivert_button">Cài đặt Smart-Divert</string>
+    <string name="xdivert_setting">Cài đặt Smart-Divert</string>
+    <string name="sum_xdivert_enabled">Smart-Divert đã bật</string>
+    <string name="sum_xdivert_disabled">Smart-Divert đã tắt</string>
+    <string name="xdivert_not_supported">Smart-Divert không hỗ trợ cho CDMA</string>
     <string name="xdivert_enternumber_error">Nhập số điện thoại cho cả hai thuê bao</string>
-    <string name="xdivert_partial_set">X-Divert đã được thiết lập chỉ cho thuê bao đầu tiên</string>
-    <string name="xdivert_sub_absent">Cả hai thuê bao phải được kích hoạt để xử lý X-Divert</string>
-    <string name="xdivert_status">Trạng thái X-Divert</string>
+    <string name="xdivert_partial_set">Smart-Divert đã được thiết lập chỉ cho thuê bao đầu tiên</string>
+    <string name="xdivert_sub_absent">Cả hai thuê bao phải được kích hoạt để xử lý Smart-Divert</string>
+    <string name="xdivert_status">Trạng thái Smart-Divert</string>
     <string name="xdivert_active">Kích hoạt</string>
     <string name="xdivert_not_active">Chưa kích hoạt</string>
     <string name="xdivert_imsi_not_read">Khởi tạo thẻ SIM đang xảy ra. Hãy thử lại sau.</string>
@@ -32,4 +32,9 @@
     <string name="sub_1">SIM 1</string>
     <string name="sub_2">SIM 2</string>
     <string name="sub_3">SIM 3</string>
+    <string name="sim1LineNumber">Số SIM 1:</string>
+    <string name="sim2LineNumber">Số SIM 2:</string>
+    <string name="xdivert_setting_primary_user_only">Smart-Divert không hỗ trợ cho người dùng khách.</string>
+    <string name="xdivert_status_active">Smart-Divert kích hoạt</string>
+    <string name="xdivert_status_not_active">Smart-Divert không kích hoạt</string>
 </resources>

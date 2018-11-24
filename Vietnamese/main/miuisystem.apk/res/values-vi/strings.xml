@@ -162,7 +162,7 @@
     <string name="device_poco_global">POCOPHONE</string>
     <string name="device_poco_india">POCO PHONE</string>
     <string name="echo">Echo</string>
-    <string name="fadein">Ting ting</string>
+    <string name="fadein">Rõ dần</string>
     <string name="fadeout">Mờ dần</string>
     <string name="fairyland">Bồng lai</string>
     <string name="fantasy">Fantasy</string>
@@ -196,4 +196,11 @@
     <string name="sunrise">Bình minh</string>
     <string name="swoosh">Bọt nước</string>
     <string name="vigor">Nhảy</string>
+	<string name="bells">chuông</string>
+    <string name="cuckooclock">đồng hồ cuckoo</string>
+    <string name="energy">năng lượng</string>
+    <string name="enthusiastic">nhiệt thành</string>
+    <string name="future">tương lai</string>
+    <string name="newday">ngày mới</string>
+    <string name="thinker">Nhà tư tưởng</string>
 </resources>
