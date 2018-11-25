@@ -602,7 +602,7 @@
     <string name="title_show_sms_template">Bật chức năng nhận biết thông minh</string>
     <string name="title_show_sms_template_in">Kiểm tra tin nhắn OTP</string>
     <string name="title_timed_message_dialog">Đặt thời gian nhắn tin</string>
-    <string name="title_use_gsm_alphabet">Sử dụng GSM alphabet</string>
+    <string name="title_use_gsm_alphabet">Sử dụng bảng chữ cái GSM</string>
     <string name="to_address_label">"Tới: "</string>
     <string name="to_label">"Tới "</string>
     <string name="to_send_wrapper">Sẽ gửi lúc %s</string>
