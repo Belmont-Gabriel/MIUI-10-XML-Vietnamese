@@ -1183,4 +1183,17 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="video_replay_btn">Phát lại</string>
     <string name="video_retry_btn">Hãy thử lại</string>
     <string name="view_album">Xem album</string>
+	<string name="browser_error">Tạm thời không khả dụng, vui lòng thử lại sau</string>
+    <string name="expand_button_title">Nâng cao</string>
+    <string name="hungama_category_playlist">Danh sách phát</string>
+    <string name="select_desc_sub">Bạn có thể chọn lên đến 3 ngôn ngữ</string>
+    <string name="session_create_error">Máy chủ trả về mã SESSION CREATE ERROR, vui lòng liên hệ nhà phát triển SDK!</string>
+    <string name="signup_type_silent_default">im lặng</string>
+    <string name="similar_albums">Album tương tự</string>
+    <string name="similar_playlists">Danh sách phát tương tự</string>
+    <string name="test_mode">Chế độ kiểm thử</string>
+    <string name="toast_is_pro">Bạn đã là thành viên PRO.</string>
+    <string name="toast_not_pro">Tính năng này chỉ khả dụng cho thành viên PRO.</string>
+    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">BẬT</string>
 </resources>
