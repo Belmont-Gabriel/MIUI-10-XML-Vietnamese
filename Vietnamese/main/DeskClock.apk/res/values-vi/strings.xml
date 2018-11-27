@@ -225,4 +225,12 @@
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Giờ</string>
+	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="stat_repeat_everyday">Mỗi ngày</string>
+    <string name="stat_repeat_legal_off_day">Ngày lễ</string>
+    <string name="stat_repeat_legal_workday">Ngày làm việc</string>
+    <string name="stat_repeat_none">Một lần</string>
+    <string name="stat_repeat_self_define">Tùy chỉnh</string>
+    <string name="stat_repeat_weekdays">Ngày trong tuần</string>
+    <string name="stat_repeat_weekends">Ngày cuối tuần</string>
 </resources>
