@@ -40,4 +40,7 @@
     <string name="keyboard_layout_lithuanian">Tiếng Lithuania</string>
     <string name="keyboard_layout_spanish_latin">Tiếng Tây Ban Nha (La tinh)</string>
     <string name="keyboard_layout_latvian">Tiếng Latvia</string>
+	<string name="keyboard_layout_azerbaijani">Tiếng Azerbaijan</string>
+    <string name="keyboard_layout_persian">Tiếng Ba Tư</string>
+    <string name="keyboard_layout_polish">Tiếng Ba Lan</string>
 </resources>

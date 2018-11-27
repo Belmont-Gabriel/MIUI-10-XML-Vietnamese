@@ -15,4 +15,13 @@
     <plurals name="duration_seconds">
         <item quantity="other">%d giây</item>
     </plurals>
+	<plurals name="conference_call_number">
+        <item quantity="other">%s người</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Gọi lại %d lần</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Báo cáo bởi %d người dùng MIUI</item>
+    </plurals>
 </resources>

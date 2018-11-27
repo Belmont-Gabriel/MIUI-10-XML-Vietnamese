@@ -7754,4 +7754,5 @@ Cập nhật cài đặt thành:
     <string name="power_key_start_guide">Đánh thức Trợ lý Google sử dụng phím Nguồn trên thiết bị toàn màn hình</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Đánh thức trợ lý giọng nói ở chế độ toàn màn hình (không có phím ảo)</string>
 	<string name="device_resolution">Độ phân giải</string>
+	<string name="status_bar_settings_show_lte_for_4g">Hiển thị biểu tượng LTE cho 4G</string>
 </resources>

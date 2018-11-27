@@ -131,4 +131,5 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
 . Khi màn hình bật.
 2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
+	<string name="zone_picker_title">Chọn múi giờ</string>
 </resources>
