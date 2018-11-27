@@ -200,4 +200,9 @@
 	<string name="a2dp_sink_mbs_label">Âm thanh Bluetooth</string>
     <string name="opp_notification_group">Chia sẻ qua Bluetooth</string>
     <string name="pbap_notification_group">Chia sẻ liên hệ qua Bluetooth</string>
+	<string name="bluetooth_advanced_feat_description">Tính năng Duyệt Bluetooth nâng cao</string>
+    <string name="bluetooth_opp_file_limit_exceeded">Tệp lớn hơn 4GB không thể truyền</string>
+    <string name="bluetooth_rc_feat_content">Peer hỗ trợ tính năng nâng cao</string>
+    <string name="bluetooth_rc_feat_subtext">Kết nối lại từ peer và bật lại</string>
+    <string name="bluetooth_rc_feat_title">Duyệt phương tiện Bluetooth</string>
 </resources>

@@ -7,4 +7,5 @@
     <string name="ssl_error_warning">Mạng mà bạn đang cố gắng tham gia có vấn đề về bảo mật.</string>
     <string name="ssl_error_example">Ví dụ, trang đăng nhập có thể không thuộc về tổ chức được hiển thị.</string>
     <string name="ssl_error_continue">Vẫn tiếp tục qua trình duyệt</string>
+	<string name="action_bar_title">Đăng nhập vào %1$s</string>
 </resources>

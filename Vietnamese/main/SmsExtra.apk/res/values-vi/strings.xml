@@ -44,4 +44,22 @@
     <string name="view_message_details">Xem chi tiết</string>
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
+	<string name="already_updated">Đã cập nhật</string>
+    <string name="button_close">Đóng</string>
+    <string name="click_to_update">Chạm để kiểm tra cập nhật</string>
+    <string name="cm_privacy_dialog_allow">Đồng ý</string>
+    <string name="cm_privacy_dialog_cancel">Hủy</string>
+    <string name="cm_privacy_dialog_spannable_tips">Chính sách Riêng tư</string>
+    <string name="allow_network_hint">Bật \"Cập nhật thông tin tự động\"</string>
+    <string name="cm_privacy_dialog_tips">Dịch vụ tin nhắn thông minh được cung cấp bởi nhà cung cấp dịch vụ của bạn. Tin nhắn cần kết nối mạng và truy cập vị trí của bạn để cung cấp các dịch vụ này. Bạn cần đồng ý với %1s của nhà cung cấp dịch vụ trước khi bắt đầu sử dụng các dịch vụ này. Đồng ý?</string>
+    <string name="cm_privacy_dialog_title">Chú ý</string>
+    <string name="current_data_version">Phiên bản Tin nhắn Mi</string>
+    <string name="imageview_ad">Quảng cáo</string>
+    <string name="more">Thêm</string>
+    <string name="mx_message">Tin nhắn Mi</string>
+    <string name="net_sms_unsubscribe">Bỏ đăng ký thành công</string>
+    <string name="rcs_message">Tin nhắn China Mobile</string>
+    <string name="summary_pref_cm_smart_sms">Mẫu thẻ, số dịch vụ SMS và hơn thế nữa.</string>
+    <string name="title_pref_cm_smart_sms">SMS thông minh China Mobile</string>
+    <string name="updating">Đang cập nhật…</string>
 </resources>

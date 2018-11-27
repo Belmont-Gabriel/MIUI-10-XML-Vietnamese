@@ -379,6 +379,7 @@
         <item>bật màn hình</item>
         <item>nhận tài khoản</item>
         <item>chạy trong nền</item>
+		<item>âm lượng của trợ năng</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vị trí</item>
@@ -1240,6 +1241,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Mặc định)</item>
+		<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -1400,7 +1402,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Cài đặt</item>
     </string-array>
 	<string-array name="dark_ui_mode_entries">
-        <item>Tự đông (dựa trên thời gian trong ngày)</item>
+        <item>Tự động (dựa trên thời gian trong ngày)</item>
         <item>Luôn bật</item>
         <item>Luôn tắt</item>
     </string-array>

@@ -494,4 +494,17 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="time_consume">Thời lượng</string>
     <string name="toast_update_data_limit_fail">Không thể đặt</string>
     <string name="try_download">Thử tải xuống</string>
+	<string name="search_app_name">Quản lý tải xuống</string>
+    <string name="search_download">Quản lý tải xuống</string>
+    <string name="search_download_desc">Xem và quản lý tác vụ tải xuống</string>
+    <string name="search_download_key_words">Trung tâm tải xuống Thunder; tạm dừng nhiệm vụ tải xuống; quản lý tải xuống; tải xuống; tải xuống hoàn tất; tải xuống trình quản lý tệp; thư mục lưu trữ tệp; tải xuống thư mục lưu trữ; đường dẫn lưu trữ tải xuống; quản lý nhiệm vụ tải xuống; công cụ tải xuống; thư mục tải về; Tập tin; Tải xuống điện thoại di động Thunder; Trung tâm tải xuống tài nguyên Xiaomi; lưu thư mục; Lưu đường dẫn; tải xuống vị trí lưu trữ; đường dẫn tải xuống; tải xuống thư mục lưu trữ; không tìm thấy tác vụ tải xuống; tải xuống nhiệm vụ; tải xuống trình quản lý tác vụ; Dừng tải xuống; xóa nhiệm vụ tải xuống</string>
+    <string name="search_new_download">Tải xuống mới</string>
+    <string name="search_new_download_desc">Hỗ trợ BT, eDonkey, chuỗi nhiệm vụ</string>
+    <string name="search_new_download_key_words">Nhiệm vụ tải xuống mới, tệp tải xuống mới, trình tải xuống bt, trình tải xuống hạt giống, trình tải xuống emule; trình tải xuống eDonkey; trình tải xuống Thunder; sấm; trình tải xuống chuỗi từ; tài nguyên tải xuống; công cụ tải xuống;</string>
+    <string name="search_rank">Danh sách tải xuống</string>
+    <string name="search_rank_desc">Xem các ứng dụng và trò chơi phổ biến hiện nay</string>
+    <string name="search_rank_key_words">Tải xuống danh sách nóng, danh sách tải xuống phổ biến; ứng dụng phổ biến; trò chơi phổ biến</string>
+    <string name="search_xl_account">Thành viên Thunder</string>
+    <string name="search_xl_account_desc">Cải thiện tốc độ tải xuống của bạn</string>
+    <string name="search_xl_account_key_words">Thunder thành viên, nạp tiền thành viên, tải về tăng tốc, chậm tải về tốc độ, không thể tải về</string>
 </resources>

@@ -234,7 +234,7 @@
     <string name="toast_backup_uninstall_success">Sao lưu và gỡ cài đặt hoàn tất</string>
     <string name="activity_title_cache_data">Dữ liệu ứng dụng</string>
     <string name="deepclean_cache_header_left">Tập tin dữ liệu: %d</string>
-    <string name="notification_title_of_garbage_cleanup">Kích thước rác</string>
+    <string name="notification_title_of_garbage_cleanup">Kích thước rác %s</string>
     <string name="notification_summary_of_garbage_cleanup">Nhấn để giải phóng dung lượng.</string>
     <string name="notification_summary_after_auto_cleanup">Đã dọn dẹp %s.</string>
     <string name="toast_uninstall_success">Gỡ cài đặt hoàn tất</string>
@@ -618,4 +618,94 @@
     <string name="facebook_group_gif">GIF</string>
     <string name="facebook_group_image">Ảnh</string>
     <string name="facebook_group_video">Video</string>
+	<string name="RF_DalvikCacheLeftovers">Phần dư hệ thống phần mềm (Dalvik-Cache)</string>
+    <string name="apk_title_alipay_plugin">Phần mở rộng AliPay</string>
+    <string name="browser_scan_history_desc">Lịch sử trình duyệt</string>
+    <string name="browser_search_history_desc">Mục đã tìm kiếm</string>
+    <string name="call_log">Lịch sử cuộc gọi</string>
+    <string name="cd_back">quay lại</string>
+    <string name="cd_check_box_checked">đã chọn</string>
+    <string name="cd_check_box_middle">chọn nửa</string>
+    <string name="cd_check_box_unchecked">không chọn</string>
+    <string name="cd_list_item_collapse">thu gọn</string>
+    <string name="cd_list_item_expanded">mở rộng</string>
+    <string name="cd_percent">phần trăm</string>
+    <string name="cd_scanning">đang quét</string>
+    <string name="cd_settings">cài đặt</string>
+    <string name="cd_sort_type">sắp xếp theo</string>
+    <string name="clip_board_history_desc">Nội dung đã sao chép/đã cắt</string>
+    <string name="privacy_appdata_chrome_history_des">Trang web đã xem</string>
+    <string name="search_history">Lịch sử tìm kiếm</string>
+    <string name="sys_cache_on_sdcard_item_name">Bộ nhớ cache</string>
+    <string name="vungle_ad_name">Quảng cáo Vungle</string>
+    <string name="junk_syscache_alert_desc">Chúng tôi khuyên bạn không nên dọn bộ nhớ cache này,&lt;font color=#d64438>sau khi dọn, nó sẽ ảnh hưởng đến hoạt động bình thường của ứng dụng&lt;/font></string>
+    <string name="junk_tag_RF_DalvikCacheLeftovers">Phần dư hệ thống phần mềm (Dalvik-Cache)</string>
+    <string name="junk_tag_RF_DemoVideo_LG">Video giới thiệu điện thoại di động LG</string>
+    <string name="junk_tag_RF_DemoVideo_MIUI">Video hiểu thị thương hiệu Xiaomi</string>
+    <string name="junk_tag_RF_DemoVideo_Samsung">Video giới thiệu điện thoại di động Samsung</string>
+    <string name="junk_tag_RF_DemoVideo_Sony">Video giới thiệu điện thoại di động Sony</string>
+    <string name="junk_tag_RF_EmptyFolders">Thư mục trống</string>
+    <string name="junk_tag_RF_ImageThumbnails">Xem trước tất cả các album</string>
+    <string name="junk_tag_RF_LibsDirFiles">Tệp dữ liệu không dùng</string>
+    <string name="junk_tag_RF_LogFiles">Tệp nhật ký</string>
+    <string name="junk_tag_RF_LostDirFiles">Tệp hệ thống không dùng</string>
+    <string name="junk_tag_RF_MFCacheDirFiles">Tệp cache không dùng</string>
+    <string name="junk_tag_RF_TaobaoLogFiles">Tệp nhật ký Taobao</string>
+    <string name="junk_tag_RF_TempFiles">Tệp tạm</string>
+    <string name="junk_tag_RF_WechatDownload">Tệp tạm của Wechat khi tải biểu tượng cảm xúc</string>
+    <string name="junk_tag_big_file_from_name_album">Album</string>
+    <string name="junk_tag_big_file_from_name_baidu">Bản đồ Baidu</string>
+    <string name="junk_tag_big_file_from_name_baofeng">Video bão</string>
+    <string name="junk_tag_big_file_from_name_bluetoothfiles">Thư mục Bluetooth</string>
+    <string name="junk_tag_big_file_from_name_camerafiles">Thư mục album hệ thống</string>
+    <string name="junk_tag_big_file_from_name_downloads">Thư mục Tải xuống</string>
+    <string name="junk_tag_big_file_from_name_fmt">Từ %s</string>
+    <string name="junk_tag_big_file_from_name_musicfiles">Danh mục nhạc</string>
+    <string name="junk_tag_big_file_from_name_sdcard">Thư mục gốc thẻ nhớ</string>
+    <string name="junk_tag_big_file_from_name_videofiles">Danh mục video</string>
+    <string name="junk_tag_big_file_mergedfile_desc_aura">Đây là bản đồ được tải xuống bởi Sygic GPS，&lt;font color=#d64438 >không thể khôi phục sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baidumap">Đây là bản đồ được tải xuống từ bản đồ Baidu，&lt;font color=#d64438 >sau khi dọn dẹp, bạn cần phải tải lại để sử dụng&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baofeng">Đây là video tải xuống của Video bão，&lt;font color=#d64438 >không thể khôi phục sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_downloader">Đây là các tệp tải xuống bằng Trình tải xuống，&lt;font color=#d64438 >tệp sẽ bị xóa sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_duokan">Đây là các sách đang đọc trong giá sách，&lt;font color=#d64438 >sẽ không thể xem được sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_goapk">Đây là các gói cài đặt tải xuống từ chợ Anzhi，&lt;font color=#d64438 >không thể sử dụng sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_googletransfer">Đây là các gói ngôn ngữ ngoại tuyến dùng để dịch，&lt;font color=#d64438 >bạn cần phải tải lại để có thể dùng ngoại tuyến&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_navitel">Đây là bản đồ được tải xuống bởi Navitel，&lt;font color=#d64438 >bản đồ sẽ bị xóa sau khi dọn dẹp, bạn cần tải lại&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_sygic">Đây là bản đồ được tải xuống bởi Sygic GPS，&lt;font color=#d64438 >không thể khôi phục sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">Đây là truyện đã được đọc ngoại tuyến của UC Browser，&lt;font color=#d64438 >không thể đọc ngoại tuyến sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_vk">Đây là tệp giọng nói lưu vào bộ nhớ cache khi phát nhạc qua VK，&lt;font color=#d64438 >không thể nghe ngoại tuyến sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_yandex">Đây là bản đồ được tải xuống bằng Яндекс.Маркет，&lt;font color=#d64438 >không thể dùng ngoại tuyến sau khi dọn dẹp&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_name_aura">Bản đồ đã tải xuống (Sygic)</string>
+    <string name="junk_tag_big_file_mergedfile_name_downloader">Tệp đã tải xuống (Trình tải xuống)</string>
+    <string name="junk_tag_big_file_mergedfile_name_duokan">Giá sách của tôi (xem thêm)</string>
+    <string name="junk_tag_big_file_mergedfile_name_goapk">Gói cài đặt đã tải xuống (Chợ Anzhi)</string>
+    <string name="junk_tag_big_file_mergedfile_name_googletransfer">Gói ngôn ngữ ngoại tuyến đã tải xuống (Google dịch)</string>
+    <string name="junk_tag_big_file_mergedfile_name_navitel">Bản đồ đã tải xuống (Navitel)</string>
+    <string name="junk_tag_big_file_mergedfile_name_sygic">Bản đồ đã tải xuống (Sygic)</string>
+    <string name="junk_tag_big_file_mergedfile_name_ucbrowser">Truyện đọc ngoại tuyến (Trình duyệt UC)</string>
+    <string name="junk_tag_big_file_mergedfile_name_vk">Tệp thoại đã lưu (Trình phát VK)</string>
+    <string name="junk_tag_big_file_mergedfile_name_yandex">Bản đồ đã tải xuống (Yandex)</string>
+    <string name="junk_tag_big_file_type_apk">%1$s gói cài đặt (V%2$s)</string>
+    <string name="junk_tag_big_file_type_font">[phông chữ]%1$s</string>
+    <string name="junk_tag_big_file_type_gamedata_obb">%1$s gói</string>
+    <string name="junk_tag_big_file_type_map_baidu">%1$s bản đồ ngoại tuyến</string>
+    <string name="junk_tag_junk_android_data_2nd_card_left_overs">Các tệp còn lại sau khi gỡ cài đặt ứng dụng</string>
+    <string name="junk_tag_junk_big_name_android_data_google_file">Tệp dữ liệu dịch</string>
+    <string name="junk_tag_junk_big_name_c_thumbnails">Hình thu nhỏ của album</string>
+    <string name="junk_tag_junk_big_name_d_100media">Video đã quay</string>
+    <string name="junk_tag_junk_big_name_d_thumbnails">Hình thu nhỏ của album</string>
+    <string name="junk_tag_junk_big_name_demovideo">Video trình diễn chức năng</string>
+    <string name="junk_tag_junk_big_name_downloadmanager">Tệp đã tải xuống</string>
+    <string name="junk_tag_junk_big_name_llogs">Tệp nhật ký hệ thống không dùng</string>
+    <string name="junk_tag_junk_big_name_mi_userbook">Hướng dẫn làm quen chức năng Xiaomi</string>
+    <string name="junk_tag_junk_big_name_miui_gallerydemovideo">Video trình diễn chức năng Xiaomi</string>
+    <string name="junk_tag_junk_big_name_s_dic">Từ điển của Samsung</string>
+    <string name="junk_tag_junk_big_name_s_movie">Video đi kèm với Samsung</string>
+    <string name="junk_tag_junk_big_name_samsung_video">Video đi kèm với Samsung</string>
+    <string name="junk_tag_junk_big_name_smt">Tệp dữ liệu nhận diện giọng nói</string>
+    <string name="junk_tag_junk_big_name_sys_rom">Gói phần mềm hệ thống</string>
+    <string name="junk_tag_junk_big_name_tencent_qqfile">Tệp đã nhận QQ</string>
+    <string name="junk_tag_junk_big_name_thumbnails">Hình thu nhỏ của ảnh trên điện thoại</string>
+    <string name="junk_tag_junk_big_name_whatsapp_media_video">Tệp video Whatsapp</string>
+    <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">Nhật ký đẩy GDC</string>
 </resources>

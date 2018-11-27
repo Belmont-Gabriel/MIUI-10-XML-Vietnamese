@@ -73,4 +73,6 @@
     <string name="permdesc_startPrintServiceConfigActivity">Cho phép chủ sở hữu bắt đầu các hoạt động cấu hình của một dịch vụ in ấn. Không bao giờ cần cho các ứng dụng thông thường.</string>
     <string name="permlab_accessAllPrintJobs">truy cập tất cả lệnh in</string>
     <string name="permlab_startPrintServiceConfigActivity">bắt đầu hoạt động cấu hình dịch vụ in ấn</string>
+	<string name="notification_channel_failure">Công việc in thất bại</string>
+    <string name="notification_channel_progress">Đang chạy công việc in</string>
 </resources>

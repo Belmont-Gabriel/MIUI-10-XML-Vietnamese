@@ -11,6 +11,7 @@
     <string-array name="thermal_summaries">
         <item>Chế độ điều khiển nhiệt độ hiện tại</item>
         <item>Chế độ hiệu suất hiện tại</item>
+		<item>"Không hoạt động trong chế độ Siêu tiết kiệm pin"</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Hiệu suất</item>

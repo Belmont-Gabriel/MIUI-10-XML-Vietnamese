@@ -51,4 +51,10 @@
         <item>Bên trái</item>
         <item>Bên phải</item>
     </string-array>
+	<string-array name="wallpaper_scroll_values">
+        <item>Chủ đề mặc định</item>
+        <item>Căn giữa</item>
+        <item>Bên trái</item>
+        <item>Bên phải</item>
+    </string-array>
 </resources>

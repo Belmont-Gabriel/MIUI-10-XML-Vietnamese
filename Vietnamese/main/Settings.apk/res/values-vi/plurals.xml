@@ -295,4 +295,7 @@
         <item quantity="other">%d quy tắc tự động được bật</item>
         <item quantity="one">1 quy tắc tự động được bật</item>
     </plurals>
+	<plurals name="show_reset_countdown">
+        <item quantity="other">Hoàn thành %1$d bước để thực hiện khôi phục cài đặt gốc</item>
+    </plurals>
 </resources>

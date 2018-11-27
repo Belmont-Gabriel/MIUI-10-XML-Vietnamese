@@ -21,4 +21,12 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+	<string name="assist_center_title">Hiện đang sử dụng</string>
+    <string name="assist_center_traffic_title">Còn lại</string>
+    <string name="assist_key1_title">Đã dùng hôm nay</string>
+    <string name="assist_key2_title">Gói dữ liệu</string>
+    <string name="noti_key1_today_used">Hôm nay: %1$s</string>
+    <string name="noti_key2_remain">Còn lại: %1$s</string>
+    <string name="noti_key2_used">Đã dùng: %1$s</string>
+    <string name="noti_key3">Chi tiết ></string>
 </resources>

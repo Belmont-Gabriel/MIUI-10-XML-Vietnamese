@@ -298,4 +298,23 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="no_data">Không có dữ liệu</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="user_agreement">Thỏa thuận Người dùng</string>
+	<string name="abrupt_weather_settings_summary_type_a">Nút cảnh báo thời tiết bất thường</string>
+    <string name="abrupt_weather_settings_summary_type_b">Nút cảnh báo thời tiết bất thường</string>
+    <string name="abrupt_weather_settings_title">Cảnh báo thời tiết bất thường</string>
+    <string name="activity_find_city_dialog_message_global">Cho phép Thời tiết truy cập vị trí của bạn và chuyển sang vị trí độ chính xác cao để nhận thông tin liên quan vị trí.</string>
+    <string name="aqi_detail_co_unit">Đơn vị: mg/m³</string>
+    <string name="aqi_first_sub_desc_locate">Trạm: %1$s (cách %2$s)</string>
+    <string name="aqi_first_sub_desc_no_locate">AQI trung bình trong %1$s</string>
+    <string name="clear_net_mock_success">Xóa mô phỏng mạng thành công</string>
+    <string name="feedback_cloudy">Nhiều mây</string>
+    <string name="feedback_foggy">Có sương mù</string>
+    <string name="feedback_haze">Sương mù</string>
+    <string name="feedback_moderate_rain">Mưa</string>
+    <string name="feedback_moderate_snow">Tuyết</string>
+    <string name="feedback_report_privacy_msg">Báo cáo sẽ có thông tin vị trí của bạn</string>
+    <string name="feedback_sandy">Bụi cát</string>
+    <string name="information_settings_title">Thông tin thời tiết</string>
+    <string name="missing_required_permission">Bạn đã tắt một quyền được yêu cầu.</string>
+    <string name="other_settings">Cài đặt khác</string>
+    <string name="receive_net_mock_success">Đã nhận mô phỏng mạng</string>
 </resources>

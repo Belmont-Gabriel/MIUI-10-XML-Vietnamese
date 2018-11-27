@@ -64,4 +64,6 @@
     <string name="using_recorder_confirm">Cho phép</string>
     <string name="using_recorder_cancel">Từ chối</string>
     <string name="runtime_permission_ungranted">Không thể bắt đầu ghi âm do không được cấp quyền</string>
+	<string name="menu_privacy">Chính sách Riêng tư</string>
+    <string name="msg_try_plug_headset">Kết nối tai nghe và thử lại.</string>
 </resources>

@@ -232,4 +232,14 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="privacy">Chính sách Riêng tư</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="sleepmode_privacy_title">Chế độ ngủ</string>
+	<string name="atrace_saved">Lưu thành công</string>
+    <string name="atrace_saving">Đang lưu nhật ký atrace…</string>
+    <string name="atrace_start">Đang ghi nhật ký atrace…</string>
+    <string name="extreme_add_white_list_summary">Thêm lên đến 4 ứng dụng</string>
+    <string name="extreme_add_white_list_title">Ngoại lệ nền</string>
+    <string name="extreme_power_config_mode_summary">Siêu tiết kiệm pin hạn chế hoạt động nền, và dừng đồng bộ.</string>
+    <string name="extreme_power_settings_title">cài đặt</string>
+    <string name="notification_exit_extreme_mode_text">Pin được sạc nhiều hơn %s</string>
+    <string name="notification_exit_extreme_mode_title">Đã tắt Siêu tiết kiệm pin</string>
+    <string name="notification_open_extreme_mode_text">Đã bật  Siêu tiết kiệm pin</string>
 </resources>

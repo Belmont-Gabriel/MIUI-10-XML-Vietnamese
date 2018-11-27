@@ -65,4 +65,5 @@ Khóa: %2$s
     <string name="wifi_installer_fail_no_wifi_title">Đã hủy cài đặt</string>
     <string name="wifi_installer_fail_title">Không thể cài đặt</string>
     <string name="wifi_installer_fail_no_wifi">Bật Wi-Fi và thử lại.</string>
+	<string name="certificate_capabilities_warning">Lưu ý: Nhà phát hành chứng chỉ này có thể kiểm tra tất cả lưu lượng đến và đi từ thiết bị</string>
 </resources>

@@ -48,4 +48,31 @@
         <item quantity="other">Xóa %1$d mục?</item>
         <item quantity="one">Xóa %1$d mục?</item>
     </plurals>
+	<plurals name="compress_begin">
+        <item quantity="other">Đang nén %1$d tệp.</item>
+    </plurals>
+	<plurals name="compress_error_notification_title">
+        <item quantity="other">Không thể nén %1$d tệp</item>
+    </plurals>
+    <plurals name="compress_failure_alert_content">
+        <item quantity="other">Những tệp này không được nén: %1$s</item>
+    </plurals>
+    <plurals name="copy_converted_warning_content">
+        <item quantity="other">Những tệp này được chuyển đổi sang định dạng khác: %1$s</item>
+    </plurals>
+    <plurals name="copy_failure_alert_content">
+        <item quantity="other">Những tệp này không được sao chép: %1$s</item>
+    </plurals>
+    <plurals name="delete_failure_alert_content">
+        <item quantity="other">Những tệp này chưa xóa được: %1$s</item>
+    </plurals>
+    <plurals name="extract_begin">
+        <item quantity="other">Đang giải nén %1$d tệp.</item>
+    </plurals>
+    <plurals name="extract_failure_alert_content">
+        <item quantity="other">Những tệp này chưa được giải nén: %1$s</item>
+    </plurals>
+    <plurals name="move_failure_alert_content">
+        <item quantity="other">Những tệp này chưa được di chuyển: %1$s</item>
+    </plurals>
 </resources>

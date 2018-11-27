@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refocus_title">Làm mờ</string>
+    <string name="refocus_type_static">Mức làm mờ</string>
+    <string name="refocus_type_video">Đường ánh sáng</string>
+    <string name="refocus_type_relighting">Ánh sáng studio</string>
+    <string name="refocus_type_relighting_no_face">"Không thể tìm thấy khuôn mặt"</string>
+    <string name="refocus_type_relighting_small_face">Ánh sáng studio hoạt động trên các bức ảnh mà khuôn mặt chiếm phần nhiều.</string>
+    <string name="refocus_saving">Đang lưu…</string>
+    <string name="refocus_save_to_photo">Lưu thành ảnh</string>
+    <string name="refocus_save_to_video">Lưu thành video</string>
+    <string name="refocus_save_cancel">Hủy</string>
+    <string name="refocus_save_title">Chọn định dạng</string>
+    <string name="refocus_photo_not_support">"Không thể áp dụng làm mờ cho ảnh này"</string>
+    <string name="refocus_relighting_toast">Di chuyển vòng tròn để điều chỉnh góc chiếu sáng</string>
+    <string name="refocus_discard_confirm_message">Lưu thay đổi?</string>
+    <string name="refocus_discard_positive_btn">Lưu</string>
+    <string name="refocus_discard_negative_btn">Hủy bỏ</string>
+</resources>
