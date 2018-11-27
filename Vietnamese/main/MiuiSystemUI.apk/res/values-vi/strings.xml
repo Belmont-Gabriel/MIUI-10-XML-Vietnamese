@@ -1829,7 +1829,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="lock_screen_magazine_default_title">Nhạc</string>
     <string name="open_lock_screen_magazine_hint_text">Trượt sang phải để thêm tùy chọn</string>
     <string name="plugins">Phần mở rộng</string>
-    <string name="quick_settings_tiles">mặc định</string>
     <string name="recents_title_app_manager">Quản lý ứng dụng</string>
     <string name="recents_title_game">Trò chơi</string>
     <string name="recents_title_garbage_cleanup">Dọn dẹp</string>
@@ -1838,7 +1837,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="recents_title_security_scan">Quét bảo mật</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
-    <string name="velocity_tracker_impl">nền tảng</string>
     <string name="volume_stream_limited_dnd">%s — Chỉ ưu tiên</string>
     <string name="volume_stream_muted">%s im lặng</string>
     <string name="volume_stream_muted_dnd">%s im lặng — Tổng im lặng</string>

@@ -393,7 +393,6 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="accessibility_wifi_two_bars">Tín hiệu Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Tín hiệu Wi-Fi ba vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đủ.</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng bị xóa</string>
     <string name="tether_settings_title_usb">Truy cập Internet qua USB</string>
@@ -580,7 +579,6 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="power_remaining_duration_only">Còn khoảng %1$s</string>
     <string name="power_remaining_duration_only_short">Còn lại %1$s</string>
     <string name="power_discharging_duration">%1$s - còn khoảng %2$s</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cho đến khi đầy</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
@@ -600,7 +598,6 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="screen_zoom_summary_extremely_large">Lớn nhất</string>
     <string name="screen_zoom_summary_custom">Tùy chỉnh (%d)</string>
     <string name="help_feedback_label">Trợ giúp và phản hồi</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">BẬT</string>
     <string name="abc_capital_off">TẮT</string>
     <string name="search_menu_title">Tìm kiếm</string>

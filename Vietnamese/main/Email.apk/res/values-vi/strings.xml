@@ -1076,11 +1076,9 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="folder_drafts_name_en2">[Gmail]/Thư nháp</string>
     <string name="optimization_suggestion">Đề xuất tối ưu hóa</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
-	<string name="account_cache_provider">Trình cung cấp Cache Tài khoản</string>
     <string name="auto_mail_window_description">Dịch vụ Email 139 tự động cấu hình</string>
     <string name="auto_mail_window_label">Hộp thư 139 tự động cấu hình</string>
     <string name="config">Số điện thoại Hộp thư 139 đã câu hình</string>
-    <string name="conversation_content_provider">Trình cung cấp nội dung trò chuyện</string>
     <string name="float_window_info">Khi cấu hình hộp thư 139, không sử dụng điện thoại, nếu không cấu hình sẽ thất bại.</string>
     <string name="folder_drafts_name_cn0">Thư nháp</string>
     <string name="folder_drafts_name_cn1">Thư nháp</string>
@@ -1110,14 +1108,6 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="folder_trash_name_en3">[Gmail]/Thùng rác</string>
     <string name="mail_search_lab">nhãn tìm kiếm</string>
     <string name="mailbox_name_display_add_account">Thêm tài khoản email</string>
-    <string name="mailbox_name_server_all_unread">Chưa đọc</string>
-    <string name="mailbox_name_server_drafts">Nháp</string>
-    <string name="mailbox_name_server_inbox">Hộp thư đến</string>
-    <string name="mailbox_name_server_junk">Rác</string>
-    <string name="mailbox_name_server_outbox">Hộp thư đi</string>
-    <string name="mailbox_name_server_sent">Đã gửi</string>
-    <string name="mailbox_name_server_trash">Rác</string>
-    <string name="mailbox_name_server_starred">Đã đánh dấu sao</string>
     <string name="network_tip">Xác thực thất bại, vui lòng kiểm tra kết nối mạng</string>
     <string name="note_title">Email 139 tự động cấu hình</string>
     <string name="note_text">Thông qua mạng China Mobile và xác minh SMS, nó sẽ chỉ tạo thêm lưu lượng, không thêm phí SMS.</string>
@@ -1130,7 +1120,6 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="overlays_tip_23">Mở cửa sổ quyền nổi, và tận hưởng hộp thư 139 tự động cấu hình</string>
     <string name="overlays_title">Mở cửa sổ quyền nổi</string>
     <string name="permission_tip">Cấu hình thất bại, vui lòng cấp quyền cuộc gọi và tin nhắn trong quá trình cấu hình</string>
-    <string name="prefDefault_autoAdvance">danh sách</string>
     <string name="quick_reply_pattern">. * Phê duyệt. * |. * Phê duyệt. * |. * Ứng dụng. * |. * Báo cáo. * |. * Yêu cầu. * |. * Yêu cầu. *</string>
     <string name="quote_divider_1">-------- Thư gốc --------</string>
     <string name="quote_divider_11">----- Gốc -----</string>

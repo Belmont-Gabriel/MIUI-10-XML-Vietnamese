@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Đồng bộ Mi Cloud</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="error_title">"Không thể đồng bộ"</string>
     <string name="error_unauthorized">Đồng bộ bị tắt do quá nhiều lần đăng nhập.</string>
     <string name="error_forbidden">Đồng bộ bị tắt do có vấn đề với Tài khoản Mi của bạn.</string>
