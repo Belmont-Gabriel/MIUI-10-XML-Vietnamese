@@ -2623,7 +2623,7 @@ Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
      <string name="yuan">NDT</string>
 	 <string name="ad_split_screen_title">Hãy chuyển sang chế độ toàn màn hình để mở khóa</string>
     <string name="card_main_hwtest_title">Kiểm tra phần cứng</string>
-    <string name="card_main_deepclean_whatsapp_title">Trình dọn dẹp WhatsApp</string>
+    <string name="card_main_deepclean_whatsapp_title">Dọn dẹp WhatsApp</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Nhà cung cấp</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Cài đặt gói dữ liệu hàng ngày</string>
@@ -2666,4 +2666,119 @@ Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
     <string name="traffic_setting_fragment_not_limited_summary">Tùy chọn không giới hạn dữ liệu di động</string>
     <string name="traffic_setting_fragment_not_limited_title">Gói không giới hạn dữ liệu di động</string>
     <string name="traffic_setting_fragment_packege_type">Cài đặt gói dữ liệu</string>
+	<string name="app_right">Công ty Xiaomi chính thức sản xuất</string>
+    <string name="app_summary">"Lấy lì xì WeChat/QQ/Mi Chat
+Hỗ trợ lì xì cá nhân và lì xì nhóm
+Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì xì nào"</string>
+    <string name="card_main_deepclean_facebook_title">Dọn dẹp Facebook</string>
+    <string name="deep_power_save_item_summary_auto_brightness">Tự động điều chỉnh độ sáng màn hình để tiết kiệm pin</string>
+    <string name="deep_power_save_item_summary_bluetooth">Tắt Bluetooth để tiết kiệm pin</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Tắt màn hình sau 30 giây không hoạt động để tiết kiệm pin</string>
+    <string name="deep_power_save_item_title_auto_brightness">Bật độ sáng tự động</string>
+    <string name="deep_power_save_item_title_bluetooth">Tắt Bluetooth</string>
+    <string name="deep_power_save_item_title_lock_screen_time">Tắt màn hình</string>
+    <string name="enter">Nhập</string>
+    <string name="give_lucky_money">Trao lì xì</string>
+    <string name="group_have_hongbao">Từ “%1$s”%2$d lì xì</string>
+    <string name="hongbao_cancel">Hủy</string>
+    <string name="hongbao_message_slogon">Điện thoại Xiaomi rất nhanh!</string>
+    <string name="hongbao_name">Trợ lý Lì xì Xiaomi</string>
+    <string name="item_lucky_alarm_has_been_closed">Đã kết thúc</string>
+    <string name="lock_screen_business_hongbao_message">Từ %1$s</string>
+    <string name="lock_screen_hongbao_message">Từ “%1$s”</string>
+    <string name="mi_pay_lucky">Mi Wallet</string>
+    <string name="miliao_lucky_warning">Lì xì Xiaomi</string>
+    <string name="more_setting_summary">Hỗ trợ loại nhắc nhở lì xì, cửa sổ nổi, thời gian không làm phiền, vv</string>
+    <string name="no_lucky_money">Chưa nhận được phong bao</string>
+    <string name="not_available">Không</string>
+    <string name="number_of_lucky_money">Tôi đã nhắc bạn về tổng số phong bao lì xì</string>
+    <string name="om_promotion">Quảng cáo</string>
+    <string name="open_alarm_right_now">Mở ngay</string>
+    <string name="pref_category_package_type_title">Loại gói dữ liệu</string>
+    <string name="qq_lucky_warning">Lì xì QQ</string>
+    <string name="random_expression">Biểu thức ngẫu nhiên</string>
+    <string name="secondart_setting_title">Cài đặt lời nhắc lì xì</string>
+    <string name="setting_alarm_summary">Lời nhắc sự kiện lì xì cho tất cả các nền tảng</string>
+    <string name="shake_send_sticker">Lắc nào</string>
+    <string name="title_more_setting">Cài đặt khác</string>
+    <string name="txv_dnd_end_time_title">Thời gian kết thúc</string>
+    <string name="txv_dnd_start_time_title">Thời gian bắt đầu</string>
+    <string name="txv_dnd_type_demo">Chỉ âm thanh</string>
+    <string name="txv_dnd_type_title">Không làm phiền</string>
+    <string name="txv_lucky_money_group_text">Chỉ nhắc nhở lì xì nhóm</string>
+    <string name="wechat_lucky_warning">Lì xì WeChat</string>
+    <string name="zhifubao_not_found">Phiên bản ứng dụng quá thấp hoặc ứng dụng chưa được cài đặt</string>
+    <string name="alarm_headsup_bottom">Điện thoại Xiaomi lấy lì xì rất nhanh</string>
+    <string name="alarm_lock_screen_summary">Một cơn mưa phong bao lì xì trên đường…</string>
+    <string name="alarm_lockscreen_btn">Bắt đầu lấy bao lì xì</string>
+    <string name="alarm_setting_title">Cài đặt báo thức lì xì</string>
+    <string name="best_warning_dialog_button">Tôi biết</string>
+    <string name="best_warning_dialog_title">Mẹo</string>
+    <string name="business_have_hongbao">Lì xì từ %1$s</string>
+    <string name="business_lucky_warning">Lì xì của công ty</string>
+    <string name="close_lucky_money_dialog_ok">Xác nhận đóng</string>
+    <string name="close_lucky_money_dialog_summary">Bạn có chắc muốn đóng Trợ lý lì xì không? Sau khi đóng, bạn sẽ không thể nhận được lời nhắc đặc biệt mà trợ lý lì xì đã gửi cho bạn, điều này có thể khiến bạn lỡ mất lì xì. Nếu bạn muốn đóng cửa sổ nổi, bạn có thể đóng nó trong Cài đặt khác.</string>
+    <string name="close_lucky_money_dialog_title">Đóng trợ lý lì xì</string>
+    <string name="cmd_lucky_float">Lắc</string>
+    <string name="dialog_remobe_luckymoney_cancle">Sử dụng bản phát hành đơn</string>
+    <string name="dialog_remobe_luckymoney_ok">Chuyển sang mở</string>
+    <string name="dialog_remove_luckymoney">Phiên bản MIUI này đã hỗ trợ Trợ lý lì xì mức hệ thống. Có thể gỡ bỏ phiên bản hiện tại và vào Bảo mật để mở Trợ lý lì xì nhanh hơn và ổn định hơn không?</string>
+    <string name="dnd_mode_type">Không làm phiền</string>
+    <string name="dnd_no_everything">Không nhắc nhở</string>
+    <string name="dnd_no_sound">Chỉ âm thanh</string>
+    <string name="fast_open">Chế độ lấy nhanh</string>
+    <string name="fast_open_dialog_message">Sau khi chế độ lấy nhanh được bật, khi bạn nhận được lì xì, hệ thống sẽ tự mở trang phong bao lì xì. Nó là một cách nhanh và thuận tiện hơn để lấy phong bao.</string>
+    <string name="fast_open_dialog_message_summary">Lưu ý: Bạn nên tắt chế độ điều hướng nhanh, video và trò chơi để tránh ảnh hưởng đến hoạt động bình thường của ứng dụng. Lì xì sẽ không lấy được trong trạng thái màn hình bị khóa.</string>
+    <string name="fast_open_dialog_ok">Mở</string>
+    <string name="fast_open_list_not_open_title">Danh sách ứng dụng không mở %s</string>
+    <string name="fast_open_list_open_title">Danh sách ứng dụng cho phép lấy nhanh %s</string>
+    <string name="fast_open_noti_summary">%s đã gửi cho bạn một phong bao lì xì</string>
+    <string name="fast_open_summary">Sau khi chế độ lấy nhanh được bật, việc nhận một tin nhắn lì xì mới sẽ làm gián đoạn ứng dụng hiện tại để chuyển sang màn hình phong bao lì xì.</string>
+    <string name="float_window">Cửa sổ nổi</string>
+    <string name="float_window_summary">Hỗ trợ nhảy nhanh để lắc và lấy một trang</string>
+    <string name="float_window_tips">Điện thoại Xiaomi rất nhanh!</string>
+    <string name="ge">Một</string>
+    <string name="lucky_activity">Hoạt động lì xì</string>
+    <string name="lucky_alarm">Báo thức hoạt động lì xì</string>
+    <string name="lucky_alarm_app">Đếm ngược hoạt động lì xì</string>
+    <string name="lucky_alarm_app_after">Hoạt động lì xì đã kết thúc</string>
+    <string name="lucky_alarm_app_tail">Đếm ngược</string>
+    <string name="lucky_alarm_item_month">Tháng 11</string>
+    <string name="lucky_alarm_open_summary">Sau khi mở, cửa sổ bật lên sẽ hiện 1 phút trước khi bắt đầu hoạt động lì xì, và thời gian hoạt động sẽ được thấy qua cửa sổ nổi.</string>
+    <string name="lucky_alarm_open_title">Báo thức lì xì</string>
+    <string name="lucky_alarm_sound_title">Âm báo hoạt động</string>
+    <string name="lucky_max_chat_title">Từ QQ</string>
+    <string name="lucky_money_group_summary">Lì xì được gửi từ cá nhân không cần phải chộp. Chúng tôi khuyên bạn chỉ nên đặt lời nhắc lì xì nhóm để tránh quá nhiều lời nhắc.</string>
+    <string name="lucky_my_luckymoney">Hồ sơ lì xì của tôi</string>
+    <string name="lucky_sound_mode_lucky">Phong bao đang đến</string>
+    <string name="lucky_sound_warn">Lời nhắc âm thanh lì xì</string>
+    <string name="lucky_str_yuan">%s NDT</string>
+    <string name="lucky_warning_count_title">Từ WeChat</string>
+    <string name="open_dnd_mode">Chế độ không làm phiền</string>
+    <string name="open_dnd_mode_summary">Không làm phiền trong khoảng thời gian, lời nhăc lì xì và báo thức lì xì sẽ không nhắc</string>
+    <string name="open_fast_open_mode">Mở chế độ cao điểm</string>
+    <string name="open_fast_open_mode_summary">Chế độ chộp nhanh đã bật. Khi nhận được lì xì, hệ thống sẽ tự mở trang lì xì.</string>
+    <string name="open_lucky">Mở Trợ lý lì xì Xiaomi</string>
+    <string name="open_right_now">Chộp lì xì ngay</string>
+    <string name="open_right_now_short">Chộp ngay</string>
+    <string name="person_have_hongbao">$1%s gửi bạn một phong bao lì xì!</string>
+    <string name="shake_send_sticker_summary">Trong WeChat và QQ, một biểu thức ngẫu nhiên sẽ xuất hiện. Đánh vần biểu thức vào ngày lễ, dễ mà!</string>
+    <string name="shoop_again_float">Hiện lại</string>
+    <string name="text_all_control_summary">Khi lì xì được phát hiện sau khi mở, màn hình sẽ tự sáng lên để nhắc</string>
+    <string name="text_error">Phiên bản ứng dụng quá thấp hoặc ứng dụng chưa được cài đặt</string>
+    <string name="text_lucky_alarm_before">Hoạt động lì xì sắp bắt đầu</string>
+    <string name="warn_function_no_work">&lt;u>Không thể nhắc khi tôi đến lì xì?&lt;/u></string>
+    <string name="weChat_not_found">Phiên bản ứng dụng quá thấp hoặc ứng dụng chưa được cài đặt</string>
+    <string name="lucky_assistant_description">"Sản phẩm chính hãng Xiaomi
+Lấy lì xì WeChat/QQ/Mi Chat
+Nhắc nhở các nhóm bị chặn và ứng dụng bật Không làm phiền"</string>
+    <string name="best_warning_dialog_message">"Mẹo: Với Trợ lý lì xì Xiaomi, bạn sẽ tăng tốc độ lấy phong bao. Nếu tay và tốc độ của bạn nhanh, bạn sẽ luôn là người đầu tiên lấy được lì xì，&lt;font color='#e56255'>Có khả năng Mistext sẽ nhầm tưởng rằng trình cắm tự động lấy lì xì đang được dùng&lt;/font>，ảnh hưởng đến tính năng lì xì bạn dùng sau này. Vì vậy, đôi khi tốt hơn khi bạn kiểm soát giai điệu của mình và lấy lì xì. Mặc dù lì xì rất tốt, đừng tham lam~"</string>
+    <string name="best_warning_dialog_message1">"Với Trợ lý lì xì Xiaomi, bạn sẽ tăng tốc độ lấy phong bao. Nếu tay và tốc độ của bạn nhanh, bạn sẽ luôn là người đầu tiên lấy được lì xì，&lt;font color='#e56255'>Có khả năng Mistext sẽ nhầm tưởng rằng trình cắm tự động lấy lì xì đang được dùng&lt;/font>，ảnh hưởng đến tính năng lì xì bạn dùng sau này. Vì vậy, đôi khi tốt hơn khi bạn kiểm soát giai điệu của mình và lấy lì xì. Mặc dù lì xì rất tốt, đừng tham lam～～"</string>
+    <string name="text_alarm_before">"Hoạt động lì xì năm nay sắp bắt đầu
+Thần Tài đang ở đây, hãy chờ đợi"</string>
+    <string name="text_alarm_after">"Hoạt động lì xì năm nay đã kết thúc
+Mong được đoàn tụ với bạn trong năm tới"</string>
+    <string name="text_alarm_close">"Bật đông hồ báo thức lì xì
+Kịp thời nhắc nhở tất cả các loại lì xì
+Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 </resources>
