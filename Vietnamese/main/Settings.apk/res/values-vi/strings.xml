@@ -4,7 +4,6 @@
     <string name="gxzw_anim_metal">Kim loại</string>
     <string name="gxzw_anim_pulse">Mạch xung</string>
     <string name="gxzw_anim_rhythm">Nhịp điệu</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="miui_sos_call_log_time_unit">%1$d phút %2$d giây</string>
     <string name="music_dirac_mode_india_earphones">Tai nghe Mi</string>
 	<string name="wifi_fail_to_scan">Không thể quét mạng</string>

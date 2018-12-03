@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="om_promotion">Quảng cáo</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
 	<string name="pref_category_package_type_title">Loại gói dữ liệu</string>
 	<string name="fw_blocked">Danh sách chặn</string>
     <string name="fw_oversea">Chặn cuộc gọi từ nước ngoài</string>

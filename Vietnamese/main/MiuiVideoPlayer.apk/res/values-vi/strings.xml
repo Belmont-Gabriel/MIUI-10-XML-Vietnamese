@@ -1201,7 +1201,6 @@ Kiểm tra các video khác!"</string>
     <string name="v_pw_need_update_app">Cập nhật Mi Video để sử dụng tất cả tính năng</string>
 	<string name="cast_connecting_to_device">Đang kết nối với %1$s</string>
     <string name="cast_expanded_controller_skip_ad_text">Bạn có thể bỏ qua quảng cáo sau %1$d…</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_notification_default_channel_name">Cast</string>
     <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
     <string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href=%2$s> Chính sách Riêng tư &lt;/a> của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
