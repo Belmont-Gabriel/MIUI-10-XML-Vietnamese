@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="firewall_item_summary">
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">Còn lại %1$d bước trước khi bạn có thể nhận nhật ký âm thanh</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">Còn lại %1$d bước trước khi bạn có thể nhận nhật ký GPS</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">Còn lại %1$d bước trước khi bạn có thể nhận nhật ký modem</item>
+    </plurals>
+	<plurals name="firewall_item_summary">
         <item quantity="other">Đã hạn chế kết nối cho %s ứng dụng</item>
     </plurals>
     <plurals name="bg_network_allow_count">

@@ -430,4 +430,10 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="antispam_pull_newest">Cập nhật lên phiên bản %d thành công</string>
     <string name="antispam_update_version">Kiểm tra cập nhật</string>
 	<string name="mark_number_notification_title">Báo cáo số đáng ngờ</string>
+	<string name="about_privacy">Chính sách Riêng tư</string>
+    <string name="global_user_notice_yp_detail_summary_format">Một số thông tin ID Người gọi đã lỗi thời. Bạn có muốn cập nhật? Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của chúng tôi.</string>
+    <string name="mark_number_feedback_title_hint">Số này:</string>
+    <string name="mark_number_second_edit_hint">Không có ở trên. Đây là danh mục của tôi.</string>
+    <string name="more_mark_category">Thêm</string>
+    <string name="recharge_charge_value">Giá: %s NDT</string>
 </resources>

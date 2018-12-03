@@ -1199,4 +1199,31 @@ Kiểm tra các video khác!"</string>
     <string name="ui_log_tip">Chạm vào khu vực này để ẩn, bấm và giữ để xóa nhật ký cũ. Kéo nhật ký thủ công.</string>
     <string name="v_app_name">Mi Video</string>
     <string name="v_pw_need_update_app">Cập nhật Mi Video để sử dụng tất cả tính năng</string>
+	<string name="cast_connecting_to_device">Đang kết nối với %1$s</string>
+    <string name="cast_expanded_controller_skip_ad_text">Bạn có thể bỏ qua quảng cáo sau %1$d…</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
+    <string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href=%2$s> Chính sách Riêng tư &lt;/a> của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
+    <string name="dialog_privacy_title">Ủy quyền</string>
+    <string name="dialog_revoke_privacy_info_new2">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan sẽ bị xóa khỏi máy chủ. Điều này có thể làm cho ứng dụng hầu như không sử dụng được. Vẫn tiếp tục hủy?</string>
+    <string name="dialog_revoke_privacy_title">Hủy ủy quyền</string>
+    <string name="explore_on_mi_video">Tìm thêm trên Mi Video</string>
+    <string name="failed_to_fetch_data">Không thể tải thông tin.</string>
+    <string name="lp_speed_title">Tốc độ phát lại</string>
+    <string name="lp_speed_toast">Đang phát tại tốc độ %sX…</string>
+    <string name="network_connect_info">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+    <string name="ovp_detail_deeplink_plugin_downloading">Đang tải xuống trình cắm</string>
+    <string name="ovp_home_no_data_callback">Không thể tải thông tin. Kéo xuống để làm mới.</string>
+    <string name="ovp_setting_privacy_switch_tips">Vài tính năng sẽ không khả dụng nếu bạn hủy ủy quyền</string>
+    <string name="ovp_setting_privacy_switch_title">Ủy quyền &amp; thu hồi</string>
+    <string name="ovp_video_plugin_installation_failure">Không thể cài đặt %1$s</string>
+    <string name="push_message_switch">Thông báo đẩy</string>
+    <string name="push_message_tips">Bật để nhận thông báo đẩy</string>
+    <string name="read_and_agree">Đồng ý</string>
+    <string name="revoke">Hủy</string>
+    <string name="s7">Quảng cáo thử nghiệm</string>
+    <string name="share_ugc_content">Hãy ghé xem %1$s! #%2$s (%3$s)</string>
+    <string name="share_ugc_waitting">Đang tạo liên kết…</string>
+    <string name="switch_ratio_pause">Tốc độ phát lại không ổn định. Chuyển về tốc độ mặc định…</string>
 </resources>

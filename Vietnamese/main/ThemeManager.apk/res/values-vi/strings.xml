@@ -676,4 +676,5 @@
     <string name="theme_detail_tab_recommend">Đề xuất</string>
     <string name="theme_detail_tab_theme">Chủ đề</string>
     <string name="xiaoai_speech_not_installed_title">Trợ lí âm thanh Mi AI chưa được cài đặt.</string>
+	<string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
 </resources>

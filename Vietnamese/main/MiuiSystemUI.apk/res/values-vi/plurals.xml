@@ -115,4 +115,7 @@
 	<plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Yêu cầu vẽ mẫu hình sau %d giờ không hoạt động</item>
     </plurals>
+	<plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Yêu cầu nhập mật khẩu sau %d giờ không hoạt động</item>
+    </plurals>
 </resources>

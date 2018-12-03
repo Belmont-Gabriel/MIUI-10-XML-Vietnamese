@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="contact_entries">
+    <string-array name="reason_type">
+        <item>Lừa đảo</item>
+        <item>Nội dung khiêu dâm hoặc bất hợp pháp</item>
+        <item>Thư rác</item>
+        <item>Khác</item>
+        <item>Hủy</item>
+    </string-array>
+	<string-array name="contact_entries">
         <item>Tên</item>
         <item>Biệt danh</item>
         <item>Điện thoại</item>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="batch_delete_confirm_dialog_message">
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Tin nhắn được nhận bởi %1$s và %2$d người khác</item>
+    </plurals>
+	<plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Xóa %1$s tin nhắn?</item>
     </plurals>
     <plurals name="cloud_sms_count">

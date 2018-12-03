@@ -27,4 +27,7 @@
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s người</item>
     </plurals>
+	<plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Trung bình của %1$s trạm</item>
+    </plurals>
 </resources>

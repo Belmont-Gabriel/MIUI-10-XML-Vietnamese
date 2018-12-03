@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="fw_blocked_count_call">
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d ký tự khác</item>
+    </plurals>
+	<plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
+	<plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Đã hao %2$d%% pin trong %1$d phút</item>
+    </plurals>
+	<plurals name="om_locked_apps_title">
+        <item quantity="other">%d ứng dụng bị khóa</item>
+    </plurals>
+	<plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+    </plurals>
+	<plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Thêm %d phút</item>
+    </plurals>
+	<plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ứng dụng đã được ẩn</item>
+    </plurals>
+	<plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Có thể ẩn %d ứng dụng</item>
+    </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Đặt lại dữ liệu gốc (%dgiây)</item>
+    </plurals>
+	<plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d cuộc gọi từ %2$s và số khác</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">

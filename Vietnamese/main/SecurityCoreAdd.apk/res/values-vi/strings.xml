@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Thành phần lõi bảo mật</string>
+    <string name="greenguard_child_des">Sử dụng ứng dụng của chúng tôi để giữ kết nối</string>
+    <string name="greenguard_child_des_title">Tôi cần sự trợ giúp từ bạn bè và gia đình</string>
+    <string name="greenguard_parent_des">Tải xuống ứng dụng của chúng tôi và thêm thiết bị của người khác</string>
+    <string name="greenguard_parent_des_title">Tôi cần trợ giúp bạn bè và gia đình</string>
+    <string name="xspace_remove">Xóa tài khoản ứng dụng kép</string>
+	<string name="app_name">Thành phần lõi bảo mật</string>
     <string name="switch_data_settings">Chuyển dữ liệu</string>
     <string name="switch_in_contacts">Nhập liên hệ</string>
     <string name="switch_in_privacy_contacts">Nhập liên hệ cá nhân</string>

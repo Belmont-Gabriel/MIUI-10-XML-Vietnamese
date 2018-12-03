@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcome">Chào mừng</string>
+    <string name="other_settings_enhanced_lockscreen">Tạp chí Khóa màn hình</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Nhận ảnh và câu chuyện được gửi tới Màn hình khóa mỗi ngày. Điều khoản và Điều kiện áp dụng.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Điều khoản và Điều kiện</string>
+	<string name="welcome">Chào mừng</string>
     <string name="app_name">Hướng dẫn sử dụng</string>
     <string name="system_navigation_mode">Chế độ điều hướng hệ thống</string>
     <string name="input_method_setting">Chọn bàn phím</string>
