@@ -58,4 +58,5 @@
     <string name="fast_connect_device_title_connecting">Đang kết nối…</string>
     <string name="fast_connect_device_title_find_headset">Tìm tai nghe %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Tìm tai nghe %1$s khác</string>
+	<string name="fast_connect_device_connect_ok">Kết nối</string>
 </resources>

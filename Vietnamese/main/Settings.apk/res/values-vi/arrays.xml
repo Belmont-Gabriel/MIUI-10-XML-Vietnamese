@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wifi_status">
+    <string-array name="keyguard_notification_status_entries">
+        <item>Bật màn hình</item>
+        <item>Hiển thị ảnh động</item>
+        <item>Không bật màn hình</item>
+    </string-array>
+	<string-array name="wifi_calling_mode_choices">
+        <item>Ưu tiên Wi-Fi</item>
+        <item>Được ưu tiên trên thiết bị di động</item>
+        <item>Chỉ Wi-Fi</item>
+    </string-array>
+	<string-array name="wifi_status">
         <item></item>
         <item>Đang quét…</item>
         <item>Đang kết nối…</item>

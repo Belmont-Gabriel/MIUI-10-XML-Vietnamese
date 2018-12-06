@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="fw_blocked">Danh sách chặn</string>
+    <string name="om_promotion">Quảng cáo</string>
+	<string name="pref_category_package_type_title">Loại gói dữ liệu</string>
+	<string name="fw_blocked">Danh sách chặn</string>
     <string name="fw_oversea">Chặn cuộc gọi từ nước ngoài</string>
     <string name="fw_blocked_count">"Đã chặn "</string>
     <string name="fw_blocked_join">" và "</string>

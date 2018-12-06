@@ -486,4 +486,14 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="empty_state_summary">Không có tệp nào cũ để xóa. Để giải phóng lưu trữ, xóa ảnh, video và ứng dụng.</string>
     <string name="empty_state_title">Không có gì để xóa</string>
     <string name="storage_menu_free">Giải phóng dung lượng</string>
+	<string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
+    <string name="bluetooth_enable_inband_ringing_summary">Cho phép nhạc chuông trên điện thoại được phát trên tai nghe Bluetooth</string>
+    <string name="debug_hw_renderer">Đặt kết xuất đồ họa GPU</string>
+    <string name="power_discharging_duration_short">%1$s - còn lại %2$s</string>
+    <string name="telephony_monitor_switch">Giám sát điện thoại</string>
+    <string name="telephony_monitor_switch_summary">TelephonyMonitor sẽ thu thập nhật ký khi phát hiện thấy sự cố với chức năng điện thoại/modem và gửi thông báo khẩn cấp tới người dùng để gửi lỗi</string>
+    <string name="wifi_aggressive_handover">Chuyển vùng Wi‑Fi tích cực sang mạng DĐ</string>
+    <string name="wifi_aggressive_handover_summary">Khi được bật, Wi‑Fi sẽ tích cực hơn trong việc chuyển vùng kết nối dữ liệu sang mạng di động khi tín hiệu Wi‑Fi yếu</string>
+    <string name="wifi_allow_scan_with_traffic">Luôn cho phép quét chuyển vùng Wi‑Fi</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Cho phép/Không cho phép quét chuyển vùng Wi‑Fi dựa trên lưu lượng truy cập dữ liệu có tại giao diện</string>
 </resources>

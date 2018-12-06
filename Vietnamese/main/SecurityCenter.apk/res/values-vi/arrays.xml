@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic_cmcc">
+    <string-array name="traffic_package_type">
+        <item>Gói dữ liệu hàng tháng</item>
+        <item>Gói dữ liệu hàng ngày</item>
+        <item>Gói dữ liệu không giới hạn</item>
+    </string-array>
+	<string-array name="date_of_traffic_cmcc">
         <item>"Tuần này "</item>
         <item>"Hôm nay "</item>
         <item>"Tháng này "</item>

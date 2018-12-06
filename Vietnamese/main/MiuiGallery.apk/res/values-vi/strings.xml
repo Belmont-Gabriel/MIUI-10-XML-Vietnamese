@@ -1357,4 +1357,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="set_as_slide_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
     <string name="set_as_slide_wallpaper_title">Đặt làm hình nền trình chiếu</string>
     <string name="unsupport_video">%s không làm việc với video</string>
+	<string name="collage_ratio_text">Tỷ lệ</string>
+    <string name="collage_title_stitching">Cuộn phim</string>
+    <string name="photo_movie_module_finish">Tải Clip thành công</string>
+    <string name="photo_movie_module_loading">Đang tải Clip…</string>
 </resources>

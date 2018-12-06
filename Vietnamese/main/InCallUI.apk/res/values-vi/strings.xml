@@ -263,4 +263,5 @@
 	<string name="conference_call_recorder_title">Cuộc gọi hội nghị</string>
     <string name="description_message_list_title">Danh sách trả lời nhanh</string>
 	<string name="volume_boost_text">Tăng âm lượng thành công</string>
+	<string name="supp_service_notification_call_waiting">Số bạn gọi đang bận. Vui lòng giữ…</string>
 </resources>

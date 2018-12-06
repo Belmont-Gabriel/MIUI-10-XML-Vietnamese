@@ -729,4 +729,5 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="mr">Trạng thái Wi-Fi</string>
     <string name="u">Tìm kiếm…</string>
     <string name="v">Xóa truy vấn</string>
+	<string name="kk">Thiết bị kia đã ngắt kết nối</string>
 </resources>

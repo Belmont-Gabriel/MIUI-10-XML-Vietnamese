@@ -32,4 +32,7 @@
     <string name="waiting_to_send">Chờ để gửi</string>
     <string name="wifi_direct_printers">Máy in WiFi Direct</string>
     <string name="wifi_direct">WiFi Direct</string>
+	<string name="add_manual_printer">Thêm máy in thủ công</string>
+	<string name="forget_printer">Bỏ qua máy in</string>
+	<string name="wifi_not_connected">Chưa kết nối Wi-Fi</string>
 </resources>

@@ -664,7 +664,6 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="close_back_flash_toast">Thiết bị quá nhiệt. Không thể sử dụng flash.</string>
     <string name="close_front_flash_toast">Thiết bị quá nhiệt. Không thể sử dụng flash.</string>
     <string name="makeup_reset_toast">Bỏ hiệu ứng trang điểm</string>
-    <string name="pref_camera_coloreffect_default">Không</string>
     <string name="pref_camera_dual_enable_title">Bật máy ảnh kép</string>
     <string name="pref_camera_dual_sat_enable_title">Bật máy ảnh SAT kép</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Tự động ẩn khung nhận diện khuôn mặt</string>

@@ -109,4 +109,5 @@
     <string name="ringtone_silent">Không</string>
     <string name="ringtone_unknown">Nhạc chuông chưa biết</string>
     <string name="too_many_recipients">Số lượng tối đa người tham gia cho cuộc gọi hội nghị 4G là %1$s.</string>
+	<string name="description_image_button_plus">cộng</string>
 </resources>
