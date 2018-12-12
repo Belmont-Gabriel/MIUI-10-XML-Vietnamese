@@ -92,4 +92,9 @@
         <item>Tổng %2$s %3$s</item>
         <item>Tổng %1$s %2$s %3$s</item>
     </string-array>
+	<string-array name="stat_volume_button_behaviors">
+        <item>Không</item>
+        <item>Đổ chuông sau</item>
+        <item>Đóng</item>
+    </string-array>
 </resources>

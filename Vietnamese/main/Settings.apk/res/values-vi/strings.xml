@@ -7761,4 +7761,17 @@ Cập nhật cài đặt thành:
     <string name="the_way_of_wakeup_voice_assistant_summary">Đánh thức trợ lý giọng nói ở chế độ toàn màn hình (không có phím ảo)</string>
 	<string name="device_resolution">Độ phân giải</string>
 	<string name="status_bar_settings_show_lte_for_4g">Hiển thị biểu tượng LTE cho 4G</string>
+	<string name="title_font_v2">Văn bản &amp; phần tử giao diện</string>
+    <string name="title_layout_v2">Kích thước văn bản &amp; thu phóng</string>
+    <string name="app_wifi">WiFi</string>
+    <string name="default_vol_stream_title">Luồng điều khiển âm lượng mặc định</string>
+    <string name="device_camera">Máy ảnh</string>
+    <string name="keywords_imei_info">imei, meid, min, phiên bản prl, imei sv</string>
+    <string name="summary_font_size_v2">Điều chỉnh kích thước văn bản, hình ảnh và biểu tượng</string>
+	<string name="device_description_cpu">Bộ vi xử lý</string>
+	<string name="device_description_battery">Dung lượng pin</string>
+	<string name="device_description_camera">Máy ảnh sau</string>
+	<string name="device_description_screen">K.thước màn hình</string>
+	<string name="device_description_resolution">Độ phân giải</string>
+	<string name="device_description_ram">RAM</string>
 </resources>

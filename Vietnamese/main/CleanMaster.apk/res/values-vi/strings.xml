@@ -708,4 +708,7 @@
     <string name="junk_tag_junk_big_name_thumbnails">Hình thu nhỏ của ảnh trên điện thoại</string>
     <string name="junk_tag_junk_big_name_whatsapp_media_video">Tệp video Whatsapp</string>
     <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">Nhật ký đẩy GDC</string>
+	<string name="facebook_function_summery">Xóa các mục được lưu trữ bởi Facebook</string>
+    <string name="facebook_function_title">Trình dọn dẹp Facebook</string>
+    <string name="phone_search">Tìm kiếm Google</string>
 </resources>

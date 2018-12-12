@@ -43,4 +43,7 @@
 	<plurals name="second">
         <item quantity="other">%d giây</item>
     </plurals>
+	<plurals name="snooze_duration_summary">
+        <item quantity="other">Báo thức sẽ tắt %2$s lần (%1$s phút mỗi lần)</item>
+    </plurals>
 </resources>

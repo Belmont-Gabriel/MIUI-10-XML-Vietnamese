@@ -233,4 +233,7 @@
     <string name="stat_repeat_self_define">Tùy chỉnh</string>
     <string name="stat_repeat_weekdays">Ngày trong tuần</string>
     <string name="stat_repeat_weekends">Ngày cuối tuần</string>
+	<string name="repeat_count">Số lần</string>
+    <string name="snooze_duration">Thời gian báo lại</string>
+    <string name="snooze_duration_value">Khoảng thời gian (phút)</string>
 </resources>
