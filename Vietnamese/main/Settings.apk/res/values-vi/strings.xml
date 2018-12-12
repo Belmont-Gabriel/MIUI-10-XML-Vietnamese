@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="device_camera">Máy ảnh</string>
     <string name="gxzw_anim_metal">Kim loại</string>
     <string name="gxzw_anim_pulse">Mạch xung</string>
     <string name="gxzw_anim_rhythm">Nhịp điệu</string>
