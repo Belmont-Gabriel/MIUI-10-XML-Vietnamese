@@ -496,4 +496,6 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="wifi_aggressive_handover_summary">Khi được bật, Wi‑Fi sẽ tích cực hơn trong việc chuyển vùng kết nối dữ liệu sang mạng di động khi tín hiệu Wi‑Fi yếu</string>
     <string name="wifi_allow_scan_with_traffic">Luôn cho phép quét chuyển vùng Wi‑Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Cho phép/Không cho phép quét chuyển vùng Wi‑Fi dựa trên lưu lượng truy cập dữ liệu có tại giao diện</string>
+	<string name="power_remaining_duration_only_short_enhanced">Còn ^1 dựa trên mức sử dụng của bạn</string>
+    <string name="speed_label_okay">Khá tốt</string>
 </resources>

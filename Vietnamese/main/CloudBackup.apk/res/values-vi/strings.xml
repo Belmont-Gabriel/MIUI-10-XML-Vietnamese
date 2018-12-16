@@ -189,4 +189,13 @@
     <string name="title_alert_restore_error">Không thể khôi phục</string>
     <string name="try_continue">Chạm để tiếp tục</string>
     <string name="unsupported_home">Vui lòng cập nhật lên hệ điều hành mới nhất.</string>
+	<string name="backup_stopped_msg">Sao lưu hiện tại sẽ ghi đè lên bản sao lưu trước đó. Chạm để xem.</string>
+    <string name="backup_stopped_title">Sao lưu đã tạm dừng</string>
+    <string name="dialog_btn_cancel_backup">Hủy</string>
+    <string name="dialog_btn_overwrite_backup">Ghi đè lên</string>
+    <string name="dialog_msg_overwrite_backup">Sao lưu trên máy khác với sao lưu trên Mi Cloud. Nếu bạn tiếp tục, sao lưu hiện tại sẽ ghi đè lên bản sao lưu trước đó.</string>
+    <string name="other_device_main_space">Không gian thứ nhất</string>
+    <string name="other_device_second_space">Không gian thứ hai</string>
+    <string name="self_device_main_space">Không gian thứ nhất của điện thoại này</string>
+    <string name="self_device_second_space">Không gian thứ hai của điện thoại này</string>
 </resources>

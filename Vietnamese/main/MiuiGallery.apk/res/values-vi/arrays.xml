@@ -63,4 +63,8 @@
         <item>Mùa thu</item>
         <item>Mùa đông</item>
     </string-array>
+	<string-array name="menu_copy_or_move">
+        <item>Chuyển</item>
+        <item>Sao chép</item>
+    </string-array>
 </resources>

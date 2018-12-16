@@ -440,4 +440,22 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="menu_item_about_privacy_title">Chính sách Riêng tư</string>
     <string name="qq_login">Đăng nhập QQ</string>
     <string name="this_function_can_not_use_in_second_space">Tính năng này chỉ có thể sử dụng trong Không gian thứ nhất</string>
+	<string name="button_text_next_step">Tiếp theo</string>
+    <string name="button_text_next_step_timer">Bước tiếp theo (%d)</string>
+    <string name="cta_declaration_agree_and_continue">Đồng ý</string>
+    <string name="cta_declaration_message_format" formatted="false">Bạn phải đọc và đồng ý với &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> của chúng tôi trước khi sử dụng chế độ Doanh nghiệp. Thiết bị của bạn cần kết nối với internet để kích hoạt chế độ này. Đồng ý?</string>
+    <string name="cta_declaration_title">Điều khoản và Điều kiện</string>
+    <string name="dialog_message_service_error">Không thể hủy ủy quyền và khôi phục về cài đặt gốc. Hãy thử lại.</string>
+    <string name="dialog_tip_need_network">Thiết bị của bạn cần kết nối internet để hủy ủy quyền.</string>
+    <string name="dialog_title_service_error">Lỗi máy chủ</string>
+    <string name="dialog_undo_negative">Không hủy ủy quyền</string>
+    <string name="master_clear_apply_step_1">Hủy ủy quyền yêu cầu thiết bị khôi phục về cài đặt gốc. Tất cả các tập tin và dữ liệu, bao gồm tài khoản, danh bạ, ảnh và ứng dụng sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính trước khi hủy ủy quyền.</string>
+    <string name="master_clear_apply_step_2">"Đảm bảo bạn đã sao lưu tất cả các mục quan trọng vào máy tính. Sau khi bạn chạm ''OK\", thiết bị sẽ được khôi phục về cài đặt gốc, xóa vĩnh viễn tất cả các tập tin và dữ liệu, bao gồm tài khoản, danh bạ, ảnh và ứng dụng."</string>
+    <string name="master_clear_apply_title">Chú ý</string>
+    <string name="more_settings">Thêm</string>
+    <string name="undo_activated_dialog_message">Việc hủy ủy quyền sẽ tắt chế độ Doanh nghiệp và khôi phục thiết bị về cài đặt gốc. Tất cả các tính năng liên quan sẽ không còn khả dụng. Bên cạnh đó, Xiaomi sẽ dừng thu thập thông tin cần thiết cho chế độ Doanh nghiệp (IMEI, ID thiết bị, phiên bản hệ thống, khu vực, v.v...). Chúng tôi muốn nhắc bạn rằng Xiaomi không quản lý dữ liệu thu thập được cho chế độ Doanh nghiệp. Chúng tôi sẽ cố gắng hết sức để thông báo cho tất cả các bên liên quan, nhưng khuyên bạn nên liên hệ với giám sát viên của công ty để phê duyệt việc hủy ủy quyền này. Hủy ủy quyền và khôi phục về cài đặt gốc?</string>
+    <string name="undo_activated_dialog_ok">Hủy ủy quyền</string>
+    <string name="undo_grant_dialog_message">Sau khi bạn hủy ủy quyền, Xiaomi sẽ dừng thu thập thông tin cần thiết cho tính năng này (IMEI, ID thiết bị, phiên bản hệ thống, khu vực, v.v.). Hủy ủy quyền ngay?</string>
+    <string name="undo_privacy_menu">Hủy ủy quyền</string>
+    <string name="undo_success">Hủy ủy quyền thành công</string>
 </resources>

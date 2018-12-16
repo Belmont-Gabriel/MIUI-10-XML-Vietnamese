@@ -228,4 +228,10 @@
     <string name="translate_try_again">Chạm để thử lại</string>
     <string name="translate_type_take_pic">Ảnh</string>
     <string name="wifi_exist_fail">Điểm phát sóng Wi-Fi \"%1$s\" đã tồn tại. Xóa nó và thử lại.</string>
+	<string name="module_title_plant">Thực vật</string>
+    <string name="plant_fail">Không thể nhận dạng</string>
+    <string name="plant_loading">Đang xác định…</string>
+    <string name="plant_reg_fail_2">Không thể nhận ra đối tượng này. Máy quét chỉ có thể xác định thực vật.</string>
+    <string name="plant_support">" (Hỗ trợ kỹ thuật)"</string>
+    <string name="plant_title">Quét thực vật bạn muốn xác định</string>
 </resources>
