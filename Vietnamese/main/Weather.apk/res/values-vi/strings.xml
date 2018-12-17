@@ -317,4 +317,11 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="missing_required_permission">Bạn đã tắt một quyền được yêu cầu.</string>
     <string name="other_settings">Cài đặt khác</string>
     <string name="receive_net_mock_success">Đã nhận mô phỏng mạng</string>
+	<string name="act_location_error_to_find_city">Không thể nhận thông tin vị trí. Bạn có thể thêm thành phố theo cách thủ công.</string>
+    <string name="activity_main_pub_time">Đã đăng lúc %1$s</string>
+    <string name="empty_view_net_loading">Đang cập nhật…</string>
+    <string name="empty_view_net_unavailable">Không thể kết nối mạng</string>
+    <string name="empty_view_refresh">Thử lại</string>
+    <string name="location_provider_btn_text">Bật dịch vụ vị trí</string>
+    <string name="radar_cloud_update_time">Trước %1$s</string>
 </resources>

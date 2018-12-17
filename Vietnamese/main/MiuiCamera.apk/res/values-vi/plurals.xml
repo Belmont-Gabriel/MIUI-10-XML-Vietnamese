@@ -3,4 +3,7 @@
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Đã lấy nét. %d khuôn mặt đã nhận diện</item>
     </plurals>
+	<plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
+    </plurals>
 </resources>

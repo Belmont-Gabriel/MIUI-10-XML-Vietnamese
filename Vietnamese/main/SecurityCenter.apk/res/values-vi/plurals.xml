@@ -278,4 +278,13 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="menu_text_antivirus_3">
         <item quantity="other">"%d ngày"</item>
     </plurals>
+	<plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Nối ít nhất %d điểm</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Nhập ít nhất %d ký tự</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Nhập ít nhất %d chữ số</item>
+    </plurals>
 </resources>

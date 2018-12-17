@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="device_camera">Máy ảnh</string>
     <string name="gxzw_anim_metal">Kim loại</string>
     <string name="gxzw_anim_pulse">Mạch xung</string>
     <string name="gxzw_anim_rhythm">Nhịp điệu</string>
@@ -7774,4 +7773,12 @@ Cập nhật cài đặt thành:
 	<string name="device_description_screen">K.thước màn hình</string>
 	<string name="device_description_resolution">Độ phân giải</string>
 	<string name="device_description_ram">RAM</string>
+	<string name="default_launcher_set_jeejen_message">Bấm phím Trang chính để thiết lập Jeejen</string>
+    <string name="default_launcher_set_system_message">Bấm phím Trang chính để khôi phục trình khởi chạy mặc định</string>
+    <string name="dump_log">Nhận nhật ký liên quan đến vấn đề</string>
+    <string name="dump_log_summary">"Tính năng này được thiết kế để tạo ra 284 bản ghi trong các phiên bản Alpha và Beta của MIUI.          Hãy thận trọng khi sử dụng.
+Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</string>
+    <string name="miui_ime_xiaoai_voice_hint">Nhập văn bản nhanh hơn, thuận tiện hơn</string>
+    <string name="miui_ime_xiaoai_voice_title">Nhập lời thoại Mi AI</string>
+    <string name="network_name_input_error">Không thể lưu SSID. Hãy thử lại.</string>
 </resources>
