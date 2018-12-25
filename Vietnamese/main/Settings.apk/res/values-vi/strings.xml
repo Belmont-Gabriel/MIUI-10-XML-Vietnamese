@@ -5064,7 +5064,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="standard_info">Cuộc gọi và thông báo sẽ im lặng</string>
     <string name="total">Không làm phiền</string>
     <string name="total_info">Im lặng và tắt rung trừ báo thức</string>
-    <string name="rule_name">tên quy tắc</string>
+    <string name="rule_name">Tên quy tắc</string>
     <string name="day_of_week">Ngày trong tuần</string>
     <string name="silent_mode">Chế độ Im lặng</string>
     <string name="alarm_stop">Tắt Chế độ im lặng khi báo thức tắt</string>
@@ -5075,10 +5075,10 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="repeat_call">Thông báo cuộc gọi lặp lại</string>
     <string name="repeat_call_info">Cho phép bật âm thanh đối với cuộc gọi được lặp lại trong vòng 15 phút ở Chế độ im lặng</string>
     <string name="silent_duration">Thời lượng</string>
-    <string name="mode_enable">bật</string>
-    <string name="mode_disable">tắt</string>
+    <string name="mode_enable">Bật</string>
+    <string name="mode_disable">Tắt</string>
     <string name="demo_mode_summary">Hiển thị biểu tượng cố định trên thanh trạng thái đối với chế độ demo</string>
-    <string name="popup_window">cho phép cửa sổ pop-up</string>
+    <string name="popup_window">Cho phép cửa sổ pop-up</string>
     <string name="mute_music_stream">Im lặng tream nhạc</string>
     <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
     <string name="bluetooth_device_misc_title">Thiết bị Bluetooth hiếm khi sử dụng</string>
@@ -5252,7 +5252,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="fingerprint_manage">Quản lý vân tay</string>
     <string name="turn_off_keyguard_password_confirm_msg">Vài tính năng bảo mật sẽ không làm việc sau khi tắt mật khẩu.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Bạn không thể mở khóa thiết bị bằng vân tay sau khi bạn tắt mật khẩu.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Sau khi bạn tắt Mật khẩu Màn hình khóa, vân tay đã lưu sẽ bị xóa. Bạn sẽ không thể mở khóa thiết bị bằng dấu vân tay.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Sau khi bạn tắt Mật khẩu Màn hình khóa, vân tay đã lưu và dữ liệu khuôn mặt đã nhận diện sẽ bị xóa. Bạn sẽ không thể mở khóa thiết bị bằng dấu vân tay hay khuôn mặt.</string>
     <string name="work_space_delete">Xóa Không gian làm việc</string>
     <string name="work_space_delete_description">Bạn sẽ không thể vào Không gian công việc sau khi xóa. Tất cả dữ liệu sẽ bị chuyển hoặc xóa.</string>
     <string name="work_space_delete_confirm">Xóa ngay</string>
@@ -7162,7 +7162,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="ims_reg_title">Trạng thái đăng ký IMS</string>
     <string name="input_pattern_hint_text">Vẽ hình mở khóa</string>
     <string name="instant_apps_settings">Cài đặt Instant Apps</string>
-    <string name="keyguard_notification_status_title">Thông báo</string>
+    <string name="keyguard_notification_status_title">Khi thông báo đến và màn hình tắt</string>
     <string name="keywords_ambient_display">thông báo đến</string>
     <string name="keywords_fingerprint_settings">vân tay</string>
     <string name="language_empty_list_user_restricted">Bạn không có quyền thay đổi ngôn ngữ thiết bị</string>
@@ -7781,4 +7781,10 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="miui_ime_xiaoai_voice_hint">Nhập văn bản nhanh hơn, thuận tiện hơn</string>
     <string name="miui_ime_xiaoai_voice_title">Nhập lời thoại Mi AI</string>
     <string name="network_name_input_error">Không thể lưu SSID. Hãy thử lại.</string>
+	<string name="turn_off_keyguard_password_with_face_confirm_msg">"Sau khi bạn tắt Mật khẩu Màn hình khóa, dữ liệu khuôn mặt đã nhận diện sẽ bị xóa. Bạn sẽ không thể mở khóa thiết bị bằng khuôn mặt."</string>
+	<string name="set_jeejen_prompt_message">Jeejen sẽ được đặt làm trình khởi chạy mặc định. Bạn có thể thay đổi Trình khởi chạy mặc định trong Cài đặt &gt; Cài đặt hệ thống &gt; Màn hình chính &amp; Nhiệm vụ gần đây &gt; Trình khởi chạy mặc định.</string>
+	<string name="set_jeejen_prompt_title">Xác nhận thay đổi</string>
+	<string name="work_sound_permission_dialog_button_text_known">Đã hiểu</string>
+	<string name="work_sound_permission_dialog_message">"Bạn không thể sử dụng Chủ đề trong chế độ Doanh nghiệp. Liên hệ với giám sát của bạn để có được quyền truy cập."</string>
+	<string name="work_sound_permission_dialog_title">Hạn chế chế độ Doạnh nghiệp</string>
 </resources>

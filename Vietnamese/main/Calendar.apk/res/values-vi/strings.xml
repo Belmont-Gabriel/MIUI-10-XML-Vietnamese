@@ -701,4 +701,5 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="share_title">Chia sẻ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_permission_denied">Cho phép truy cập bộ nhớ trước</string>
+	<string name="event_action_arrive_station">Điểm đến</string>
 </resources>

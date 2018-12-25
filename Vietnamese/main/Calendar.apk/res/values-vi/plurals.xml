@@ -97,4 +97,7 @@
 	<plurals name="event_reminders_to_max">
         <item quantity="other">Có thể thiết lập đến %d nhắc nhở</item>
     </plurals>
+	<plurals name="feed_list_dislike_title">
+        <item quantity="other">%1$d lý do đã chọn</item>
+    </plurals>
 </resources>

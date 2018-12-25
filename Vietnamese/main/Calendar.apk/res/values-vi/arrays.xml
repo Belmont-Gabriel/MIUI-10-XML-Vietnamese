@@ -419,4 +419,11 @@
         <item>9:00SA - 3 ngày trước</item>
         <item>9:00SA - 1 tuần tước</item>
     </string-array>
+	<string-array name="edit_event_dislike">
+        <item>Không có loại sự kiện tôi muốn tạo</item>
+        <item>Quá nhiều cài đặt, không muốn điền vào</item>
+        <item>Một vài thông tin thiết lập không thể xác định</item>
+        <item>Cần xem lại</item>
+        <item>Không nói</item>
+    </string-array>
 </resources>

@@ -724,4 +724,11 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="ultra_wide_mode">Góc siêu rộng</string>
     <string name="ultra_wide_open_tip">Chế độ góc siêu rộng</string>
     <string name="ultra_wide_recommend_tip_hint">Bạn nên bật chế độ góc siêu rộng</string>
+	<string name="live_music_change_bgm">Thay nhạc</string>
+	<string name="live_music_downloading_tips">Đang tải xuống...</string>
+	<string name="live_music_hot_title">Nhạc hàng đầu</string>
+	<string name="live_music_local_title">Nhạc trong máy</string>
+	<string name="live_music_network_exception">Mạng không ổn định</string>
+	<string name="live_music_network_exception_tips">Mạng không ổn định, vui lòng thử lại</string>
+	<string name="pref_privacy_title">Chính sách Riêng tư</string>
 </resources>

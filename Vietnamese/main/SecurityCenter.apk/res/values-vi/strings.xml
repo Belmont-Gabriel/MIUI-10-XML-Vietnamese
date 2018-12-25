@@ -1952,6 +1952,8 @@ thiết bị của bạn"</string>
     <string name="app_manager_notify_keyguard">Màn hình khóa</string>
     <string name="app_manager_factory_reset">Gỡ cài đặt cập nhật</string>
     <string name="app_manager_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
+	<string name="app_manager_full_screen_summary">Cho phép ứng dụng đã chọn hoạt động trong chế độ toàn màn hình</string>
+	<string name="app_manager_full_screen_title">Chế độ toàn màn hình</string>
     <string name="app_manager_factory_reset_dlg_msg">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ cài đặt.</string>
     <string name="app_manager_system_mobile_disable">Tắt dữ liệu</string>
     <string name="app_managere_not_have_app">Trống</string>
