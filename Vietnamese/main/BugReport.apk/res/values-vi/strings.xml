@@ -208,7 +208,7 @@
     <string name="feedback_submit_succ_button">Hoàn tất</string>
     <string name="feedback_title">Tiêu đề</string>
     <string name="feedback_description">Mô tả</string>
-    <string name="feedback_select_images">Thêm ảnh</string>
+    <string name="feedback_select_images">Thêm ảnh hoặc video ngắn</string>
     <string name="feedback_select_upload_log">Thêm nhật ký</string>
     <string name="feedback_select_modem_log">Thêm nhật ký modem</string>
     <string name="feedback_select_suggestion">Kiến nghị</string>

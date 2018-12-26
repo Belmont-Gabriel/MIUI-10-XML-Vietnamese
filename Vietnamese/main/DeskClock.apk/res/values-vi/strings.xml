@@ -119,7 +119,7 @@
     <string name="setting_alarm_arriving_summary">Gửi thông báo trước khi đổ chuông</string>
     <string name="setting_alarm_arriving_title">Thông báo trước khi đổ chuông</string>
     <string name="shutdown_alarm_disable_summary">Báo thức sẽ không đổ chuông sau khi tắt nguồn</string>
-    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông sau khi tắt nguồn</string>
+    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông nếu nó được đặt ít nhất 5 phút trước khi bạn tắt nguồn</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
     <string name="slider_text">Trượt lên để tắt</string>

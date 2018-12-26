@@ -66,11 +66,97 @@
 	<string-array name="menu_copy_or_move">
         <item>Chuyển</item>
         <item>Sao chép</item>
-    </string-array>
+        <item>@string/cancel</item>
+	</string-array>
 	<string-array name="weekend_title">
         <item>Cuối tuần qua</item>
         <item>Ngày để nhớ</item>
         <item>Sự kiện hàng ngày</item>
         <item>Bình thường &amp; Phi thường</item>
+    </string-array>
+	<string-array name="card_last_week_day">
+        <item>Thứ Hai vừa qua</item>
+        <item>Thứ Ba vừa qua</item>
+        <item>Thứ Tư vừa qua</item>
+        <item>Thứ Năm vừa qua</item>
+        <item>Thứ Sáu vừa qua</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Đêm Giao thừa vừa qua"</item>
+        <item>Tết vừa qua</item>
+        <item>Lễ hội đèn lồng vừa qua</item>
+        <item>Lễ hội thuyền rồng vừa qua</item>
+        <item>Lễ hội Qixi vừa qua</item>
+        <item>Trung thu vừa qua</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Đêm Giao thừa qua các năm"</item>
+        <item>Tết qua các năm</item>
+        <item>Lễ hội đèn lồng qua các năm</item>
+        <item>Lễ hội thuyền rồng qua các năm</item>
+        <item>Lễ hội Qixi qua các năm</item>
+        <item>Trung thu qua các năm</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Ngày tết vừa qua"</item>
+        <item>"Ngày Valentine vừa qua"</item>
+        <item>Ngày Quốc tế Lao động vừa qua</item>
+        <item>"Ngày Quốc tế Thiếu nhi vừa qua"</item>
+        <item>Ngày Quốc khánh vừa qua</item>
+        <item>Ngày giáng sinh vừa qua</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Tết qua các năm"</item>
+        <item>"Valentine qua các năm"</item>
+        <item>Quốc tế Lao qua các năm</item>
+        <item>"Quốc tế Thiếu qua các năm"</item>
+        <item>Quốc khánh qua các năm</item>
+        <item>Giáng sinh qua các năm</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Tháng giêng vừa qua</item>
+        <item>Tháng hai vừa qua</item>
+        <item>Tháng ba vừa qua</item>
+        <item>Tháng tư vừa qua</item>
+        <item>Tháng năm vừa qua</item>
+        <item>Tháng sáu vừa qua</item>
+        <item>Tháng bảy vừa qua</item>
+        <item>Tháng tám vừa qua</item>
+        <item>Tháng chín vừa qua</item>
+        <item>Tháng mười vừa qua</item>
+        <item>Tháng mười một vừa qua</item>
+        <item>Tháng mười hai vừa qua</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Xuân vừa qua</item>
+        <item>Hè vừa qua</item>
+        <item>Thu vừa qua</item>
+        <item>Đông vừa qua</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Kỷ niệm tháng giêng</item>
+        <item>Kỷ niệm tháng hai</item>
+        <item>Kỷ niệm tháng ba</item>
+        <item>Kỷ niệm tháng tư</item>
+        <item>Kỷ niệm tháng năm</item>
+        <item>Kỷ niệm tháng sáu</item>
+        <item>Kỷ niệm tháng bảy</item>
+        <item>Kỷ niệm tháng tám</item>
+        <item>Kỷ niệm tháng chín</item>
+        <item>Kỷ niệm tháng mười</item>
+        <item>Kỷ niệm tháng mười một</item>
+        <item>Kỷ niệm tháng mười hai</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Kỷ niệm mùa xuân</item>
+        <item>Kỷ niệm mùa hè</item>
+        <item>Kỷ niệm mùa thu</item>
+        <item>Kỷ niệm mùa đông</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Tóm tắt mùa xuân</item>
+        <item>Tóm tắt mùa hè</item>
+        <item>Tóm tắt mùa thu</item>
+        <item>Tóm tắt mùa đông</item>
     </string-array>
 </resources>

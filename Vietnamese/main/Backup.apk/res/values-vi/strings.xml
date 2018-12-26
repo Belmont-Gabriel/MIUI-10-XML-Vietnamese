@@ -611,7 +611,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="err_pkg_not_exist">"Không thể tìm thấy ứng dụng."</string>
     <string name="err_user_abort">Đã bị hủy bởi người dùng.</string>
     <string name="trans_failed_details_page_title">Chuyển không thành công</string>
-    <string name="trans_generate_qrcode_failed">"Không thể tạo mã QR. Thử lại."</string>
+    <string name="trans_generate_qrcode_failed">"Không thể tạo mã QR. Đóng các ứng dụng khác và thử lại."</string>
     <string name="trans_generating_qrcode">Đang tạo mã QR…</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover cần một số dung lượng lưu trữ để đóng gói dữ liệu được chuyển, nhưng có vẻ như không có đủ dung lượng trống trên thiết bị cũ. Giải phóng dung lượng trong \"Bảo Mật\" hoặc chỉ chuyển các mục quan trọng."</string>
     <string name="trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>

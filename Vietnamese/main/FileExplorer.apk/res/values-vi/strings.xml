@@ -1216,4 +1216,9 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="video_play_count_more">Phát %s mười lần</string>
     <string name="video_replay_btn">Phát lại</string>
     <string name="video_retry_btn">Nhấn Thử lại</string>
+	<string name="failed_not_access_sd_card">Cho phép truy cập thẻ SD trước</string>
+	<string name="failed_obtain_permissions">"Không thể lấy quyền"</string>
+	<string name="not_support_documentui">"DocumentUI không hỗ trợ trên thiết bị này"</string>
+	<string name="request_document_permission">Quá nhiều tệp trên thẻ SD, cho phép Quản lý file quyền được yêu cầu.</string>
+	<string name="request_document_permission_title">Yêu cầu quyền</string>
 </resources>
