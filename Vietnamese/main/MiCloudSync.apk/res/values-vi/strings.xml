@@ -7,4 +7,6 @@
     <string name="error_not_acceptable">Đồng bộ bị tắt.</string>
     <string name="error_data_in_transfer_title">Mi Cloud không khả dụng</string>
     <string name="error_data_in_transfer">Đồng bộ sẽ kết thúc trong %s giờ.</string>
+	<string name="micloud_downloading_clipboard_message_from_web">Clipboard: Đã nhận một tin nhắn từ máy tính</string>
+	<string name="micloud_send_message_desc">Đang gửi Tin nhắn Mi</string>
 </resources>

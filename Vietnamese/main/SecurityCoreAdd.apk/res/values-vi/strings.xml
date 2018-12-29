@@ -338,7 +338,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="gpg_message">Tạo ứng dụng kép cho trò chơi yêu cầu làm việc với Google Play Game. Tạo ứng dụng kép cho Google Play Game?</string>
     <string name="gpg_title">Ứng dụng kép cho Google Play Game</string>
     <string name="gms_message">Tạo ứng dụng kép yêu cầu làm việc với Google service. Tạo ứng dụng kép cho Google service?</string>
-    <string name="gms_title">Bật Dịch vụ Google</string>
+    <string name="gms_title">Ứng dụng đôi cho Dịch vụ Google</string>
     <string name="gms_open_button">Bật</string>
     <string name="create_second_space">Đã tạo thành công</string>
     <string name="set_space_password">Thiết lập mật khẩu</string>
@@ -458,4 +458,8 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="undo_grant_dialog_message">Sau khi bạn hủy ủy quyền, Xiaomi sẽ dừng thu thập thông tin cần thiết cho tính năng này (IMEI, ID thiết bị, phiên bản hệ thống, khu vực, v.v.). Hủy ủy quyền ngay?</string>
     <string name="undo_privacy_menu">Hủy ủy quyền</string>
     <string name="undo_success">Hủy ủy quyền thành công</string>
+	<string name="button_input_password">Nhập mật khẩu</string>
+    <string name="button_touch">Đặt ngón tay của bạn lên cảm biến</string>
+    <string name="dialog_verify">Xác thực dấu vân tay của bạn</string>
+    <string name="dialog_verify_fingerprint_retry">Không thể xác thực dấu vân tay. Thử lại.</string>
 </resources>

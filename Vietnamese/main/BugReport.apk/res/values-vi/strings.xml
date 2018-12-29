@@ -374,4 +374,7 @@
 	<string name="title_first_aid">Hộp cấp cứu</string>
 	<string name="title_user_guide">Hướng dẫn sử dụng</string>
     <string name="toast_catch_full_log_open_failed">Không thể bắt đầu ghi nhật ký.</string>
+	<string name="feedback_choose_app_tag">Chọn vấn đề</string>
+	<string name="feedback_status_commit_in_queue_title">Đang chờ…</string>
+	<string name="toast_app_tag_required">Chọn vấn đề</string>
 </resources>

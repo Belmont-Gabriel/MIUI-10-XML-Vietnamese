@@ -2783,4 +2783,27 @@ Mong được đoàn tụ với bạn trong năm tới"</string>
     <string name="text_alarm_close">"Bật đông hồ báo thức lì xì
 Kịp thời nhắc nhở tất cả các loại lì xì
 Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
+	<string name="applock_face_unlock_summary">Mở khóa ứng dụng sử dụng dữ liệu khuôn mặt</string>
+    <string name="applock_face_unlock_title">Mở khóa khuôn mặt</string>
+    <string name="applock_function_base_settings">Khóa ứng dụng</string>
+    <string name="applock_function_pwd_settings">Mật khẩu</string>
+    <string name="face_unlock_be_on_the_screen">Đặt thiết bị trước mặt bạn</string>
+    <string name="face_unlock_check_failed">Không nhận dạng được</string>
+    <string name="face_unlock_not_found">Không nhận dạng được</string>
+    <string name="face_unlock_open_eye">Vui lòng mở to mắt</string>
+    <string name="face_unlock_reveal_eye">Hãy để đôi mắt được nhìn rõ</string>
+    <string name="face_unlock_reveal_mouth">Hãy để môi được nhìn rõ</string>
+    <string name="face_unlock_face_auth_failed_title">Không thể xác nhận dữ liệu khuôn mặt. Đang chuyển sang phương thức mở khóa khác…</string>
+    <string name="face_unlock_face_start_title">Đang xác thực dữ liệu khuôn mặt</string>
+    <string name="face_unlock_finger_or_password_switch">Sử dụng vân tay của bạn hoặc nhập mật khẩu để mở khóa.</string>
+    <string name="face_unlock_guide_confirm">Sử dụng Mở khóa khuôn mặt</string>
+    <string name="face_unlock_guide_dialog_summary">Bạn có thể sử dụng dữ liệu khuôn mặt để mở khóa thiết bị. Bật Mở khóa khuôn mặt?</string>
+    <string name="face_unlock_toast_verity_failed">Không thể xác thực dữ liệu khuôn mặt. Mở cài đặt Khóa ứng dụng và thử xác thực lại dữ liệu khuôn mặt của bạn.</string>
+    <string name="face_unlock_verity_dialog_summary">Xác thực dữ liệu khuôn mặt</string>
+    <string name="face_unlock_verity_dialog_title_failed">Không thể nhận diện</string>
+    <string name="face_unlock_verity_dialog_title_succeed">Xác thực thành công</string>
+    <string name="fingerprint_to_lock_summary">Mở khóa ứng dụng bằng dấu vân tay</string>
+    <string name="notify_channel_mipush">Tin nhắn đẩy bảo mật</string>
+    <string name="notify_channel_optimize">Thông báo bảo mật</string>
+    <string name="unlock_failed">Lỗi nội bộ</string>
 </resources>

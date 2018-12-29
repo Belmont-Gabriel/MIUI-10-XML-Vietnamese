@@ -130,7 +130,6 @@
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="system_time_settings_category_title">Cài đặt thời gian</string>
-    <string name="temperature_unit">%1$s°</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
     <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
@@ -237,4 +236,6 @@
     <string name="snooze_duration">Thời gian báo lại</string>
     <string name="snooze_duration_value">Khoảng thời gian (phút)</string>
 	<string name="check_voice_assist_app_version">Cập nhật Mi AI lên phiên bản mới nhất.</string>
+	<string name="check_theme_app_install">Đảm bảo ứng dụng Chủ đề đã cài đặt trên thiết bị.</string>
+	<string name="life_post_weather_no_network">Kết nối mạng để cập nhật thông tin thời tiết</string>
 </resources>

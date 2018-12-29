@@ -52,4 +52,7 @@
         <item quantity="other">%d phút trước</item>
         <item quantity="one">%d phút trước</item>
     </plurals>
+	<plurals name="miot_device_camera_size">
+        <item quantity="other">%d máy ảnh thông minh</item>
+    </plurals>
 </resources>

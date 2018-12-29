@@ -7787,4 +7787,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="work_sound_permission_dialog_button_text_known">Đã hiểu</string>
 	<string name="work_sound_permission_dialog_message">"Bạn không thể sử dụng Chủ đề trong chế độ Doanh nghiệp. Liên hệ với giám sát của bạn để có được quyền truy cập."</string>
 	<string name="work_sound_permission_dialog_title">Hạn chế chế độ Doạnh nghiệp</string>
+	<string name="dump_log_title">Về tính năng này</string>
+    <string name="firewall_wifi">Wi-Fi</string>
+	<string name="status_bar_settings_qs_layout">Bố trí Cài đặt nhanh</string>
 </resources>

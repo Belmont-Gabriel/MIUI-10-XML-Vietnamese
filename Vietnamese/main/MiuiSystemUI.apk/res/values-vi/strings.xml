@@ -1437,7 +1437,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="notification_tap_again">Chạm lại để mở</string>
      <string name="open_camera_hint_text">Trượt sang trái để mở máy ảnh</string>
      <string name="open_extreme_power_save_mode_title">Bật Siêu tiết kiệm pin</string>
-     <string name="open_remote_center_hint_text">Trượt sang phải để mở Điều khiển Mi</string>
+     <string name="open_remote_center_hint_text">Trượt sang phải để mở lối tắt</string>
      <string name="other">Khác</string>
      <string name="overview">Tổng quan</string>
      <string name="phone_hint">Trượt từ biểu tượng để Gọi điện</string>
@@ -1853,4 +1853,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="aspect_cancel">Hủy</string>
 	<string name="aspect_message">Ứng dụng sẽ chạy lại ở chế độ toàn màn hình. Nếu bạn gặp bất cứ vấn đề gì, bạn có thể tắt chế độ toàn màn hình cho ứng dụng này tại Cài đặt &gt; Màn hình tràn cạnh &gt; Chế độ toàn màn hình.</string>
 	<string name="aspect_title">Chế độ toàn màn hình</string>
+	<string name="wapi_password_hex_format_invalid">Sai định dạng mật khẩu</string>
+	<string name="wapi_password_length_invalid">Mật khẩu phải từ 8 đến 64 ký tự</string>
 </resources>

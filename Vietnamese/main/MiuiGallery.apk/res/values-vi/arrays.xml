@@ -84,16 +84,16 @@
     <string-array name="chinese_holiday_last_year">
         <item>"Đêm Giao thừa vừa qua"</item>
         <item>Tết vừa qua</item>
-        <item>Lễ hội đèn lồng vừa qua</item>
-        <item>Lễ hội thuyền rồng vừa qua</item>
+        <item>Tết Nguyên tiêu vừa qua</item>
+        <item>Tết Đoan ngọ vừa qua</item>
         <item>Lễ hội Qixi vừa qua</item>
         <item>Trung thu vừa qua</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
         <item>"Đêm Giao thừa qua các năm"</item>
         <item>Tết qua các năm</item>
-        <item>Lễ hội đèn lồng qua các năm</item>
-        <item>Lễ hội thuyền rồng qua các năm</item>
+        <item>Tết Nguyên tiêu qua các năm</item>
+        <item>Tết Đoan ngọ qua các năm</item>
         <item>Lễ hội Qixi qua các năm</item>
         <item>Trung thu qua các năm</item>
     </string-array>
@@ -158,5 +158,19 @@
         <item>Tóm tắt mùa hè</item>
         <item>Tóm tắt mùa thu</item>
         <item>Tóm tắt mùa đông</item>
+    </string-array>
+	<string-array name="last_month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
     </string-array>
 </resources>

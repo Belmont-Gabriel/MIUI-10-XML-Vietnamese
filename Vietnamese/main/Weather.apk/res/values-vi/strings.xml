@@ -324,4 +324,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="empty_view_refresh">Thử lại</string>
     <string name="location_provider_btn_text">Bật dịch vụ vị trí</string>
     <string name="radar_cloud_update_time">Trước %1$s</string>
+	<string name="index_item_downloading">Đang tải xuống</string>
+	<string name="index_item_installing2">Đang cài đặt</string>
 </resources>
