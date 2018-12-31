@@ -1155,12 +1155,4 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="special_text_sender_zh">Người gửi</string>
     <string name="update_to_wps_mail">Tận hưởng thêm tính năng với WPS Mail</string>
     <string name="wait_help_context">chờ</string>
-	<string name="mailbox_name_server_all_unread">Chưa đọc</string>
-    <string name="mailbox_name_server_drafts">Nháp</string>
-    <string name="mailbox_name_server_inbox">Hộp thư đến</string>
-    <string name="mailbox_name_server_outbox">Hộp thư đi</string>
-    <string name="mailbox_name_server_sent">Thư đã gửi</string>
-    <string name="mailbox_name_server_starred">Đã yêu thích</string>
-    <string name="mailbox_name_server_trash">Thùng rác</string>
-    <string name="mailbox_name_server_junk">Thư rác</string>
 </resources>
