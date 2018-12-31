@@ -72,11 +72,11 @@
     <string name="account_setup_address_label">Email</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Xác nhận tên người dùng, mật khẩu và thiết lập tài khoản là đúng.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Không thể thiết lập tài khoản</string>
-    <string name="account_setup_basics_email_label">Nhập địa chỉ email</string>
+    <string name="account_setup_basics_email_label">Địa chỉ email</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Đăng nhập bằng mạng hiện tại</string>
     <string name="account_setup_basics_manual_setup_action">Thiết lập thủ công</string>
     <string name="account_setup_basics_mi_mail_login_help">Bạn cần phải xác minh tài khoản qua tin nhắn SMS để nhận email</string>
-    <string name="account_setup_basics_password_label">Nhập mật khẩu</string>
+    <string name="account_setup_basics_password_label">Mật khẩu</string>
     <string name="account_setup_basics_title">Thêm tài khoản</string>
     <string name="account_setup_check_settings_check_incoming_msg">Đang xác nhận thiết lập máy chủ…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Đang xác nhận cài đặt SMTP…</string>
@@ -651,12 +651,12 @@ Hãy thử hộp thư khác."</string>
     <string name="not_synced_title">Tài khoản chưa đồng bộ</string>
     <string name="notification_action_archive">Lưu trữ</string>
     <string name="notification_action_delete">Xóa</string>
-    <string name="notification_action_remove_label">Xóa thẻ</string>
+    <string name="notification_action_remove_label">Xóa nhãn</string>
     <string name="notification_action_reply">Trả lời</string>
     <string name="notification_action_reply_all">Trả lời tất cả</string>
     <string name="notification_action_undo_archive">Đã lưu trữ</string>
     <string name="notification_action_undo_delete">Đã xóa</string>
-    <string name="notification_action_undo_remove_label">Thẻ đã được xóa</string>
+    <string name="notification_action_undo_remove_label">Nhãn đã được xóa</string>
     <string name="notification_exchange_calendar_added">Lịch Exchange đã thêm</string>
     <string name="oauth_error_description">Không thể xác thực</string>
     <string name="oauth_gmail_login_notify">Nhập tên người dùng và mật khẩu Tài khoản Google của bạn trên trang đăng nhập.</string>
@@ -890,7 +890,7 @@ Hãy thử hộp thư khác."</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>
     <string name="sdcard_cannot_use">Không thể dùng thẻ SD</string>
-    <string name="search_bar_text">Tìm kiếm tin nhắn và liên hệ</string>
+    <string name="search_bar_text">Tìm kiếm người gửi và liên hệ</string>
     <string name="search_hint">Tìm thư</string>
     <string name="search_result">"Kết quả "</string>
     <string name="search_tabs_name_all">Tất cả</string>
@@ -1025,7 +1025,7 @@ Tiếp tục xóa tài khoản?"</string>
     <string name="unzip_file_failed">Không thể giải nén tập tin</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
     <string name="updated_at">Cập nhật lần cuối: %1$s</string>
-    <string name="upload_log">Tải lên bản ghi</string>
+    <string name="upload_log">Gửi</string>
     <string name="upload_log_failed">Gửi nhật ký thất bại</string>
     <string name="upload_log_no">Hủy</string>
     <string name="upload_log_success">Đã gửi thành công, chúng tôi sẽ phản hồi bạn sớm.</string>
@@ -1163,4 +1163,10 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="mailbox_name_server_starred">Đã yêu thích</string>
     <string name="mailbox_name_server_trash">Thùng rác</string>
     <string name="mailbox_name_server_junk">Thư rác</string>
+	<string name="conversation_content_provider">Nhà cung cấp Nội dung Trò chuyện</string>
+    <string name="dialog_agree">Đồng ý</string>
+    <string name="dialog_disagree">Không đồng ý</string>
+    <string name="list_empty_to_fresh">Không có email, vui lòng thử kéo xuống làm mới.</string>
+    <string name="notify_channel_no_disterb">Chế độ Không làm phiền</string>
+    <string name="privacy_des">Thông tin nhật ký chứa thông tin gỡ lỗi tạo bởi ứng dụng Email và thông tin thiết bị của bạn để xác định sự cố bạn đang báo cáo. Chọn \"%1$s\" bên dưới để cho biết rằng bạn đã đọc và đồng ý với \"%2$s\" của Xiaomi.</string>
 </resources>
