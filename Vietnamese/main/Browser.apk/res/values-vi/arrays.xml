@@ -117,12 +117,12 @@
         <item>Đóng</item>
     </string-array>
 	<string-array name="readmode_theme_background_color">
-        <item>trắng</item>
-        <item>be</item>
-        <item>nâu</item>
-        <item>xanh lá</item>
-        <item>xám</item>
-        <item>đen</item>
+        <item>Trắng</item>
+        <item>Be</item>
+        <item>Nâu</item>
+        <item>Xanh lá</item>
+        <item>Xám</item>
+        <item>Đen</item>
     </string-array>
 	<string-array name="suggestion_topic_tips">
         <item>Xem tập trung</item>

@@ -36,10 +36,10 @@
     <string name="cloud_back_up_share_activity_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>
     <string name="cloud_back_up_share_activity_confirm">Nâng cấp</string>
     <string name="cloud_back_up_detail_discription">"Các phần dưới đây sẽ được sao lưu đến Mi Cloud khi thiết bị của bạn kết nối Wi-Fi: 
-*\u0009\u0009\u0009\u0009Ứng dụng, bố cục Màn hình chính và hình nền 
-*\u0009\u0009\u0009\u0009Cài đặt đồng hồ, báo thức 
-*\u0009\u0009\u0009\u0009Cài đặt thông báo 
-*\u0009\u0009\u0009\u0009Cài đặt Miui và hệ thống 
+*  Ứng dụng, bố cục Màn hình chính và hình nền 
+*  Cài đặt đồng hồ, báo thức 
+*  Cài đặt thông báo 
+*  Cài đặt Miui và hệ thống 
 \"Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sao lưu đến Mi Cloud.\""</string>
     <string name="cloud_app_no_data">Không có sao lưu</string>
     <string name="cloud_app_restore_error">Không thể khôi phục</string>

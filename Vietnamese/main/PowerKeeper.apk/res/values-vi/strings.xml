@@ -241,5 +241,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="extreme_power_settings_title">cài đặt</string>
     <string name="notification_exit_extreme_mode_text">Pin được sạc nhiều hơn %s</string>
     <string name="notification_exit_extreme_mode_title">Đã tắt Siêu tiết kiệm pin</string>
-    <string name="notification_open_extreme_mode_text">Đã bật  Siêu tiết kiệm pin</string>
+    <string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
+	<string name="adaptive_battery_summary">"Giới hạn pin cho các ứng dụng bạn không thường xuyên dùng"</string>
+	<string name="adaptive_battery_title">Sử dụng Pin Thích nghi</string>
 </resources>

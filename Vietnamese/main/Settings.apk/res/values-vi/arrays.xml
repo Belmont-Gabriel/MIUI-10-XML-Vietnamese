@@ -1440,4 +1440,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Debug</item>
         <item>Verbose</item>
     </string-array>
+	<string-array name="default_vol_stream_entries">
+        <item>Nhạc chuông</item>
+        <item>Đa phương tiện</item>
+    </string-array>
+	<string-array name="status_bar_settings_qs_layout_entries">
+        <item>Mặc định</item>
+        <item>Thu gọn</item>
+    </string-array>
 </resources>

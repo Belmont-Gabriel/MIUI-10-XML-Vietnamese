@@ -208,7 +208,7 @@
     <string name="feedback_submit_succ_button">Hoàn tất</string>
     <string name="feedback_title">Tiêu đề</string>
     <string name="feedback_description">Mô tả</string>
-    <string name="feedback_select_images">Thêm ảnh</string>
+    <string name="feedback_select_images">Thêm ảnh hoặc video ngắn</string>
     <string name="feedback_select_upload_log">Thêm nhật ký</string>
     <string name="feedback_select_modem_log">Thêm nhật ký modem</string>
     <string name="feedback_select_suggestion">Kiến nghị</string>
@@ -314,13 +314,12 @@
     <string name="catch_full_log_dialog_confirm_text">Vào Màn hình chính</string>
     <string name="catch_full_log_dialog_content">MIUI đang tạo nhật ký. Điều này có thể ảnh hưởng đến hiệu suất của thiết bị. Nếu bạn không thể tạo lại vấn đề bạn muốn báo cáo, hãy quay lại nhật ký và chạm \"Hủy\".</string>
     <string name="catch_full_log_dump_hprof_failed">Không thể tạo nhật ký treo máy</string>
-    <string name="catch_full_log_item_content_catch_direct">"Bước:
-1. Quay lại tính năng bạn muốn báo cáo và thực hiện lại.
+    <string name="catch_full_log_item_content_catch_direct">"1. Quay lại tính năng bạn muốn báo cáo và thực hiện lại.
 2. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
-    <string name="catch_full_log_item_content_need_open">"Bước:
-1. Chạm \"Tạo nhật ký\".
+    <string name="catch_full_log_item_content_need_open">"1. Chạm \"Tạo nhật ký\".
 2. Quay lại tính năng bạn muốn báo cáo và tái tạo nó.
 3. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
+	<string name="catch_full_log_item_content_title">Bước:</string>
     <string name="catch_full_log_item_title_audio">Âm thanh, ghi âm, và âm thanh cuộc gọi</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Treo máy</string>
@@ -373,5 +372,9 @@
     <string name="toast_log_too_large">Không thể tải lên. Tập tin quá lớn.</string>
     <string name="toast_screenshot_too_large">Không thể tải tập tin lớn hơn 10MB.</string>
 	<string name="title_first_aid">Hộp cấp cứu</string>
+	<string name="title_user_guide">Hướng dẫn sử dụng</string>
     <string name="toast_catch_full_log_open_failed">Không thể bắt đầu ghi nhật ký.</string>
+	<string name="feedback_choose_app_tag">Chọn vấn đề</string>
+	<string name="feedback_status_commit_in_queue_title">Đang chờ…</string>
+	<string name="toast_app_tag_required">Chọn vấn đề</string>
 </resources>

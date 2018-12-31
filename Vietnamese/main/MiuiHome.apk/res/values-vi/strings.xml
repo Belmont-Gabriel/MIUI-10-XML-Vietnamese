@@ -367,4 +367,6 @@
     <string name="recommend_xout">Không hiển thị</string>
 	<string name="default_folder_title_turkcell_uygulamalar">ỨNG DỤNG TURKCELL</string>
     <string name="show_recents_recommend_title">Hiển thị đề xuất</string>
+	<string name="gadget_dual_clock_label">Đồng hồ đôi</string>
+	<string name="double_tap_to_lock_title">Chạm hai lần để khóa màn hình</string>
 </resources>

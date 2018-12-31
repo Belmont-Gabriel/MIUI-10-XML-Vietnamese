@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Thêm báo thức</string>
-    <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d phút.</string>
+    <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d.</string>
     <string name="alarm_alert_snooze_set">Báo lại sau %d phút.</string>
     <string name="alarm_in_silent_mode_title">Báo khi ở chế độ im lặng</string>
     <string name="alarm_klaxon_service_desc">Dịch vụ phát lại âm thanh đối với báo thức cài đặt trên Đồng hồ.</string>
@@ -119,7 +119,7 @@
     <string name="setting_alarm_arriving_summary">Gửi thông báo trước khi đổ chuông</string>
     <string name="setting_alarm_arriving_title">Thông báo trước khi đổ chuông</string>
     <string name="shutdown_alarm_disable_summary">Báo thức sẽ không đổ chuông sau khi tắt nguồn</string>
-    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông sau khi tắt nguồn</string>
+    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông nếu nó được đặt ít nhất 5 phút trước khi bạn tắt nguồn</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
     <string name="slider_text">Trượt lên để tắt</string>
@@ -130,11 +130,10 @@
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="system_time_settings_category_title">Cài đặt thời gian</string>
-    <string name="temperature_unit">%1$s°</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
     <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
-    <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d phút.</string>
+    <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d.</string>
     <string name="timer_clock_alert_text">Đặt hẹn giờ</string>
     <string name="timer_continue">Tiếp tục</string>
     <string name="timer_got_it">OK</string>
@@ -224,7 +223,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
-    <string name="worldcolock_timezone_gap">Giờ</string>
+    <string name="worldcolock_timezone_gap">%s Giờ</string>
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="stat_repeat_everyday">Mỗi ngày</string>
     <string name="stat_repeat_legal_off_day">Ngày lễ</string>
@@ -236,4 +235,7 @@
 	<string name="repeat_count">Số lần</string>
     <string name="snooze_duration">Thời gian báo lại</string>
     <string name="snooze_duration_value">Khoảng thời gian (phút)</string>
+	<string name="check_voice_assist_app_version">Cập nhật Mi AI lên phiên bản mới nhất.</string>
+	<string name="check_theme_app_install">Đảm bảo ứng dụng Chủ đề đã cài đặt trên thiết bị.</string>
+	<string name="life_post_weather_no_network">Kết nối mạng để cập nhật thông tin thời tiết</string>
 </resources>

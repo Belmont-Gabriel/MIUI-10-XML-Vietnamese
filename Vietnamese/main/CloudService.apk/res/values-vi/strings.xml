@@ -292,7 +292,7 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="micloud_detail_need_charge_or_sleep">Kết nối bộ sạc và tắt màn hình để đồng bộ</string>
     <string name="micloud_detail_battery_low">Pin yếu</string>
     <string name="micloud_privacy_cloud_off">Đồng bộ tắt</string>
-    <string name="micloud_privacy_licence_agreed">Đồng ý với Chính sách Riêng tư của Mi Cloud.</string>
+    <string name="micloud_privacy_licence_agreed">Đồng ý với &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Chính sách Riêng tư&lt;/u&gt;&lt;/a&gt; của Mi Cloud.</string>
     <string name="micloud_privacy_licence_privacy_policy">chính sách riêng tư</string>
     <string name="micloud_privacy_explanation">Kích hoạt Mi Cloud sau khi bật ủy quyền</string>
     <string name="micloud_privacy_cloud_sync">Kích hoạt Mi Cloud</string>
