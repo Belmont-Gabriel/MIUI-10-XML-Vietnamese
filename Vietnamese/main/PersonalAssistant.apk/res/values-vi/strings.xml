@@ -918,7 +918,6 @@
     <string name="login_ok">Đăng nhập</string>
     <string name="search_clear_header">Xóa ảnh bìa</string>
     <string name="search_change_header">Thay ảnh bìa</string>
-	<string name="access_change_text">Mục được chọn hiện tại là %d, được hoán đổi với %d</string>
     <string name="accessibilty_back_button">Trở về</string>
     <string name="accessibilty_move_down">Chuyển xuống</string>
     <string name="accessibilty_move_up">Chuyển lên</string>
