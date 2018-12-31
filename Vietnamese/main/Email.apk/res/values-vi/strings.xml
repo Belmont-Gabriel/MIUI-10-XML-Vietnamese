@@ -1155,10 +1155,4 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="special_text_sender_zh">Người gửi</string>
     <string name="update_to_wps_mail">Tận hưởng thêm tính năng với WPS Mail</string>
     <string name="wait_help_context">chờ</string>
-	<string name="conversation_content_provider">Nhà cung cấp Nội dung Trò chuyện</string>
-    <string name="dialog_agree">Đồng ý</string>
-    <string name="dialog_disagree">Không đồng ý</string>
-    <string name="list_empty_to_fresh">Không có email, vui lòng thử kéo xuống làm mới.</string>
-    <string name="notify_channel_no_disterb">Chế độ Không làm phiền</string>
-    <string name="privacy_des">Thông tin nhật ký chứa thông tin gỡ lỗi tạo bởi ứng dụng Email và thông tin thiết bị của bạn để xác định sự cố bạn đang báo cáo. Chọn \"%1$s\" bên dưới để cho biết rằng bạn đã đọc và đồng ý với \"%2$s\" của Xiaomi.</string>
 </resources>
