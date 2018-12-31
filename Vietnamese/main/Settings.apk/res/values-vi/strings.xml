@@ -7790,4 +7790,5 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="dump_log_title">Về tính năng này</string>
     <string name="firewall_wifi">Wi-Fi</string>
 	<string name="status_bar_settings_qs_layout">Bố trí Cài đặt nhanh</string>
+	<string name="aod_clock_style_title">Kiểu đồng hồ</string>
 </resources>
