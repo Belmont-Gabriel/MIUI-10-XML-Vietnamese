@@ -338,7 +338,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="gpg_message">Tạo ứng dụng kép cho trò chơi yêu cầu làm việc với Google Play Game. Tạo ứng dụng kép cho Google Play Game?</string>
     <string name="gpg_title">Ứng dụng kép cho Google Play Game</string>
     <string name="gms_message">Tạo ứng dụng kép yêu cầu làm việc với Google service. Tạo ứng dụng kép cho Google service?</string>
-    <string name="gms_title">Ứng dụng đôi cho Dịch vụ Google</string>
+    <string name="gms_title">Ứng dụng kép cho Dịch vụ Google</string>
     <string name="gms_open_button">Bật</string>
     <string name="create_second_space">Đã tạo thành công</string>
     <string name="set_space_password">Thiết lập mật khẩu</string>

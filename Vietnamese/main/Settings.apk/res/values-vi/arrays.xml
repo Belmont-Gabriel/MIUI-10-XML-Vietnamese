@@ -1451,6 +1451,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 	<string-array name="aod_clock_style_entries">
         <item>Ngang</item>
         <item>Dọc</item>
-        <item>Dòng</item>
+        <item>Trên một dòng</item>
     </string-array>
 </resources>
