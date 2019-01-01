@@ -2143,7 +2143,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="wapi_cert_manage_title">Quản lý chứng chỉ WAPI</string>
     <string name="wapi_no">Không</string>
     <string name="wapi_no_vaild_cert">Dường như chứng chỉ đã yêu cầu chưa được cài đặt. Cài đặt ngay?</string>
-    <string name="transport">Giao thức</string>
     <string name="time_unit_just_now">Vừa xong</string>
     <string name="supp_service_outgoing_calls_barred">Cuộc gọi đi bị chặn.</string>
     <string name="supp_service_notification_call_waiting">Cuộc gọi đang chờ.</string>
@@ -2190,8 +2189,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
     <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
-    <string name="port">Cổng</string>
-    <string name="password">Mật khẩu</string>
     <string name="no_mobile_data_roaming">Chuyển vùng dữ liệu không khả dụng</string>
     <string name="network_disconnected">Đã ngắt kết nối</string>
     <string name="network_could_not_connect">Không thể kết nối</string>
@@ -2232,7 +2229,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="clh_callFailed_operator_determined_barring_txt">Hành động được xác định là bị chặn</string>
     <string name="accessibility_manual_zen_less_time">Ít thời gian hơn.</string>
     <string name="accessibility_manual_zen_more_time">Nhiều thời gian hơn.</string>
-    <string name="advanced_settings_container">Chứa cài đặt nâng cao</string>
     <string name="alarm_template">tại %1$s</string>
     <string name="alarm_template_far">tại %1$s</string>
     <string name="already_auto">Đã chọn tự động.</string>
