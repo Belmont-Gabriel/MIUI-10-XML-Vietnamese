@@ -1448,4 +1448,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Mặc định</item>
         <item>Thu gọn</item>
     </string-array>
+	<string-array name="aod_clock_style_entries">
+        <item>Ngang</item>
+        <item>Dọc</item>
+        <item>Trên một dòng</item>
+    </string-array>
 </resources>

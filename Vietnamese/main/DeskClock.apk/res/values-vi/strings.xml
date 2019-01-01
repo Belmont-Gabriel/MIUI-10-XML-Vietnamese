@@ -95,10 +95,10 @@
     <string name="life_post_wake_up_acumu_day_title">Số ngày</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s ngày</string>
     <string name="life_post_wake_up_item_acumu_day_title">Số ngày</string>
-    <string name="life_post_wake_up_item_percentage_title">Mi Fan luôn bên bạn</string>
+    <string name="life_post_wake_up_item_percentage_title">Mi Fan dậy sau bạn</string>
     <string name="life_post_wake_up_item_time_title">Thời gian thức</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">Mi Fan luôn bên bạn</string>
+    <string name="life_post_wake_up_percentage_title">Mi Fan dậy sau bạn</string>
     <string name="life_post_wake_up_time_title">Thời gian thức</string>
     <string name="life_post_weather_degree_invalid">--</string>
     <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>

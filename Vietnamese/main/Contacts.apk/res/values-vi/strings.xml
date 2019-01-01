@@ -104,7 +104,7 @@
     <string name="calllog_menu_edit_before_call">Sửa</string>
     <string name="calllog_menu_send_sms">Gửi một tin nhắn</string>
     <string name="callrecordview_item_newcontact">Liên hệ mới</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$dphút %2$dgiây</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d phút %2$d giây</string>
     <string name="callrecordview_item_op_time_missed">Không kết nối</string>
     <string name="callrecordview_item_op_time_only_minutes">%d phút</string>
     <string name="callrecordview_item_op_time_only_seconds">%d giây</string>

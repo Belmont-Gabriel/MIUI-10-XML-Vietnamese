@@ -272,9 +272,9 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_get_tasks">Nhận nhiệm vụ</string>
     <string name="HIPS_Perm_get_tasks_Desc">nhận nhiệm vụ</string>
     <string name="HIPS_Perm_show_when_locked">Hiển thị trên Màn hình khóa</string>
-    <string name="HIPS_Perm_show_when_locked_Desc">cho phép ứng dụng hiển thị trên Màn hình khóa</string>
+    <string name="HIPS_Perm_show_when_locked_Desc">Cho phép ứng dụng hiển thị trên Màn hình khóa</string>
     <string name="HIPS_Perm_background_start_activity">Bắt đầu trong nền</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">bắt đầu trong nền</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">Bắt đầu trong nền</string>
     <string name="HIPS_Perm_get_installed_apps">Nhận thông tin về ứng dụng đã cài đặt</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
     <string name="HIPS_Perm_service_foreground">Dịch vụ nền trước</string>
