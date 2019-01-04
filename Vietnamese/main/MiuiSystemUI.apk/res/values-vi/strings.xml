@@ -1975,4 +1975,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Bật không làm phiền</string>
     <string name="tuner_doze">Màn hình Ambient</string>
     <string name="zen_mode_settings_summary_off">Không bao giờ</string>
+	<string name="description_image_icon_sim_card">Thẻ SIM %1$d</string>
+	<string name="stream_voice_assist">Trợ lý Giọng nói</string>
 </resources>

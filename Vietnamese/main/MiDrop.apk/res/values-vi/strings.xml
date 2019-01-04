@@ -187,7 +187,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="receive_exit_dialog_negative_btn">Tiếp tục nhận</string>
     <string name="receive_exit_dialog_positive_btn">Hủy chuyển</string>
     <string name="receive_more">Nhận thêm</string>
-    <string name="received_files">Đã nhận tập tin</string>
+    <string name="received_files">Tập tin đã nhận</string>
     <string name="receiver_notification">Yêu cầu đối phương bật Mi Drop và chạm \"Gửi\".</string>
     <string name="receiver_succeed">Đã nhận thành công</string>
     <string name="receiver_take_time">Thời gian: %1$s</string>
@@ -449,7 +449,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="fi">Tiếp tục nhận</string>
     <string name="fj">Hủy chuyển</string>
     <string name="fk">Nhận thêm</string>
-    <string name="fl">Đã nhận tập tin</string>
+    <string name="fl">Tập tin đã nhận</string>
     <string name="fm">Chấp nhập</string>
     <string name="fn">Thiết bị kia đã chấp nhận yêu cầu của bạn</string>
     <string name="fo">Giải phóng dung lượng</string>
@@ -670,7 +670,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="l1">Để trải nghiệm người dùng được tốt hơn, cần cập nhật phiên bản mới nhất (Miễn phí sử dụng dữ liệu di động)</string>
     <string name="l2">Tốc độ tối đa vào thời gian này</string>
     <string name="l3">Những người dùng đứng đầu</string>
-    <string name="l4">Đã nhận tập tin</string>
+    <string name="l4">Tập tin đã nhận</string>
     <string name="l5">Xem tập tin mà bạn đã nhận</string>
     <string name="l6">Sử dụng dữ liệu đã lưu</string>
     <string name="l7">Chia sẻ với bạn bè</string>

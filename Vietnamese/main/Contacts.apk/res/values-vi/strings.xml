@@ -204,7 +204,7 @@
     <string name="contact_detail_action_item_calllog">Lịch sử cuộc gọi</string>
     <string name="contact_detail_action_item_nocalllog">Không có lịch sử</string>
     <string name="contact_detail_calllog_call_note_tips">Ghi chú</string>
-    <string name="contact_detail_calllog_call_record_tips">Đã ghi âm cuộc gọi</string>
+    <string name="contact_detail_calllog_call_record_tips">Cuộc gọi đã ghi âm</string>
     <string name="contact_detail_calllog_empty">Không có lịch sử</string>
     <string name="contact_detail_menu_delete_miprofile">Xóa danh thiếp</string>
     <string name="contact_detail_miprofile_accept">Chuyển đổi danh thiếp</string>
@@ -1391,4 +1391,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="toast_call_no_notes">Ứng dụng Ghi chú không khả dụng</string>
 	<string name="conference_call_disable_tip">Không thể thực hiện cuộc gọi. Đảm bảo thiết bị của bạn được kết nối với mạng 4G có hỗ trợ VoLTE.</string>
 	<string name="special_code_security_exception">Không thể hoàn tất thao tác. Đây không phải là bàn phím mặc định của bạn.</string>
+	<string name="contacts_default_notification_channel">Thông báo</string>
+    <string name="yellowpage_mi_family">Mi Family</string>
 </resources>

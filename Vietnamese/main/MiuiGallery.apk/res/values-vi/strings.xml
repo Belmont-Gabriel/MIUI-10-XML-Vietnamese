@@ -1436,4 +1436,12 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="filter_people_tea">Trà</string>
     <string name="movie_save_failed">Không thể lưu</string>
     <string name="story_option_menu_delete">Xóa câu chuyện</string>
+	<string name="channel_default_name">Tính năng mới</string>
+    <string name="channel_low_name">Tin nhắn mới</string>
+    <string name="channel_min_name">Thông báo ứng dụng</string>
+    <string name="motion_photo_play">Phát</string>
+    <string name="movie_content_describe_add">Thêm ảnh</string>
+    <string name="movie_content_describe_delete">Xóa ảnh</string>
+    <string name="movie_content_describe_pause">Tạm dừng</string>
+    <string name="movie_content_describe_play">Phát</string>
 </resources>

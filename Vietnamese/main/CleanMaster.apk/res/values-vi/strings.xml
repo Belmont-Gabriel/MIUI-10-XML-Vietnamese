@@ -46,10 +46,10 @@
      <string name="whatsapp_group_voice">Tin nhắn thoại</string>
      <string name="whatsapp_group_wallpaper">Hình nền</string>
      <string name="whatsapp_title">Trình dọn dẹp WhatsApp</string>
-     <string name="whatsapp_type_document_recv">Đã nhận tập tin</string>
-     <string name="whatsapp_type_document_send">Đã gửi tập tin</string>
-     <string name="whatsapp_type_image_recv">Đã nhận ảnh</string>
-     <string name="whatsapp_type_image_send">Đã gửi ảnh</string>
+     <string name="whatsapp_type_document_recv">Tập tin đã nhận</string>
+     <string name="whatsapp_type_document_send">Tập tin đã gửi</string>
+     <string name="whatsapp_type_image_recv">Ảnh đã nhận</string>
+     <string name="whatsapp_type_image_send">Ảnh đã gửi</string>
     <string name="desc_image">ảnh</string>
     <string name="menu_clear">Dọn dẹp</string>
     <string name="menu_view">Xem trong thư mục</string>
