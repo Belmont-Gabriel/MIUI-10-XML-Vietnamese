@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="battery_summary">%1$d%% sử dụng từ lần sạc cuối cùng</string>
+  <string name="battery_summary">%1$s sử dụng từ lần sạc cuối cùng</string>
 </resources>
