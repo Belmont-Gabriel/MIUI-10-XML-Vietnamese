@@ -708,7 +708,7 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="custom_watermark_contains_senstive_words">Vui lòng sửa văn bản nhạy cảm %1$s</string>
     <string name="custom_watermark_tips">Văn bản trên sẽ là dòng thứ hai của dấu chìm ảnh. Vui lòng giới hạn 15 ký tự Trung Quốc hoặc 15 chữ cái tiếng Anh.</string>
     <string name="custom_watermark_too_many_words">Bạn đã vượt quá giới hạn ký tự</string>
-    <string name="custom_watermark_words">Người dùng xác định dấu chìm ảnh</string>
+    <string name="custom_watermark_words">Tùy chỉnh dấu chìm máy ảnh</string>
     <string name="custom_watermark_words_input_hint">Nhập từ</string>
     <string name="custom_watermark_words_save_success">Lưu thành công</string>
     <string name="hot_music">Bài hát hàng đầu</string>
@@ -717,7 +717,7 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="pref_camera_normal_wide_ldc_title">Chỉnh sửa khuôn mặt</string>
     <string name="pref_camera_ultra_wide_ldc_title">Chỉnh méo góc siêu rộng</string>
     <string name="pref_camera_volumekey_function_entry_timer">Chụp đếm ngược</string>
-    <string name="pref_userdefine_watermark_title">Người dùng xác định dấu chìm máy ảnh</string>
+    <string name="pref_userdefine_watermark_title">Tùy chỉnh dấu chìm máy ảnh</string>
     <string name="ultra_wide_bokeh_close_tip">Chế độ toàn thân tắt</string>
     <string name="ultra_wide_bokeh_open_tip">Chế độ toàn thân</string>
     <string name="ultra_wide_close_tip">Chế độ góc siêu rộng tắt</string>
@@ -742,7 +742,7 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="accessibility_video_pause_button">Tạm dừng ghi âm</string>
     <string name="accessibility_video_resume_button">Tiếp tục ghi âm</string>
     <string name="ai_scene_top_moon_off">Chế độ cảnh đêm</string>
-    <string name="beauty_reset_toast">Đã xóa hiệu  ứng làm đẹp</string>
+    <string name="beauty_reset_toast">Đã xóa hiệu ứng làm đẹp</string>
     <string name="camera_liveshot_off_tip">Tắt ảnh động</string>
     <string name="camera_liveshot_on_tip">Bật ảnh động</string>
     <string name="color_effect_live_blue">Hoa lan</string>
@@ -756,11 +756,11 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="live_edit_exit_message">Hủy chụp?</string>
     <string name="live_edit_share_title">Chia sẻ</string>
     <string name="live_error_confirm">Điều chỉnh</string>
-    <string name="live_error_message">Lỗi tính năng</string>
+    <string name="live_error_message">Một vài tính năng sẽ không hoạt động vì lỗi hệ thống</string>
     <string name="live_error_title">Lỗi tính năng</string>
     <string name="live_music_close_cancel_message">Hủy</string>
-    <string name="live_music_close_message">Có nên đóng nhạc hiện tại?</string>
-    <string name="live_music_close_sure_message">Đóng</string>
+    <string name="live_music_close_message">Tắt nhạc ngay?</string>
+    <string name="live_music_close_sure_message">Tắt</string>
     <string name="live_reverse_confirm">Xóa</string>
     <string name="live_reverse_message">Xóa phân đoạn cuối?</string>
     <string name="live_speed_extreme_fast">Nhanh nhất</string>
@@ -786,4 +786,17 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="beauty_body_slim_count_tip">Chỉ hỗ trợ chụp ảnh đơn</string>
     <string name="pref_camera_live_sticker_internal_title">Công cụ ma thuật</string>
     <string name="pref_menu_ultra_pixel_photography">%d siêu nét</string>
+	<string name="accessibility_ultra_pixel_photography_32mp_off">Đã tắt siêu nét 32MP</string>
+    <string name="accessibility_ultra_pixel_photography_32mp_on">Đã bật siêu nét 32MP</string>
+	<string name="accessibility_ultra_pixel_photography_48mp_off">Đã tắt siêu nét 48MP</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_on">Đã bật siêu nét 48MP</string>
+	<string name="hand_gesture_open_tip">Mở rộng lòng bàn tay và bắt đầu đếm ngược</string>
+	<string name="hand_gesture_tip">Cử chỉ chụp ảnh</string>
+	<string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
+    <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
+	<string name="ultra_pixel_photography_32mp_close_tip">Chế độ siêu nét 32MP đã đóng</string>
+    <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
+	<string name="ultra_pixel_photography_48mp_close_tip">Chế độ siêu nét 48MP đã đóng</string>
+    <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+	<string name="zoom_no_support_tip_48M">Không hỗ trợ zoom ở chế độ Siêu nét 48MP</string>
 </resources>

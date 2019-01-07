@@ -202,4 +202,7 @@
     <string name="restore_init_description">Bắt đầu khôi phục</string>
     <string name="restoring_file_title_no_progress">Đang khôi phục tập tin…</string>
     <string name="restoring_settings">Đang khôi phục Cài đặt…</string>
+	<string name="cloud_back_up_subscribe_vip_title">Nâng cấp Tài khoản Mi</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Nâng cấp</string>
 </resources>

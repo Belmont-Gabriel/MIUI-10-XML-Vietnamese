@@ -2806,4 +2806,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
     <string name="notify_channel_mipush">Tin nhắn đẩy bảo mật</string>
     <string name="notify_channel_optimize">Thông báo bảo mật</string>
     <string name="unlock_failed">Lỗi nội bộ</string>
+	<string name="traffic_setting_fragment_title_guide">Nhà cung cấp và gói dữ liệu</string>
+	<string name="traffic_usage_warning_body">Bạn đã sử dụng %s dữ liệu di động tháng này.</string>
+	<string name="traffic_usage_warning_limit">Cảnh báo giới hạn sử dụng dữ liệu</string>
+	<string name="traffic_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
 </resources>
