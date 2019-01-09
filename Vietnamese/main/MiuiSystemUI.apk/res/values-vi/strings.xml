@@ -1977,4 +1977,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="zen_mode_settings_summary_off">Không bao giờ</string>
 	<string name="description_image_icon_sim_card">Thẻ SIM %1$d</string>
 	<string name="stream_voice_assist">Trợ lý Giọng nói</string>
+	<string name="gxzw_long_press_tip">Nhấn và giữ để thử tính năng mới</string>
 </resources>

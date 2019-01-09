@@ -244,4 +244,8 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
 	<string name="adaptive_battery_summary">"Giới hạn pin cho các ứng dụng bạn không thường xuyên dùng"</string>
 	<string name="adaptive_battery_title">Sử dụng Pin Thích nghi</string>
+	<string name="dark_mode">Dark mode</string>
+	<string name="dark_mode_summary">Chuyển sang màu tối để tiết kiệm pin</string>
+	<string name="open_dark_mode">Chuyển sang Dark mode</string>
+	<string name="open_dark_mode_tip">Chất lượng hiển thị của một vài tính năng có thể bị giảm khi sử dụng Dark mode. Nó sẽ trở lại bình thường khi bạn thoát Dark mode. Chuyển sang Dark mode ngay?</string>
 </resources>
