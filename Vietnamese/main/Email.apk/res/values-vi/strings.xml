@@ -1155,4 +1155,5 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="special_text_sender_zh">Người gửi</string>
     <string name="update_to_wps_mail">Tận hưởng thêm tính năng với WPS Mail</string>
     <string name="wait_help_context">chờ</string>
+	<string name="notify_channel_service">Nhắc nhở đồng bộ nền</string>
 </resources>

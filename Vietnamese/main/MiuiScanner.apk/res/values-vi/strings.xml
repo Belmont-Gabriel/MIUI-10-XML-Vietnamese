@@ -295,4 +295,16 @@
     <string name="alisdk_message_10009_action">Vui lòng thử lại sau. Nếu lỗi vẫn xảy ra, vui lòng phản hồi cho diễn đàn, hỗ trợ kỹ thuật hoặc nhóm tư vấn phát triển SDK Android.</string>
     <string name="alisdk_message_10008_message">Lỗi tạo địa chỉ đơn hàng, thông báo lỗi là {0}</string>
     <string name="alisdk_message_10008_action">Vui lòng thử lại sau. Nếu lỗi vẫn xảy ra, vui lòng phản hồi cho diễn đàn, hỗ trợ kỹ thuật hoặc nhóm tư vấn phát triển SDK Android.</string>
+	<string name="about_title">Thông tin</string>
+	<string name="business_card_result_title">Danh thiếp</string>
+	<string name="choose_pay_title">Chọn phương thức thanh toán</string>
+	<string name="keywords_search_namecard">Máy quét; Danh thiếp; Danh thiếp; Quét; Quét thẻ, Thẻ; Thẻ; Danh bạ; Liên hệ</string>
+	<string name="keywords_search_study">Máy quét; Vấn đề; Giải quyết vấn đề; Bài tập về nhà, Trường học, Vật lý, Hóa học, Toán học, Toán học, Tiếng Anh, Lịch sử, Tiếng Trung Quốc</string>
+	<string name="no_support_to_translate_type">Ngôn ngữ này không được hỗ trợ</string>
+	<string name="setting_choose_every_time">Luôn hỏi</string>
+	<string name="setting_default_function">Tính năng mặc định</string>
+	<string name="setting_preference_pay">Phương thức thanh toán ưa thích</string>
+	<string name="setting_title">Cài đặt</string>
+	<string name="setting_use_last_choose">Nhớ lựa chọn trước</string>
+	<string name="to_pay">Hoàn tất thanh toán</string>
 </resources>

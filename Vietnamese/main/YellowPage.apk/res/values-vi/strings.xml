@@ -43,7 +43,7 @@
     <string name="confirm_to_remove_blacklist">Bỏ chặn số này?</string>
     <string name="confirm_to_send_to_desktop">Thêm %s vào Màn hình chính?</string>
     <string name="contact_detail_calllog_call_note_tips">Ghi chú cuộc gọi</string>
-    <string name="contact_detail_calllog_call_record_tips">Đã ghi âm cuộc gọi</string>
+    <string name="contact_detail_calllog_call_record_tips">Cuộc gọi đã ghi âm</string>
     <string name="content_desc_send_sms">Gửi SMS</string>
     <string name="coupon_bought_count">Đã mua %d</string>
     <string name="currency_character">Tệ</string>

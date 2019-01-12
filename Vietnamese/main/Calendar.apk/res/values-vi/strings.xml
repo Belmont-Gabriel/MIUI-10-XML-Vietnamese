@@ -1023,4 +1023,9 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="loan_event_title">Hóa đơn cho vay</string>
     <string name="lunar_ba">8</string>
     <string name="limit_setting_tips">Khi bật và đặt lời nhắc, bạn sẽ nhận nhắc nhở lịch khi xe của bạn đạt giới hạn trong ngày. Số đuôi %1$s</string>
+	<string name="lunar_chu">Tết D.Lịch</string>
+    <string name="lunar_chu_shi">10</string>
+    <string name="notification_channel_name">Nhắc nhở lịch</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="train_event_station_date_format">dd/MM</string>
 </resources>

@@ -326,4 +326,9 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="radar_cloud_update_time">Trước %1$s</string>
 	<string name="index_item_downloading">Đang tải xuống</string>
 	<string name="index_item_installing2">Đang cài đặt</string>
+	<string name="settings">Cài đặt</string>
+	<string name="translate_notification_info">Đang dịch dưới nền…</string>
+    <string name="update_notification_info">Đang cập nhật dữ liệu dưới nền…</string>
+    <string name="weather_alert_channel_name">Cảnh báo</string>
+    <string name="weather_service_channel_name">Dịch vụ nền</string>
 </resources>

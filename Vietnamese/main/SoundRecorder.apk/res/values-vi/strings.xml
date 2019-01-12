@@ -29,11 +29,11 @@
     <string name="notification_warning">Bộ nhớ đầy (dưới %d phút)</string>
     <string name="record_list">Danh sách</string>
     <string name="record_list_fm">Ghi âm FM</string>
-    <string name="record_list_call">Đã ghi âm cuộc gọi</string>
-    <string name="record_list_cloud">Đã đồng bộ ghi âm</string>
-    <string name="record_list_cloud_fm">Đã đồng bộ ghi âm FM</string>
-    <string name="record_list_cloud_call">Đã đồng bộ ghi âm cuộc gọi</string>
-    <string name="call_record">Đã ghi âm cuộc gọi</string>
+    <string name="record_list_call">Cuộc gọi đã ghi âm</string>
+    <string name="record_list_cloud">Ghi âm đã đồng bộ</string>
+    <string name="record_list_cloud_fm">Ghi âm FM đã đồng bộ</string>
+    <string name="record_list_cloud_call">Ghi âm cuộc gọi đã đồng bộ</string>
+    <string name="call_record">Cuộc gọi đã ghi âm</string>
     <string name="no_file">Trống</string>
     <string name="alert_message_delete_record_title">Xóa ghi âm?</string>
     <string name="alert_message_delete_record">Xóa ghi âm từ thiết bị cũng đồng thời xóa từ Mi Cloud. Vẫn xóa ngay?</string>

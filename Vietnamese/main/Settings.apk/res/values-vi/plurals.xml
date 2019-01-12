@@ -307,4 +307,7 @@
 	<plurals name="show_reset_countdown">
         <item quantity="other">Hoàn thành %1$d bước để thực hiện khôi phục cài đặt gốc</item>
     </plurals>
+	<plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d đã thêm</item>
+    </plurals>
 </resources>

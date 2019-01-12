@@ -1693,4 +1693,6 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
     <string name="msp_secure_keyboard_type_special_sign">Chuyển sang bàn phím ký tự đặc biệt</string>
     <string name="msp_secure_keyboard_type_uppercase_letter">Chuyển sang bàn phím chữ hoa</string>
     <string name="msp_security_monitor">Kiểm tra an toàn</string>
+	<string name="notification_channel_card">Thẻ</string>
+	<string name="notification_channel_default">Mặc định</string>
 </resources>

@@ -198,4 +198,11 @@
     <string name="other_device_second_space">Không gian thứ hai</string>
     <string name="self_device_main_space">Không gian thứ nhất của điện thoại này</string>
     <string name="self_device_second_space">Không gian thứ hai của điện thoại này</string>
+	<string name="restore_finish_description">Khôi phục hoàn tất</string>
+    <string name="restore_init_description">Bắt đầu khôi phục</string>
+    <string name="restoring_file_title_no_progress">Đang khôi phục tập tin…</string>
+    <string name="restoring_settings">Đang khôi phục Cài đặt…</string>
+	<string name="cloud_back_up_subscribe_vip_title">Nâng cấp Tài khoản Mi</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Nâng cấp</string>
 </resources>

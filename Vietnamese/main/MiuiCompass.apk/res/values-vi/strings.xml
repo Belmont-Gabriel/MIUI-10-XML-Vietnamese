@@ -65,4 +65,5 @@
     <string name="open_perm_title">Yêu cầu quyền</string>
     <string name="preference_other">Khác</string>
     <string name="preference_privacy_title">Chính sách Riêng tư</string>
+	<string name="compass_settings">Cài đặt</string>
 </resources>
