@@ -941,12 +941,9 @@ Nguyên nhân: \"%s\""</string>
     <string name="remove_blacklist_dialog_message">Hiển thị cuộc gọi và tin nhắn từ số điện thoại này?</string>
     <string name="remove_blacklist_dialog_title">Bỏ chặn số điện thoại này?</string>
     <string name="remove_duplicate">"MIUI sẽ giúp bạn tìm và hợp nhất các liên hệ trùng lặp.
-
- Để bắt đầu, chạm biểu tượng Hợp nhất ở phía dưới màn hình."</string>
+Để bắt đầu, chạm biểu tượng Hợp nhất ở phía dưới màn hình."</string>
     <string name="report_inquiry_mms">Báo cáo SMS</string>
     <string name="restore_nickname">Khôi phục</string>
-    <string name="ret_sign">"
-"</string>
     <string name="returnCall">Quay lại cuộc gọi</string>
     <string name="ringLabelsGroup">Nhạc chuông</string>
     <string name="save_photo_progress">Đang lưu ảnh…</string>
@@ -954,7 +951,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="savingDisplayGroups">Đang lưu tùy chọn hiển thị…</string>
     <string name="scan">Quét</string>
     <string name="scan_duplicate_message">%1$d liên hệ có thông tin hoàn toàn trùng lặp</string>
-    <string name="scan_merge"> \"Đang tìm kiếm những liên hệ trùng lặp…\" </string>
+    <string name="scan_merge">Đang tìm kiếm những liên hệ trùng lặp…</string>
     <string name="scan_qrcode_card_hint1">Quét mã QR phía trên</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Do: \"%s\".</string>

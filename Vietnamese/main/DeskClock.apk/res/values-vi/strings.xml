@@ -238,4 +238,5 @@
 	<string name="check_voice_assist_app_version">Cập nhật Mi AI lên phiên bản mới nhất.</string>
 	<string name="check_theme_app_install">Đảm bảo ứng dụng Chủ đề đã cài đặt trên thiết bị.</string>
 	<string name="life_post_weather_no_network">Kết nối mạng để cập nhật thông tin thời tiết</string>
+	<string name="star_wy_alarm_speech">Gặp Roy Wang</string>
 </resources>

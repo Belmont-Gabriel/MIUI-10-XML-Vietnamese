@@ -310,4 +310,7 @@
 	<plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d đã thêm</item>
     </plurals>
+	<plurals name="aod_dual_togother_city">
+        <item quantity="other"> %1$s Giờ %2$s</item>
+    </plurals>
 </resources>

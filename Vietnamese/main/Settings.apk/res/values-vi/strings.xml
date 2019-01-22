@@ -724,7 +724,7 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="debug_intent_sender_label">Gỡ lỗi ý định người gửi</string>
     <string name="device_info_label">Thông tin thiết bị</string>
     <string name="display_label">Màn hình</string>
-    <string name="phone_info_label">Thông tin điện thoại</string>
+    <string name="phone_info_label">Thông tin điện thoại </string>
     <string name="sd_card_settings_label">Bộ nhớ USB</string>
     <string name="proxy_settings_label">Cài đặt proxy</string>
     <string name="cancel">Hủy</string>
@@ -2063,7 +2063,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_dict_settings_all_languages">Cho tất cả ngôn ngữ</string>
     <string name="user_dict_settings_more_languages">Ngôn ngữ khác…</string>
     <string name="testing">Đang kiểm tra</string>
-    <string name="testing_phone_info">Thông tin điện thoại</string>
+    <string name="testing_phone_info">Thông tin điện thoại </string>
     <string name="testing_sim_toolkit">Công cụ SIM</string>
     <string name="input_methods_settings_title">Nhập văn bản</string>
     <string name="input_method">Bàn phím</string>
@@ -4807,7 +4807,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="gesture_wakeup_title">Chạm màn hình hai lần để đánh thức thiết bị</string>
     <string name="pick_up_gesture_wakeup_title">Nhấc để đánh thức thiết bị</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
-    <string name="aod_mode_summary">Luôn hiển thị thời gian, ngày và tin nhắn khi tắt màn hình.</string>
+    <string name="aod_mode_summary">Hiển thị thời gian, ngày và tin nhắn khi tắt màn hình.</string>
     <string name="install_no_market_app_title">Quét ứng dụng bên thứ ba</string>
     <string name="install_no_market_app_summary">Quét virus ứng dụng bên thứ ba trước khi cài đặt</string>
     <string name="theme_settings_title">Chủ đề</string>
@@ -7796,4 +7796,19 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="page_layout_confirm_title_enlarge">Lớn hơn</string>
 	<string name="page_layout_confirm_title_narrow">Nhỏ hơn</string>
 	<string name="screen_optimize_disabled">Không thể điều chỉnh độ tương phản khi Chế độ đọc sách đang bật</string>
+	<string name="keyguard_double_tap_to_sleep_title">Chạm hai lần để khóa màn hình</string>
+	<string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Chế độ thích ứng âm thanh Bluetooth aptX</string>
+	<string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">Kích hoạt Chế độ thích ứng âm thanh Bluetooth aptX: Codec Mode</string>
+	<string name="aod_mode_bg">Hình nền</string>
+	<string name="aod_mode_clock">Đồng hồ</string>
+	<string name="aod_mode_style">Kiểu thời gian và hình nền</string>
+	<string name="aod_sample_date">Thứ ba, 10 Tháng năm</string>
+	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
+	<string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="dark_color_mode">Dark mode</string>
+	<string name="dark_color_summary">Chuyển sang màu tối cho hình nền hệ thống và ứng dụng tương thích</string>
+	<string name="open_dark_mode_dialog_summary">Một số cài đặt hiển thị nhất định sẽ không tương thích với Dark mode. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Dark mode. Bật Dark mode?</string>
+	<string name="open_dark_mode_dialog_title">Tương thích Dark mode</string>
+	<string name="screen_cancel">Hủy</string>
+	<string name="screen_confirm">Bật</string>
 </resources>

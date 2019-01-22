@@ -1028,4 +1028,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="notification_channel_name">Nhắc nhở lịch</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="train_event_station_date_format">dd/MM</string>
+	<string name="city_limit_back_icon_tip">Quay về Trang chủ</string>
+    <string name="city_limit_set_icon_tip">Đặt lời nhắc</string>
+    <string name="lottery_blue_ball_tip">Bóng xanh</string>
+    <string name="lottery_red_ball_tip">Bóng đỏ</string>
+    <string name="select_today_tip">Hôm nay</string>
+    <string name="today_icon_voice_contentdescription">Quay lại hôm nay</string>
 </resources>

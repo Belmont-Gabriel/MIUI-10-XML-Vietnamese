@@ -1694,7 +1694,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="structure_face_unlock_really_person">Dường như bạn đã thay thế khuôn mặt bằng một đối tượng.</string>
      <string name="switch_bar_off">Tắt</string>
      <string name="switch_bar_on">Bật</string>
-     <string name="switch_system_user">Mở Không gian thứ nhất</string>
+     <string name="switch_system_user">Quay lại Không gian thứ nhất</string>
      <string name="system_ui_tuner">Điều chỉnh UI Hệ thống</string>
      <string name="thermal_shutdown_dialog_message">"Điện thoại của bạn đã quá nóng, vì vậy cần tắt điện thoại để làm mát. Điện thoại của bạn hiện đang chạy bình thường.
 
@@ -1978,4 +1978,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="description_image_icon_sim_card">Thẻ SIM %1$d</string>
 	<string name="stream_voice_assist">Trợ lý Giọng nói</string>
 	<string name="gxzw_long_press_tip">Nhấn và giữ để thử tính năng mới</string>
+	<string name="face_unlock_not_roi">Giữ khuôn mặt của bạn trong khung</string>
 </resources>

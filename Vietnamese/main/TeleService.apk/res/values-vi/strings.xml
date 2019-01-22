@@ -2443,4 +2443,16 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="clh_callFailed_normal_unspecified_txt">Bình thường, không xác định</string>
     <string name="clh_callFailed_number_changed_txt">Đã đổi số</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Chỉ mang thông tin kỹ thuật số có sẵn giới hạn khả dụng</string>
+	<string name="vowifi_emergency_notification_channel">Cảnh báo khẩn cấp Gọi Wi-Fi</string>
+	<string name="vowifi_emergency_notification_content">Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
+	<string name="vowifi_emergency_notification_title">Gọi Wi-Fi Vodafone</string>
+	<string name="vowifi_emergency_warning_check">Không hiển thị lại</string>
+	<string name="vowifi_emergency_warning_message">Cuộc gọi khẩn cấp không khả dụng qua Gọi Wi-Fi
+
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
+
+Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
+	<string name="vowifi_emergency_warning_title">Cuọc gọi ECC qua Gọi Wi-Fi</string>
+	<string name="wifi_call_setting_vodafone_de">Cuộc gọi Wi-Fi</string>
+	<string name="wifi_call_setting_vodafone_uk">Gọi Wi-Fi</string>
 </resources>
