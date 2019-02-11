@@ -1695,4 +1695,8 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
     <string name="msp_security_monitor">Kiểm tra an toàn</string>
 	<string name="notification_channel_card">Thẻ</string>
 	<string name="notification_channel_default">Mặc định</string>
+	<string name="card_expand_note_add_checkbox">Thêm checkbox</string>
+	<string name="express_card_item_desc_no_info">Không có thông tin</string>
+	<string name="express_card_item_number_prefix">Số Đặt hàng: %s</string>
+	<string name="express_card_item_source_prefix">Từ %s</string>
 </resources>

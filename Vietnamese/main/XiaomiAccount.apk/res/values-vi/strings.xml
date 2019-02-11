@@ -590,4 +590,12 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="sending">Đang gửi</string>
     <string name="temporary_not_available">tạm thời không khả dụng</string>
 	<string name="passport_input_phone_password">Nhập mật khẩu cho %s</string>
+	<string name="confirm_new_pwd">Xác nhận mật khẩu mới</string>
+	<string name="inconsistent_pwd">Mật khẩu không khớp</string>
+	<string name="input_new_pwd">Nhập mật khẩu mới</string>
+	<string name="mi_finance">Tài chính của tôi</string>
+	<string name="mi_finance_info">Thưởng người dùng mới</string>
+    <string name="same_new_and_old_pwd">Không thể giống với mật khẩu hiện tại</string>
+	<string name="sim_card">Thẻ SIM</string>
+	<string name="used_cloud_storage_info">Lưu trữ đã dùng %s</string>
 </resources>

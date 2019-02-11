@@ -22,4 +22,5 @@
     <string name="debug_tool_email_subject">Đã đính kèm công cụ gỡ lỗi lịch</string>
     <string name="debug_tool_email_body">Đính kèm là cơ sở dữ liệu Lịch của tôi với tất cả các thông tin cá nhân và cuộc hẹn. Hãy xử lý cẩn thận.</string>
 	<string name="channel_name">Nhắc nhở lịch</string>
+	<string name="cta_notice">Mở Lịch và cho phép nó kết nối mạng trước</string>
 </resources>

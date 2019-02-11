@@ -799,10 +799,13 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="zoom_no_support_tip_48M">Không hỗ trợ zoom ở chế độ Siêu nét 48MP</string>
 	<string name="accessibility_pull_down_to_open_camera">Vuốt xuống để mở Máy ảnh</string>
 	<string name="autozoom_click_hint">Chạm để lấy nét chủ thể. Tốt nhất trong khoảng ba mét.</string>
-    <string name="autozoom_disabled_hint">Đã tắt</string>
-    <string name="autozoom_hint">Thể thao và bắn súng</string>
+    <string name="autozoom_disabled_hint">Đã tắt theo dõi chuyển động</string>
+    <string name="autozoom_hint">Theo dõi đối tượng chuyển động</string>
     <string name="live_share_moments">Khoảnh khắc</string>
     <string name="network_access_user_notice_title">Đang kết nối mạng</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Bạn chỉ có thể ghi video 720p với 960fps</string>
     <string name="ultra_wide_mode_use_hint_text">Sử dụng chế độ này giúp ảnh của bạn thu được nhiều cảnh hơn. Chế độ góc rộng hỗ trợ khi bạn không thể di chuyển xa khung cảnh hơn.</string>
+	<string name="autozoom_landscape_hint">Đề nghị chụp phong cảnh</string>
+	<string name="pref_camera_quick_shot_anim_enable_title">Bật chụp nhanh</string>
+	<string name="pref_camera_quick_shot_enable_title">Bật chụp nhanh</string>
 </resources>

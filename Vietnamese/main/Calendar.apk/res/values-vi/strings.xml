@@ -1034,4 +1034,6 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="lottery_red_ball_tip">Bóng đỏ</string>
     <string name="select_today_tip">Hôm nay</string>
     <string name="today_icon_voice_contentdescription">Quay lại hôm nay</string>
+	<string name="talkback_festival_and">Và</string>
+	<string name="talkback_festival_is">Lễ hội là</string>
 </resources>

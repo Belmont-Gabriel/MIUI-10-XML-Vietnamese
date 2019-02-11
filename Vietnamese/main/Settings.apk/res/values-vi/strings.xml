@@ -6859,7 +6859,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="connected">Đã kết nối</string>
     <string name="credentials_title_verification">Xác minh</string>
     <string name="dangerous_option">Tùy chọn nhà phát triển có rủi ro cao</string>
-    <string name="dangerous_option_hint">%1$s đã bật. Chạm để thay đổi cài đặt.</string>
+    <string name="dangerous_option_hint">\"%1$s\" đã bật. Chạm để thay đổi cài đặt.</string>
     <string name="dangerous_option_hint_title">Tính năng có rủi ro cao đã bật</string>
     <string name="dangerous_option_switch_title">Thông báo về tính năng có rủi ro cao</string>
     <string name="device_id">Nhận dạng thiết bị</string>
@@ -7811,4 +7811,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="open_dark_mode_dialog_title">Tương thích Dark mode</string>
 	<string name="screen_cancel">Hủy</string>
 	<string name="screen_confirm">Bật</string>
+	<string name="incall_show">Hồ sơ video cho các cuộc gọi đi</string>
+	<string name="more_dangerous_option_hint">Tính năng rủi ro cao bao gồm \"%1$s\" đã bật. Chạm để thay đổi cài đặt.</string>
+	<string name="mute_voiceassist_stream">Tắt âm Trợ lý Giọng nói</string>
 </resources>

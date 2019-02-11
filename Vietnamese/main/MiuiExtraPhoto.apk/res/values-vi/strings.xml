@@ -16,4 +16,5 @@
     <string name="refocus_discard_confirm_message">Lưu thay đổi?</string>
     <string name="refocus_discard_positive_btn">Lưu</string>
     <string name="refocus_discard_negative_btn">Hủy bỏ</string>
+	<string name="extra_photo_common_saving">Đang lưu…</string>
 </resources>

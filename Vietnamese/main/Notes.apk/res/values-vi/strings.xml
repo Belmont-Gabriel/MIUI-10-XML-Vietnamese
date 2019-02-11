@@ -277,4 +277,8 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="toolbar_text_description">Kiểu chữ</string>
     <string name="toolbar_voice_description">Âm thanh</string>
     <string name="unclassfied_folder_name">Chưa phân nhóm</string>
+	<string name="permission_intro_contact">Để tạo ghi chú trong khi gọi</string>
+	<string name="permission_intro_microphone">Để tạo ghi chú âm thanh</string>
+	<string name="permission_intro_phone">Để tạo ghi chú trong khi gọi</string>
+	<string name="permission_intro_storage">Để lưu ghi chú và tệp đính kèm</string>
 </resources>
