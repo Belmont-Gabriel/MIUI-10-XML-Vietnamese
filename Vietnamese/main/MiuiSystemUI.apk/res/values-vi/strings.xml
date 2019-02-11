@@ -1863,10 +1863,10 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="bluetooth_active_battery_level">Kích hoạt, %1$s pin</string>
     <string name="bluetooth_battery_level">%1$s pin</string>
     <string name="bluetooth_active_no_battery_level">Kích hoạt</string>
-    <string name="bluetooth_connected_battery_level">Đã kết nối | pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện) | pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại) | pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có phương tiện hoặc điện thoại) | pin %1$s/%2$s</string>
+    <string name="bluetooth_connected_battery_level">Đã kết nối | Pin %1$s/%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện) | Pin %1$s/%2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại) | Pin %1$s/%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có phương tiện hoặc điện thoại) | Pin %1$s/%2$s</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Đã kết nối Máy trợ thính</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Sử dụng cho Máy trợ thính</string>
     <string name="bluetooth_hearingaid_left_battery_level">Trái - %1$s pin</string>

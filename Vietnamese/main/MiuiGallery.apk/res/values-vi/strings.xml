@@ -1455,4 +1455,9 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="text_tab_watermark">Dấu chìm</string>
 	<string name="video_editor_download_with_metered_network_msg">Tải xuống tệp gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
 	<string name="video_editor_download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
+	<string name="month_view_tip_button_text">Đã hiểu</string>
+	<string name="month_view_tip_sub_title">Chụm màn hình để chuyển sang chế độ xem theo tháng</string>
+	<string name="month_view_tip_title">Xem theo tháng</string>
+	<string name="movie_download_with_metered_network_msg">Tải xuống tệp gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
+	<string name="movie_download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
 </resources>

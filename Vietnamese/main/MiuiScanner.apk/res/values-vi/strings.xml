@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Máy quét</string>
     <string name="impunity_declaration_title">Điều khoản Dịch vụ</string>
-    <string name="impunity_declaration_content">Ứng dụng này cần kết nối Internet và dịch vụ vị trí để làm việc bình thường.</string>
+	<string name="impunity_declaration_content">Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi sử dụng ứng dụng. Không sử dụng Máy quét để chụp đối tượng có chứa thông tin cá nhân của bạn. Khi nhấn vào \"Đồng ý\", bạn đang chấp nhận &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi và cho phép Máy quét kết nối mạng.</string>
     <string name="impunity_declaration_positive_text">Cho phép</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="accessibility_shutter_button">Màn trập</string>
@@ -307,4 +307,7 @@
 	<string name="setting_title">Cài đặt</string>
 	<string name="setting_use_last_choose">Nhớ lựa chọn trước</string>
 	<string name="to_pay">Hoàn tất thanh toán</string>
+	<string name="pay_no_tip">Không hiển thị lại</string>
+	<string name="pay_save_this_choose">Nhớ lựa chọn của tôi</string>
+    <string name="translate_parallel_2_lines">Đảm bảo văn bản song song với đường kẻ trên màn hình</string>
 </resources>

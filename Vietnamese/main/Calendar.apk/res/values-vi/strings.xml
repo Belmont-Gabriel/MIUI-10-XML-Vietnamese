@@ -415,7 +415,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="user_notice_button_exit">Thoát</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
-    <string name="user_notice_message">Bằng cách sử dụng sản phẩm này, bạn đồng ý với %1$s và %2$s của Xiaomi. Vài tính năng cần kết nối internet, truy cập vị trí, danh bạ và SMS để làm việc bình thường.</string>
+    <string name="user_notice_message">Bạn cần đồng ý với %1$s và %2$s của chúng tôi trước khi sử dụng Lịch. Để cung cấp thông tin chính xác về ngày nghỉ địa phương, sinh nhật, thanh toán tín dụng, và lịch trình chuyến đi, Lịch cần truy cập vào vị trí của bạn, liên hệ, và tin nhắn, cũng như cần kết nối mạng. Đồng ý?</string>
     <string name="user_notice_title">Chú ý</string>
     <string name="user_notification">Thông báo</string>
     <string name="user_notification_descrip">Hiển thị thông báo mỗi khi bạn mở Lịch</string>
@@ -940,7 +940,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="setting_recommend">Đề xuất tính năng</string>
     <string name="setting_recommend_summary">Cổng thông tin đăng ký đề xuất</string>
     <string name="setting_title_debug">Nhật ký xuất</string>
-    <string name="setting_title_limit_card_desc">Thẻ trợ lý lịch trên trang chủ, cần kết nối dịch vụ</string>
+    <string name="setting_title_limit_card_desc">Thẻ trợ lý lịch trên trang chủ, cần kết nối mạng</string>
     <string name="setting_title_limit_card_display">Hiển thị dịch vụ giới hạn</string>
     <string name="setting_title_lottery_card_desc">Thẻ rút thăm trúng thưởng nằm trên trang chủ lịch, cần kết nối mạng</string>
     <string name="setting_title_lottery_card_display">Dịch vụ xổ số</string>

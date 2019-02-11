@@ -571,7 +571,7 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="reading_status_failure">Không thể tải trạng thái.</string>
     <string name="micloud_alert_dialog_negative">Hủy</string>
     <string name="micloud_alert_dialog_positive">OK</string>
-    <string name="micloud_title_dspt" formatted="false">Tổng %s đã dùng %s | còn lại %s</string>
+    <string name="micloud_title_dspt" formatted="false">Tổng %s đã dùng %s | Còn lại %s</string>
     <string name="micloud_main_memory_low_title">Bộ nhớ trong của điện thoại đã đầy</string>
     <string name="micloud_notif_title_memory_low">Không thể đồng bộ với Mi Cloud</string>
     <string name="find_device_service_title">Tìm thiết bị</string>
