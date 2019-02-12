@@ -724,7 +724,7 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="debug_intent_sender_label">Gỡ lỗi ý định người gửi</string>
     <string name="device_info_label">Thông tin thiết bị</string>
     <string name="display_label">Màn hình</string>
-    <string name="phone_info_label">Thông tin điện thoại </string>
+    <string name="phone_info_label">"Thông tin điện thoại "</string>
     <string name="sd_card_settings_label">Bộ nhớ USB</string>
     <string name="proxy_settings_label">Cài đặt proxy</string>
     <string name="cancel">Hủy</string>
@@ -2063,7 +2063,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_dict_settings_all_languages">Cho tất cả ngôn ngữ</string>
     <string name="user_dict_settings_more_languages">Ngôn ngữ khác…</string>
     <string name="testing">Đang kiểm tra</string>
-    <string name="testing_phone_info">Thông tin điện thoại </string>
+    <string name="testing_phone_info">"Thông tin điện thoại "</string>
     <string name="testing_sim_toolkit">Công cụ SIM</string>
     <string name="input_methods_settings_title">Nhập văn bản</string>
     <string name="input_method">Bàn phím</string>
