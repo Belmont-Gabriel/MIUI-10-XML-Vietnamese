@@ -1699,4 +1699,12 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="express_card_item_desc_no_info">Không có thông tin</string>
 	<string name="express_card_item_number_prefix">Số Đặt hàng: %s</string>
 	<string name="express_card_item_source_prefix">Từ %s</string>
+	<string name="favorite_title_modify_failed">Không thể thay đổi tiêu đề</string>
+	<string name="miot_device_personal_assistant_eula">Thỏa thuận Người dùng của App vault</string>
+	<string name="miot_device_personal_assistant_eula_priv">" và "</string>
+	<string name="miot_device_personal_assistant_priv">Chính sách Riêng tư</string>
+	<string name="notification_channel_default_description">Thông báo khác</string>
+	<string name="notification_channel_favorite_description">Thông báo về mục đã thêm vào ưa thích trên các ứng dụng khác</string>
+	<string name="notification_channel_payment_description">Thông báo về khoản thanh toán</string>
+	<string name="notification_channel_shopping_description">Thông báo về sản phẩm đã thêm vào ưa thích hoặc đã thêm vào giỏ hàng</string>
 </resources>

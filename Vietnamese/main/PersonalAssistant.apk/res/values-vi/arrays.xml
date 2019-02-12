@@ -47,4 +47,13 @@
         <item>Nặng</item>
         <item>Nghiêm trọng</item>
     </string-array>
+	<string-array name="detail_font_size">
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+    </string-array>
+	<string-array name="stock_color_schema">
+        <item>Đỏ - lên, Xanh - xuống</item>
+        <item>Xanh - lên, Đỏ - xuống</item>
+    </string-array>
 </resources>

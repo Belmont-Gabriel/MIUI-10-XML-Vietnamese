@@ -896,4 +896,11 @@
     <string name="support_elder">Hỗ trợ người cao tuổi</string>
     <string name="tax_rate_provider">Tính theo quy định thuế mới. Dữ liệu được cung cấp bởi hexun.com và East Money.</string>
     <string name="updating">Đang cập nhật Máy tính…</string>
+	<string name="tax_detail">Chi tiết thuế</string>
+	<string name="tax_detail_amount">Số tiền thuế</string>
+	<string name="tax_detail_rate">Thuế suất</string>
+	<string name="tax_detail_take_off">Khấu trừ</string>
+	<string name="tax_detail_tax_payed">Số tiền đã trả</string>
+    <string name="tax_insurance_and_fund_detail">Chi tiết bảo hiểm</string>
+	<string name="tax_payment_period">Số thanh toán</string>
 </resources>
