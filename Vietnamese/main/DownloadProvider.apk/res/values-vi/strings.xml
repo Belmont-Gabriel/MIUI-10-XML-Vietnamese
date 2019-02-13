@@ -93,7 +93,6 @@ Chạm %s  để bắt đầu tải xuống nội dung này vào lần tiếp th
     <string name="download_queued">Đã xếp hàng</string>
     <string name="download_running">Đang thực hiện</string>
     <string name="download_error">Không thành công</string>
-    <string name="download_running_percent">Đang tải xuống, %s</string>
 	<string name="channel_active">Đang tải xuống</string>
     <string name="channel_complete">Đã tải xuống</string>
     <string name="channel_insufficient_space">Không đủ dung lượng</string>
