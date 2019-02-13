@@ -1200,4 +1200,17 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
 	<string name="fcm_fallback_notification_channel_label">Hỗn hợp</string>
 	<string name="gcm_fallback_notification_channel_label">Hỗn hợp</string>
 	<string name="ready_to_play">Tiếp theo</string>
+	<string name="agreement_desc">Thỏa thuận Người dùng (bắt buộc)</string>
+	<string name="app_permission_confirm">Đã hiểu</string>
+	<string name="app_permission_optional">Quyền tùy chọn</string>
+	<string name="app_permission_require">Quyền bắt buộc</string>
+	<string name="app_permission_use_desc">Quyền</string>
+	<string name="app_permission_use_group_account">Tài khoản</string>
+	<string name="app_permission_use_group_account_desc">Để lấy thông tin Tài khoản Mi</string>
+	<string name="app_permission_use_group_phone">Điện thoại</string>
+	<string name="app_permission_use_group_phone_desc">Cho dịch vụ Google Push</string>
+	<string name="app_permission_use_group_storage">Bộ nhớ</string>
+	<string name="app_permission_use_group_storage_desc">Để tìm và phát nhạc lưu trên thiết bị</string>
+    <string name="data_use_desc">Tài liệu hợp pháp</string>
+	<string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
 </resources>

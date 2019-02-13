@@ -427,16 +427,16 @@
         <item>Không nói</item>
     </string-array>
 	<string-array name="di_zhi">
-        <item>Giáp </item>
-        <item>Ất </item>
-        <item>Bính </item>
-        <item>Đinh </item>
-        <item>Mậu </item>
-        <item>Kỷ </item>
-        <item>Canh </item>
-		<item>Tân </item>
-        <item>Nhâm </item>
-        <item>Quý </item>
+        <item>"Giáp "</item>
+        <item>"Ất "</item>
+        <item>"Bính "</item>
+        <item>"Đinh "</item>
+        <item>"Mậu "</item>
+        <item>"Kỷ "</item>
+        <item>"Canh "</item>
+		<item>"Tân "</item>
+        <item>"Nhâm "</item>
+        <item>"Quý "</item>
     </string-array>
 	<string-array name="tian_gan">
         <item>Tý</item>

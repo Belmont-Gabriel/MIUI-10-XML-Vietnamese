@@ -6498,8 +6498,8 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
      <string name="anc_switch_title">Kiểm soát tiếng ồn đang bật</string>
      <string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
      <string name="aod_got_it">Tôi biết</string>
-     <string name="aod_mode_time_summary">Hẹn giờ khi thiết bị của bạn sẽ chuyển sang Chế độ luôn bật</string>
-     <string name="aod_mode_time_title">Thiết lập thời gian</string>
+     <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
+     <string name="aod_mode_time_title">Hẹn giờ bật</string>
      <string name="aod_mode_turn_off">Tắt</string>
      <string name="aod_mode_turn_on">Bật</string>
      <string name="aod_summary">Một số thông tin hệ thống sẽ luôn hiển thị ở chế độ tạm dừng</string>
@@ -7000,7 +7000,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="allow_interruption">Cho phép gián đoạn</string>
     <string name="allow_interruption_summary">Cho phép ứng dụng tạo âm thanh, rung, và/hoặc thông báo bật lên trên màn hình</string>
     <string name="ambient_display_category_triggers">Hiển thị khi</string>
-    <string name="ambient_display_screen_summary_always_on">Luôn bật / Tăng mức sử dụng pin</string>
+    <string name="ambient_display_screen_summary_always_on">Luôn bật / Tốn pin hơn</string>
     <string name="ambient_display_screen_summary_notifications">Thông báo mới</string>
     <string name="android_version_pending_update_summary">Cập nhật khả dụng</string>
     <string name="android_version_summary">Đã cập nhật lên Android %1$s</string>
@@ -7149,7 +7149,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="display_cutout_emulation_none">Không</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở nhanh camera</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>
-    <string name="doze_always_on_summary">Hiển thị thời gian, biểu tượng thông báo và các thông tin khác. Tăng mức sử dụng pin</string>
+    <string name="doze_always_on_summary">Hiển thị thời gian, biểu tượng thông báo và các thông tin khác. Tốn pin hơn</string>
     <string name="doze_always_on_title">Luôn bật</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="fingerprint_delete_message">Bạn muốn xóa vân tay này?</string>
