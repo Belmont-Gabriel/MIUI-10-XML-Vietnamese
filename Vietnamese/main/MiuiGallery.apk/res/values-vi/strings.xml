@@ -398,7 +398,7 @@ khả dụng"</string>
     <string name="delete_album_failed">Không thể xóa album</string>
     <string name="delete_album_msg_format">Xóa album \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_success">Album đã được xóa</string>
-    <string name="delete_finish_format">Đã xóa %d</string>
+    <string name="delete_finish_format">Đã xóa %d mục</string>
     <string name="delete_from_all_devices_and_cloud">từ tất cả thiết bị và Mi Cloud</string>
     <string name="delete_from_cloud">Xóa ảnh từ Mi Cloud</string>
     <string name="delete_from_devices">Tất cả thiết bị đã được đồng bộ</string>
@@ -1315,7 +1315,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="card_title_last_week_end">Cuối tuần trước</string>
     <string name="card_title_last_year_today">Ngày này năm trước</string>
     <string name="card_title_lastweek_meet">Cùng nhau</string>
-    <string name="card_title_one_day">Ngày khó quê</string>
+    <string name="card_title_one_day">Ngày khó quên</string>
     <string name="card_title_past_year_today">Ngày này các năm trước</string>
     <string name="card_title_period_last_month">Tóm tắt tháng trước</string>
     <string name="card_title_period_last_week">Tóm tắt tuần trước</string>

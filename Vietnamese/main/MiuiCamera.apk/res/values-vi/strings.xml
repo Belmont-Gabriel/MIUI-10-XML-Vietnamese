@@ -677,7 +677,7 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="pref_camera_video_bokeh_off">Đã đóng video bokeh</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Bạn chỉ có thể ghi video 720p với 240fps</string>
     <string name="pref_video_quality_summary">Video 4K không thể hỗ trợ chế độ 120FPS</string>
-    <string name="super_night_toast">Đang chụp ảnh, vui lòng giữ chắc điện thoại</string>
+    <string name="super_night_toast">Giữ chắc điện thoại khi đang chụp ảnh</string>
     <string name="beauty_body_body">Giảm béo</string>
     <string name="beauty_body">Làm đẹp</string>
     <string name="beauty_body_head">Đầu</string>

@@ -56,7 +56,7 @@
     <string name="action_menu_text_download">Quản lý tải xuống</string>
     <string name="action_menu_text_exit">Thoát</string>
     <string name="action_menu_text_find_in_page">Tìm trên trang</string>
-    <string name="action_menu_text_fullscreen">Màn hình tràn cạnh</string>
+    <string name="action_menu_text_fullscreen">Toàn màn hình</string>
     <string name="action_menu_text_history">Dấu trang &amp; Lịch sử</string>
     <string name="action_menu_text_nightmode">Chế độ ban đêm</string>
     <string name="action_menu_text_nightmode_off">Chế độ ban đêm</string>
@@ -295,8 +295,8 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="download_filter_zip">ZIP</string>
     <string name="download_in_process">Đang tải xuống…</string>
     <string name="download_list_open_xl_ok">OK</string>
-    <string name="download_memory_info_avai">" khả dụng %s|"</string>
-    <string name="download_memory_info_total">" tổng ​%s"</string>
+    <string name="download_memory_info_avai">Khả dụng %s |</string>
+    <string name="download_memory_info_total">" Tổng ​%s"</string>
     <string name="download_no_application_title">Không tìm thấy tập tin. Bạn đã di chuyển hoặc xóa?</string>
     <string name="download_no_sdcard_dlg_msg">Thẻ SD được yêu cầu để tải xuống %s.</string>
     <string name="download_no_sdcard_dlg_title">Không có thẻ SD</string>
@@ -682,7 +682,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="pref_privacy_formdata_title">Dữ liệu biểu mẫu</string>
     <string name="pref_privacy_location_title">Truy cập vị trí</string>
     <string name="pref_privacy_security_title">Riêng tư &amp; bảo mật</string>
-    <string name="pref_save_bandwidth_mode_title">Giảm sử dụng dữ liệu</string>
+    <string name="pref_save_bandwidth_mode_title">T.kiệm dữ liệu</string>
     <string name="pref_security_accept_cookies">Chấp nhận cookie</string>
     <string name="pref_security_accept_cookies_summary">Cho phép trang web lưu và đọc dữ liệu cookie</string>
     <string name="pref_security_passwords_title">Mật khẩu</string>
@@ -1375,9 +1375,9 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="action_imme_open">Mở ngay lập tức</string>
     <string name="action_menu_download">Tải xuống</string>
-    <string name="action_menu_request_desktop_site">Truy cập trang Web</string>
-    <string name="action_menu_request_desktop_site_off">Truy cập trang Web tắt</string>
-    <string name="action_menu_request_desktop_site_on">Truy cập trang Web bật</string>
+    <string name="action_menu_request_desktop_site">Web desktop</string>
+    <string name="action_menu_request_desktop_site_off">Truy cập trang Web desktop tắt</string>
+    <string name="action_menu_request_desktop_site_on">Truy cập trang Web desktop bật</string>
     <string name="action_menu_text_bookmark_add_off">Không thể thêm trang web</string>
     <string name="action_menu_text_bookmark_removed">Xóa dấu trang</string>
     <string name="action_menu_text_drop">Thoát menu</string>

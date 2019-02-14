@@ -394,7 +394,7 @@ phản hồi"</string>
     <string name="deleted_apps">Đã xóa ứng dụng</string>
     <string name="root">Truy cập Root</string>
     <string name="app_detail">Chi tiết</string>
-    <string name="app_version">Phiên bản</string>
+    <string name="app_version">"Phiên bản: "</string>
     <string name="app_mobile">Di động</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Không</string>

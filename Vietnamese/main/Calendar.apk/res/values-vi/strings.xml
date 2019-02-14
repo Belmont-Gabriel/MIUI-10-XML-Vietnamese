@@ -633,8 +633,8 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="close_alarm">Tắt</string>
     <string name="countdown_secondary_tag">Đếm ngược</string>
     <string name="date_calculate_direction_content_description">Hướng hiện tại: %1s.</string>
-    <string name="date_calculate_hint">Xem đây là ngày nào sau 1 số ngày</string>
-    <string name="date_jump_hint">Chuyển trực tiếp đến một ngày nhất định</string>
+    <string name="date_calculate_hint">Tính vài ngày sau ngày hiện tại là ngày gì</string>
+    <string name="date_jump_hint">Chuyển đến ngày cụ thể</string>
     <string name="date_jump_title">Chuyển đến ngày</string>
     <string name="edit_event_dislike_title">Tại sao bạn muốn hủy?</string>
     <string name="global_football_no_match">Không có trận bóng nào được đặt lịch hôm nay.</string>
