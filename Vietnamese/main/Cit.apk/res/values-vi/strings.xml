@@ -489,7 +489,8 @@ Hãy nhấn vào đúng nút có số bạn nghe được"</string>
     <string name="cit_gyrodata_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
     <string name="cit_gyrodata_sensor_check_title">Con quay hồi chuyển</string>
     <string name="cit_proximity_data_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
-Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
+Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay).
+Nếu đây là cảm biến tiệm cận siêu âm, vui lòng mô phỏng hành động nhấc điện thoại trong quá trình thử nghiệm."</string>
     <string name="cit_hall_miui_test_summary">Khi đưa nam châm lại gần vùng màu xanh, màn hình tắt. Ngược lại màn hình sáng.</string>
     <string name="cit_hall_test_summary">Khi đưa nam châm lại gần vùng màu xanh, màn hình tắt. Ngược lại màn hình sáng.</string>
     <string name="cit_hall_test_title">Bao da</string>

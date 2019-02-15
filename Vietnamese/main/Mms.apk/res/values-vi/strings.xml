@@ -895,4 +895,8 @@
     <string name="title_pref_cm_smart_sms">SMS thông minh China Mobile</string>
     <string name="updating">Đang cập nhật</string>
     <string name="cm_privacy_dialog_tips">Dịch vụ tin nhắn thông minh được cung cấp bởi nhà mạng. Tin nhắn cần kết nối mạng và truy cập vị trí của bạn để phục vụ các dịch vụ này. Bạn cần đồng ý với %1$s của nhà cung cấp trước khi bạn bắt đầu sử dụng các dịch vụ này. Đồng ý?</string>
+	<string name="auto_identify_btn_text_only_smart_messaging">Bật Tin nhắn thông minh</string>
+	<string name="auto_identify_btn_text_when_all_disabled">Tự động nhận diện ID người gửi</string>
+	<string name="auto_identify_btn_title">Tin nhắn này được gửi từ số chưa biết.</string>
+	<string name="auto_identify_confirmation">Có thể mất vài phút để kích hoạt tính năng này.</string>
 </resources>

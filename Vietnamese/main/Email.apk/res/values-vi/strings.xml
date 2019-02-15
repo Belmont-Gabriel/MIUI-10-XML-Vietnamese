@@ -1156,4 +1156,26 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="update_to_wps_mail">Tận hưởng thêm tính năng với WPS Mail</string>
     <string name="wait_help_context">chờ</string>
 	<string name="notify_channel_service">Nhắc nhở đồng bộ nền</string>
+	<string name="appraise_des">Chúng tôi đang làm việc chăm chỉ để làm bạn hài lòng. Vui lòng gửi ý kiến ủng hộ chúng tôi.</string>
+    <string name="appraise_good">Khen ngợi và động viên</string>
+    <string name="appraise_ignore">Đánh giá tạm thời</string>
+    <string name="appraise_negative">Bình luận tiêu cực</string>
+    <string name="dialog_agree">Đồng ý</string>
+    <string name="dialog_disagree">Không đồng ý</string>
+    <string name="folder_junk_name_en0">Thư rác</string>
+    <string name="have_auth_code">Đăng nhập bằng Mã</string>
+    <string name="help_me_get_qq_auth">Giúp tôi lấy mã xác thực QQ</string>
+    <string name="list_empty_to_fresh">Không có thư. Thử kéo xuống để làm mới.</string>
+    <string name="mailbox_name_server_all_unread">Chưa đọc</string>
+    <string name="mailbox_name_server_drafts">Thư nháp</string>
+    <string name="mailbox_name_server_inbox">Hộp thư đến</string>
+    <string name="mailbox_name_server_junk">Thư rác</string>
+    <string name="mailbox_name_server_starred">Đã yêu thích</string>
+    <string name="mailbox_name_server_sent">Thư đã gửi</string>
+    <string name="mailbox_name_server_outbox">Hộp thư đi</string>
+    <string name="mailbox_name_server_trash">Thùng rác</string>
+    <string name="notify_channel_no_disterb">Chế độ Không làm phiền</string>
+    <string name="privacy_des">Thông tin nhật ký bao gồm thông tin gỡ lỗi được in bởi ứng dụng email và thông tin về thiết bị của bạn để xác định vấn đề bạn gặp phải. Chọn %1$s sau đây có nghĩa là bạn đã đọc và đồng ý với %2$s của Xiaomi.</string>
+    <string name="qq_login_notice">Mẹo: Nếu bạn đã thiết lập mật khẩu độc lập, bạn cần nhập mật khẩu độc lập để xác nhận truy cập vào hộp thư.</string>
+    <string name="qq_pwd_or_qq_auth_code">Mã xác thực QQ hoặc mật khẩu hộp thư</string>
 </resources>

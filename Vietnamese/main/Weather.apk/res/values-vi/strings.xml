@@ -331,4 +331,5 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="update_notification_info">Đang cập nhật dữ liệu dưới nền…</string>
     <string name="weather_alert_channel_name">Cảnh báo</string>
     <string name="weather_service_channel_name">Dịch vụ nền</string>
+	<string name="activity_find_city_dialog_message_location_service">Để có được thông tin thời tiết liên quan, cho phép Thời tiết truy cập vị trí của bạn.</string>
 </resources>

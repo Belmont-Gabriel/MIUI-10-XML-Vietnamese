@@ -367,8 +367,8 @@ khả dụng"</string>
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">Khi kiến nghị tắt, bạn vẫn có thể sử dụng tùy chọn \"Thêm khuôn mặt giống nhau\"</string>
     <string name="confirm_hidden_recommend_group_title">Không hiển thị kiến nghị</string>
-    <string name="confirm_merge_face_albums">" \" Hợp nhất album này với %s? \" "</string>
-    <string name="confirm_merge_many_face_albums">" \" Hợp nhất các album này mới %s? \" "</string>
+    <string name="confirm_merge_face_albums">Hợp nhất album này với %s?</string>
+    <string name="confirm_merge_many_face_albums">Hợp nhất các album này với %s?</string>
     <string name="confirm_not_face">Không khớp</string>
     <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -398,7 +398,7 @@ khả dụng"</string>
     <string name="delete_album_failed">Không thể xóa album</string>
     <string name="delete_album_msg_format">Xóa album \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_success">Album đã được xóa</string>
-    <string name="delete_finish_format">Đã xóa %d</string>
+    <string name="delete_finish_format">Đã xóa %d mục</string>
     <string name="delete_from_all_devices_and_cloud">từ tất cả thiết bị và Mi Cloud</string>
     <string name="delete_from_cloud">Xóa ảnh từ Mi Cloud</string>
     <string name="delete_from_devices">Tất cả thiết bị đã được đồng bộ</string>
@@ -1315,7 +1315,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="card_title_last_week_end">Cuối tuần trước</string>
     <string name="card_title_last_year_today">Ngày này năm trước</string>
     <string name="card_title_lastweek_meet">Cùng nhau</string>
-    <string name="card_title_one_day">Ngày khó quê</string>
+    <string name="card_title_one_day">Ngày khó quên</string>
     <string name="card_title_past_year_today">Ngày này các năm trước</string>
     <string name="card_title_period_last_month">Tóm tắt tháng trước</string>
     <string name="card_title_period_last_week">Tóm tắt tuần trước</string>
@@ -1411,8 +1411,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="story_download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải xuống tập tin sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="story_download_without_wifi_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="story_photo_downloading">Đang tải xuống…</string>
-	<string name="alert_selection_description">AI đánh dấu ảnh đẹp nhất trong các ảnh tương tự nhau bằng một dấu sao.</string>
-	<string name="alert_selection_title">Chọn bởi AI</string>
+	<string name="alert_selection_description">MIUI sẽ phân tích các ảnh tương tự nhau và đánh dấu ảnh đẹp nhất.</string>
+	<string name="alert_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="card_description_annual_events">Thời gian quý báu dành cho nhau</string>
     <string name="card_description_annual_foods">Nhật ký của người sành ăn</string>
     <string name="card_description_annual_pets">Đuôi, bàn chân và râu ria</string>
@@ -1444,4 +1444,20 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="movie_content_describe_delete">Xóa ảnh</string>
     <string name="movie_content_describe_pause">Tạm dừng</string>
     <string name="movie_content_describe_play">Phát</string>
+	<string name="download_with_metered_network_msg">Tải xuống ảnh gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
+	<string name="download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
+	<string name="photo_font_cancel_download">Hủy</string>
+	<string name="photo_font_download">Tải xuống</string>
+	<string name="photo_font_download_failed_for_notwork">Không thể tải xuống. Kết nối mạng và thử lại</string>
+	<string name="photo_font_download_without_wifi_msg">Sử dụng dữ liệu di động để tải tệp sẽ tăng mức sử dụng dữ liệu của bạn. Nếu vượt quá giới hạn gói dữ liệu của bạn, nhà cung cấp của bạn có thể tính thêm chi phí phát sinh.</string>
+	<string name="photo_font_download_without_wifi_title">Cảnh báo Sử dụng dữ liệu</string>
+	<string name="text_tab_bubble">Bong bóng</string>
+	<string name="text_tab_watermark">Dấu chìm</string>
+	<string name="video_editor_download_with_metered_network_msg">Tải xuống tệp gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
+	<string name="video_editor_download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
+	<string name="month_view_tip_button_text">Đã hiểu</string>
+	<string name="month_view_tip_sub_title">Chụm màn hình để chuyển sang chế độ xem theo tháng</string>
+	<string name="month_view_tip_title">Xem theo tháng</string>
+	<string name="movie_download_with_metered_network_msg">Tải xuống tệp gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
+	<string name="movie_download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
 </resources>

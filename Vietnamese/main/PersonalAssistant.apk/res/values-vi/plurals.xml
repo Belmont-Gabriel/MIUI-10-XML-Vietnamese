@@ -23,12 +23,10 @@
         <item quantity="other">%1$d phút trước</item>
     </plurals>
     <plurals name="sms_hour_suffix">
-        <item quantity="other">Trong %d giờ</item>
-        <item quantity="one">Trong %d giờ</item>
+        <item quantity="other">Khởi hành trong %d giờ</item>
     </plurals>
     <plurals name="sms_minute_suffix">
-        <item quantity="other">Trong %d phút</item>
-        <item quantity="one">Trong %d phút</item>
+        <item quantity="other">Khởi hành trong %d phút</item>
     </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d giờ</item>
@@ -54,5 +52,11 @@
     </plurals>
 	<plurals name="miot_device_camera_size">
         <item quantity="other">%d máy ảnh thông minh</item>
+    </plurals>
+	<plurals name="book_start_interval">
+        <item quantity="other">Khởi hành trong %d ngày</item>
+    </plurals>
+	<plurals name="sms_day_suffix">
+        <item quantity="other">Khởi hành trong %d ngày</item>
     </plurals>
 </resources>

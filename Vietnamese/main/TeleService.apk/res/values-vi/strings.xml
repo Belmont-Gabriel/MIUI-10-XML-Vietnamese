@@ -79,7 +79,7 @@ Máy tính bảng này không có tai nghe. Bạn có thể chuyển sang chế 
      <string name="wfcmode_wifi_only">Chỉ Wi-Fi</string>
      <string name="wfcmode_wifi_preferred">Ưu tiên Wi-Fi</string>
      <string name="wifi_calling_settings_title">Cuộc gọi Wi-Fi</string>
-     <string name="wificall_switch_summary">Thiết bị của bạn sẽ chuyển đổi giữa Wi-Fi và VoLTE khi kết nối kém</string>
+     <string name="wificall_switch_summary">Sử dụng Wi-Fi để gọi và nhận cuộc gọi khi có thể</string>
      <string name="wificall_switch_title">Thực hiện cuộc gọi thông qua Wi-Fi</string>
     <string name="wifi_fail_to_scan">Không thể dò tìm mạng</string>
     <string name="wifi_security_none">Không</string>
@@ -1428,9 +1428,9 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="dual_4g_switch_summary">Cho phép kết nối 4G cho cả 2 khe SIM.</string>
     <string name="turn_on_dual_4g_failed">Không thể bật 4G kép.</string>
     <string name="turn_off_dual_4g_failed">Không thể tắt 4G kép.</string>
-    <string name="vice_slot_volte_data_switch_title">Sử dụng dữ liệu di động khi thực hiện cuộc gọi VoLTe trên SIM thứ 2</string>
-    <string name="vice_slot_volte_data_switch_summary">Trong khi thực hiện cuộc gọi VoLTE, thiết bị sẽ kết nối mạng dữ liệu di động bằng SIM thứ 2</string>
-    <string name="vice_slot_volte_data_switch_prompt">Thiết bị của bạn sẽ kết nối mạng dữ liệu di động bằng SIM thứ 2 trong khi thực hiện cuộc gọi VoLTE. Điều này có thể phát sinh thêm phí dữ liệu. Liên hệ nhà cung cấp địa phương để biết thêm thông tin về gói dữ liệu.</string>
+    <string name="vice_slot_volte_data_switch_title">Sử dụng dữ liệu di động khi thực hiện cuộc gọi VoLTE trên SIM 2</string>
+    <string name="vice_slot_volte_data_switch_summary">Trong khi thực hiện cuộc gọi VoLTE, thiết bị sẽ kết nối mạng dữ liệu di động bằng SIM 2</string>
+    <string name="vice_slot_volte_data_switch_prompt">Thiết bị của bạn sẽ kết nối mạng dữ liệu di động bằng SIM 2 trong khi thực hiện cuộc gọi VoLTE. Điều này có thể phát sinh thêm phí dữ liệu. Liên hệ nhà cung cấp địa phương để biết thêm thông tin về gói dữ liệu.</string>
     <string name="call_settings_primary_user_only">Cài đặt điện thoại chỉ được thay đổi bởi người dùng chính.</string>
     <string name="roaming_notification_title">Dường như chuyển vùng đã được kích hoạt</string>
     <string name="roaming_notification_content">Bạn có thể thêm mã quốc gia tự động để quay số thuận tiện hơn.</string>
@@ -2443,4 +2443,16 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="clh_callFailed_normal_unspecified_txt">Bình thường, không xác định</string>
     <string name="clh_callFailed_number_changed_txt">Đã đổi số</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Chỉ mang thông tin kỹ thuật số có sẵn giới hạn khả dụng</string>
+	<string name="vowifi_emergency_notification_channel">Cảnh báo khẩn cấp Gọi Wi-Fi</string>
+	<string name="vowifi_emergency_notification_content">Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
+	<string name="vowifi_emergency_notification_title">Gọi Wi-Fi Vodafone</string>
+	<string name="vowifi_emergency_warning_check">Không hiển thị lại</string>
+	<string name="vowifi_emergency_warning_message">Cuộc gọi khẩn cấp không khả dụng qua Gọi Wi-Fi
+
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
+
+Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
+	<string name="vowifi_emergency_warning_title">Cuọc gọi ECC qua Gọi Wi-Fi</string>
+	<string name="wifi_call_setting_vodafone_de">Cuộc gọi Wi-Fi</string>
+	<string name="wifi_call_setting_vodafone_uk">Gọi Wi-Fi</string>
 </resources>

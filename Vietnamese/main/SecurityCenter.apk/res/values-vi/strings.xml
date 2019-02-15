@@ -394,7 +394,7 @@ phản hồi"</string>
     <string name="deleted_apps">Đã xóa ứng dụng</string>
     <string name="root">Truy cập Root</string>
     <string name="app_detail">Chi tiết</string>
-    <string name="app_version">Phiên bản</string>
+    <string name="app_version">"Phiên bản: "</string>
     <string name="app_mobile">Di động</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Không</string>
@@ -2459,7 +2459,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="extreme_power_save_mode_card_summary">Bật chế độ Siêu tốc để tiết kiệm pin khi pin yếu.</string>
      <string name="extreme_power_save_mode_summary">Siêu tiết kiệm pin hạn chế hoạt động nền, và dừng đồng bộ.</string>
      <string name="extreme_power_save_mode_title">Siêu tiết kiệm pin</string>
-     <string name="first_aid_activity_title">Hộp cấp cứu</string>
+     <string name="first_aid_activity_title">Sửa vấn đề</string>
      <string name="first_aid_card_airplane_button">Tắt</string>
      <string name="first_aid_card_airplane_summary">Tắt Chế độ máy bay để có thể thực hiện cuộc gọi và kết nối mạng</string>
      <string name="first_aid_card_airplane_title">Không thể thực hiện cuộc gọi hoặc kết nối mạng</string>
@@ -2617,8 +2617,8 @@ Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
      <string name="screenrecord_not_find">Cài đặt phiên bản mới nhất Quay phim Màn hình và thử lại.</string>
      <string name="see_more_content">Cập nhật Mi Game để xem các nội dung nổi bật</string>
      <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-     <string name="summary_first_aid_kit">Sửa vấn đề bằng Hộp cấp cứu</string>
-     <string name="title_first_aid_kit">Hộp cấp cứu</string>
+     <string name="summary_first_aid_kit">Sửa vấn đề trên thiết bị của bạn ngay</string>
+     <string name="title_first_aid_kit">Sửa vấn đề</string>
      <string name="title_like">Thích</string>
      <string name="title_reply">Bình luận</string>
      <string name="video_repeat">Phát lại</string>

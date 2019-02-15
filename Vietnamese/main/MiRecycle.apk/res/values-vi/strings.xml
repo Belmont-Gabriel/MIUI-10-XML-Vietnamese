@@ -36,7 +36,7 @@
     <string name="buy_claim_ps">"Để biết thêm chi tiết, hãy đọc "</string>
     <string name="buy_claim_terms">Điều khoản &amp; Điều kiện*</string>
     <string name="buy_confirm">ĐỒNG Ý &amp; MUA BẢO VỆ</string>
-    <string name="buy_insurance_desc">Chỉ thiết bị mới</string>
+    <string name="buy_insurance_desc">Cung cấp bởi OneAssist</string>
     <string name="buy_privacy_agree">Tiếp tục</string>
     <string name="buy_privacy_title">Tuyên bố miễn trừ trách nhiệm</string>
     <string name="buy_recycle_desc">Hỗ trợ bởi Cashify</string>
@@ -84,11 +84,12 @@
     <string name="reschedule">Sắp xếp lại</string>
     <string name="powered_by_cashify">Cung cấp bởi</string>
     <string name="postal_code">Mã bưu chính</string>
-    <string name="push_ht_content">Mở Bảo mật, cuộn xuống dưới và kiểm tra phần cứng của bạn</string>
-    <string name="push_ht_title">Kiểm tra tính năng mới trong Bảo mật</string>
+    <string name="push_ht_content">Xem thêm về điều kiện phần cứng</string>
+    <string name="push_ht_title">Kiểm tra phần cứng</string>
     <string name="push_oa_content">Bảo vệthiết bị của bạn bằng bảo hành mở rộng</string>
     <string name="push_oa_title">Bảo vệ Mi</string>
-    <string name="quote_upto_price">Tuyệt vời! Thiết bị của bạn vẫn trong tình trạng tốt và có giá trị cao. Nhận tới Rs. %s</string>
+    <string name="quote_upto_price">Tuyệt vời! Thiết bị của bạn vẫn trong tình trạng tốt và có giá trị cao. Nhận tới Rs. %s
+	Nhớ rằng giá của thiết bị luôn thay đổi. Bán ngay để nhận giá trị tốt nhất.</string>
     <string name="recycle_button">Tái chế</string>
     <string name="recycle_description">Nhận lại giá trị tối đa bằng cách tái chế điện thoại cũ của bạn</string>
     <string name="recycle_entrance">Tái chế Cashify</string>
