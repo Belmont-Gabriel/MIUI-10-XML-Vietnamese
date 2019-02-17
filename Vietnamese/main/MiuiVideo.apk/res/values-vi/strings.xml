@@ -787,13 +787,9 @@ Tăng cường bảo mật tài khoản."</string>
     <string name="permission_info1">Mi Video cần truy cập số IMEI của thiết bị để thực hiện:</string>
     <string name="permission_info2">Tùy chỉnh dịch vụ tốt hơn cho thiết bị của bạn;</string>
     <string name="permission_info3">Tăng cường bảo mật cho tài khoản.</string>
-    <string name="permission_title">Yêu cầu quyền</string>
     <string name="save_cancel_toast">Chạm lần nữa để hủy lưu</string>
     <string name="slid_fail_message">Lưu thất bại</string>
     <string name="slide_save_message">Đang tạo video…</string>
     <string name="sure_to_logout">Đăng xuất ngay?</string>
     <string name="toast_share_failed">Không thể chia sẻ. Chờ một hoặc hai phút và thử lại.</string>
-    <string name="v_cancel">Hủy</string>
-    <string name="v_ok">OK</string>
-    <string name="v_save">Lưu</string>
 </resources>
