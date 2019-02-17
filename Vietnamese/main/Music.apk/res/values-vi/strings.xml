@@ -1214,7 +1214,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="data_use_desc">Tài liệu hợp pháp</string>
 	<string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
 	<string name="dialog_renew_free_end">Thời gian dùng thử miễn phí đã hết. Đăng ký Hungama PRO?</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="online_apk_download_error_no_enough_space">Không thể tải xuống do không đủ dung lượng.</string>
     <string name="online_apk_downloading">Đang tải xuống…%d%%</string>
     <string name="online_apk_install_alert_confirm">Tải xuống</string>

@@ -173,11 +173,6 @@
         <item>Ngày để nhớ</item>
         <item>Khoảnh khắc tỏa sáng</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Chuyển</item>
-        <item>Sao chép</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="parties_title">
         <item>Cùng nhau</item>
         <item>Thời gian tuyệt vời</item>
