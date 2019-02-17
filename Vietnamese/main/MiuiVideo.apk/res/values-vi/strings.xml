@@ -762,4 +762,38 @@ Hãy thử tìm kiếm cái gì khác."</string>
 	<string name="offline_setting_mobile_net_limit_title">Giới hạn sử dụng dữ liệu di động</string>
 	<string name="offline_setting_mobile_net_unlimited">Không giới hạn</string>
 	<string name="offline_success">Tải xuống hoàn tất</string>
+	<string name="ai_animation_music_text">Nhạc phim AI</string>
+    <string name="ai_music_save_cancel">Hủy</string>
+    <string name="ai_music_save_dialog_title">Lưu</string>
+    <string name="ai_music_save_fail">Lưu thất bại</string>
+    <string name="ai_music_save_info">Thêm nhạc phim AI thành công. Lưu video?</string>
+    <string name="ai_music_save_ok">Lưu</string>
+    <string name="ai_music_save_success">Lưu thành công</string>
+    <string name="ai_music_saved">Đã lưu</string>
+    <string name="language_select_tips">Tùy chọn ngôn ngữ video của bạn là gì? Bạn có thể chọn nhiều ngôn ngữ.</string>
+    <string name="language_setting_tips">Lưu thành công. Bạn có thể thay đổi tùy chọn ngôn ngữ của mình trong cài đặt.</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="ovp_home_local">Trên máy</string>
+    <string name="ovp_home_me">Tài khoản</string>
+    <string name="ovp_home_online">Trực tuyến</string>
+    <string name="ovp_navigation_language">Ngôn ngữ</string>
+    <string name="ovp_playlist">Danh sách phát</string>
+    <string name="page_title_language">Tùy chọn ngôn ngữ video</string>
+    <string name="permission_continue">Tiếp tục</string>
+    <string name="permission_info">"Mi Video cần truy cập số IMEI thiết bị để thực hiện:
+ 
+Tùy chỉnh dịch vụ tốt hơn cho thiết bị;
+Tăng cường bảo mật tài khoản."</string>
+    <string name="permission_info1">Mi Video cần truy cập số IMEI của thiết bị để thực hiện:</string>
+    <string name="permission_info2">Tùy chỉnh dịch vụ tốt hơn cho thiết bị của bạn;</string>
+    <string name="permission_info3">Tăng cường bảo mật cho tài khoản.</string>
+    <string name="permission_title">Yêu cầu quyền</string>
+    <string name="save_cancel_toast">Chạm lần nữa để hủy lưu</string>
+    <string name="slid_fail_message">Lưu thất bại</string>
+    <string name="slide_save_message">Đang tạo video…</string>
+    <string name="sure_to_logout">Đăng xuất ngay?</string>
+    <string name="toast_share_failed">Không thể chia sẻ. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="v_cancel">Hủy</string>
+    <string name="v_ok">OK</string>
+    <string name="v_save">Lưu</string>
 </resources>

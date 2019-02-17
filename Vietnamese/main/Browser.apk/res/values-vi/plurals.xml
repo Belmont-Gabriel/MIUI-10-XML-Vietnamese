@@ -78,4 +78,7 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d người đã bình chọn</item>
     </plurals>
+	<plurals name="auto_play_next_tips">
+        <item quantity="other">Phát video tiếp theo sau %d giây</item>
+    </plurals>
 </resources>

@@ -537,4 +537,13 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="s5">Tạo sự kiện lịch</string>
     <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
     <string name="s7">Quảng cáo thử nghiệm</string>
+	<string name="korean_all_choose_item_title">Tôi đồng ý với tất cả các điều khoản và điều kiện bên dưới.</string>
+    <string name="korean_permission_group_phone_describe">Truy cập IMEI và trạng thái mạng của thiết bị, thu thập thông tin về các lần tải xuống không thành công để cải thiện dịch vụ</string>
+    <string name="korean_permission_group_phone_title">Điện thoại</string>
+    <string name="korean_privacy_btn_accept">Chấp nhận</string>
+    <string name="korean_privacy_btn_exit">Thoát</string>
+    <string name="korean_privacy_item_title">Chính sách Riêng tư (bắt buộc)</string>
+    <string name="korean_privacy_tv_summary">Đọc tất cả các mục sau một cách cẩn thận và chọn xem bạn có chấp nhận không.</string>
+    <string name="korean_user_agreement_item_title">Thỏa thuận Người dùng (bắt buộc)</string>
+    <string name="new_file_notification_title_image">Ảnh</string>
 </resources>

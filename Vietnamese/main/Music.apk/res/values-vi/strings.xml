@@ -1213,4 +1213,13 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
 	<string name="app_permission_use_group_storage_desc">Để tìm và phát nhạc lưu trên thiết bị</string>
     <string name="data_use_desc">Tài liệu hợp pháp</string>
 	<string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
+	<string name="dialog_renew_free_end">Thời gian dùng thử miễn phí đã hết. Đăng ký Hungama PRO?</string>
+    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+    <string name="online_apk_download_error_no_enough_space">Không thể tải xuống do không đủ dung lượng.</string>
+    <string name="online_apk_downloading">Đang tải xuống…%d%%</string>
+    <string name="online_apk_install_alert_confirm">Tải xuống</string>
+    <string name="online_apk_install_alert_message">Bạn cần tải xuống plug-in Yandex.Music. Tải xuống ngay?</string>
+    <string name="online_apk_install_alert_note">Dịch vụ này được cung cấp bởi Yandex.Music</string>
+    <string name="online_apk_install_error_no_enough_space">Không thể cài đặt do không đủ dung lượng.</string>
+    <string name="online_apk_install_error_with_reason">Không thể cài đặt (Lỗi %d)</string>
 </resources>

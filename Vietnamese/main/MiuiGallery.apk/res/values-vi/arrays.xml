@@ -168,4 +168,23 @@
         <item>Tháng 11</item>
         <item>Tháng 12</item>
     </string-array>
+	<string-array name="activities_title">
+        <item>Ngày đặc biệt</item>
+        <item>Ngày để nhớ</item>
+        <item>Khoảnh khắc tỏa sáng</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Chuyển</item>
+        <item>Sao chép</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Cùng nhau</item>
+        <item>Thời gian tuyệt vời</item>
+        <item>Đồng thanh</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Di chuyển về trước</item>
+        <item>Tràn trề năng lượng</item>
+    </string-array>
 </resources>

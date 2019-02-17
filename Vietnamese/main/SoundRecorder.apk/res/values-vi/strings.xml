@@ -287,4 +287,5 @@
     <string name="webview_network_unavaliable">Không thể kết nối mạng</string>
     <string name="webview_service_unavailiable">Dịch vụ không khả dụng</string>
     <string name="webview_try_again">Thử lại</string>
+	<string name="download">Tải xuống</string>
 </resources>

@@ -369,4 +369,5 @@
     <string name="show_recents_recommend_title">Hiển thị đề xuất</string>
 	<string name="gadget_dual_clock_label">Đồng hồ đôi</string>
 	<string name="double_tap_to_lock_title">Chạm hai lần để khóa màn hình</string>
+	<string name="dual_app">Ứng dụng kép</string>
 </resources>

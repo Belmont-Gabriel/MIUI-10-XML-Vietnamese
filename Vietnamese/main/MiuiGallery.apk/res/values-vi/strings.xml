@@ -1460,4 +1460,19 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="month_view_tip_title">Xem theo tháng</string>
 	<string name="movie_download_with_metered_network_msg">Tải xuống tệp gốc có thể phát sinh chi phí. Vẫn tải xuống?</string>
 	<string name="movie_download_with_metered_network_title">Bạn đã kết nối với mạng trả phí</string>
+	<string name="filter_bi_bw">Đen&amp;Trắng</string>
+    <string name="filter_bi_dusk">Mờ tối</string>
+    <string name="filter_bi_lilt">Chất</string>
+    <string name="filter_bi_sepia">Nâu đỏ</string>
+    <string name="filter_bi_tea">Trà</string>
+    <string name="filter_people_bw">Đen&amp;Trắng</string>
+    <string name="generate_story_summary">MIUI sẽ phân tích ảnh của bạn và tạo album Story. Tắt tính năng này để dừng tạo album Story.</string>
+    <string name="image_selection_summary">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
+    <string name="image_selection_title">Chọn ảnh đẹp nhất</string>
+    <string name="operation_set_video_wallpaper">Đặt làm hình nền video</string>
+    <string name="photo_editor_font_default">>Mi Lanting (Mặc định)</string>
+    <string name="recommend_category_title">Chọn ảnh</string>
+    <string name="set_as_video_wallpaper_description">Video này chưa được tải xuống, tải xuống video này?</string>
+    <string name="set_as_video_wallpaper_title">Đặt làm hình nền video</string>
+    <string name="set_video_wallpaper_failed">Không thể đặt làm hình nền video</string>
 </resources>

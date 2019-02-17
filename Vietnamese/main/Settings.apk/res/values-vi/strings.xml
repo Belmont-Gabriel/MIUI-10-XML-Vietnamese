@@ -7814,4 +7814,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="incall_show">Hồ sơ video cho các cuộc gọi đi</string>
 	<string name="more_dangerous_option_hint">Tính năng rủi ro cao bao gồm \"%1$s\" đã bật. Chạm để thay đổi cài đặt.</string>
 	<string name="mute_voiceassist_stream">Tắt âm Trợ lý Giọng nói</string>
+	<string name="gxzw_anim_star">Ánh sao</string>
+	<string name="link_speed">%1$d Mb/giây</string>
+	<string name="others">Khác</string>
 </resources>

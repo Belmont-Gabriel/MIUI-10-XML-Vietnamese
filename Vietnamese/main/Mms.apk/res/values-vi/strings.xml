@@ -899,4 +899,8 @@
 	<string name="auto_identify_btn_text_when_all_disabled">Tự động nhận diện ID người gửi</string>
 	<string name="auto_identify_btn_title">Tin nhắn này được gửi từ số chưa biết.</string>
 	<string name="auto_identify_confirmation">Có thể mất vài phút để kích hoạt tính năng này.</string>
+	<string name="current_data_version">Phiên bản Tin nhắn Mi</string>
+    <string name="imageview_ad">Quảng cáo</string>
+    <string name="messaging">Tin nhắn</string>
+    <string name="more">Thêm</string>
 </resources>

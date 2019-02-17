@@ -92,4 +92,7 @@
     <plurals name="l">
         <item quantity="other">%1$s đã chia sẻ %2$s mục</item>
     </plurals>
+	<plurals name="m">
+        <item quantity="other">%1$s đã chia sẻ %2$s mục</item>
+    </plurals>
 </resources>
