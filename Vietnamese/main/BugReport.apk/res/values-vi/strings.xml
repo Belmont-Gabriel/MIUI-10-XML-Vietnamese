@@ -377,4 +377,22 @@
 	<string name="feedback_choose_app_tag">Chọn vấn đề</string>
 	<string name="feedback_status_commit_in_queue_title">Đang chờ…</string>
 	<string name="toast_app_tag_required">Chọn vấn đề</string>
+	<string name="feedback_reproductivity_everytime">Mỗi lần</string>
+	<string name="feedback_reproductivity_occasionally">Thường xuyên</string>
+	<string name="feedback_reproductivity_often">Thỉnh thoảng</string>
+	<string name="feedback_reproductivity_once">Một lần</string>
+	<string name="kr_authorization_agree">Đồng ý</string>
+	<string name="kr_authorization_contact">Tài khoản</string>
+	<string name="kr_authorization_exit">Exit</string>
+	<string name="kr_authorization_contact_desc">Để lấy thông tin Tài khoản Mi và xác nhận tài khoản của bạn</string>
+	<string name="kr_authorization_log_protocol">Giao thức nhật ký (tùy chọn)</string>
+	<string name="kr_authorization_log_protocol_desc">"Để cải thiện dịch vụ cung cấp đến bạn, chúng tôi sẽ tải số liệu thống kê sử dụng và nhật ký hệ thống lên máy chủ. Các mục đó có thể bao gồm thông tin cá nhân của bạn, cũng như thông tin về thiết bị và mạng. Chúng tôi sẽ sử dụng thông tin tải lên để xác định và phân tích lỗi trong hệ thống"</string>
+	<string name="kr_authorization_phone">Điện thoại</string>
+	<string name="kr_authorization_phone_desc">Để nhận diện thiết bị của bạn qua IMEI và số hiệu, cũng như xác định và phân tích vấn đề</string>
+	<string name="kr_authorization_privacy_policy">Chính sách Riêng tư (bắt buộc)</string>
+	<string name="kr_authorization_select_all">Chọn tất cả</string>
+	<string name="kr_authorization_storage">Bộ nhớ</string>
+	<string name="kr_authorization_storage_desc">Để truy cập bộ nhớ và lưu các mục bao gồm nhật ký, ảnh và video</string>
+	<string name="kr_authorization_summary">Văn bản pháp lý</string>
+	<string name="kr_authorization_user_protocol">Thỏa thuận Người dùng (bắt buộc)</string>
 </resources>

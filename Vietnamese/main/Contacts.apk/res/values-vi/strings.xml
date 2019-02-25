@@ -7,6 +7,7 @@
     <string name="account_phone">Chỉ trên điện thoại, chưa đồng bộ</string>
     <string name="account_sim">Thẻ SIM</string>
     <string name="account_sim2">Thẻ SIM %d</string>
+	<string name="account_dual_sim">Thẻ SIM %s</string>
     <string name="account_type_format">%1$s liên hệ</string>
     <string name="actionIncomingCall">Cuộc gọi đến</string>
     <string name="action_menu_overflow_description">Thêm tùy chọn</string>
