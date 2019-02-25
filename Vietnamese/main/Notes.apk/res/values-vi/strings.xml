@@ -281,4 +281,12 @@ Chạm vào dấu cộng để tạo thư mục"</string>
 	<string name="permission_intro_microphone">Để tạo ghi chú âm thanh</string>
 	<string name="permission_intro_phone">Để tạo ghi chú trong khi gọi</string>
 	<string name="permission_intro_storage">Để lưu ghi chú và tệp đính kèm</string>
+	<string name="toast_refuse_to_use_contact">"Quyền liên hệ bị hạn chế.
+Cho phép Ghi chú đọc liên hệ và tìm tài khoản trên thiết bị."</string>
+	<string name="toast_refuse_to_use_external_storage">"Quyền bộ nhớ bị hạn chế.
+Cho phép Ghi chú đọc nội dung trên thẻ SD của bạn."</string>
+	<string name="toast_refuse_to_use_phone_state">"Quyền Điện thoại bị hạn chế.
+Cho phép Ghi chú đọc trạng thái và nhận dạng điện thoại."</string>
+	<string name="toast_refuse_to_use_record_audio">"Quyền Micro bị hạn chế.
+Cho phép Ghi chú ghi âm."</string>
 </resources>

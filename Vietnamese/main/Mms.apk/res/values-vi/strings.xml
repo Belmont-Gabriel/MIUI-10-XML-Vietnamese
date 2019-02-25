@@ -903,4 +903,7 @@
     <string name="imageview_ad">Quảng cáo</string>
     <string name="messaging">Tin nhắn</string>
     <string name="more">Thêm</string>
+	<string name="menu_traffic_destination">Đích đến</string>
+	<string name="number_recognition_partner">Đối tác Nhận dạng Số</string>
+	<string name="train_edit_destination">Thêm</string>
 </resources>

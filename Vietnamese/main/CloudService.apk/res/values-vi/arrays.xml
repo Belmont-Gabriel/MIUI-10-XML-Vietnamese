@@ -12,4 +12,18 @@
         <item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
         <item>Khóa thiết bị của bạn từ xa nếu máy bị mất</item>
     </string-array>
+	<string-array name="korea_permission_groups_descriptions">
+        <item>Để nhận dạng mục đã đồng bộ</item>
+        <item>Để đồng bộ tin nhắn</item>
+        <item>Để đồng bộ liên hệ</item>
+        <item>Để đồng bộ sự kiện lịch</item>
+        <item>Để đồng bộ mục với dịch vụ sử dụng bộ nhớ</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Điện thoại</item>
+        <item>Tin nhắn</item>
+        <item>Liên hệ</item>
+        <item>Lịch</item>
+        <item>Bộ nhớ</item>
+    </string-array>
 </resources>

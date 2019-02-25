@@ -304,7 +304,6 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_confirm_dialog_summary_contact_call">Tất cả cuộc gọi từ liên hệ sẽ bị chặn.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
-    <string name="cta_dialog_msg">Bảo mật yêu cầu kết nối internet để nhận cập nhật, cũng như truy cập vị trí để hoạt động bình thường.</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
     <string name="gdpr_msg">Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư</a>.</string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
@@ -2810,4 +2809,28 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="traffic_usage_warning_body">Bạn đã sử dụng %s dữ liệu di động tháng này.</string>
 	<string name="traffic_usage_warning_limit">Cảnh báo giới hạn sử dụng dữ liệu</string>
 	<string name="traffic_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
+	<string name="app_permission_use_group_calendar">Lịch</string>
+	<string name="app_permission_use_group_calendar_des">Đọc và thêm thông tin lịch</string>
+	<string name="app_permission_use_group_camera">Máy ảnh</string>
+	<string name="app_permission_use_group_camera_des">Sử dụng máy ảnh</string>
+	<string name="app_permission_use_group_contact">Liên hệ</string>
+	<string name="app_permission_use_group_contact_des">Đọc và thêm thông tin liên hệ</string>
+	<string name="app_permission_use_group_location">Thông tin vị trí</string>
+	<string name="app_permission_use_group_location_des">Vị trí chính xác và gần đúng</string>
+	<string name="app_permission_use_group_mic">Micro</string>
+	<string name="app_permission_use_group_mic_des">Ghi âm</string>
+	<string name="app_permission_use_group_phone">Điện thoại</string>
+	<string name="app_permission_use_group_phone_des">Đọc và thêm mục vào lịch sử cuộc gọi, gọi và truy cập trạng thái cuộc gọi</string>
+	<string name="app_permission_use_group_sensor">Cảm biến cơ thể</string>
+	<string name="app_permission_use_group_sensor_des">Đọc dữ liệu sinh ra từ cảm biến cơ thể</string>
+	<string name="app_permission_use_group_sms">Tin nhắn</string>
+	<string name="app_permission_use_group_sms_des">Gửi, nhận và đọc tin nhắn</string>
+	<string name="app_permission_use_group_storage">Bộ nhớ</string>
+	<string name="app_permission_use_group_storage_des">Truy cập và lưu mục vào bộ nhớ</string>
+	<string name="app_permission_use_neccesary">Quyền yêu cầu</string>
+	<string name="app_permission_use_no_neccesary">Quyền tùy chọn</string>
+	<string name="app_permission_use_title">Quyền</string>
+	<string name="cta_dialog_msg">&lt;Data&gt;Bạn cần đồng ý với &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi trước khi sử dụng Bảo mật. Bảo mật cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường và giữ cho nhận dạng quét virus được cập nhật. Đồng ý?&lt;/Data&gt;</string>
+	<string name="cta_dialog_negative">Exit</string>
+	<string name="cta_dialog_positive">Agree</string>
 </resources>

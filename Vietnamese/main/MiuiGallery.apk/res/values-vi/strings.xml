@@ -1475,4 +1475,19 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="set_as_video_wallpaper_description">Video này chưa được tải xuống, tải xuống video này?</string>
     <string name="set_as_video_wallpaper_title">Đặt làm hình nền video</string>
     <string name="set_video_wallpaper_failed">Không thể đặt làm hình nền video</string>
+	<string name="agreement_agree">Đồng ý</string>
+	<string name="agreement_optional_tip">(Tùy chọn)</string>
+	<string name="agreement_quit">Thoát</string>
+	<string name="agreement_required_tip">(Bắt buộc)</string>
+	<string name="agreement_summary">Văn bản pháp lý</string>
+	<string name="permissin_contract_desc">Để đặt tên người trong ảnh</string>
+	<string name="permission_contract_name">Liên hệ</string>
+	<string name="permission_optional_category">Quyền tùy chọn</string>
+	<string name="permission_phone_desc">Để yêu cầu mạng dựa trên ID thiết bị</string>
+	<string name="permission_phone_name">Điện thoại</string>
+	<string name="permission_require_category">Quyền bắt buộc</string>
+	<string name="permission_storage_desc">Để hiển thị, sửa và lưu ảnh</string>
+	<string name="permission_storage_name">Bộ nhớ</string>
+	<string name="permission_use_desc">Quyền</string>
+	<string name="select_all">Chọn tất cả</string>
 </resources>
