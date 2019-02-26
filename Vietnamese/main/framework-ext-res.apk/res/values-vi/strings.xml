@@ -194,4 +194,10 @@
     <string name="talk_back_water_mark_string2">Bấm và giữ \"Phím tăng âm lượng\" và \"Phím giảm âm lượng\" trong 3 giây để tắt</string>
     <string name="xspace_head">Ứng dụng kép</string>
 	<string name="start_dump_log">Bắt đầu nhận nhật ký liên quan đến vấn đề</string>
+	<string name="resolver_checkbox_always">Luôn luôn</string>
+	<string name="resolver_checkbox_once">Một lần</string>
+	<string name="resolver_mi_browser">Trình duyệt Mi</string>
+	<string name="resolver_offical_recommend">Chính thức</string>
+	<string name="resolver_other_method">Tùy chọn khác</string>
+	<string name="resolver_recommend_options_tag">Tùy chọn đề xuất</string>
 </resources>

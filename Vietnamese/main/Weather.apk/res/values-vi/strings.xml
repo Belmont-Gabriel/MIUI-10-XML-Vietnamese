@@ -332,4 +332,14 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="weather_alert_channel_name">Cảnh báo</string>
     <string name="weather_service_channel_name">Dịch vụ nền</string>
 	<string name="activity_find_city_dialog_message_location_service">Để có được thông tin thời tiết liên quan, cho phép Thời tiết truy cập vị trí của bạn.</string>
+	<string name="permission_device_info">Thông tin thiết bị</string>
+	<string name="permission_device_introduce">Để nhận diện thiết bị dựa trên mẫu thiết bị và IMEI, và cung cấp dịch vụ được tùy chỉnh dựa trên cài đặt ngôn ngữ</string>
+	<string name="permission_exit">Thoát</string>
+	<string name="permission_privacy">Chính sách Riêng tư (bắt buộc)</string>
+	<string name="permission_select_all">Chọn tất cả</string>
+	<string name="permission_storage">Bộ nhớ</string>
+	<string name="permission_storage_introduce">Để truy cập các mục trên thiết bị và lưu tệp</string>
+	<string name="permission_user_protocol">Thỏa thuận Người dùng (bắt buộc)</string>
+	<string name="weather_introduce">Luôn bên bạn, dù mưa hay nắng.</string>
+	<string name="weather_permission_agree">Đồng ý</string>
 </resources>

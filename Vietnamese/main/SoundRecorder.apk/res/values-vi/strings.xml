@@ -288,4 +288,10 @@
     <string name="webview_service_unavailiable">Dịch vụ không khả dụng</string>
     <string name="webview_try_again">Thử lại</string>
 	<string name="download">Tải xuống</string>
+	<string name="korea_permission_phone">Điện thoại</string>
+	<string name="korea_permission_phone_resc">Để truy cập trạng thái thiết bị và ghi âm khi đang gọi</string>
+	<string name="korea_permission_record">Micro</string>
+	<string name="korea_permission_record_resc">Để ghi âm</string>
+	<string name="korea_permission_storage">Bộ nhớ</string>
+	<string name="korea_permission_storage_desc">Để lưu lại ghi âm</string>
 </resources>

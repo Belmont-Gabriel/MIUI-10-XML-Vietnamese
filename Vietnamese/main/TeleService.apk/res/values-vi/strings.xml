@@ -2452,7 +2452,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
 
 Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
-	<string name="vowifi_emergency_warning_title">Cuọc gọi ECC qua Gọi Wi-Fi</string>
+	<string name="vowifi_emergency_warning_title">Cuọc gọi Khẩn cấp qua Gọi Wi-Fi</string>
 	<string name="wifi_call_setting_vodafone_de">Cuộc gọi Wi-Fi</string>
 	<string name="wifi_call_setting_vodafone_uk">Gọi Wi-Fi</string>
 </resources>

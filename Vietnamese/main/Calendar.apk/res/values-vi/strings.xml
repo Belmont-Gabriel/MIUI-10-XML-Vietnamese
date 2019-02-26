@@ -829,8 +829,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="slight_cold">Tiểu hàn</string>
     <string name="shift_type_rest">Hưu trí</string>
     <string name="ad_card_connecting">Đang kết nối</string>
-    <string name="ad_card_download_count">%1$s người tải xuống</string>
-    <string name="ad_card_download_count_million">%1$s vạn tải xuống</string>
+    <string name="ad_card_download_count">%1$d người tải xuống</string>
+    <string name="ad_card_download_count_million">%1$d vạn tải xuống</string>
+	<string name="ad_card_download_use_count_million">%1$d vạn người đang dùng</string>
+	<string name="ad_card_paused">Tiếp tục tải xuống</string>
     <string name="ad_card_downloading">Đang tải xuống</string>
     <string name="ad_card_install">Cài đặt ngay</string>
     <string name="ad_card_installed">Đã cài đặt</string>
@@ -1076,4 +1078,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="setting_change_language">Chọn ngôn ngữ Lịch</string>
     <string name="use_system_language">Sử dụng ngôn ngữ hệ thống</string>
     <string name="view_details">Xem chi tiết</string>
+	<string name="feed_title_all">Mọi sự chú ý</string>
+	<string name="fortune_card_set_bazi_simple">Đặt ngày sinh</string>
+	<string name="notification_open_setting_button_exit">Không, cảm ơn</string>
+	<string name="notification_open_setting_button_ok">Cho phép</string>
+	<string name="notification_open_setting_message">Bạn sẽ không thể nhận thông báo về sự kiện cho đến khi bạn cho phép Lịch gửi thông báo.</string>
+	<string name="notification_open_setting_title">Cho phép thông báo lịch?</string>
 </resources>

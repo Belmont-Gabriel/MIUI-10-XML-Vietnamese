@@ -287,4 +287,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="numeric_recording_incorrect_too_short">
         <item quantity="other">Nhập ít nhất %d chữ số</item>
     </plurals>
+	<plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">Tìm thấy %d nguy cơ, sửa ngay</item>
+    </plurals>
 </resources>
