@@ -1761,7 +1761,6 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="permission_service">Điều khoản và Điều kiện</string>
     <string name="permission_storage">Lưu trữ</string>
     <string name="permission_use">Quyền</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="video_replay_btn">Phát lại</string>
     <string name="video_retry_btn">Thử lại</string>
 </resources>
