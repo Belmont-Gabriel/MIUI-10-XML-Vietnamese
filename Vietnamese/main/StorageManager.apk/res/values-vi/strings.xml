@@ -498,4 +498,6 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="wifi_allow_scan_with_traffic_summary">Cho phép/Không cho phép quét chuyển vùng Wi‑Fi dựa trên lưu lượng truy cập dữ liệu có tại giao diện</string>
 	<string name="power_remaining_duration_only_short_enhanced">Còn ^1 dựa trên mức sử dụng của bạn</string>
     <string name="speed_label_okay">Khá tốt</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
+	<string name="bluetooth_talkback_headphone">Tai nghe</string>
 </resources>

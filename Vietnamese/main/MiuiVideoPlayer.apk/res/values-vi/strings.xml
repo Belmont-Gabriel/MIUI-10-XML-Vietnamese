@@ -1259,4 +1259,8 @@ Tăng cường bảo mật tài khoản."</string>
     <string name="v_cancel">Hủy</string>
     <string name="v_ok">OK</string>
     <string name="v_save">Lưu</string>
+	<string name="permission_phone">Điện thoại</string>
+    <string name="permission_phone_desc">Để truy cập trạng thái thiết bị và tạm dừng phát lại trong khi gọi</string>
+    <string name="permission_storage">Lưu trữ</string>
+    <string name="permission_storage_desc">Để truy cập các mục, lưu tập tin, hiển thị và phát video trên máy</string>
 </resources>

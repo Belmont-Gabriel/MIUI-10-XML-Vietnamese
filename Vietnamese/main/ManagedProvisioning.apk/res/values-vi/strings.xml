@@ -185,4 +185,5 @@
     <string name="take_a_few_minutes">Điều này có thể mất vài phút</string>
     <string name="work_profile_cant_be_added_contact_admin">Hồ sơ công việc không thể thêm vào thiết bị này. Nếu bạn có câu hỏi, liên hệ quản trị viên.</string>
     <string name="work_profile_description">Ứng dụng công việc của bạn sẽ được giữ trong hồ sơ này và quản lý bởi tổ chức của bạn</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
 </resources>

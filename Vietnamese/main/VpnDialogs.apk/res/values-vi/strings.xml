@@ -10,4 +10,11 @@
     <string name="data_transmitted">Đã gửi: </string>
     <string name="data_received">Đã nhận: </string>
     <string name="data_value_format">%1$s byte / %2$s gói</string>
+	<string name="always_on_disconnected_message">%1$s được thiết lập để luôn duy trì kết nối nhưng hiện không thể kết nối. Điện thoại của bạn sẽ sử dụng mạng công cộng cho tới khi có thể kết nối lại với %1$s.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s được thiết lập để luôn duy trì kết nối nhưng hiện không thể kết nối. Bạn sẽ không có kết nối cho tới khi VPN này có thể kết nối lại.</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Thay đổi cài đặt VPN</string>
+    <string name="always_on_disconnected_title">Không thể kết nối với VPN luôn bật</string>
+    <string name="dismiss">Loại bỏ</string>
+    <string name="open_app">Mở ứng dụng</string>
 </resources>

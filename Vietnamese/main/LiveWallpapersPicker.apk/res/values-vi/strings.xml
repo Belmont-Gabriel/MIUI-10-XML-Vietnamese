@@ -34,4 +34,5 @@
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
     <string name="abc_action_bar_up_description">Chuyển lên</string>
     <string name="abc_action_bar_home_description">Chuyển đến trang chủ</string>
+	<string name="expand_attribution_panel">Mở rộng bảng thông tin hình nền</string>
 </resources>

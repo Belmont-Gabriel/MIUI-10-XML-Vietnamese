@@ -28,4 +28,5 @@
     <string name="search_no_results">Không có kết quả</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
 </resources>

@@ -121,4 +121,7 @@
 	<plurals name="aod_dual_togother_city">
         <item quantity="other"> %1$s Giờ %2$s</item>
     </plurals>
+	<plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d thiết bị đã kết nối</item>
+    </plurals>
 </resources>

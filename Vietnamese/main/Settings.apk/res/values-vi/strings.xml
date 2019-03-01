@@ -7819,4 +7819,6 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="settings_notify_new_version">Cập nhật mới khả dụng. Chạm để xem chi tiết.</string>
 	<string name="crypt_keeper_switch_to_pattern">Sử dụng mẫu hình</string>
 	<string name="crypt_keeper_switch_to_pin">Sử dụng mã PIN</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="eq_return">Quay lại</string>
 </resources>

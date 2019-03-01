@@ -28,4 +28,8 @@
         <item quantity="other">"
 Còn lại %d lần thử."</item>
     </plurals>
+	<plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d thiết bị được kết nối</item>
+        <item quantity="one">%1$d thiết bị được kết nối</item>
+    </plurals>
 </resources>

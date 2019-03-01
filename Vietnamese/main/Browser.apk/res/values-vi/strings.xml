@@ -1748,4 +1748,20 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="select_language">Chọn ngôn ngữ</string>
     <string name="store_picture_message">Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?</string>
     <string name="store_picture_title">Lưu hình ảnh</string>
+	<string name="permission_agree_service">Tôi đã đọc và đồng ý với tất cả các điều khoản và điều kiện sau đây.</string>
+    <string name="permission_contacts">Liên hệ</string>
+    <string name="permission_finish">Hoàn tất</string>
+    <string name="permission_for_location">Để cung cấp vị trí cho bản đồ</string>
+    <string name="permission_for_login">Để đăng nhập và đồng bộ dấu trang</string>
+    <string name="permission_for_mic">Để tìm kiếm bằng giọng nói</string>
+    <string name="permission_for_storage">Để tải xuống</string>
+    <string name="permission_known">Tôi biết</string>
+    <string name="permission_location">Vị trí</string>
+    <string name="permission_non_essential">Quyền tùy chọn</string>
+    <string name="permission_service">Điều khoản và Điều kiện</string>
+    <string name="permission_storage">Lưu trữ</string>
+    <string name="permission_use">Quyền</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="video_replay_btn">Phát lại</string>
+    <string name="video_retry_btn">Thử lại</string>
 </resources>

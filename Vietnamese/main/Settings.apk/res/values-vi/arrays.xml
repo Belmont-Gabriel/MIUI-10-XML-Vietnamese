@@ -1459,4 +1459,27 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>" | Kích hoạt (phương tiện)"</item>
         <item>" | Kích hoạt (điện thoại)"</item>
     </string-array>
+	<string-array name="wifi_metered_entries">
+        <item>Tự động phát hiện</item>
+        <item>Xử lý như là mạng có đo lượng dữ liệu</item>
+        <item>Xử lý như là mạng không đo lượng dữ liệu</item>
+    </string-array>
+	<string-array name="ai_key_item_name">
+        <item>Trò chuyện với Google Assistant</item>
+        <item>Mở Google Tìm kiếm</item>
+        <item>Mở máy ảnh sau</item>
+        <item>Mở máy ảnh trước</item>
+        <item>Mở ứng dụng trước</item>
+        <item>Bật đèn Flash</item>
+        <item>Bật chế độ Đọc sách</item>
+        <item>Không</item>
+    </string-array>
+	<string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Chế độ chất lượng cao (Mặc định)</item>
+        <item>Chế độ trễ thấp</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Chế độ chất lượng cao (Mặc định)</item>
+        <item>Chế độ trễ thấp</item>
+    </string-array>
 </resources>

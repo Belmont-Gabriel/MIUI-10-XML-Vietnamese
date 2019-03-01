@@ -253,4 +253,10 @@
         <item>OpenGL (Mặc định)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+	<string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, đang hoạt động</item>
+        <item>, đang hoạt động (nội dung phương tiện)</item>
+        <item>, đang hoạt động (điện thoại)</item>
+    </string-array>
 </resources>
