@@ -11,7 +11,7 @@
     <string-array name="thermal_summaries">
         <item>Chế độ điều khiển nhiệt độ hiện tại</item>
         <item>Chế độ hiệu suất hiện tại</item>
-		<item>"Không hoạt động trong chế độ Siêu tiết kiệm pin"</item>
+		<item>Không hỗ trợ trong chế độ Siêu tiết kiệm pin</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Hiệu suất</item>
@@ -99,7 +99,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Tùy chỉnh</item>
-        <item>Tiết kiệm Pin</item>
+        <item>Tiết kiệm Pin MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Ứng dụng hoạt động</item>

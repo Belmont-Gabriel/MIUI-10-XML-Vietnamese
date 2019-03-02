@@ -196,7 +196,6 @@ Mở thanh công cụ, trượt từ phía trên cùng của màn hình xuống 
     <string name="file_delimiter">/</string>
     <string name="silent_mode_tip_main">Chế độ im lằng đã được kích hoạt</string>
     <string name="update_message">Cập nhật!</string>
-    <string name="silent_mode_tip_sub" />
     <string name="test_user_entry">Kiểm tra</string>
     <string name="goto_update">Cập nhật</string>
     <string name="know_it">OK</string>

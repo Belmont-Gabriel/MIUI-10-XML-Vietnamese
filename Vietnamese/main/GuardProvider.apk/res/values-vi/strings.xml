@@ -21,14 +21,10 @@
     <string name="avl_dialog_title">Chính sách Riêng tư của AVL</string>
     <string name="avl_dialog_header">Tính năng này sẽ được mã hóa và tải ID thiết bị của bạn lên máy chủ của AVL (%s).</string>
     <string name="avl_dialog_policy">Xem Chính sách Riêng tư</string>
-    <string name="avl_dialog_cloudscan" />
-    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">Chính sách Riêng tư Avast</string>
     <string name="avast_dialog_header">Tính năng này sẽ được mã hóa và tải ID thiết bị của bạn lên máy chủ của Avast (%s).</string>
     <string name="avast_dialog_policy">Xem Chính sách Riêng tư</string>
-    <string name="avast_dialog_cloudscan" />
-    <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Loại virus này là adware. Nó sẽ tự động hiển thị quảng cáo.</string>
     <string name="avast_virus_type_cryportor_description">Loại virus này là crytor. Đây là phần mềm độc hại được lây truyền bằng cách sao chép chính nó trong dung lượng lưu trữ.</string>

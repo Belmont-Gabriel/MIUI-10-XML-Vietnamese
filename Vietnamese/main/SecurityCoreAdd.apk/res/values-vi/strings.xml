@@ -462,4 +462,5 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="button_touch">Đặt ngón tay của bạn lên cảm biến</string>
     <string name="dialog_verify">Xác thực dấu vân tay của bạn</string>
     <string name="dialog_verify_fingerprint_retry">Không thể xác thực dấu vân tay. Thử lại.</string>
+	<string name="master_clear_not_available">Khôi phục cài đặt gốc bị hạn chế bởi công ty của bạn.</string>
 </resources>

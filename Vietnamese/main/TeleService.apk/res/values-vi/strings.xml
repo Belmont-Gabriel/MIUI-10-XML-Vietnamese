@@ -56,7 +56,6 @@ Hãy liên hệ với nhà cung cấp."</string>
      <string name="stk_cc_ss_to_dial_video_error">Yêu cầu SS thay đổi thành yêu cầu QUAY SỐ Video.</string>
      <string name="strPasswordLengthIncorrect">4-16 số</string>
      <string name="switch_dds_to_sub_alert">Đặt thẻ này làm thẻ dữ liệu mặc định của bạn.</string>
-     <string name="system_visual_voicemail_client" />
      <string name="unlock_chances_left">Lần thử còn lại:</string>
      <string name="ut_not_support">UT không khả dụng</string>
      <string name="vice_card_data_in_use_alert">Có thể phát sinh thêm phí dữ liệu.</string>
@@ -639,6 +638,10 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="register_automatically">Đăng ký tự động…</string>
     <string name="preferred_network_mode_title">Loại mạng ưu tiên</string>
     <string name="preferred_network_mode_summary">Đổi chế độ vận hành mạng</string>
+	<string name="preferred_network_mode_gsm_wcdma_auto">GSM/WCDMA tự động</string>
+	<string name="preferred_network_mode_gsm_wcdma_lte">GSM/WCDMA/LTE</string>
+	<string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA ưa thích</string>
+	<string name="preferred_network_mode_lte_only">LTE only</string>
     <string name="preferred_network_mode_dialogtitle">Loại mạng ưu tiên</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Chế độ mạng ưu tiên: ưu tiên WCDMA</string>
     <string name="preferred_network_mode_gsm_only_summary">Chế độ mạng ưu tiên: chỉ GSM</string>
@@ -1428,8 +1431,8 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="dual_4g_switch_summary">Cho phép kết nối 4G cho cả 2 khe SIM.</string>
     <string name="turn_on_dual_4g_failed">Không thể bật 4G kép.</string>
     <string name="turn_off_dual_4g_failed">Không thể tắt 4G kép.</string>
-    <string name="vice_slot_volte_data_switch_title">Sử dụng dữ liệu di động khi thực hiện cuộc gọi VoLTE trên SIM 2</string>
-    <string name="vice_slot_volte_data_switch_summary">Trong khi thực hiện cuộc gọi VoLTE, thiết bị sẽ kết nối mạng dữ liệu di động bằng SIM 2</string>
+    <string name="vice_slot_volte_data_switch_title">Sử dụng dữ liệu di động khi thực hiện cuộc gọi VoLTE trên SIM thứ 2</string>
+    <string name="vice_slot_volte_data_switch_summary">Trong khi thực hiện cuộc gọi VoLTE, thiết bị sẽ kết nối mạng dữ liệu di động bằng SIM thứ 2</string>
     <string name="vice_slot_volte_data_switch_prompt">Thiết bị của bạn sẽ kết nối mạng dữ liệu di động bằng SIM 2 trong khi thực hiện cuộc gọi VoLTE. Điều này có thể phát sinh thêm phí dữ liệu. Liên hệ nhà cung cấp địa phương để biết thêm thông tin về gói dữ liệu.</string>
     <string name="call_settings_primary_user_only">Cài đặt điện thoại chỉ được thay đổi bởi người dùng chính.</string>
     <string name="roaming_notification_title">Dường như chuyển vùng đã được kích hoạt</string>

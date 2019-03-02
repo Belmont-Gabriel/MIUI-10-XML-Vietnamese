@@ -17,9 +17,6 @@
     <string name="cannot_change_parames">Không thể thay đổi thông số khi quay phim</string>
     <string name="cannot_record">Không thể quay màn hình, hãy thử lại sau.</string>
     <string name="close_screen_record">Dừng quay màn hình</string>
-    <string name="date_day" />
-    <string name="date_month">/</string>
-    <string name="date_year">/</string>
     <string name="description_content">Quay phim màn hình là ứng dụng hệ thống được tích hợp sẵn. Hành động này có nghĩa là bạn sẽ hủy tính năng quay phim màn hình. Xác nhận Tiếp tục.</string>
     <string name="description_title">Giới thiệu Quay phim màn hình</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
@@ -80,7 +77,6 @@
     <string name="stop_recording">Dừng quay màn hình</string>
     <string name="storage_location">Lưu trữ</string>
     <string name="storage_location_summary">Chọn tùy chọn lưu trữ ưu tiên</string>
-    <string name="timer_format">%s</string>
     <string name="unchecked">Chưa chọn</string>
     <string name="first_using_mic_dialog_message">Quay phim màn hình cần truy cập micro để ghi âm. Cho phép?</string>
     <string name="first_using_mic_dialog_title">Yêu cầu quyền truy cập</string>

@@ -12,7 +12,6 @@
     <string name="unknownNumber">Không xác định</string>
     <string name="airplane_error_title">Chế độ trên máy bay</string>
     <string name="airplane_error_msg">Bạn không thể sử dụng Bluetooth trong chế độ trên máy bay.</string>
-    <string name="bt_enable_title" />
     <string name="bt_enable_line1">Để sử dụng dịch vụ Bluetooth, trước tiên, bạn phải bật Bluetooth.</string>
     <string name="bt_enable_line2">Bật Bluetooth ngay bây giờ?</string>
     <string name="bt_enable_cancel">Hủy</string>
@@ -37,7 +36,6 @@
     <string name="download_line1">Từ: \"%1$s\"</string>
     <string name="download_line2">Tệp: %1$s</string>
     <string name="download_line3">Kích thước tệp: %1$s</string>
-    <string name="download_line4" />
     <string name="download_line5">Đang nhận tệp…</string>
     <string name="download_cancel">Dừng</string>
     <string name="download_ok">Ẩn</string>

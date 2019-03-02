@@ -140,7 +140,6 @@
     <string name="birthday_notification_text_today">Đừng quên gửi lời chúc đến họ.</string>
     <string name="birthday_notification_title_days_later">Sắp đến %2$s của %1$s.</string>
     <string name="birthday_notification_title_today">%3$s của %1$s</string>
-    <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Đã lưu sinh nhật</string>
     <string name="birthday_term">Sinh nhật</string>
     <string name="button_day">Ngày</string>

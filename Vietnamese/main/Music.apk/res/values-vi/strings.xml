@@ -971,7 +971,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="apk_filter">APK</string>
     <string name="buy_other_flow">Dữ liệu thông thường</string>
     <string name="buy_traffic">China Unicom</string>
-    <string name="download_speed_null" />
     <string name="download_traffic_dialog_buy_package">Mua gói lưu lượng âm nhạc</string>
     <string name="filter_by_duration_format">%2$d phút %5$2d giây</string>
     <string name="fragment_title_personal">Cá nhân</string>

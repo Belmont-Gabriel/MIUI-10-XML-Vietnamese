@@ -65,9 +65,7 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="item_fingerprint">Vân tay</string>
     <string name="item_lock_screen_password">Chỉ khóa màn hình</string>
     <string name="desc_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, xác minh giao dịch Mi Pay, đăng nhập ứng dụng và dịch vụ.</string>
-    <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Tiếp theo</string>
-    <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, hoặc đăng nhập ứng dụng và dịch vụ.</string>
     <string name="content_description_start">Bắt đầu</string>
     <string name="content_description_miui_version">MIUI.VN</string>

@@ -912,7 +912,6 @@ Xin lỗi về việc bất tiện này."</string>
     <string name="move_failed_retry">Không thể cắt, chờ %1$s và thử lại</string>
     <string name="multi_select_title">Đã chọn %1$s</string>
     <string name="my_app">Dữ liệu ứng dụng</string>
-    <string name="my_app_desc" />
     <string name="my_bak">Bản sao lưu</string>
     <string name="my_bakup">Sao lưu điện thoại</string>
     <string name="my_bakup_app">Ứng dụng</string>

@@ -306,7 +306,6 @@
     <string name="respond_via_sms_canned_response_4">Không thể trả lời ngay bây giờ. Hãy gọi cho tôi sau nhé?</string>
     <string name="respond_via_sms_setting_title">Phản hồi nhanh</string>
     <string name="respond_via_sms_setting_title_2">Sửa phản hồi nhanh</string>
-    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">Phản hồi nhanh</string>
     <string name="respond_via_sms_confirmation_format">Tin nhắn đã gửi đến %s.</string>
     <string name="enable_account_preference_title">Tài khoản gọi</string>

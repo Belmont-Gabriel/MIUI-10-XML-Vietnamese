@@ -119,6 +119,6 @@
         <item quantity="other">Yêu cầu nhập mật khẩu sau %d giờ không hoạt động</item>
     </plurals>
 	<plurals name="aod_dual_togother_city">
-        <item quantity="other"> %1$s Giờ %2$s</item>
+        <item quantity="other">" %1$s giờ %2$s"</item>
     </plurals>
 </resources>

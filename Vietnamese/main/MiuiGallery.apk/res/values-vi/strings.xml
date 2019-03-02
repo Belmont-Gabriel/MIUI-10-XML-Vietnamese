@@ -273,7 +273,6 @@ khả dụng"</string>
     <string name="backuping_title_normal">Đang sao lưu…</string>
     <string name="begin_share">Đã tạo album Baby \"%s\", bạn có thể chia sẻ ngay</string>
     <string name="begin_share_toast">Tạo album riêng cho trẻ trước khi chia sẻ?</string>
-    <string name="blank_app_name" />
     <string name="browse_category_title">Duyệt</string>
     <string name="buy_member_tip">Đăng ký thành viên</string>
     <string name="by_email">Email</string>
@@ -1402,8 +1401,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="movie_template_selfie">Tươi mới</string>
     <string name="movie_template_travel">Travel</string>
     <string name="movie_template_xmas">Giáng Sinh</string>
-    <string name="movie_video_long">Video dài hơn</string>
-    <string name="movie_video_short">Video 10 giây</string>
+    <string name="movie_video_long">Dài hơn</string>
+    <string name="movie_video_short">10 giây</string>
     <string name="story_back_stop_download">Chạm một lần nữa để dừng tải xuống</string>
     <string name="story_cancel_download">Hủy</string>
     <string name="story_download">Tải xuống</string>
@@ -1469,12 +1468,12 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="generate_story_summary">MIUI sẽ phân tích ảnh của bạn và tạo album Story. Tắt tính năng này để dừng tạo album Story.</string>
     <string name="image_selection_summary">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
     <string name="image_selection_title">Chọn ảnh đẹp nhất</string>
-    <string name="operation_set_video_wallpaper">Đặt làm hình nền video</string>
+    <string name="operation_set_video_wallpaper">Đặt làm video nền</string>
     <string name="photo_editor_font_default">>Mi Lanting (Mặc định)</string>
     <string name="recommend_category_title">Chọn ảnh</string>
-    <string name="set_as_video_wallpaper_description">Video này chưa được tải xuống, tải xuống video này?</string>
-    <string name="set_as_video_wallpaper_title">Đặt làm hình nền video</string>
-    <string name="set_video_wallpaper_failed">Không thể đặt làm hình nền video</string>
+    <string name="set_as_video_wallpaper_description">Tải xuống mục này và đặtlàm video nền?</string>
+    <string name="set_as_video_wallpaper_title">Đặt làm video nền</string>
+    <string name="set_video_wallpaper_failed">Không thể đặt làm video nền</string>
 	<string name="agreement_agree">Đồng ý</string>
 	<string name="agreement_optional_tip">(Tùy chọn)</string>
 	<string name="agreement_quit">Thoát</string>
