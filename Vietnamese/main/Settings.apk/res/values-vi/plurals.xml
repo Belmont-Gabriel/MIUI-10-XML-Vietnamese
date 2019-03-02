@@ -313,4 +313,79 @@
 	<plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s giờ %2$s"</item>
     </plurals>
+	<plurals name="battery_manager_app_restricted">
+        <item quantity="other">Đã hạn chế %1$d ứng dụng</item>
+        <item quantity="one">Đã hạn chế %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Hạn chế %1$d ứng dụng?</item>
+        <item quantity="one">Hạn chế ứng dụng?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">Những ứng dụng này không thể chạy trong nền</item>
+        <item quantity="one">Ứng dụng này không thể chạy trong nền</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">Đã hạn chế %2$d ứng dụng gần đây</item>
+        <item quantity="one">Đã hạn chế %1$s gần đây</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d ứng dụng có mức sử dụng pin nền cao</item>
+        <item quantity="one">%1$s có mức sử dụng pin nền cao</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Hạn chế %1$d ứng dụng</item>
+        <item quantity="one">Hạn chế %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">Còn %d ngày</item>
+        <item quantity="one">Còn %d ngày</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d loại</item>
+        <item quantity="one">%d loại</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">Đã tắt %d danh mục</item>
+        <item quantity="one">Đã tắt %d danh mục</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d ứng dụng đang hoạt động bất thường</item>
+        <item quantity="one">%1$s đang hoạt động bất thường</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Ứng dụng tiêu hao pin</item>
+        <item quantity="one">%1$s tiêu hao pin</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">Giới hạn mức sử dụng pin đối với ứng dụng %1$d</item>
+        <item quantity="one">Giới hạn mức sử dụng pin đối với ứng dụng %1$d</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d thiết bị trợ thính đã lưu</item>
+        <item quantity="one">%1$d thiết bị trợ thính đã lưu</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d đề xuất</item>
+        <item quantity="one">+1 đề xuất</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d đề xuất</item>
+        <item quantity="one">1 đề xuất</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d thiết bị đã kết nối</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d giờ (trừ khi được bật tự động)</item>
+        <item quantity="one">1 giờ (trừ khi được bật tự động)</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">Có thể tự động bật %d quy tắc</item>
+        <item quantity="one">Có thể tự động bật 1 quy tắc</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d người khác</item>
+        <item quantity="one">1 người khác</item>
+    </plurals>
 </resources>

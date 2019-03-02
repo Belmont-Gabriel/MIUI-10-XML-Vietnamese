@@ -2458,4 +2458,22 @@ Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di �
 	<string name="vowifi_emergency_warning_title">Cuọc gọi Khẩn cấp qua Gọi Wi-Fi</string>
 	<string name="wifi_call_setting_vodafone_de">Cuộc gọi Wi-Fi</string>
 	<string name="wifi_call_setting_vodafone_uk">Gọi Wi-Fi</string>
+	<string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">BẬT</string>
+	<string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo tự động</string>
+    <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_cdma_lte_evdo_choice">CDMA + LTE/EvDo</string>
+    <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA không có EvDo</string>
+    <string name="preferred_network_mode_evdo_only_choice">Chỉ EvDo</string>
+    <string name="preferred_network_mode_global_choice">Toàn cầu</string>
+    <string name="preferred_network_mode_gsm_only_choice">Chỉ GSM</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA tự động</string>
+    <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
+    <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA được ưa thích</string>
+    <string name="preferred_network_mode_lte_choice">LTE</string>
+    <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
+    <string name="preferred_network_mode_td_scdma_only_choice">Chỉ TD-SCDMA</string>
+    <string name="preferred_network_mode_wcdma_only_choice">Chỉ WCDMA</string>
+	<string name="search_menu_title">Tìm kiếm</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
 </resources>

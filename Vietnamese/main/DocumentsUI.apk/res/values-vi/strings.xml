@@ -190,4 +190,14 @@
     <string name="toast_view_in_archives_unsupported">Không thể mở tệp trong lưu trữ</string>
     <string name="txt_file_type">Văn bản thuần</string>
     <string name="word_file_type">Tài liệu Word</string>
+	<string name="gdoc_file_type">Tài liệu Google</string>
+    <string name="gdraw_file_type">Bản vẽ Google</string>
+    <string name="gform_file_type">Biểu mẫu Google</string>
+    <string name="gmap_file_type">Bản đồ Google</string>
+    <string name="gsheet_file_type">Bảng tính Google</string>
+    <string name="gsite_file_type">Trang web Google</string>
+    <string name="gslides_file_type">Bản trình bày Google</string>
+    <string name="gtable_file_type">Bảng Google</string>
+    <string name="metadata_album">Album</string>
+    <string name="metadata_camera">Máy ảnh</string>
 </resources>
