@@ -68,9 +68,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="sunset">Hoàng hôn</string>
     <string name="daily_forcast_weather_transfer">%1$s chuyển %2$s</string>
     <string name="daily_forcast_drawer_on_bottom">Ẩn</string>
-    <string name="daily_forcast_temperature_connect" />
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="information_views" />
     <string name="indices_title_humidity">Độ ẩm</string>
     <string name="indices_desc_humidity">Độ ẩm %1$s%%</string>
     <string name="indices_title_visibility">Tầm nhìn</string>
@@ -95,7 +93,6 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="no_network_btn">Thử lại</string>
     <string name="share">Chia sẻ</string>
     <string name="open_browser">Mở trong trình duyệt</string>
-    <string name="information_menu_title" />
     <string name="information_manager_wlan">Hiển thị khi có kết nối Wi-Fi</string>
     <string name="information_manager_information">Thông tin thời tiết</string>
     <string name="information_manager_extension">Trình mở rộng thời tiết</string>
@@ -114,18 +111,6 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_o3">O3</string>
     <string name="realtime_temperature_no_data">Không có dữ liệu</string>
-    <string name="ads_install_num" />
-    <string name="ads_score_title" />
-    <string name="tts_report_city_name" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_fahrenheit" />
-    <string name="tts_report_wind" />
-    <string name="tts_report_aqi" />
-    <string name="tts_report_split" />
-    <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Gió</string>
     <string name="realtime_humidity_title">Độ ẩm tương đối</string>
     <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
@@ -141,17 +126,8 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="button_add_city">Thêm thành phố</string>
     <string name="locate_fail_detail_err">"Không thể định vị thiết bị
 Chạm vào màn hình để thêm thủ công hoặc định vị lại thành phố"</string>
-    <string name="video_dialog_title" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="lunar_calendar" />
     <string name="data_provided_by">Dữ liệu được cung cấp bởi</string>
-    <string name="ads_extension" />
     <string name="wind_direction_no_data">Gió</string>
-    <string name="activity_main_one_alert" />
-    <string name="activity_main_alert" />
-    <string name="activity_alert_detail_title" />
     <string name="install">Cài đặt</string>
     <string name="open">Mở</string>
     <string name="open_now">Mở</string>
@@ -180,11 +156,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="index_item_install_now">Cài đặt ngay</string>
     <string name="index_item_experience_now">Cài đặt ngay</string>
     <string name="index_item_installing">Đang cài đặt</string>
-    <string name="index_item_install_dialog" />
-    <string name="index_item_install_dialog_cancel" />
-    <string name="index_item_install_dialog_open" />
-    <string name="set_degree_centigrade">°C</string>
-    <string name="set_fahrenheit">°F</string>
     <string name="set_land_mile">mph</string>
     <string name="set_kilometre">km/h</string>
     <string name="alert_warning">Cảnh báo thời tiết</string>

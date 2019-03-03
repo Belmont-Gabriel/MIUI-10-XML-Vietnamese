@@ -130,7 +130,6 @@
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="system_time_settings_category_title">Cài đặt thời gian</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
     <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
     <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d.</string>

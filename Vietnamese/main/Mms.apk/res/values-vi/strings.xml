@@ -448,7 +448,6 @@
     <string name="rate_limit_surpassed">OK</string>
     <string name="received_at_time">Đã nhận lúc: %1s</string>
     <string name="received_label">"Đã nhận: "</string>
-    <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Người nhận: "</string>
     <string name="recipients_over_size">Quá nhiều người nhận.</string>
     <string name="recording_failed">Không thể ghi âm</string>
@@ -559,7 +558,6 @@
     <string name="snippet_picture">[ảnh]</string>
     <string name="sp_category_all">Tất cả các tin nhắn dịch vụ</string>
     <string name="sp_category_bank">Tin nhắn thông báo ngân hàng</string>
-    <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Thông báo</string>
     <string name="sp_mark_as_read_menu_title">Đánh dấu là đã đọc</string>
     <string name="sqlite_disk_full">Cơ sở dữ liệu hoặc bộ nhớ đã đầy</string>
@@ -904,6 +902,6 @@
     <string name="messaging">Tin nhắn</string>
     <string name="more">Thêm</string>
 	<string name="menu_traffic_destination">Đích đến</string>
-	<string name="number_recognition_partner">Đối tác Nhận dạng Số</string>
+	<string name="number_recognition_partner">Nhà cung cấp dịch vụ Nhận dạng ID Người gửi</string>
 	<string name="train_edit_destination">Thêm</string>
 </resources>

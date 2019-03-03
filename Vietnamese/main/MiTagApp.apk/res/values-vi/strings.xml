@@ -40,7 +40,6 @@
     <string name="bump_start">Để bắt đầu, chạm vào một thẻ với mặt sau của điện thoại</string>
     <string name="bump_write">Để soạn 1 thẻ, chạm vào thẻ đó với mặt sau của điện thoại</string>
     <string name="bump_erase">Để xóa 1 thẻ, chạm vào thẻ đó với mặt sau của điện thoại</string>
-    <string name="start_configuration" />
     <string name="detect_empty_tag">Phát hiện thẻ trống</string>
     <string name="empty_tag">Thẻ này trống</string>
     <string name="detect_tag">Phát hiện thẻ</string>

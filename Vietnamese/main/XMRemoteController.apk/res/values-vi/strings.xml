@@ -872,7 +872,6 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_wrong_phone_number_format">Định dạng số điện thoại bạn đã nhập không hợp lệ</string>
     <string name="passport_wrong_vcode">Mã bạn đã nhập không đúng</string>
     <string name="passport_xiaomi_account_dspt">Sử dụng tài khoản Mi để đăng nhập vào Mi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu.</string>
-    <string name="passport_xiaomi_account_sec_dspt" />
     <string name="passport_xiaomi_account_sec_dspt2">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Mi Cloud, và Mi VIP sẽ được bật tự động.</string>
     <string name="passport_xiaomi_account_sec_dspt2_vip">Internet connection is required to sign in to your Mi Account. Location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
     <string name="add_fav_channel">Thêm vào ưa thích</string>

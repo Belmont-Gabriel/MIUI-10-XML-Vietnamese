@@ -3,9 +3,6 @@
     <string name="label">MIUI.VN</string>
     <string name="send">Gửi</string>
     <string name="close">Đóng</string>
-    <string name="date_picker_label_year" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_day" />
     <string name="copyright">Bản quyền</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>

@@ -311,7 +311,7 @@
         <item quantity="other">Đã thêm %d</item>
     </plurals>
 	<plurals name="aod_dual_togother_city">
-        <item quantity="other"> %1$s Giờ %2$s</item>
+        <item quantity="other">" %1$s giờ %2$s"</item>
     </plurals>
 	<plurals name="battery_manager_app_restricted">
         <item quantity="other">Đã hạn chế %1$d ứng dụng</item>

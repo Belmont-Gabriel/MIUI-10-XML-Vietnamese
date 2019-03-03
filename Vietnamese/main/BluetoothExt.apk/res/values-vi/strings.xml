@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="defaultname">Carkit</string>
-    <string name="process" />
     <string name="bluetooth_remember_choice">Luôn cho phép</string>
     <string name="dun_notif_ticker">Yêu cầu DUN Bluetooth</string>
     <string name="dun_notif_title">Phiên yêu cầu mã cho DUN</string>

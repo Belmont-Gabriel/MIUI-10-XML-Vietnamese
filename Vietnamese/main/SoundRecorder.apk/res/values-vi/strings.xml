@@ -52,9 +52,6 @@
     <string name="status_bar_recording_pause">Ghi âm đã tạm dừng</string>
     <string name="low_battery_error_title">Pin yếu</string>
     <string name="low_battery_error">Pin còn lại ít hơn 5%. Dừng và lưu lại để đảm bảo ghi âm không bị mất.</string>
-    <string name="low_battery_error_confirm">OK</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="sound_recorder_settings">Cài đặt ghi âm</string>
     <string name="preference_led_indicator">Thông báo khóa màn hình</string>
     <string name="preference_tip_rename">Đặt tên bản ghi thủ công</string>

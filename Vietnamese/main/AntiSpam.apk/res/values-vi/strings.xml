@@ -280,7 +280,6 @@
     <string name="info_unantispam_phone_sms">Cho phép cuộc gọi và SMS</string>
     <string name="st_antispam_delete">Xóa</string>
     <string name="baidu_thanks">Được cung cấp bởi Baidu</string>
-    <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">Danh sách trống</string>
     <string name="note_sms_none">Không có tin nhắn</string>
     <string name="note_call_none">Không có cuộc gọi</string>
@@ -322,7 +321,6 @@
     <string name="mark_sell_time_setting">Chặn số điện thoại được báo cáo là số điện thoại bán hàng sau số lần cụ thể</string>
     <string name="mark_harass_time_setting">Chặn số điện thoại được báo cáo là số điện thoại làm phiền sau số lần cụ thể</string>
     <string name="mark_courier_time_setting">Chặn số điện thoại được báo cáo là số điện thoại chuyển phát nhanh sau số lần cụ thể</string>
-    <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Số lần báo cáo</string>
     <string name="sms_smart_engine_update">Tự động cập nhật bộ lọc SMS</string>
     <string name="mark_number_setting_guide_title">Chặn số bị báo cáo</string>

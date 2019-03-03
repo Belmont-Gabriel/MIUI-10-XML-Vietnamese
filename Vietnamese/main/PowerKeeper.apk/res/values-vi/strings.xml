@@ -6,7 +6,7 @@
     <string name="power_config_event_delete">Xóa</string>
     <string name="hide_mode_desc">Khi ứng dụng chạy trong nền, hoạt động của chúng có thể được kiểm soát để giảm việc sử dụng Pin. Tính năng này sẽ thu thập và sử dụng dữ liệu người dùng dựa theo %s</string>
     <string name="power_hide_mode_title">Quản lý sử dụng pin của ứng dụng</string>
-    <string name="power_config_apps">Tiết kiệm Pin MIUI</string>
+    <string name="power_config_apps">Tiết kiệm Pin Ứng dụng</string>
     <string name="app_list_title">Chọn ứng dụng</string>
     <string name="power_hide_mode_app_list_summary">Tiết kiệm pin trong nền</string>
     <string name="enable_hide_mode">Bật Tiết kiệm Pin MIUI</string>
@@ -15,7 +15,7 @@
     <string name="disable_hide_mode_warning">Tắt Tiết kiệm Pin MIUI có thể là nguyên nhân gây hao pin nhiều hơn</string>
     <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
-    <string name="scenario_policies_title">Chính sách tiết kiệm pin bối cảnh</string>
+    <string name="scenario_policies_title">Bối cảnh thông minh</string>
     <string name="config_scenario_policies_title">Bối cảnh</string>
     <string name="scenario_policies_summary">Tiết kiệm pin theo bối cảnh</string>
     <string name="sleep_config_enhance_title">Chế độ tiết kiệm khi ngủ</string>
@@ -23,7 +23,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Dự đoán thời gian ngủ người dùng bằng trí tuệ nhân tạo. Trong thời gian ngủ, hệ thống sẽ đóng ứng dụng chạy nền, thông báo đánh thức màn hình, đồng bộ, GPS, dữ liệu di động, dữ liệu Wi-Fi .v.v...</string>
     <string name="nonui_mode_config_title">Chế độ không tương tác</string>
     <string name="nonui_mode_config_description">Không sáng màn hình khi thông báo, tắt đèn LED, cảm biến vân tay, và điều khiển cảm ứng để tiết kiệm pin khi MIUI phát hiện bạn không sử dụng thiết bị.</string>
-    <string name="power_center">Pin</string>
+    <string name="power_center">Tối ưu Pin</string>
     <string name="power_usage">Sử dụng Pin</string>
     <string name="power_mode">Cài đặt Pin</string>
     <string name="performance_category">Hiệu suất</string>
@@ -225,7 +225,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="active_classify">Sắp xếp theo trạng thái hoạt động</string>
     <string name="appconfig_active_app_dialog_title">Quản lý ứng dụng hoạt động thường xuyên</string>
     <string name="config_classify">Sắp xếp theo cài đặt ứng dụng</string>
-    <string name="extreme_mode_max_item_alert">Bạn có thể chọn tối đa 4 ứng dụng để chạy trong nền ở chế độ siêu tiết kiệm pin</string>
+    <string name="extreme_mode_max_item_alert">Bạn có thể chọn tối đa 4 ứng dụng để chạy trong nền ở chế độ Siêu tiết kiệm pin</string>
     <string name="high_temp_state">Nhiệt độ cao</string>
     <string name="high_temp_state_message">Bảo vệ nhiệt độ cao, dữ liệu, wifiap, gps, máy ảnh, v.v.. sẽ bị hạn chế</string>
     <string name="message_i_know">Tôi biết</string>

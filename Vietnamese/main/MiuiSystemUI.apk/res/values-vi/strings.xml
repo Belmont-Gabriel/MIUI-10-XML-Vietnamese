@@ -541,8 +541,6 @@ Trượt xuống để khóa"</string>
     <string name="status_bar_date_format_12">"EEEE
 d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-    <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="accessibility_recent_task_exit">Đã đóng Gần đây</string>
     <string name="accessibility_recent_task_memory_info">Tổng RAM: %2$s |RAM khả dụng: %1$s. Chạm đúp để xóa.</string>
     <string name="accessibility_recent_task_locked">Đã khóa, trượt xuống để mở khóa.</string>
@@ -1979,4 +1977,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="stream_voice_assist">Trợ lý Giọng nói</string>
 	<string name="gxzw_long_press_tip">Nhấn và giữ để thử tính năng mới</string>
 	<string name="face_unlock_not_roi">Giữ khuôn mặt của bạn trong khung</string>
+	<string name="usb_port_overheated_dialog_content">Cổng sạc bị quá nhiệt. Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không. Liên hệ Hỗ trợ khách hàng nếu bạn có bất kỳ câu hỏi nào.</string>
+	<string name="usb_port_overheated_notification_content">Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không.</string>
+	<string name="usb_port_overheated_title">Cổng sạc bị quá nhiệt. Ngắt kết nối bộ sạc.</string>
 </resources>

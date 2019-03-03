@@ -213,10 +213,7 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="contact">Liên hệ</string>
     <string name="sms">Tin nhắn</string>
     <string name="photo">Ảnh</string>
-    <string name="micloud_first_login_title" />
-    <string name="micloud_first_login_summary" />
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-    <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">Đồng bộ đã dừng</string>
     <string name="micloud_main_sync_exception">Lỗi đồng bộ</string>
     <string name="micloud_main_stop_sync">Đồng bộ đã dừng</string>

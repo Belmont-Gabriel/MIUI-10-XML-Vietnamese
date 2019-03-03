@@ -769,7 +769,6 @@ Hãy thử hộp thư khác."</string>
     <string name="policy_text_truncation">Giới hạn kích thước email</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_eas_tips">Chạm Kích hoạt để thiết lập máy chủ thư.</string>
-    <string name="preference_imap_tips" />
     <string name="preference_pop_tips">Ở giao thức POP3, tập tin đính kèm sẽ được tải về tự động cùng với email. Điều này có thể làm tăng sử dụng dữ liệu di động.</string>
     <string name="preference_sender_image_description">Hiển thị ảnh hồ sơ bên cạnh tên của người gửi trong hộp thư đến</string>
     <string name="preference_sender_image_title">Hiển thị ảnh hồ sơ cá nhân trong hộp thư đến</string>
@@ -1035,10 +1034,6 @@ Tiếp tục xóa tài khoản?"</string>
     <string name="upload_logs_keywords">tải lên bản ghi</string>
     <string name="uploading_logs">Vui lòng chờ…</string>
     <string name="validation_failed_prompt">Không thể xác minh tài khoản, kiểm tra cài đặt máy chủ %s</string>
-    <string name="veiled_address" />
-    <string name="veiled_alternate_text" />
-    <string name="veiled_alternate_text_unknown_person" />
-    <string name="veiled_summary_unknown_person" />
     <string name="verify_code">Mã xác minh</string>
     <string name="version_string">Phiên bản: %s</string>
     <string name="via_domain">qua %1$s</string>

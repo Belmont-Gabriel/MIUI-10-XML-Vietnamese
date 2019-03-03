@@ -154,7 +154,6 @@
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Đây là thẻ cuối cùng</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Trượt lên để đóng</string>
     <string name="browserFrameFileErrorLabel">Lỗi tập tin</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Trang web mà bạn đang cố xem chứa dữ liệu đã được gửi. Nếu bạn bạn gửi lại dữ liệu, các thao tác trước đó (như tìm kiếm hoặc thanh toán trực tuyến) sẽ được lặp lại.</string>
     <string name="browserFrameNetworkErrorLabel">Lỗi kết nối</string>
     <string name="cancel">Hủy</string>
@@ -1748,6 +1747,12 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="select_language">Chọn ngôn ngữ</string>
     <string name="store_picture_message">Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?</string>
     <string name="store_picture_title">Lưu hình ảnh</string>
+	<string name="ad_app_download_notification_content">Sau khi cài đặt xong, mở bản demo ngay~</string>
+	<string name="ad_app_download_site_new">TIN TỨC</string>
+	<string name="ad_exit_dialog_exit_btn_name">Thoát</string>
+	<string name="ad_exit_dialog_message">Cài đặt hoàn tất! Bạn có muốn mở ngay?</string>
+	<string name="ad_exit_dialog_open_btn_name">Mở</string>
+	<string name="ad_exit_dialog_title_name">Xác nhận mở ứng dụng mới</string>
 	<string name="permission_agree_service">Tôi đã đọc và đồng ý với tất cả các điều khoản và điều kiện sau đây.</string>
     <string name="permission_contacts">Liên hệ</string>
     <string name="permission_finish">Hoàn tất</string>

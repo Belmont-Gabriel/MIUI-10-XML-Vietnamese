@@ -107,9 +107,7 @@ Trước khi xóa:
     <string name="lockpattern_tutorial_jump_label">Bỏ qua</string>
     <string name="lockpattern_tutorial_close_label">Đóng</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Quá nhiều lần thử không đúng!&lt;/font></string>
-    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Thử lại sau %d giây.</string>
     <string name="title_myaccount">Tài khoản của tôi: %s</string>
     <string name="title_gesture">Hình mở khóa</string>

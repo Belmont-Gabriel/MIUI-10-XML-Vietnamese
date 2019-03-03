@@ -429,7 +429,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="email_work">Email công việc</string>
     <string name="emergency_number_label">Số khẩn cấp</string>
     <string name="emptyGroup">Không có ai trong nhóm này</string>
-    <string name="empty_divider_title" />
     <string name="enter_contact_name">Nhập tên liên hệ</string>
     <string name="eventLabelsGroup">Sinh nhật</string>
     <string name="eventTypeCustom">Tùy chỉnh</string>
@@ -499,7 +498,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="group_sms_progress_msg">Đang gửi tin nhắn nhóm…</string>
     <string name="groupsLabel">Nhóm</string>
     <string name="groups_list_empty">Không có nhóm</string>
-    <string name="hint_distance" />
     <string name="hint_findContacts">Tìm liên hệ</string>
     <string name="hint_more_contact">Hợp nhất liên hệ trùng lặp</string>
     <string name="hybrid_check_network">Cài đặt mạng</string>
@@ -727,7 +725,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="nickname_picker_name_column">Tên liên hệ</string>
     <string name="nickname_picker_nickname_column">Tiêu đề</string>
     <string name="noAccounts">Để tạo nhóm, bạn cần có tài khoản.</string>
-    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Khôi phục dữ liệu danh bạ từ Tài khoản Mi</string>
     <string name="noContacts">Không có liên hệ</string>
     <string name="noContactsWithPhoneNumbers">Không có liên hệ với số điện thoại</string>
@@ -895,7 +892,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="private_num">Số cá nhân</string>
     <string name="profileSavedErrorToast">Không thể lưu thay đổi hồ sơ</string>
     <string name="profileSavedToast">Hồ sơ đã lưu</string>
-    <string name="profile_binded_numbers">%s</string>
     <string name="profile_delete_toast">Đã xóa hồ sơ thành công</string>
     <string name="profile_display_name">Thiết lập hồ sơ của tôi</string>
     <string name="profile_name">Hồ sơ của tôi</string>
@@ -954,7 +950,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="scan_duplicate_message">%1$d liên hệ có thông tin hoàn toàn trùng lặp</string>
     <string name="scan_merge">Đang tìm kiếm những liên hệ trùng lặp…</string>
     <string name="scan_qrcode_card_hint1">Quét mã QR phía trên</string>
-    <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Do: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">Không thể quét bộ nhớ</string>
     <string name="searchHint">Tìm kiếm liên hệ</string>

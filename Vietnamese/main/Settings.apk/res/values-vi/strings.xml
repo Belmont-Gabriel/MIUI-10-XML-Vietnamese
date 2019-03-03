@@ -259,9 +259,9 @@
     <string name="picture_color_mode_desc">Sử dụng sRGB</string>
     <string name="daltonizer_mode_disabled">Đã tắt</string>
     <string name="daltonizer_mode_monochromacy">Đơn sắc</string>
-    <string name="daltonizer_mode_deuteranomaly">Mù màu xanh lá cây (đỏ- xanh)</string>
-    <string name="daltonizer_mode_protanomaly">Mù màu đỏ (đỏ- xanh)</string>
-    <string name="daltonizer_mode_tritanomaly">Mù xanh lam (xanh lam-vàng)</string>
+    <string name="daltonizer_mode_deuteranomaly">Mù màu xanh lá cây (đỏ - xanh)</string>
+    <string name="daltonizer_mode_protanomaly">Mù màu đỏ (đỏ - xanh)</string>
+    <string name="daltonizer_mode_tritanomaly">Mù xanh lam (xanh lam - vàng)</string>
     <string name="accessibility_display_daltonizer_preference_title">Hiệu chỉnh màu sắc</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm có thể ảnh hưởng đến hiệu suất.</string>
     <string name="daltonizer_type_overridden">Ghi đè bởi %1$s</string>
@@ -555,9 +555,7 @@
     <string name="sdcard_format">Xóa bộ nhớ USB</string>
     <string name="preview_pager_content_description">Xem trước</string>
     <string name="preview_page_indicator_content_description">Xem trước, trang %1$d / %2$d</string>
-    <string name="font_size_summary">"Thay đổi kích thước văn bản trên Màn hình chính, thanh thông báo, trình quay số và menu hệ thống.
-
-"</string>
+    <string name="font_size_summary">"Thay đổi kích thước văn bản trên Màn hình chính, thanh thông báo, trình quay số và menu hệ thống."</string>
     <string name="small_font">Nhỏ</string>
     <string name="medium_font">Vừa</string>
     <string name="large_font">Lớn</string>
@@ -572,9 +570,7 @@
 Nhiều người, đàn ông, phụ nữ và trẻ em, đi dạo ở đây và họ đều khoác trên mình những bộ quần áo màu xanh lục cũng như có làn da màu xanh lục. Người lớn nhìn Dorothy và những người bạn kỳ lạ của cô bằng con mắt ngạc nhiên còn bọn trẻ bỏ chạy và nấp phía sau lưng mẹ khi chúng thấy Sư tử; nhưng không ai nói với họ lời nào. Có nhiều cửa hàng trên phố và Dorothy thấy mọi thứ trong các cửa hàng đó đều có màu xanh lục. Kẹo, bỏng ngô cũng như giày, mũ và quần áo đủ loại được bày bán đều có màu xanh lục. Một người đàn ông trên phố đang bán nước chanh màu xanh lục và khi bọn trẻ mua nước chanh, Dorothy quan sát thấy chúng trả cho ông ấy những đồng xu màu xanh lục. 
 
 Dường như ở đó không có ngựa hay bất kỳ loài động vật nào; người dân ở đó vận chuyển đồ trên những chiếc xe đẩy hàng nhỏ màu xanh lục. Mọi người có vẻ rất hạnh phúc, mãn nguyện và thịnh vượng."</string>
-    <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Bộ nhớ USB</string>
-    <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_is_discoverable">Hiển thị với tất cả th.bị Bluetooth gần đó (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Hiển thị thiết bị này cho tất cả thiết bị Bluetooth lân cận</string>
     <string name="bluetooth_not_visible_to_other_devices">Không hiển thị với các thiết bị Bluetooth khác</string>
@@ -598,7 +594,6 @@ Dường như ở đó không có ngựa hay bất kỳ loài động vật nào
     <string name="bluetooth_broadcasting">Phát sóng</string>
     <string name="bluetooth_disable_profile_title">Vô hiệu hồ sơ?</string>
     <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Khỏi:&lt;br>&lt;b>%2$s&lt;/b></string>
-    <string name="bluetooth_unknown" />
     <string name="bluetooth_device">Thiết bị Bluetooth chưa được đặt tên</string>
     <string name="progress_scanning">Đang tìm kiếm</string>
     <string name="bluetooth_no_devices_found">Ko tìm thấy th.bị Bluetooth lân cận nào.</string>
@@ -642,7 +637,6 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="intent_sender_startactivity_text">Bắt đầu hoạt động</string>
     <string name="intent_sender_resource_label">Tài nguyên:</string>
     <string name="intent_sender_account_label">Tài khoản:</string>
-    <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_clear_text">Xóa</string>
     <string name="proxy_port_label">Cổng</string>
     <string name="proxy_exclusionlist_label">Không sử dụng địa chỉ mạng</string>
@@ -650,7 +644,6 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="proxy_action_text">Xong</string>
     <string name="proxy_hostname_label">Tên máy chủ</string>
     <string name="proxy_error">Chú ý</string>
-    <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">Tên máy chủ lưu trữ bạn nhập không hợp lệ.</string>
     <string name="proxy_error_invalid_exclusion_list">Danh sách loại trừ bạn đã nhập không được định dạng đúng. Vui lòng nhập danh sách các tên miền loại trừ được phân tách bằng dấu phẩy.</string>
     <string name="proxy_error_empty_port">Bạn cần hoàn tất trường cổng.</string>
@@ -665,7 +658,6 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="radio_info_dcrtinfo_label">Thông tin kết nối dữ liệu trong thời gian thực:</string>
     <string name="radio_info_gprs_service_label">Dịch vụ dữ liệu:</string>
     <string name="radio_info_roaming_label">Chuyển vùng:</string>
-    <string name="radio_info_imei_label">IMEI:</string>
     <string name="radio_info_call_redirect_label">Chuyển hướng cuộc gọi:</string>
     <string name="radio_info_ppp_resets_label">Số lần đặt lại PPP kể từ khi khởi động:</string>
     <string name="radio_info_current_network_label">Mạng hiện tại:</string>
@@ -684,7 +676,6 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="radio_info_ping_hostname_v6">Tên máy chủ Ping (www.google.com) IPv6:</string>
     <string name="radio_info_http_client_test">Kiểm tra máy khách HTTP:</string>
     <string name="ping_test_label">Chạy kiểm tra ping</string>
-    <string name="radio_info_smsc_label">SMSC:</string>
     <string name="radio_info_smsc_update_label">Cập nhật</string>
     <string name="radio_info_smsc_refresh_label">Làm mới</string>
     <string name="radio_info_toggle_dns_check_label">Chuyển sang kiểm tra DNS</string>
@@ -728,7 +719,6 @@ Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
     <string name="sd_card_settings_label">Bộ nhớ USB</string>
     <string name="proxy_settings_label">Cài đặt proxy</string>
     <string name="cancel">Hủy</string>
-    <string name="okay">OK</string>
     <string name="forget">Bỏ qua</string>
     <string name="save">Lưu</string>
     <string name="done">Xong</string>
@@ -803,7 +793,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="fingerprint_usage_category_title">Sử dụng vân tay để</string>
     <string name="fingerprint_add_title">Thêm vân tay</string>
     <string name="fingerprint_enable_keyguard_toggle_title">khóa màn hình</string>
-    <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_enroll_introduction_title">Mở khóa bằng vân tay</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">"Chỉ cần chạm vào cảm biến vân tay để mở khóa điện thoại của bạn, ủy quyền mua hàng hoặc đăng nhập vào ứng dụng. Hãy cẩn trọng với vân tay mà bạn thêm. Thậm chí một vân tay được thêm cũng có thể làm tất cả những việc này.
 
@@ -975,7 +964,6 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="lockpassword_password_requires_symbol">Mật khẩu phải chứa ít nhất một ký hiệu.</string>
     <string name="lockpassword_password_recently_used">Quản trị viên thiết bị không cho phép sử dụng mật khẩu gần đây.</string>
     <string name="lockpassword_pin_no_sequential_digits">Thứ tự chữ số tăng dần, giảm dần hoặc lặp lại bị cấm</string>
-    <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
@@ -1003,7 +991,6 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="bluetooth_incoming_pairing_msg">Từ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ghép nối với thiết bị này?</string>
     <string name="bluetooth_display_passkey_pin_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy nhập trên thiết bị:&lt;br>&lt;b>%2$s&lt;/b> rồi nhấn Quay lại hoặc Enter.</string>
     <string name="bluetooth_pairing_shares_phonebook">Cho phép %1$s truy cập danh bạ và nhật ký cuộc gọi của bạn</string>
-    <string name="bluetooth_error_title" />
     <string name="bluetooth_connecting_error_message">Không thể kết nối với %1$s.</string>
     <string name="bluetooth_preference_scan_title">Dò tìm thiết bị</string>
     <string name="bluetooth_search_for_devices">Làm mới</string>
@@ -1164,13 +1151,13 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="wifi_eap_anonymous">Danh tính ẩn danh</string>
     <string name="wifi_password">Mật khẩu</string>
     <string name="wifi_show_password">Hiển thị mật khẩu</string>
-    <string name="wifi_ap_band_config">Chọn băng tần AP</string>
+    <string name="wifi_ap_band_config">Chọn băng tần điểm phát</string>
     <string name="wifi_ap_choose_2G">Băng tần 2,4 GHz</string>
     <string name="wifi_ap_choose_5G">Băng tần 5 GHz</string>
     <string name="wifi_ip_settings">Cài đặt IP</string>
     <string name="wifi_shared">Chia sẻ với những người khác cũng dùng thiết bị này</string>
-    <string name="wifi_unchanged">(không thay đổi)</string>
-    <string name="wifi_unspecified">(không xác định)</string>
+    <string name="wifi_unchanged">(Không thay đổi)</string>
+    <string name="wifi_unspecified">(Không xác định)</string>
     <string name="wifi_multiple_cert_added">(Đã thêm nhiều chứng chỉ)</string>
     <string name="wifi_use_system_certs">Sử dụng chứng chỉ hệ thống</string>
     <string name="wifi_do_not_provide_eap_user_cert">Không cung cấp</string>
@@ -1291,7 +1278,6 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="home_settings">Trang chủ</string>
     <string name="display_settings_title">Hiển thị</string>
     <string name="sound_settings">Âm thanh</string>
-    <string name="ringtone_summary" />
     <string name="all_volume_title">Âm lượng</string>
     <string name="musicfx_title">Hiệu ứng âm nhạc</string>
     <string name="ring_volume_title">Âm lượng chuông</string>
@@ -1403,7 +1389,6 @@ Có thể mã PIN không đúng."</string>
     <string name="pin_failed">Thao tác mã PIN của SIM không thành công!</string>
     <string name="device_info_settings">Trạng thái điện thoại</string>
     <string name="system_update_settings_list_item_title">Cập nhật hệ thống</string>
-    <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Phiên bản Android</string>
     <string name="security_patch">Cấp bản vá bảo mật Android</string>
     <string name="model_number">Số hiệu đời máy</string>
@@ -1449,14 +1434,13 @@ Có thể mã PIN không đúng."</string>
     <string name="memory_media_usage">Phương tiện</string>
     <string name="memory_downloads_usage">Nội dung tải xuống</string>
     <string name="memory_dcim_usage">Ảnh, video</string>
-    <string name="memory_music_usage">Âm thanh (âm nhạc, nhạc chuông, podcast, v.v).</string>
+    <string name="memory_music_usage">Âm thanh (âm nhạc, nhạc chuông, podcast, v.v)</string>
     <string name="memory_media_misc_usage">Tệp khác</string>
     <string name="memory_media_cache_usage">Dữ liệu đã lưu trong bộ nhớ cache</string>
     <string name="sd_eject">Ngắt kết nối bộ nhớ được chia sẻ</string>
     <string name="sd_eject_summary">Ngắt kết nối bộ nhớ trong USB</string>
     <string name="sd_insert_summary">Lắp bộ nhớ USB để kết nối</string>
     <string name="sd_mount">Kết nối bộ nhớ USB</string>
-    <string name="sd_mount_summary" />
     <string name="sd_format">Xóa bộ nhớ USB</string>
     <string name="sd_format_summary">Xóa tất cả dữ liệu trên bộ nhớ trong USB, chẳng hạn như nhạc và ảnh</string>
     <string name="memory_clear_cache_title">Xóa dữ liệu đã lưu trong bộ nhớ cache?</string>
@@ -1464,7 +1448,6 @@ Có thể mã PIN không đúng."</string>
     <string name="mtp_ptp_mode_summary">Chức năng MTP hoặc PTP đang hoạt động</string>
     <string name="dlg_confirm_unmount_title">Ngắt kết nối bộ lưu trữ USB?</string>
     <string name="dlg_confirm_unmount_text">Nếu bạn ngắt kết nối bộ lưu trữ USB, một số ứng dụng bạn đang sử dụng sẽ ngừng và có thể không khả dụng cho tới khi bạn kết nối lại bộ lưu trữ USB.</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">Không thể ngắt kết nối bộ lưu trữ USB. Hãy thử lại sau.</string>
     <string name="unmount_inform_text">Bộ nhớ USB sẽ được ngắt kết nối.</string>
     <string name="sd_ejecting_title">Đang tháo</string>
@@ -1630,7 +1613,6 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="menu_new">APN mới</string>
     <string name="menu_save">Lưu</string>
     <string name="menu_cancel">Hủy</string>
-    <string name="error_title" />
     <string name="error_name_empty">Không được để trống trường Tên.</string>
     <string name="error_apn_empty">APN không được để trống.</string>
     <string name="error_mcc_not3">Trường MCC phải có 3 chữ số.</string>
@@ -1915,9 +1897,7 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="recompute_size">Đang tính toán lại kích thước…</string>
     <string name="clear_data_dlg_title">Xóa dữ liệu ứng dụng?</string>
     <string name="clear_data_dlg_text">Tất cả dữ liệu của ứng dụng này sẽ bị xóa vĩnh viễn, bao gồm tất cả các tệp, cài đặt, tài khoản, cơ sở dữ liệu, v.v.</string>
-    <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Hủy</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Không tìm thấy ứng dụng trong danh sách các ứng dụng đã cài đặt.</string>
     <string name="clear_data_failed">Không thể xóa dữ liệu ứng dụng.</string>
     <string name="clear_failed_dlg_title">Xóa dữ liệu</string>
@@ -1948,7 +1928,6 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="move_error_device_admin">Không thể cài đặt Quản trị viên thiết bị trên phương tiện bên ngoài.</string>
     <string name="force_stop_dlg_title">Buộc dừng?</string>
     <string name="force_stop_dlg_text">Nếu bạn buộc dừng một ứng dụng, ứng dụng đó có thể hoạt động sai.</string>
-    <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Không thể di chuyển ứng dụng. %1$s</string>
     <string name="app_install_location_title">Vị trí cài đặt ưa thích</string>
     <string name="app_install_location_summary">Thay đổi vị trí cài đặt ưa thích cho ứng dụng mới</string>
@@ -2007,7 +1986,6 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="language_keyboard_settings_title">Ngôn ngữ &amp; phương thức nhập</string>
     <string name="keyboard_settings_category">Bàn phím &amp; phương thức nhập</string>
     <string name="phone_language">Ngôn ngữ</string>
-    <string name="phone_language_summary" />
     <string name="auto_replace">Tự động thay thế</string>
     <string name="auto_replace_summary">Sửa từ bị đánh sai</string>
     <string name="auto_caps">Tự động viết hoa</string>
@@ -2043,7 +2021,6 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="keyboard_layout_default_label">Mặc định</string>
     <string name="keyboard_layout_picker_title">Bố cục bàn phím</string>
     <string name="user_dict_settings_title">Từ điển cá nhân</string>
-    <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Thêm</string>
     <string name="user_dict_settings_add_dialog_title">Thêm vào từ điển</string>
     <string name="user_dict_settings_add_screen_title">Cụm từ</string>
@@ -2398,7 +2375,6 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="credential_storage_type_hardware">Dựa trên phần cứng</string>
     <string name="credential_storage_type_software">Chỉ phần mềm</string>
     <string name="credentials_settings_not_available">Không có thông tin đăng nhập cho người dùng này</string>
-    <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Nhập mật khẩu cho vùng lưu trữ thông tin xác thực.</string>
     <string name="credentials_old_password">Mật khẩu hiện tại:</string>
     <string name="credentials_reset_hint">Xóa tất cả nội dung?</string>
@@ -2425,7 +2401,6 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="auto_restore_summary">Khi cài đặt lại một ứng dụng, khôi phục dữ liệu và cài đặt đã sao lưu</string>
     <string name="backup_inactive_title">Dịch vụ sao lưu không hoạt động.</string>
     <string name="backup_configure_account_default_summary">Hiện không có tài khoản nào lưu trữ dữ liệu được sao lưu</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu Wi-Fi, dấu trang, các cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên máy chủ Google?</string>
     <string name="fullbackup_erase_dialog_message">Dừng sao lưu dữ liệu thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) và dữ liệu ứng dụng (chẳng hạn như cài đặt và tệp được ứng dụng lưu trữ), đồng thời xóa tất cả các bản sao trên máy chủ từ xa?</string>
     <string name="fullbackup_data_summary">"Tự động sao lưu từ xa dữ liệu của thiết bị (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) cũng như dữ liệu ứng dụng (chẳng hạn như các cài đặt và các tệp được ứng dụng lưu trữ).
@@ -2659,9 +2634,9 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="vpn_username">Tên người dùng</string>
     <string name="vpn_password">Mật khẩu</string>
     <string name="vpn_save_login">Lưu thông tin tài khoản</string>
-    <string name="vpn_not_used">(không được sử dụng)</string>
-    <string name="vpn_no_ca_cert">(không xác minh máy chủ)</string>
-    <string name="vpn_no_server_cert">(đã nhận từ máy chủ)</string>
+    <string name="vpn_not_used">(Không được sử dụng)</string>
+    <string name="vpn_no_ca_cert">(Không xác minh máy chủ)</string>
+    <string name="vpn_no_server_cert">(Đã nhận từ máy chủ)</string>
     <string name="vpn_cancel">Hủy</string>
     <string name="vpn_done">Loại bỏ</string>
     <string name="vpn_save">Lưu</string>
@@ -2852,7 +2827,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="user_image_take_photo">Chụp ảnh</string>
     <string name="user_image_choose_photo">Chọn ảnh từ Thư viện</string>
     <string name="user_image_photo_selector">Chọn ảnh</string>
-    <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">Thẻ SIM</string>
     <string name="sim_settings_title">Thẻ SIM</string>
     <string name="sim_cards_changed_message">Thẻ SIM đã thay đổi</string>
@@ -2953,7 +2927,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="ringtone_title">Nhạc chuông điện thoại</string>
     <string name="notification_ringtone_title">Nhạc chuông thông báo mặc định</string>
     <string name="alarm_ringtone_title">Nhạc chuông báo thức mặc định</string>
-    <string name="vibrate_when_ringing_title">Đồng thời rung khi có cuộc gọi</string>
+    <string name="vibrate_when_ringing_title">Rung khi có cuộc gọi</string>
     <string name="other_sound_settings">Âm thanh khác</string>
     <string name="dial_pad_tones_title">Âm bàn phím số</string>
     <string name="screen_locking_sounds_title">Âm thanh khóa màn hình</string>
@@ -3538,7 +3512,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="dndm_vip_call_setting_title">Danh sách ngoại lệ</string>
     <string name="dndm_vip_call_setting_detal">Luôn luôn cho phép các cuộc gọi từ danh sách ngoại lệ</string>
     <string name="dndm_vip_call_summary_none">Chạm để cấu hình</string>
-    <string name="dndm_vip_call_summary_custom">%d</string>
     <string name="dndm_vip_call_summary_contact">Tất cả</string>
     <string name="dndm_vip_call_button_title">Cho phép các cuộc gọi từ danh sách ngoại lệ</string>
     <string name="dndm_vip_list_group">Danh sách ngoại lệ</string>
@@ -3634,7 +3607,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_screen_effect">Màu sắc &amp; độ bão hòa;Màu sắc &amp; độ tương phản;màu;bão hòa màu sắc;độ tương phản</string>
     <string name="search_screen_saver_settings">Màn hình chờ</string>
     <string name="search_screen_paper_mode_title">Chế độ đọc sách;chế độ đọc sách;đọc;đèn xanh;đèn vàng;chế độ ban đêm</string>
-    <string name="search_gesture_wakeup_title">Chạm màn hình hai lần để đánh thức thiết bị;chạm hai lần để đánh thức thiết bị;đánh thức thiết bị;chạm hai lần màn hình;chạm hai lần</string>
+    <string name="search_gesture_wakeup_title">Chạm hai lần để đánh thức thiết bị;chạm hai lần để đánh thức thiết bị;đánh thức thiết bị;chạm hai lần màn hình;chạm hai lần</string>
     <string name="search_sound_settings">Âm thanh;Âm lượng;rung;loại bỏ tiếng ồn</string>
     <string name="search_ring_volume_option_title">Âm lượng;âm lượng;nhạc chuông &amp; thông báo;nhạc chuông;Báo thức;Nhạc</string>
     <string name="search_ringtone_title">Nhạc chuông điện thoại;nhạc chuông</string>
@@ -3887,7 +3860,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="dial_application_title">Điện thoại</string>
     <string name="wallpaper_desktop">Màn hình chính</string>
     <string name="wallpaper_lockscreen">Màn hình khóa</string>
-    <string name="wallpaper_live">H.nền động</string>
+    <string name="wallpaper_live">Hình nền động</string>
     <string name="lockscreen_magazine_title">Tạp chí Khóa màn hình</string>
     <string name="title_font">Phông chữ</string>
     <string name="title_font_current">Phông chữ hệ thống</string>
@@ -3982,7 +3955,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="common_settings">Cài đặt nhanh</string>
     <string name="battery_settings">Pin</string>
     <string name="battery_settings_title">Pin</string>
-    <string name="power_center">Pin</string>
+    <string name="power_center">Tối ưu Pin</string>
     <string name="power_hide_mode_title">Quản lý sử dụng pin</string>
     <string name="power_hide_mode_summary">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
@@ -4441,7 +4414,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_share_action_turn_off">Dừng chia sẻ mạng</string>
     <string name="wifi_share_list_empty">Không tìm thấy các mạng chia sẻ.</string>
     <string name="wifi_share_connect">Kết nối</string>
-    <string name="enalbe_identify_iPhone">Nhận dạng AP</string>
+    <string name="enalbe_identify_iPhone">Nhận dạng điểm phát</string>
     <string name="wifi_share_qrcode_title">Chia sẻ mạng Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Quét mã QR ở trên để chia sẻ.</string>
     <string name="wifi_share_qrcode_finish">OK</string>
@@ -4652,7 +4625,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="anti_spam">Danh sách chặn</string>
     <string name="permission_mgr">Quyền truy cập</string>
     <string name="cleaner">Dọn dẹp</string>
-    <string name="power_mgr">Pin</string>
+    <string name="power_mgr">Tối ưu Pin</string>
     <string name="secondspace_category">Không gian thứ hai</string>
     <string name="secondspace_delete_space_title">Xóa Không gian thứ hai</string>
     <string name="symbols_not_allowed_for_password">Mật khẩu không thể chứa biểu tượng</string>
@@ -4667,7 +4640,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="free_wifi_user_agreement_allow">Cho phép</string>
     <string name="free_wifi_user_agreement_title">Cảnh báo riêng tư</string>
     <string name="translation_contributors_title">MIUI Việt Nam</string>
-    <string name="translation_contributors_summary" />
     <string name="wifi_type_approval_title">Loại phê duyệt</string>
     <string name="wifi_type_approval_dialog_title">SỐ NTC.</string>
     <string name="status_sim">Tình trạng thẻ SIM</string>
@@ -4804,10 +4776,10 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="performance_category">Hiệu suất</string>
     <string name="fluency_mode">Ảnh động hệ thống</string>
     <string name="fluency_mode_confirm_and_reboot">Khởi động lại ngay</string>
-    <string name="gesture_wakeup_title">Chạm màn hình hai lần để đánh thức thiết bị</string>
+    <string name="gesture_wakeup_title">Chạm hai lần để đánh thức thiết bị</string>
     <string name="pick_up_gesture_wakeup_title">Nhấc để đánh thức thiết bị</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
-    <string name="aod_mode_summary">Hiển thị thời gian, ngày và tin nhắn khi tắt màn hình.</string>
+    <string name="aod_mode_summary">Hiển thị thời gian, ngày và tin nhắn khi màn hình tắt.</string>
     <string name="install_no_market_app_title">Quét ứng dụng bên thứ ba</string>
     <string name="install_no_market_app_summary">Quét virus ứng dụng bên thứ ba trước khi cài đặt</string>
     <string name="theme_settings_title">Chủ đề</string>
@@ -4885,7 +4857,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="usb_format">Xóa lưu trữ USB</string>
     <string name="usb_format_summary">Xóa tất cả dữ liệu trên lưu trữ USB (ví dụ: nhạc và ảnh)</string>
     <string name="usb_mount">Kết nối lưu trữ USB</string>
-    <string name="usb_mount_summary" />
     <string name="usb_insert_summary">Kết nối lưu trữ USB</string>
     <string name="fp_nav_center_back_to_home_title">Chạm nút Trang chính để quay lại Màn hình chính</string>
     <string name="convenience_key_category_title">Lối tắt</string>
@@ -4994,12 +4965,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="uninstall_protected_dlg_title">Gỡ cài đặt ứng dụng hệ thống</string>
     <string name="uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
     <string name="apn_ppp_number">Số điện thoại APN PPP</string>
-    <string name="size_byte">B</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_tera_byte">TB</string>
-    <string name="size_peta_byte">PB</string>
     <string name="radio_info_asdiv_switch_label">Trạng thái ASDiv:</string>
     <string name="app_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
     <string name="app_factory_reset_dlg_text">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ cài đặt.</string>
@@ -5078,7 +5043,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="mode_disable">Tắt</string>
     <string name="demo_mode_summary">Hiển thị biểu tượng cố định trên thanh trạng thái đối với chế độ demo</string>
     <string name="popup_window">Cho phép cửa sổ pop-up</string>
-    <string name="mute_music_stream">Im lặng tream nhạc</string>
+    <string name="mute_music_stream">Tắt âm đa phương tiện</string>
     <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
     <string name="bluetooth_device_misc_title">Thiết bị Bluetooth hiếm khi sử dụng</string>
     <string name="bt_rarely_used_device_title">Thiết bị hiếm khi sử dụng (%d)</string>
@@ -5200,7 +5165,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="privacy_password_fingerprint_confirm_succes">Đã xác minh vân tay</string>
     <string name="privacy_password_fingerprint_confirm_failed">Không thể xác minh vân tay</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Xác nhận mật khẩu Không gian thứ hai</string>
-    <string name="privacy_password_transparent_tiltle" />
     <string name="smartcover_lock_or_unlock_screen_tittle">Chế độ vỏ bảo vệ thông minh</string>
     <string name="smartcover_sensitive_summary">Khóa hoặc mở khóa điện thoại tự động bằng vỏ bảo vệ thông minh</string>
     <string name="privacy_password_bind_account">Thêm Tài khoản Mi</string>
@@ -5276,7 +5240,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="access_control_need_password">%s đã bị khóa</string>
     <string name="access_control_need_to_unlock">Cần nhập mật khẩu</string>
     <string name="access_control_reset_by_account">Đăng nhập vào Tài khoản Mi để đặt lại mật khẩu</string>
-    <string name="fingerprint_list_title">Vân tay</string>
+    <string name="fingerprint_list_title">"Vân tay "</string>
     <string name="delete_fingerprint_text">Xóa vân tay</string>
     <string name="fingerprint_removal_failed">Không thể xóa vân tay, hãy thử lại</string>
     <string name="delete_fingerprint_confirm_msg">Xóa vân tay?</string>
@@ -6052,7 +6016,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="uicc_format">Xóa lưu trữ UICC</string>
     <string name="uicc_format_summary">Xóa tất cả dữ liệu trên lưu trữ UICC (ví dụ: nhạc và ảnh)</string>
     <string name="uicc_mount">Kết nối lưu trữ UICC</string>
-    <string name="uicc_mount_summary" />
     <string name="uicc_insert_summary">Kết nối lưu trữ UICC</string>
     <string name="dlg_confirm_usb_unmount_title">Gỡ lưu trữ USB?</string>
     <string name="dlg_confirm_uicc_unmount_title">Gỡ lưu trữ UICC?</string>
@@ -6400,7 +6363,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="search_zen_mode_option_miui_silent">Chế độ im lặng;im lặng;tắt tiếng</string>
     <string name="settings_toggle_position_divider_page">%1$d phím nhanh ở trên sẽ xuất hiện ở thanh thông báo</string>
     <string name="path_fluency_mode">Cài đặt/Pin &amp; hiệu suất/Ảnh động hệ thống</string>
-    <string name="path_gesture_wakeup_title">Cài đặt/Hiển thị/Chạm màn hình hai lần để đánh thức thiết bị</string>
+    <string name="path_gesture_wakeup_title">Cài đặt/Hiển thị/Chạm hai lần để đánh thức thiết bị</string>
     <string name="path_force_touch">Cài đặt/Cài đặt bổ sung/3D Touch</string>
     <string name="bind_xiaomi_account_cancel">Hủy</string>
     <string name="binded_xiaomi_summary">Tài khoản hiện tại: %s</string>
@@ -7801,7 +7764,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">Kích hoạt Chế độ thích ứng âm thanh Bluetooth aptX: Codec Mode</string>
 	<string name="aod_mode_bg">Hình nền</string>
 	<string name="aod_mode_clock">Đồng hồ</string>
-	<string name="aod_mode_style">Kiểu thời gian và hình nền</string>
+	<string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
 	<string name="aod_sample_date">Thứ ba, 10 Tháng năm</string>
 	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
 	<string name="aod_lock_screen_date_12">EEEE, d MMMM</string>

@@ -1196,7 +1196,7 @@ Một vài đơn hàng được gửi qua SF Express từ các nhà cung cấp n
     <string name="study_parent">Học tập</string>
     <string name="start_download">Bắt đầu tải xuống…</string>
     <string name="shopping_support">Ứng dụng được hỗ trợ</string>
-    <string name="shopping_source">Từ</string>
+    <string name="shopping_source">Từ %s</string>
     <string name="shopping_setting_remove">Sau khi bạn hủy bỏ ủy quyền, App vault sẽ ngừng thu thập thông tin về giao dịch, và thẻ Mua sắm sẽ bị xóa. Vẫn hủy bỏ?</string>
     <string name="shopping_setting_notification">Thông báo về mục mới</string>
     <string name="shopping_setting_brief_detail">Thu thập thông tin về giao dịch của bạn từ nhiều ứng dụng thương mại điện tử trên máy.</string>
