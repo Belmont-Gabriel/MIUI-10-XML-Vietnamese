@@ -1468,6 +1468,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
         <item>Chế độ Chất lượng cao (Mặc định)</item>
         <item>Chế độ Độ trễ thấp</item>
+	 </string-array>	
 	<string-array name="wifi_metered_entries">
         <item>Tự động phát hiện</item>
         <item>Xử lý như là mạng có đo lượng dữ liệu</item>
