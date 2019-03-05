@@ -92,7 +92,7 @@
 	Nhớ rằng giá của thiết bị luôn thay đổi. Bán ngay để nhận giá trị tốt nhất.</string>
     <string name="recycle_button">Tái chế</string>
     <string name="recycle_description">Nhận lại giá trị tối đa bằng cách tái chế điện thoại cũ của bạn</string>
-    <string name="recycle_entrance">Tái chế Cashify</string>
+    <string name="recycle_entrance">Cashify - Bán điện thoại của bạn</string>
     <string name="select_card">Chọn thẻ</string>
     <string name="select_reason">Chọn lý do</string>
     <string name="password_toggle_content_description">Thay đổi cài đặt hiển thị mật khẩu</string>
@@ -119,7 +119,7 @@
     <string name="landmark">Chứng cứ</string>
     <string name="loading">Đang tải...</string>
     <string name="main_overall_test">BẮT ĐẦU</string>
-    <string name="insurance_entrance">Bảo vệ Mi - bảo vệ thiết bị cầm tay</string>
+    <string name="insurance_entrance">Bảo vệ Mi - bảo vệ điện thoại mới của bạn</string>
     <string name="buy_title_four">Mất điện thoại?</string>
     <string name="buy_title_one">Vô tình hỏng</string>
     <string name="buy_title_three">Sửa chữa chính hãng?</string>
@@ -206,4 +206,5 @@
     <string name="done_title_three">Chúng tôi nhận được sự chấp thuận từ đối tác Bảo hiểm</string>
     <string name="done_title_one">Đăng nhập vào <u><font color="#3F87EA"><a href="https://oneassist.in/">OneAssist.in</a></font></u>" hoặc gọi 1800 123
 3330 để gửi khiếu nại"</string>
+	<string name="main_entrance">Bán điện thoại của bạn</string>
 </resources>
