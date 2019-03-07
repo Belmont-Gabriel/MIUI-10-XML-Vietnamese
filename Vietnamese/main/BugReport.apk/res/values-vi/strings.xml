@@ -247,7 +247,7 @@
     <string name="feedback_submit_failed_notification_title">Không thể gửi báo cáo</string>
     <string name="feedback_submit_failed_notification_desc">Xem chi tiết</string>
     <string name="feedback_submit_failed_notification_retry">Gửi lại</string>
-    <string name="from">từ %1$s</string>
+    <string name="from">Từ %1$s</string>
     <string name="topic_author">1#</string>
     <string name="first_position">2#</string>
     <string name="second_position">3#</string>

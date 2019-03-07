@@ -1457,12 +1457,12 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="guide_chosen_type_main_title_front">Cho chúng tôi biết</string>
     <string name="guide_chosen_type_subtitle">Gắn thẻ sở thích của bạn để nhận đề xuất liên quan</string>
     <string name="guide_entertainment_text">vui vẻ</string>
-    <string name="guide_fashion_text">thời trang</string>
+    <string name="guide_fashion_text">Thời trang</string>
     <string name="guide_fiction_text">viễn tưởng</string>
-    <string name="guide_finance_text">tài chính</string>
+    <string name="guide_finance_text">Tài chính</string>
     <string name="guide_flash_type_main_title">Nhanh như chớp</string>
     <string name="guide_flash_type_subtitle">Tốc độ tuyệt vời, giao diện mượt mà</string>
-    <string name="guide_games_text">trò chơi</string>
+    <string name="guide_games_text">Trò chơi</string>
     <string name="guide_history_text">lịch sử</string>
     <string name="guide_know_type_main_title">Trình duyệt hiểu bạn</string>
     <string name="guide_know_type_subtitle">Nhận gợi ý tuyệt vời</string>
@@ -1472,7 +1472,7 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="guide_skip">Bỏ qua</string>
     <string name="guide_slide_down">Vui lòng trượt xuống</string>
     <string name="guide_slide_up">Vui lòng trượt lên</string>
-    <string name="guide_sports_text">thể thao</string>
+    <string name="guide_sports_text">Thể thao</string>
     <string name="guide_start_experience">Bắt đầu</string>
     <string name="guide_tech_text">công nghệ</string>
     <string name="hot_words_item_ads_mark">Quảng cáo</string>
@@ -1572,7 +1572,7 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="publish_to_topic">xuất bản vào chủ đề</string>
     <string name="refresh_description">Làm mới</string>
     <string name="reopen">Mở</string>
-    <string name="save_file_suffix">tệp</string>
+    <string name="save_file_suffix">Tệp</string>
     <string name="save_to_bookmark">Thêm vào dấu trang</string>
     <string name="screenshot_loading_dialog_title">Đang chụp</string>
     <string name="search_label">Trình duyệt</string>

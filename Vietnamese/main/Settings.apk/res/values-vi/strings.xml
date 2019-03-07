@@ -3528,7 +3528,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="dndm_wristband">Kích hoạt với Mi Band</string>
     <string name="legal_workday_invalidate">Thứ hai-Thứ sáu (thông tin ngày nghỉ hết hạn)</string>
     <string name="legal_workday_invalidate_message">Chạm để cập nhật thông tin ngày nghỉ lễ.</string>
-    <string name="legal_workday_message">(Bỏ qua ngày lễ)</string>
+    <string name="legal_workday_message">" (Bỏ qua ngày lễ)"</string>
     <string name="repeat">Lặp lại</string>
     <string name="every_day">Mỗi ngày</string>
     <string name="legal_workday">Ngày làm việc</string>

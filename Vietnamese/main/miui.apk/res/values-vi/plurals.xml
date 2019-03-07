@@ -46,9 +46,9 @@
         <item quantity="other">%d phút trước</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">trong %d phút</item>
+        <item quantity="other">Trong %d phút</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">trong %d phút</item>
+        <item quantity="other">Trong %d phút</item>
     </plurals>
 </resources>

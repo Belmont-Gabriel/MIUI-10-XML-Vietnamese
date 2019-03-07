@@ -238,7 +238,6 @@
     <string name="bottom_bar_more_quickreply">Trả lời nhanh</string>
     <string name="bottom_bar_more_share">Chia sẻ</string>
     <string name="bottom_bar_no_quickreply_toast">Không trả lời nhanh</string>
-    <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Nhắc lại sau</string>
     <string name="calendar_remind_gridview_pick_date">Chọn ngày</string>
     <string name="cancel">Hủy</string>
@@ -337,7 +336,6 @@
     <string name="cur_debt">Số dư tài khoản</string>
     <string name="custom_from_account_label">Gửi thư từ địa chỉ:</string>
     <string name="date_heading">"Ngày: "</string>
-    <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Hôm nay, %1$s</string>
     <string name="debug_mode_preferencecategory">Thiết lập đầu ra bản ghi</string>
     <string name="debug_mode_settings">Cài đặt chế độ gỡ lỗi</string>
@@ -386,7 +384,6 @@
     <string name="download_confirm_message">Tải xuống %1$s tập tin đính kèm?</string>
     <string name="download_confirm_title">Tải xuống tập tin đính kèm</string>
     <string name="download_message_failed_for_too_large">Thư quá lớn để có thể tải xuống.</string>
-    <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Hóa đơn ngân hàng</string>
     <string name="drawer_classification">Phân loại</string>
     <string name="drawer_close">Đóng bảng điều hướng</string>
@@ -440,7 +437,6 @@
     <string name="file_save_path_dialog_cancel">Tôi biết</string>
     <string name="file_save_path_dialog_ok">Thay đổi ngay</string>
     <string name="file_save_term">Kỳ hạn lưu tập tin</string>
-    <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Chạm phím để gửi \"%s\" đến tất cả mọi người trong hội thoại</string>
     <string name="folder_list_display_all">Hiển thị tất cả thư mục</string>
     <string name="folder_list_display_only_import">Chỉ hiển thị các thư mục quan trọng</string>
@@ -497,7 +493,6 @@
     <string name="interact_with_server_error">Không thể kết nối với máy chủ</string>
     <string name="invalid_recipient">Địa chỉ %s không hợp lệ.</string>
     <string name="invalid_recipient_title">Lỗi người nhận</string>
-    <string name="kilobytes">%s KB</string>
     <string name="load_from_remote">Tìm kiếm hộp thư trên máy chủ</string>
     <string name="load_more">Tải thêm</string>
     <string name="loading_conversation">Đang tải…</string>
@@ -581,7 +576,6 @@
     <string name="meeting_where">"
         Tại:
 %s "</string>
-    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Tập tin đính kèm</string>
     <string name="menu_att_mgr_order_default">Đã xem gần đây</string>
     <string name="menu_att_mgr_order_mime">Định dạng</string>
@@ -732,9 +726,8 @@ Hãy thử hộp thư khác."</string>
     <string name="permission_access_provider_label">Truy cập dữ liệu người dùng</string>
     <string name="permission_read_attachment_desc">Cho phép ứng dụng này đọc tập tin đính kèm email của bạn</string>
     <string name="permission_read_attachment_label">Đọc tập tin đính kèm</string>
-    <string name="phone">điện thoại</string>
+    <string name="phone">Điện thoại</string>
     <string name="photo_load_failed">Không thể tải ảnh</string>
-    <string name="photo_view_count" formatted="false">%d/%d</string>
     <string name="please_fill_in_your_mailbox_information2">Nhập thông tin hộp thư của bạn</string>
     <string name="pls_parse_bill_discribe">"Phân tích hóa đơn và thông tin du lịch trên email của bạn
 để nhận nhắc nhở về thanh toán và du lịch"</string>

@@ -132,7 +132,7 @@
     <string name="managed_device_info">Thông tin thiết bị được quản lý</string>
     <string name="one_place_for_work_apps">Một nơi cho ứng dụng dành cho công việc</string>
     <string name="opening_paragraph_delete_profile">Bạn đã có hồ sơ công việc do ứng dụng sau quản lý:</string>
-    <string name="organization_admin">quản trị viên của tổ chức</string>
+    <string name="organization_admin">Quản trị viên của tổ chức</string>
     <string name="profile_benefits_description">Bằng cách sử dụng hồ sơ công việc, bạn có thể tách dữ liệu công việc với dữ liệu cá nhân</string>
     <string name="profile_owner_info">Bạn sắp tạo hồ sơ công việc sẽ do tổ chức của bạn quản lý và giám sát. Các điều khoản sẽ được áp dụng.</string>
     <string name="profile_owner_info_comp">Một hồ sơ sẽ được tạo cho các ứng dụng công việc của bạn. Hồ sơ này và phần còn lại của thiết bị sẽ do tổ chức của bạn quản lý và giám sát. Các điều khoản sẽ được áp dụng.</string>

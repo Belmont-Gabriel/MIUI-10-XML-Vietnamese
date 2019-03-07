@@ -141,7 +141,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="call_address">Chặn khu vực</string>
     <string name="call_private">Chặn cuộc gọi từ số đã ẩn</string>
     <string name="call_stranger_block">Chặn cuộc gọi từ người lạ</string>
-    <string name="call_contact_block">Chặn cuộc gọi từ liên hệ</string>
+    <string name="call_contact_block">Chặn cuộc gọi từ Liên hệ</string>
     <string name="call_transfer_block">Chặn cuộc gọi được chuyển tiếp</string>
     <string name="call_cloud_block">Chặn đám mây</string>
     <string name="call_oversea_block">Chặn cuộc gọi từ nước ngoài</string>
@@ -286,7 +286,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_call_intercept_forwarding">Chặn cuộc gọi được chuyển tiếp</string>
     <string name="st_call_intercept_oversea">Chặn cuộc gọi từ nước ngoài</string>
     <string name="st_call_intercept_reported">Chặn cuộc gọi từ số đã báo cáo</string>
-    <string name="st_call_intercept_contacts">Chặn cuộc gọi từ liên hệ</string>
+    <string name="st_call_intercept_contacts">Chặn cuộc gọi từ Liên hệ</string>
     <string name="st_call_intercept_unknown">Chặn cuộc gọi từ số đã ẩn</string>
     <string name="st_call_stranger_group">Chặn cuộc gọi từ người lạ</string>
     <string name="st_call_other_group">Khác</string>
@@ -971,7 +971,7 @@ thiết bị của bạn"</string>
     <string name="shutdown_cancel_reminder_detail2">Dường như bạn đang chơi game. Hẹn giờ tắt nguồn đã bị hủy.</string>
     <string name="legal_workday_invalidate">Thứ hai-Thứ sáu (thông tin ngày nghỉ hết hạn)</string>
     <string name="legal_workday_invalidate_message">Chạm để cập nhật thông tin ngày nghỉ lễ.</string>
-    <string name="legal_workday_message">(Bỏ qua ngày lễ)</string>
+    <string name="legal_workday_message">" (Bỏ qua ngày lễ)"</string>
     <string name="boot_time_day">Mở lúc %2$s sau %1$d ngày</string>
     <string name="boot_time_day_tomorrow">Mở lúc %1$s ngày mai</string>
     <string name="boot_time">Bật lúc %1$s</string>
