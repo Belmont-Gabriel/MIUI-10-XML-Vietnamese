@@ -110,7 +110,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="batch_delete_backup_confirm">Xóa các sao lưu đã chọn?</string>
     <string name="start_restore">Khôi phục</string>
     <string name="backup_file_error">Không thể sao lưu</string>
-    <string name="unit_byte">B</string>
     <string name="unit_piece">" mục"</string>
     <string name="restore_finished">Khôi phục thành công</string>
     <string name="restore_report">Chi tiết khôi phục</string>
@@ -238,7 +237,6 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -408,10 +406,6 @@ Chọn lại tập tin hoặc giải phóng %s dung lượng trên thiết bị 
 Giải phóng ít nhất %s."</string>
     <string name="trans_calculating_app_sd_size">Đang tính kích thước: %s</string>
     <string name="trans_please_waiting">Vui lòng chờ</string>
-    <string name="size_byte">B</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">Không thể kết nối</string>
     <string name="trans_connect_failed_message">Không thể kết nối, thử lại hoặc khởi động lại. Trên thiết bị khác, vào Cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi], hoặc khởi chạy lại Mi Mover lại sau khi khởi động.</string>
     <string name="trans_retry">Thử lại</string>
@@ -421,7 +415,6 @@ Giải phóng ít nhất %s."</string>
     <string name="user_notice_title">Chú ý</string>
     <string name="user_notice_message">Một số tính năng yêu cầu phải kết nối internet để hoạt động bình thường.</string>
     <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
-    <string name="total_size">, %s</string>
     <string name="btn_got_it">Tôi biết</string>
     <string name="backup_security_tips_title">Sao lưu không làm việc</string>
     <string name="backup_security_tips_message">Vài ứng dụng không hỗ trợ sao lưu hoặc khôi phục.</string>
@@ -622,4 +615,23 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="trans_success_dialog_market_comment_and_survey_title">Xin chúc mừng! Hãy cho chúng tôi biết cảm nghĩ của bạn về Mi Mover.</string>
     <string name="trans_success_dialog_survey_title">Chúng tôi đánh giá cao phản hồi của bạn</string>
     <string name="trans_success_survey_hint">Điền vào tất cả các trường trước.</string>
+	<string name="click_soft_ap_to_link">Chọn một điểm phát để kết nối</string>
+    <string name="confirm_exit_link">Thoát</string>
+    <string name="confirm_exit_link_cancel">Không thoát</string>
+    <string name="confirm_exit_link_msg">Thoát ứng dụng bây giờ sẽ làm gián đoạn việc chuyển đang diễn ra. Bạn sẽ phải thiết lập lại kết nối giữa hai thiết bị. Vẫn thoát ứng dụng?</string>
+    <string name="confirm_exit_link_title">Đang ngắt chuyển</string>
+    <string name="connect_soft_ap_label">Đang kết nối thiết bị mới…</string>
+    <string name="old_soft_name">Kết nối qua mã QR</string>
+    <string name="old_way">Bạn cũng có thể kết nối bằng mã QR. Chạm để tạo mã.</string>
+    <string name="recreate_soft_ap_tips">Chạm nút bên dưới để thử lại</string>
+    <string name="scan_soft_ap">Đang tìm thiết bị mới…</string>
+    <string name="scan_soft_ap_label">Kết nối với thiết bị cũ</string>
+    <string name="soft_ap_create_failed">Không thể tạo điểm phát</string>
+    <string name="soft_ap_creating">Đang tạo điểm phát…</string>
+    <string name="trans_intro_desc_10">Chạm \"Kết nối qua mã QR\" trên thiết bị mới và quét mã QR để thiết lập kết nối.</string>
+    <string name="trans_intro_desc_gms">Do khả năng chuyển thất bại cao vì vấn đề tương thích, Mi Mover sẽ không hỗ trợ chuyển dữ liệu tạo ra bởi các ứng dụng Google.</string>
+    <string name="trans_intro_question_10">%d. Không thể tìm thấy điểm phát trên thiết bị cũ?</string>
+    <string name="trans_intro_title_gms">Dữ liệu tạo ra bởi các ứng dụng Google:</string>
+    <string name="wait_link">Kết nối thiết bị cũ của bạn với điểm phát này. Không rời khỏi trang này cho đến khi kết nối được thiết lập.</string>
+    <string name="waiting">Chỉ vài giây…</string>
 </resources>
