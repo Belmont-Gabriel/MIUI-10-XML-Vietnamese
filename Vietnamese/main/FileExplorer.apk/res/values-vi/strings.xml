@@ -382,7 +382,7 @@
     <string name="decrypt_to">Giải mã và lưu vào…</string>
     <string name="phone_storage">Lưu trữ</string>
     <string name="phone_storage_cal">Đang kiểm tra…</string>
-    <string name="phone_storage_info_str">%1$s trống | %2$s khả dụng</string>
+    <string name="phone_storage_info_str">%1$s trên %2$s khả dụng</string>
     <string name="phone_storage_size_tip">Thông tin dung lượng lưu trữ trong Tập tin có thể khác với ứng dụng khác</string>
     <string name="phone_storage_image_title">Ảnh:</string>
     <string name="phone_storage_video_title">Video:</string>

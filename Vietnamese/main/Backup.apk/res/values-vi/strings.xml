@@ -397,7 +397,8 @@ Chạm [Tôi là người nhận] để tạo Mã QR"</string>
 Đang chờ chuyển…"</string>
     <string name="trans_select_data">Chọn mục để gửi</string>
     <string name="trans_select_data_tips">"Chọn mục để chuyển
-Tập tin tương tự trên thiết bị mới sẽ được ghi đè"</string>
+Tập tin tương tự trên thiết bị mới sẽ được ghi đè
+(Kích thước tập tin được chuyển mà bạn thấy là con số làm tròn ước lượng.)"</string>
     <string name="trans_select_data_no_space">"Không đủ dung lượng trống trên thiết bị mới
 Chọn lại tập tin hoặc giải phóng %s dung lượng trên thiết bị mới"</string>
     <string name="trans_calculating_base_size">Đang tính kích thước dữ liệu</string>
@@ -437,7 +438,9 @@ Giải phóng ít nhất %s."</string>
     <string name="trans_detail_app_data_useless_tip">Bạn có thể khôi phục từ ứng dụng, không cần chuyển.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Dường như mục này quá lớn để chuyển.</string>
     <string name="trans_detail_item_app_data_selected_tip">Đã chọn các ứng dụng tương ứng.</string>
-    <string name="trans_detail_list_footer">Chú ý: Bạn có thể chọn để chuyển ứng dụng độc lập. Tuy nhiên, nếu bạn chọn dữ liệu ứng dụng, các ứng dụng tương ứng cũng sẽ được chuyển.</string>
+    <string name="trans_detail_list_footer">"1. Bạn có thể chọn ứng dụng riêng lẻ để chuyển.
+2. Nếu bạn chọn dữ liệu ứng dụng, ứng dụng tương ứng cũng sẽ được chuyển theo.
+3. Dữ liệu ứng dụng WeChat và QQ có thể không chuyển được vì vấn đề tương thích. Bạn có thể thử tính năng chuyển dữ liệu trong ứng dụng."</string>
     <string name="trans_detail_page_tip">Bạn chọn mục càng nhiều thời gian chuyển sẽ càng lâu.</string>
     <string name="trans_detail_sys_data_list_title">Ứng dụng hệ thống</string>
     <string name="trans_detail_app_data_list_title">Dữ liệu ứng dụng</string>

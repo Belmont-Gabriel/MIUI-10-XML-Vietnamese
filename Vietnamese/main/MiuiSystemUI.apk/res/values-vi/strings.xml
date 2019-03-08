@@ -1983,10 +1983,11 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="face_unlock_fail">Không thể nhận diện khuôn mặt</string>
 	<string name="face_unlock_fail_retry">Không nhận diện khuôn mặt của bạn. Chạm vào biểu tượng và thử lại</string>
 	<string name="face_unlock_success_stay_screen_msg">Hiển thị Màn hình khóa sau khi nhận diện khuôn mặt. Vuốt lên để mở Màn hình chính.</string>
-	<string name="face_unlock_success_stay_screen_title">Không bỏ qua Màn hình khóa sau khi nhận diện</string>
+	<string name="face_unlock_success_stay_screen_title">Không bỏ qua Màn hình khóa</string>
 	<string name="usb_port_short_circuit_dialog_content">Sạc bị hạn chế. Ngắt kết nối bộ sạc, lau sạch và khô cổng sạc để khôi phục khả năng sạc.</string>
 	<string name="usb_port_short_circuit_notification_content">Ngắt kết nối bộ sạc, lau sạch và khô cổng sạc.</string>
 	<string name="usb_port_short_circuit_recovered_content">Bạn có thể dùng để sạc hoặc kết nối với các thiết bị khác.</string>
 	<string name="usb_port_short_circuit_recovered_title">Cổng sạc giờ đã hoạt động bình thường</string>
 	<string name="usb_port_short_circuit_title">Có hơi nước trong cổng sạc</string>
+	<string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
 </resources>
