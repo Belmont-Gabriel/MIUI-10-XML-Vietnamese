@@ -275,7 +275,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="sniff_result_website_intro">Tổng &lt;font color=\"#6699ff\">%1$d&lt;/font> mục | Từ: %2$s</string>
     <string name="sniff_result_num_prefix">Đã tìm thấy</string>
     <string name="sniff_result_num_video_suffix">mục</string>
-    <string name="sniff_result_num_website_suffix">trang web</string>
+    <string name="sniff_result_num_website_suffix">Trang web</string>
     <string name="sniff_btn_text">Nguồn</string>
     <string name="sniff_sniffing_btn_text">Đang tìm nguồn…</string>
     <string name="sniff_result_empty_prompt">Kết quả tìm kiếm web</string>

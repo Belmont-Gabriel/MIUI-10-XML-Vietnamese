@@ -992,9 +992,9 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="calling_via_template">Gọi qua %s</string>
     <string name="contactPhoto">Ảnh liên hệ</string>
     <string name="goPrivate">Trò chuyện riêng</string>
-    <string name="selectContact">chọn liên hệ</string>
+    <string name="selectContact">Chọn liên hệ</string>
     <string name="not_voice_capable">Không hỗ trợ tính năng gọi thoại</string>
-    <string name="description_dial_button">quay số</string>
+    <string name="description_dial_button">Quay số</string>
     <string name="voicemail_notification_vibrate_when_title">Rung</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Rung</string>
     <string name="voicemail_visual_voicemail_switch_title">Thư thoại trực quan</string>

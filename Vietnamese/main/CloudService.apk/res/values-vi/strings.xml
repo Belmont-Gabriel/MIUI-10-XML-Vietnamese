@@ -7,7 +7,7 @@
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ, thêm tài khoản lại.</string>
     <string name="sina_share_fail_content_repeat">Bạn đã chia sẻ nội dung này.</string>
     <string name="search_finddevice_pref">Tìm Thiết bị</string>
-    <string name="search_finddevice_pref_key_words">tìm thiết bị</string>
+    <string name="search_finddevice_pref_key_words">Tìm thiết bị</string>
     <string name="search_finddevice_pref_desc">Bật/tắt Tìm Thiết bị</string>
     <string name="search_finddevice_pref_path">Tài khoản Mi/Mi Cloud/Tìm thiết bị</string>
     <string name="search_cloudbackup_pref">Sao lưu Mi Cloud</string>
@@ -296,7 +296,7 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="micloud_privacy_warning_title">Gợi ý</string>
     <string name="micloud_privacy_warning_content">Không thể kích hoạt Mi Cloud. Hãy thử lại sau.</string>
     <string name="micloud_privacy_warning_button">Quay lại</string>
-    <string name="micloud_privacy_more">thêm</string>
+    <string name="micloud_privacy_more">Thêm</string>
     <string name="micloud_check_sim_title">"Hình như bạn đã đổi thẻ SIM. Đăng nhập vào 
 Tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Kích hoạt lại Mi Cloud</string>

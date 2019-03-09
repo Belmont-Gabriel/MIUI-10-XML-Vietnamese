@@ -190,8 +190,8 @@
     <string name="storage_info_detail">Trống: %1$s Tổng: %2$s</string>
     <string name="just_now">Vừa xong</string>
     <string name="yesterday">Hôm qua</string>
-    <string name="month_day_format">MMM dd</string>
-    <string name="year_month_day_format">MMM dd, yyyy</string>
+    <string name="month_day_format">dd MMM</string>
+    <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="operation_del_fav">Đang xóa khỏi yêu thích…</string>
     <string name="operation_add_fav">Đang thêm vào yêu thích…</string>
     <string name="port_range">Số cổng phải trong khoảng từ 1024–65535</string>
@@ -373,8 +373,8 @@
     <string name="report_other">Khác</string>
     <string name="midrop_send_files">Chọn tập tin để gửi</string>
     <string name="pick_file">Chọn tập tin</string>
-    <string name="disk_available">Trống:</string>
-    <string name="disk_total">Tổng:</string>
+    <string name="disk_available">"Trống: "</string>
+    <string name="disk_total">"Tổng: "</string>
     <string name="click_to_switch_volume">Chạm để chuyển đổi giữa bộ nhớ trong và thẻ SD</string>
     <string name="click_to_switch_volume_pad">Chạm để chuyển đổi giữa bộ nhớ trong và thẻ SD</string>
     <string name="midrop_msg_1">Bật Mi Drop trên thiết bị khác</string>
@@ -382,7 +382,7 @@
     <string name="decrypt_to">Giải mã và lưu vào…</string>
     <string name="phone_storage">Lưu trữ</string>
     <string name="phone_storage_cal">Đang kiểm tra…</string>
-    <string name="phone_storage_info_str">%1$s trống | %2$s khả dụng</string>
+    <string name="phone_storage_info_str">%1$s trên %2$s khả dụng</string>
     <string name="phone_storage_size_tip">Thông tin dung lượng lưu trữ trong Tập tin có thể khác với ứng dụng khác</string>
     <string name="phone_storage_image_title">Ảnh:</string>
     <string name="phone_storage_video_title">Video:</string>
@@ -391,7 +391,7 @@
     <string name="phone_storage_audio_title">Nhạc:</string>
     <string name="phone_storage_doc_title">Văn bản: </string>
     <string name="phone_storage_apk_title">APK:</string>
-    <string name="phone_storage_free_title">Trống:</string>
+    <string name="phone_storage_free_title">"Trống: "</string>
     <string name="phone_storage_clean">Dọn dẹp</string>
     <string name="no_apk">Chạm để nhận ứng dụng</string>
     <string name="ad_download">Tải xuống</string>

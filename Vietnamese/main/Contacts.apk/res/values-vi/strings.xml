@@ -335,7 +335,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="description_search_button">Tìm kiếm</string>
     <string name="description_send_message">Gửi tin nhắn đến %1$s</string>
     <string name="description_send_text_message">Gửi tin nhắn đến %1$s</string>
-    <string name="description_star">yêu thích</string>
+    <string name="description_star">Yêu thích</string>
     <string name="description_view_contact">Xem liên hệ %1$s</string>
     <string name="description_view_contact_detail">Xem liên hệ</string>
     <string name="description_voicemail_button">Thư thoại</string>
@@ -621,8 +621,8 @@ Nguyên nhân: \"%s\""</string>
     <string name="menu_new_contact_action_bar">Mới</string>
     <string name="menu_new_favorite_action_bar">Thêm vào yêu thích</string>
     <string name="menu_new_group_action_bar">Mới</string>
-    <string name="menu_not_redirect_calls_to_vm">Hộp thư thoại không được dùng</string>
-    <string name="menu_redirect_calls_to_vm">Tất cả cuộc gọi đến hộp thư thoại</string>
+    <string name="menu_not_redirect_calls_to_vm">Không dùng hộp thư thoại</string>
+    <string name="menu_redirect_calls_to_vm">Cả cuộc gọi đến hộp thư thoại</string>
     <string name="menu_removeStar">Bỏ yêu thích</string>
     <string name="menu_search">Tìm kiếm</string>
     <string name="menu_select_all">Chọn tất cả</string>
@@ -1039,7 +1039,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="smart_group_frequency_1">Trong tháng qua</string>
     <string name="smart_group_frequency_2">1 đến 3 tháng</string>
     <string name="smart_group_frequency_3">3 đến 6 tháng</string>
-    <string name="smart_group_frequency_4">Quá 6 tháng</string>
+    <string name="smart_group_frequency_4">Trên 6 tháng</string>
     <string name="smart_group_frequency_label">Gần đây</string>
     <string name="smart_group_label">Nhóm thông minh</string>
     <string name="smart_group_loading">Vui lòng chờ…</string>

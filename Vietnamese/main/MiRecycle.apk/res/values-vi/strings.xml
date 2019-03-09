@@ -126,7 +126,7 @@
     <string name="buy_title_two">Quá mệt mỏi khi đến trung tâm dịch vụ?</string>
     <string name="buy_top_summary">Không bao giờ lo lắng về thiệt hại với điện thoại của bạn</string>
     <string name="cashify_entrance">Bán điện thoại cũ</string>
-    <string name="cd_charger_test_status">trạng thái kiểm tra sạc</string>
+    <string name="cd_charger_test_status">Trạng thái kiểm tra sạc</string>
     <string name="cd_dead_pixel_test_image">Hình ảnh kiểm tra điểm chết</string>
     <string name="cd_screen_touch_test_image">hình ảnh kiểm tra cảm ứng</string>
     <string name="cd_volume_test_image">hình ảnh nút âm lượng của điện thoại</string>
@@ -188,7 +188,7 @@
     <string name="show_order_detail">Chi tiết đơn hàng</string>
     <string name="show_pickup_date">Ngày đặt hàng:</string>
     <string name="show_pickup_detail">Chi tiết đặt hàng</string>
-    <string name="status_int">trạng thái đặt hàng</string>
+    <string name="status_int">Trạng thái đặt hàng</string>
     <string name="status_marker_view">xem trạng thái đánh dấu</string>
     <string name="text_add_continue">Thêm và Tiếp tục</string>
     <string name="text_have_coupon">Có mã giảm giá?</string>
