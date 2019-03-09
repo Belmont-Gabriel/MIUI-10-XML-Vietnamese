@@ -378,4 +378,7 @@
     <string name="launcher_slide_up_title">Trượt xuống từ Màn hình chính</string>
     <string name="menu_finish">Hoàn tất</string>
     <string name="widgets_preview_title">Thêm tiện ích</string>
+	<string name="home_pull_down_action">Trượt xuống trên Màn hình chính</string>
+    <string name="home_slide_up_action">Trượt lên trên Màn hình chính</string>
+    <string name="minus_one_screen">màn hình trừ một</string>
 </resources>

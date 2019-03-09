@@ -7784,4 +7784,5 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="crypt_keeper_switch_to_pin">Sử dụng mã PIN</string>
 	<string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="eq_return">Quay lại</string>
+	<string name="link_speed">%1$d Mb/giây</string>
 </resources>

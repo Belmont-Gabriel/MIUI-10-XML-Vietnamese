@@ -1220,4 +1220,7 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="online_apk_install_alert_note">Dịch vụ này được cung cấp bởi Yandex.Music</string>
     <string name="online_apk_install_error_no_enough_space">Không thể cài đặt do không đủ dung lượng.</string>
     <string name="online_apk_install_error_with_reason">Không thể cài đặt (Lỗi %d)</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=vi_VN</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=vi_VN</string>
 </resources>

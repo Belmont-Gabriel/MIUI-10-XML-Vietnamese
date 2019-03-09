@@ -688,4 +688,5 @@
     <string name="wallpaper_personal_dialog_content">Sử dụng tính năng này để có thể chọn hình nền cá nhân hóa dựa trên sở thích của bạn. Bạn có thể bật hoặc tắt tính năng này trong cài đặt. Cá nhân hóa hình nền ngay?</string>
     <string name="wallpaper_personal_dialog_disagree">Không, cảm ơn</string>
     <string name="wallpaper_personal_dialog_title">Cá nhân hóa hình nền</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
 </resources>
