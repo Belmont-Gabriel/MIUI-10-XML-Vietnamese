@@ -2,11 +2,9 @@
 <resources>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s người theo dõi</item>
-        <item quantity="one">%1$s người theo dõi</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s hình nền</item>
-        <item quantity="one">%1$s hình nền</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
         <item quantity="other">%d bài viết về chủ đề này</item>

@@ -34,7 +34,7 @@
         <item quantity="other">%d bài hát tương tự</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d bài hát chưa được sao lưu (%2$.1fMB)\"</item>
+        <item quantity="other">%1$d bài hát chưa được sao lưu (%2$.1fMB)</item>
     </plurals>
     <plurals name="Nupload_song_button">
         <item quantity="other">Sao lưu %1$d bài hát (%2$.1fMB)</item>
@@ -112,10 +112,10 @@
         <item quantity="other">Xóa %d danh sách phát?</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Tiếp tục tải xuống bài hát đã chọn?\"</item>
+        <item quantity="other">Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Tiếp tục tải xuống bài hát đã chọn?</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.\"</item>
+        <item quantity="other">Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.</item>
     </plurals>
 	<plurals name="Ndialog_renew_content">
         <item quantity="other">"Đăng ký của bạn sẽ hết hạn trong %d ngày.
@@ -132,9 +132,27 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
         <item quantity="other">%1$s lượt xem</item>
     </plurals>
 	<plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Đang tải xuống %1$d tập tin</item>
+        <item quantity="other">Đang tải xuống %1$d bài hát</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">Không thể tải xuống %1$d mục</item>
+        <item quantity="other">Không thể tải xuống %1$d bài hát</item>
+    </plurals>
+	<plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">Theo cầu của chủ sở hữu bản quyền, %d bài hát đã chọn không thể tải xuống miễn phí. Những bài hát này đã thêm vào Tải xuống.</item>
+    </plurals>
+	<plurals name="Nnowplaying_songs">
+		<item quantity="other">(%d bài hát)</item>
+    </plurals>	    
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d phút còn lại</item>
+    </plurals>
+	 <plurals name="comment_input_length_invalid">
+        <item quantity="other">Bạn có thể nhập tới %1$d ký tự.</item>
+    </plurals>
+	<plurals name="notification_download_success_more">
+        <item quantity="other">%1$d bài hát</item>
+    </plurals>
+	<plurals name="swipe_to_load_head_complete_success">
+		<item quantity="other">Đây là %1$d cập nhật cho bạn:</item>
     </plurals>
 </resources>

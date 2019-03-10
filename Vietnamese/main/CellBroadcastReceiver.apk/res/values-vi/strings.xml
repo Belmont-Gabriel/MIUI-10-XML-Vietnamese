@@ -151,4 +151,20 @@
     <string name="updating_title">Cài đặt cuộc gọi</string>
     <string name="warning_alert">Thông báo cảnh báo</string>
     <string name="warning_alerts">Thông báo cảnh báo</string>
+	<string name="ae_emergency_alert_title">Cảnh báo khẩn cấp</string>
+    <string name="ae_emergency_alerts_title">Tin nhắn cảnh báo khẩn cấp</string>
+    <string name="ae_exercise_title">Bài tập</string>
+    <string name="ae_exercises_title">Bài tập</string>
+    <string name="ae_national_emergency_alert_title">Cảnh báo Quốc gia</string>
+    <string name="ae_national_emergency_alerts_title">Thông điệp cảnh báo Quốc gia</string>
+    <string name="ae_test_alert_title">Thông điệp thử nghiệm</string>
+    <string name="ae_test_alerts_title">Thông điệp cảnh báo thử nghiệm</string>
+    <string name="ae_warning_alert_title">Tin nhắn cảnh báo</string>
+    <string name="ae_warning_alerts_title">Tin nhắn cảnh báo</string>
+    <string name="tw_alert_message_dialog_title">Thông báo cảnh báo</string>
+    <string name="tw_emergency_alert">Cảnh báo khẩn cấp</string>
+    <string name="tw_emergency_alert_dialog_title">Cảnh báo khẩn cấp</string>
+    <string name="tw_presidential_alert_dialog_title">Cảnh báo Quốc gia</string>
+    <string name="tw_required_monthly_test">Yêu cầu Kiểm tra hàng tháng</string>
+    <string name="tw_required_monthly_test_dialog_title">Tin nhắn Kiểm tra hàng tháng</string>
 </resources>
