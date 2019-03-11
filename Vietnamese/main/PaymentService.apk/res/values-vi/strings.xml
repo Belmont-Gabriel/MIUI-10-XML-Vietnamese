@@ -570,18 +570,18 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_error_privacy_summary">Bạn đã hủy bỏ ủy quyền.</string>
     <string name="mibi_frozen_text"><Data>Tài khoản của bạn bị đóng băng. &lt;font color=#33aaff>Liên hệ hỗ trợ khách hàng.&lt;/font></Data></string>
     <string name="mibi_frozen_text_pad">Tài khoản của bạn bị đóng băng. Liên hệ 400–100–3399.</string>
-    <string name="mibi_giftcard_available">khả dụng</string>
-    <string name="mibi_giftcard_discount">Coupons</string>
+    <string name="mibi_giftcard_available">Khả dụng</string>
+    <string name="mibi_giftcard_discount">Phiếu giảm giá</string>
     <string name="mibi_giftcard_discount_detail">Phiếu giảm giá</string>
     <string name="mibi_giftcard_discount_detail2">(Dành %1$s Mi Credits để đổi)</string>
     <string name="mibi_giftcard_empty_detail">Không %1$s phiếu giảm giá.</string>
     <string name="mibi_giftcard_has_unavailable">Hết hạn</string>
     <string name="mibi_giftcard_has_used">Đã đổi</string>
     <string name="mibi_giftcard_in_available">Khả dụng</string>
-    <string name="mibi_giftcard_unavailable">hết hạn</string>
+    <string name="mibi_giftcard_unavailable">Hết hạn</string>
     <string name="mibi_giftcard_use_now">Đổi</string>
-    <string name="mibi_giftcard_used">đã đổi</string>
-    <string name="mibi_giftcard_vaild_util">hiệu lực đến %1$s</string>
+    <string name="mibi_giftcard_used">Đã đổi</string>
+    <string name="mibi_giftcard_vaild_util">Hiệu lực đến %1$s</string>
     <string name="mibi_menu_feedback">Phản hồi</string>
     <string name="mibi_normal_license_name">Điều khoản và điều kiện</string>
     <string name="mibi_order_pay_uncertain_button">Đã hiểu</string>
@@ -642,4 +642,5 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="passport_user_reg_region_warning">Bạn sẽ không thể thay đổi vị trí quốc gia/khu vực sau khi tạo tài khoản.</string>
     <string name="passport_verifying_activator_phone">Đang xác minh bảo mật điện thoại…</string>
     <string name="passport_yes">Có</string>
+	<string name="mibi_more_operation">Thêm hành động</string>
 </resources>

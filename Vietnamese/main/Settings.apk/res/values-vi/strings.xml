@@ -4641,7 +4641,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="free_wifi_user_agreement_title">Cảnh báo riêng tư</string>
     <string name="translation_contributors_title">MIUI Việt Nam</string>
     <string name="wifi_type_approval_title">Loại phê duyệt</string>
-    <string name="wifi_type_approval_dialog_title">SỐ NTC.</string>
+    <string name="wifi_type_approval_dialog_title">Thông tin về các quy định</string>
     <string name="status_sim">Tình trạng thẻ SIM</string>
     <string name="status_sim_1">SIM 1</string>
     <string name="status_sim_2">SIM 2</string>
@@ -7784,4 +7784,11 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="crypt_keeper_switch_to_pin">Sử dụng mã PIN</string>
 	<string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="eq_return">Quay lại</string>
+	<string name="gxzw_quick_open_enable_summary">Sử dụng cử chỉ tắt để mở ứng dụng hoặc sử dụng tính năng ứng dụng khi thiết bị đã mở khóa</string>
+    <string name="gxzw_quick_open_enable_title">Lối tắt vân tay</string>
+    <string name="gxzw_quick_open_fast_summary">Vuốt để sử dụng lối tắt khi thiết bị đã mở khóa</string>
+    <string name="gxzw_quick_open_fast_title">Vuốt nhanh (nâng cao)</string>
+    <string name="gxzw_quick_open_slow_summary">Nhấn và giữ biểu tượng vân tay để mở menu lối tắt. Vuốt để sử dụng lối tắt.</string>
+    <string name="gxzw_quick_open_slow_title">Nhấn và giữ</string>
+    <string name="gxzw_quick_open_title">Lối tắt</string>
 </resources>

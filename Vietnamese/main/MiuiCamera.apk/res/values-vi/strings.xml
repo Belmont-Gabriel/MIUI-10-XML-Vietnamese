@@ -765,4 +765,9 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="pref_camera_zoom_mode_entry_ultra">Siêu rộng</string>
 	<string name="hint_ae_lock">Đã khóa phơi sáng tự động</string>
 	<string name="config_name_ratio">Tỷ lệ</string>
+	<string name="pref_camera_long_press_viewfinder_title">Nhấn &amp; giữ kính ngắm</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Ống kính Google</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Khóa AE &amp; AF</string>
+    <string name="pref_google_lens_summary">Tự động nhận diện mã QR, Email, số và văn bản</string>
+    <string name="pref_google_lens_title">Gợi ý thông minh</string>
 </resources>
