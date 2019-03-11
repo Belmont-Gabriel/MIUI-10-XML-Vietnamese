@@ -204,4 +204,10 @@
     <plurals name="sync_oversized_count">
         <item quantity="other">%d mục quá lớn để sao lưu</item>
     </plurals>
+	<plurals name="photo_count_format">
+        <item quantity="other">Tổng %1$d mục</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d tập tin</item>
+    </plurals>
 </resources>

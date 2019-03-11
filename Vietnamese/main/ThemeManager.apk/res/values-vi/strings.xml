@@ -745,4 +745,5 @@
 	<string name="transparent_wallpaper_white_wallpaper_tip">Hình nền trong suốt nhìn đẹp nhất với nền màu trắng</string>
     <string name="video_wallpaper_import">Chạm để thêm mục</string>
 	<string name="wallpaper_set_as_float_wallpaper">Hình nền trong suốt (Thử nghiệm)</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
 </resources>

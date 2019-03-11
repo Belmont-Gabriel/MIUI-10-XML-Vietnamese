@@ -1363,4 +1363,7 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="xiaoai_install_title">Cài đặt Trợ lý giọng nói Mi AI</string>
     <string name="xiaoai_update_message">Có vẻ trợ lý giọng nói Mi AI quá cũ. Bạn có thể cập nhật ngay.</string>
     <string name="xiaoai_update_title">Cập nhật Mi AI</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=vi_VN</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=vi_VN</string>
 </resources>
