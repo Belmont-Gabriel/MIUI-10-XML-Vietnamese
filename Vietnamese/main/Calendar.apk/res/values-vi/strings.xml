@@ -28,7 +28,6 @@
     <string name="creating_event">Đã tạo sự kiện.</string>
     <string name="creating_event_with_guest">Thư mời sẽ được gửi.</string>
     <string name="daily">Hàng ngày</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">Sự kiện mới</string>
     <string name="delete_recurring_event_title">Xóa %s?</string>
     <string name="delete_this_event_title">Xóa sự kiện này?</string>
