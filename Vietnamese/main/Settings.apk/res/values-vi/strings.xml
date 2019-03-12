@@ -5224,7 +5224,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="unlock_set_unlock_biometric_weak_summary">Tính năng thử nghiệm có tính an toàn thấp</string>
     <string name="biometric_weak_improve_matching_title">Cải thiện làm khớp khuôn mặt</string>
     <string name="biometric_weak_liveliness_title">Kiểm tra tính năng sống động</string>
-    <string name="biometric_weak_liveliness_summary">Cần chớp mắt trong khi mở khóa</string>
+    <string name="biometric_weak_liveliness_summary">Cần chớp mắt để mở khóa</string>
     <string name="lockscreen_magazine">Tạp chí Khóa màn hình</string>
     <string name="lockscreen_magazine_summary">Tạp chí Khóa màn hình chất lượng cao</string>
     <string name="setup_password_back">Quay lại</string>
@@ -7795,7 +7795,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="cutout_mode_always">Luôn hiển thị tai thỏ</string>
 	<string name="cutout_mode_default">Tự động</string>
 	<string name="cutout_mode_settings_title">Một vài ứng dụng có thể hiển thị sai nếu bạn tùy chỉnh cách hiển thị tai thỏ.</string>
-	<string name="cutout_mode_title">Tai thỏ trong từng ứng dụng</string>
+	<string name="cutout_mode_title">Tai thỏ trong các ứng dụng cá nhân</string>
 	<string name="login_account_summary">Quản lý tài khoản, dịch vụ đám mây, thanh toán và nhiều hơn nữa</string>
     <string name="miui_more_special_feature">Khám phá tính năng mới</string>
 	<string name="miui_special_feature">Tính năng đặc biệt</string>
