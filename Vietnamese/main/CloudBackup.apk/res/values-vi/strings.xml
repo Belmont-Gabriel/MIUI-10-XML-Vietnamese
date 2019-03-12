@@ -40,7 +40,7 @@
 *  Cài đặt đồng hồ, báo thức 
 *  Cài đặt thông báo 
 *  Cài đặt Miui và hệ thống 
-\"Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sao lưu đến Mi Cloud.\""</string>
+Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sao lưu đến Mi Cloud."</string>
     <string name="cloud_app_no_data">Không có sao lưu</string>
     <string name="cloud_app_restore_error">Không thể khôi phục</string>
     <string name="cloud_app_restore_success">Đã khôi phục ứng dụng</string>

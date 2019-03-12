@@ -47,6 +47,6 @@
         <item>Âm báo Pin yếu</item>
     </string-array>
     <string-array name="disable_package_replacement">
-        <item>tắt tên gói</item>
+        <item>Tắt tên gói</item>
     </string-array>
 </resources>

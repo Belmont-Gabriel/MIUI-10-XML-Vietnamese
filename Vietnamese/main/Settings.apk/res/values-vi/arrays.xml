@@ -750,13 +750,13 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Kết nối thủ công</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>chế độ tương thích</item>
-        <item>chế độ cao</item>
+        <item>Chế độ tương thích</item>
+        <item>Chế độ cao</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>đóng</item>
-        <item>chế độ thông thường</item>
-        <item>chế độ cao nhất</item>
+        <item>Đóng</item>
+        <item>Chế độ thông thường</item>
+        <item>Chế độ cao nhất</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Trình khởi chạy</item>

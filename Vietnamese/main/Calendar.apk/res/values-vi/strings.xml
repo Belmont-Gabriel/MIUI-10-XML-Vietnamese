@@ -79,7 +79,7 @@
     <string name="preferences_default_reminder_title">Thời gian nhắc nhở mặc định</string>
     <string name="preferences_home_tz_title">Múi giờ chính</string>
     <string name="preferences_title">Lịch</string>
-    <string name="preferences_use_home_tz_descrip">Hiện lịch và t.gian sự kiện trong múi giờ chính khi du lịch</string>
+    <string name="preferences_use_home_tz_descrip">Hiện lịch và thời gian sự kiện trong múi giờ chính khi du lịch</string>
     <string name="preferences_use_home_tz_title">Dùng múi giờ chính</string>
     <string name="preferences_week_start_day_dialog">Ngày bắt đầu tuần</string>
     <string name="preferences_week_start_day_title">Ngày bắt đầu tuần</string>

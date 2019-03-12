@@ -71,11 +71,6 @@
         <item>Nền</item>
         <item>Gần đây</item>
     </string-array>
-    <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Chặn chế độ ngủ sâu</item>
         <item>Chặn chế độ ngủ</item>

@@ -2953,7 +2953,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="configure_notification_settings">Định cấu hình thông báo</string>
     <string name="advanced_section_header">Nâng cao</string>
     <string name="profile_section_header">Thông báo công việc</string>
-    <string name="notification_pulse_title">Đèn thông báo dạng xung</string>
+    <string name="notification_pulse_title">Nháy đèn thông báo</string>
     <string name="lock_screen_notifications_title">Trên màn hình khóa</string>
     <string name="lock_screen_notifications_summary_show">Hiển thị tất cả thông báo và nội dung</string>
     <string name="lock_screen_notifications_summary_hide">Hiển thị tất cả thông báo nhưng ẩn nội dung</string>
@@ -3458,7 +3458,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="notification_log_details_none">Không có</string>
     <string name="notification_log_details_ranking_null">Thiếu đối tượng xếp hạng.</string>
     <string name="notification_log_details_ranking_none">Đối tượng xếp hạng không chứa khóa này.</string>
-    <string name="special_access">Quyền truy cập đặc biệt</string>
+    <string name="special_access">Truy cập ứng dụng đặc biệt</string>
     <string name="confirm_convert_to_fbe_warning">Bạn có thực sự muốn xóa dữ liệu người dùng và chuyển đổi sang mã hóa tệp không?</string>
     <string name="button_confirm_convert_fbe">Xóa và chuyển đổi</string>
     <string name="reset_shortcut_manager_throttling">Đặt lại bộ đếm giới hạn tốc độ trong ShortcutManage</string>
@@ -4584,8 +4584,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Xem các ứng dụng yêu cầu truy cập thông tin vị trí gần đây</string>
     <string name="permission_manager">Quyền truy cập</string>
-    <string name="personal_section_title">Cá nhân</string>
-    <string name="system_and_device_section_title">Hệ thống &amp; thiết bị</string>
+    <string name="personal_section_title">Cá nhân hóa</string>
+    <string name="system_and_device_section_title">Cài đặt hệ thống</string>
     <string name="application_manager_section_title">Cài đặt ứng dụng</string>
     <string name="bluetooth_unlock_title">Mở khóa bằng thiết bị Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Tắt</string>
@@ -6581,7 +6581,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="interaction_control_category_title">Điều khiển tương tác</string>
      <string name="ipo_summary_off">Bật khởi động nhanh</string>
      <string name="ipo_title">Khởi động nhanh</string>
-     <string name="key_fsg_dialog_message">Bạn đang bật cử chỉ toàn màn hình. Tính năng có liên quan đến phím hiện không khả dụng. Chuyển sang phím?</string>
+     <string name="key_fsg_dialog_message">Bạn đang bật cử chỉ toàn màn hình. Tính năng có liên quan đến phím hiện không khả dụng. Chuyển sang phím điều hướng?</string>
      <string name="key_fsg_dialog_negative">Hủy</string>
      <string name="key_fsg_dialog_positive">Chuyển sang phím</string>
      <string name="keyguard_security_setting_others">Khác</string>
@@ -7792,4 +7792,16 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="gxzw_quick_open_slow_title">Nhấn và giữ</string>
     <string name="gxzw_quick_open_title">Lối tắt</string>
 	<string name="link_speed">%1$d Mb/giây</string>
+	<string name="cutout_mode_always">Luôn hiển thị tai thỏ</string>
+	<string name="cutout_mode_default">Tự động</string>
+	<string name="cutout_mode_settings_title">Một vài ứng dụng có thể hiển thị sai nếu bạn tùy chỉnh cách hiển thị tai thỏ.</string>
+	<string name="cutout_mode_title">Tai thỏ trong từng ứng dụng</string>
+	<string name="login_account_summary">Quản lý tài khoản, dịch vụ đám mây, thanh toán và nhiều hơn nữa</string>
+    <string name="miui_more_special_feature">Khám phá tính năng mới</string>
+	<string name="miui_special_feature">Tính năng đặc biệt</string>
+	<string name="other_settings_sync_settings">Đồng bộ</string>
+	<string name="search_other_settings_sync_settings">Đồng bộ;Tự động;Chỉ Wi-Fi</string>
+	<string name="search_unlogin_account_title">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản</string>
+	<string name="unlogin_account_summary">Tất cả dịch vụ Mi. Một Tài khoản Mi</string>
+	<string name="unlogin_account_title">Đăng nhập vào Tài khoản Mi</string>
 </resources>
