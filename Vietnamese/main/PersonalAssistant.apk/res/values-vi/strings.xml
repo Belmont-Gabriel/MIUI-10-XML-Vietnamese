@@ -1705,7 +1705,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="notification_channel_favorite_description">Thông báo về mục đã thêm vào ưa thích trên các ứng dụng khác</string>
 	<string name="notification_channel_payment_description">Thông báo về khoản thanh toán</string>
 	<string name="notification_channel_shopping_description">Thông báo về sản phẩm đã thêm vào ưa thích hoặc đã thêm vào giỏ hàng</string>
-	<string name="access_change_text">Mục đang được chọn là mục %d, được hoán đổi với mục %d.</string>
+	<string name="access_change_text" formatted="false">Mục đang được chọn là mục %d, được hoán đổi với mục %d.</string>
     <string name="clock_alarm">Báo thức</string>
     <string name="clock_parent">Đồng hồ</string>
     <string name="google_assistant">Trợ lý</string>
