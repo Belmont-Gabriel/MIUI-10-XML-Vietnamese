@@ -727,7 +727,6 @@
 	<string name="resource_trial_end_checkbox_hint">Nhận Mi Credit trước</string>
 	<string name="resource_trial_end_get_mibi">Nhận Mi Credit</string>
 	<string name="resource_trial_end_jump_hint">Đang chuyển…</string>
-	<string name="set_home_wallpaper_failed">"%s. Không thể áp dụng hình nền Màn hình chính."</string>
 	<string name="theme_comment_dialog_message">Đánh giá ứng dụng và cho chúng tôi biết ý kiến của bạn.</string>
 	<string name="theme_comment_dialog_ok">Đánh giá</string>
 	<string name="theme_component_title_homepage">Trang chủ</string>
