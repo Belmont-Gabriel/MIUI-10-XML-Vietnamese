@@ -68,7 +68,6 @@
     <string name="monthly">Hàng tháng</string>
     <string name="monthly_on_day">Hàng tháng (cùng ngày)</string>
     <string name="monthly_on_day_count">Hàng tháng (%1$s %2$s)</string>
-    <string name="more_string">+%1$s</string>
     <string name="new_event_dialog_label">Sự kiện mới</string>
     <string name="new_event_dialog_option">Sự kiện mới</string>
     <string name="no_title_label">(Không có tiêu đề)</string>
@@ -80,7 +79,7 @@
     <string name="preferences_default_reminder_title">Thời gian nhắc nhở mặc định</string>
     <string name="preferences_home_tz_title">Múi giờ chính</string>
     <string name="preferences_title">Lịch</string>
-    <string name="preferences_use_home_tz_descrip">Hiện lịch và t.gian sự kiện trong múi giờ chính khi du lịch</string>
+    <string name="preferences_use_home_tz_descrip">Hiện lịch và thời gian sự kiện trong múi giờ chính khi du lịch</string>
     <string name="preferences_use_home_tz_title">Dùng múi giờ chính</string>
     <string name="preferences_week_start_day_dialog">Ngày bắt đầu tuần</string>
     <string name="preferences_week_start_day_title">Ngày bắt đầu tuần</string>
@@ -437,7 +436,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="credit_card_repayment_count">%1$s ngày nữa</string>
     <string name="credit_currency">Tệ</string>
     <string name="credit_detail_amount_label">Chi tiết</string>
-    <string name="credit_detail_sms_content">Văn bản gốc</string>
+    <string name="credit_detail_sms_content">Nội dung SMS</string>
     <string name="credit_detail_today">Hôm nay:</string>
     <string name="credit_event_card_title">Thanh toán thẻ tín dụng</string>
     <string name="credit_event_delete_successfully">Xóa thanh toán thẻ tín dụng thành công</string>
@@ -758,16 +757,15 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="flight_check_in_done">Đã checkin</string>
     <string name="flight_check_in_now">Checkin ngay</string>
     <string name="flight_detail_tips">Khuyến nghị thêm dịch vụ hành trình chuyến bay: %1$s</string>
-    <string name="flight_detail_tips_url">Thường cuyên bay</string>
     <string name="flight_detail_title">Hành trình bay</string>
     <string name="flight_disclaimer">Miễn trừ trách nhiệm</string>
-    <string name="flight_disclaimer_content">Dữ liệu và dịch vụ chuyến bay được cung cấp bởi Fei Changzhun. Các dịch vụ và trách nhiệm liên quan sẽ do bên thứ ba chịu. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với dịch vụ khách hàng của công ty. Đồng thời, thông tin chuyến bay chỉ mang tính chất tham khảo, vui lòng tham khảo thông tin do hãng hàng không công bố.</string>
+    <string name="flight_disclaimer_content">Dữ liệu và dịch vụ chuyến bay được cung cấp bởi VariFlight. Các dịch vụ và trách nhiệm liên quan sẽ do bên thứ ba chịu. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với dịch vụ khách hàng của công ty. Đồng thời, thông tin chuyến bay chỉ mang tính chất tham khảo, vui lòng tham khảo thông tin do hãng hàng không công bố.</string>
     <string name="flight_disclaimer_dialog_ok">Tôi biết</string>
     <string name="flight_event_delete_successfully">Chuyến bay đã xóa thành công</string>
-    <string name="flight_plan_time">Gói %1$s</string>
+    <string name="flight_plan_time">Lịch trình %1$s</string>
     <string name="flight_seat_no">Số ghế %1$s</string>
     <string name="flight_state">Trạng thái chuyến bay</string>
-    <string name="flight_time">Thực tế</string>
+    <string name="flight_time">Ước tính %1$s</string>
     <string name="fools_day">Cá tháng tư</string>
     <string name="winter_begins">Lập đông</string>
     <string name="winter_solstice">Đông chí</string>
@@ -921,7 +919,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="olympic_rank">Xếp hạng</string>
     <string name="olympic_total">Tổng cộng</string>
     <string name="partys_day">Ngày thành lập Đảng</string>
-    <string name="passenger">Tiếp viên hàng không</string>
+    <string name="passenger">Hành khách</string>
     <string name="peace_day">Ngày Hòa Bình</string>
     <string name="phone_num">Điện thoại</string>
     <string name="preferences_import_electricity_bill">Phí điện</string>
@@ -1082,4 +1080,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="notification_open_setting_button_ok">Cho phép</string>
 	<string name="notification_open_setting_message">Bạn sẽ không thể nhận thông báo về sự kiện cho đến khi bạn cho phép Lịch gửi thông báo.</string>
 	<string name="notification_open_setting_title">Cho phép thông báo lịch?</string>
+	<string name="accessbility_suggestion_dropdown_closed">Không có gợi ý khả dụng</string>
+	<string name="accessbility_suggestion_dropdown_opened">Đã mở đề xuất liên hệ</string>
+	<string name="chips_action_cancel">Hủy</string>
+	<string name="chips_action_copy">Sao chép</string>
+	<string name="chips_permission_text">Cho phép gợi ý liên hệ</string>	
+	<string name="feed_list_load_more">Tải thêm</string>
 </resources>

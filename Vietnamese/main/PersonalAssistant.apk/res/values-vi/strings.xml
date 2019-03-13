@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
     <string name="abc_action_mode_done">Xong</string>
@@ -787,7 +785,7 @@
     <string name="list_icon_add">Thêm</string>
     <string name="list_icon_delete">Xóa</string>
 	<string name="more_stock_infos">Thêm thông tin</string>
-	<string name="phone_check">Tối ưu</string>
+	<string name="phone_check">Tối ưu hóa</string>
 	<string name="stock_provider">Thông tin thị trường chứng khoán được cung cấp bởi Webull</string>
 	 <string name="access_select">Đã chọn %s</string>
     <string name="access_unselect">Đã bỏ chọn %s</string>
@@ -1707,4 +1705,10 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="notification_channel_favorite_description">Thông báo về mục đã thêm vào ưa thích trên các ứng dụng khác</string>
 	<string name="notification_channel_payment_description">Thông báo về khoản thanh toán</string>
 	<string name="notification_channel_shopping_description">Thông báo về sản phẩm đã thêm vào ưa thích hoặc đã thêm vào giỏ hàng</string>
+	<string name="access_change_text">Mục đang được chọn là mục %d, được hoán đổi với mục %d.</string>
+    <string name="clock_alarm">Báo thức</string>
+    <string name="clock_parent">Đồng hồ</string>
+    <string name="google_assistant">Trợ lý</string>
+    <string name="midrop_send">Gửi</string>
+    <string name="whatsapp_photos">Ảnh</string>
 </resources>

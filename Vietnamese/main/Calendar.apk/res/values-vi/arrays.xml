@@ -274,11 +274,11 @@
         <item>20/04 - 20/05</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>Trước 3 giờ</item>
-        <item>Trước 4 giờ</item>
-        <item>Trước 5 giờ</item>
-        <item>Trước 6 giờ</item>
-        <item>Trước 1 ngày</item>
+        <item>3 giờ trước</item>
+        <item>4 giờ trước</item>
+        <item>5 giờ trước</item>
+        <item>6 giờ trước</item>
+        <item>1 ngày trước</item>
     </string-array>
     <string-array name="virgo_info">
         <item>cung xử nữ</item>
@@ -513,5 +513,32 @@
         <item>Quý Dậu</item>
         <item>Nhâm Tuất</item>
         <item>Quý Hợi</item>
+    </string-array>
+	<string-array name="aqi_level_simple_desc">
+        <item>Tuyệt vời</item>
+        <item>Tốt</item>
+        <item>Nhẹ</item>
+        <item>Trung bình</item>
+        <item>Nặng</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+	<string-array name="entryvalues_settings_debug">
+        <item>Không</item>
+        <item>Xuất và gửi nhật ký</item>
+        <item>Tạo nhật ký và lưu vào tập tin</item>
+        <item>Xem ID thiết bị thống kê</item>
+    </string-array>
+	<string-array name="fortune_random_name">
+        <item>Wang Wei</item>
+        <item>Li Dong</item>
+        <item>Sun Hui</item>
+        <item>Li Jun</item>
+        <item>Zhou Yong</item>
+        <item>Zheng Jian</item>
+        <item>Huang Hai</item>
+        <item>Zheng Feifei</item>
+        <item>Cheng Jie</item>
+        <item>Song Xiaobao</item>
+        <item>Guo Degang</item>
     </string-array>
 </resources>

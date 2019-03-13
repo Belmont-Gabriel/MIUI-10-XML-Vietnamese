@@ -133,4 +133,5 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 . Khi màn hình bật.
 2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
 	<string name="zone_picker_title">Chọn múi giờ</string>
+	<string name="locale_picker_other_locale_title">Thêm khu vực</string>
 </resources>

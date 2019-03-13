@@ -63,7 +63,7 @@
     <string name="hint_cannot_view_hidden_note_content">Không thể xem nội dung trong ghi chú ẩn</string>
     <string name="alert_title_restore">Khôi phục ghi chú</string>
     <string name="alert_message_restore">Không thể mở ghi chú này. Khôi phục để chỉnh sửa nội dung.</string>
-    <string name="note_sort_way">Chọn cách bạn muốn sắp xếp ghi chú</string>
+    <string name="note_sort_way">Sắp xếp ghi chú</string>
     <string name="trash_folder_reminder">Ghi chú  mà bạn xóa sẽ bị xóa vĩnh viễn trong 30 ngày.</string>
     <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Mi Cloud, cũng như đọc liên hệ của bạn để gắn nhãn ghi chú khi bạn thực hiện cuộc gọi.</string>
     <string name="menu_add_folder">Thêm vào thư mục</string>

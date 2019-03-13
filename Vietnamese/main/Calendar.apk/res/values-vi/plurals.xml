@@ -100,4 +100,16 @@
 	<plurals name="feed_list_dislike_title">
         <item quantity="other">%1$d lý do đã chọn</item>
     </plurals>
+	<plurals name="Ndays_after">
+        <item quantity="other">%1$d ngày sau</item>
+    </plurals>
+	<plurals name="Ndays_ago">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+	<plurals name="repeat_custom_prompt">
+        <item quantity="other">Mỗi %1$s trên %2$s</item>
+    </plurals>
+	<plurals name="travel_eta_advice">
+        <item quantity="other">%2$s phút lái xe đến %1$s.</item>
+    </plurals>
 </resources>

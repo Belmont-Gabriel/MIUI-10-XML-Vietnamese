@@ -1489,4 +1489,17 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="permission_storage_name">Bộ nhớ</string>
 	<string name="permission_use_desc">Quyền</string>
 	<string name="select_all">Chọn tất cả</string>
+	<string name="cleaner_similar_action">Xóa ngay</string>
+    <string name="cleaner_similar_description">Xóa ảnh trùng lặp</string>
+    <string name="cleaner_similar_title">Ảnh trùng lặp</string>
+    <string name="cleaner_video_action">Xóa ngay</string>
+    <string name="cleaner_video_description">Xóa video chiếm dung lượng lưu trữ</string>
+    <string name="cleaner_video_pick_delete_selected">Xóa video đã chọn</string>
+    <string name="cleaner_video_title">Xóa video</string>
+    <string name="screen_doodle_talkback_size">Độ rộng đường Doodle</string>
+    <string name="screen_editor_finish">Hoàn tất</string>
+    <string name="screen_save_dialog_btn_cancel">Hủy</string>
+    <string name="screen_save_dialog_btn_delete">Xóa ảnh chụp màn hình</string>
+    <string name="screen_save_dialog_btn_save">Lưu vào Thư viện</string>
+    <string name="similar_keep_clear">Giữ ảnh đẹp nhất</string>
 </resources>

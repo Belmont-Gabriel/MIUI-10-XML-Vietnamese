@@ -14,13 +14,10 @@
         <item>Rất hài lòng</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Quá trình chuyển quá lâu</item>
-        <item>Kết nối bị ngắt</item>
-        <item>Tôi chọn sai mục để chuyển</item>
-        <item>Quá nhiều bước</item>
-        <item>"Pin điện thoại còn quá ít"</item>
-        <item>Mục đã chuyển bị hỏng</item>
-        <item>Tôi vô tình bắt đầu chuyển</item>
-        <item>Khác</item>
+        <item>Đánh giá tổng thể</item>
+        <item>Thời gian chuyển</item>
+        <item>Sự đơn giản của quá trình</item>
+        <item>Sự rõ ràng của hướng dẫn</item>
+        <item>Tính năng này hữu ích</item>
     </string-array>
 </resources>

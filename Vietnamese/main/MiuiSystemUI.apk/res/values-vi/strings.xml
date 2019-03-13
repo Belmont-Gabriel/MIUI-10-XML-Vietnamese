@@ -1975,7 +1975,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="zen_mode_settings_summary_off">Không bao giờ</string>
 	<string name="description_image_icon_sim_card">SIM %1$d</string>
 	<string name="stream_voice_assist">Trợ lý Giọng nói</string>
-	<string name="gxzw_long_press_tip">Nhấn và giữ để thử tính năng mới</string>
+	<string name="gxzw_long_press_tip">Không bỏ ngón tay ra sau khi thiết bị mở khóa để thấy lối tắt khả dụng</string>
 	<string name="face_unlock_not_roi">Giữ khuôn mặt của bạn trong khung</string>
 	<string name="usb_port_overheated_dialog_content">Cổng sạc bị quá nhiệt. Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không. Liên hệ Hỗ trợ khách hàng nếu bạn có bất kỳ câu hỏi nào.</string>
 	<string name="usb_port_overheated_notification_content">Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không.</string>
@@ -1990,4 +1990,19 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="usb_port_short_circuit_recovered_title">Cổng sạc giờ đã hoạt động bình thường</string>
 	<string name="usb_port_short_circuit_title">Có hơi nước trong cổng sạc</string>
 	<string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+	<string name="gxzw_quick_open_add_event">Thêm sự kiện</string>
+    <string name="gxzw_quick_open_add_event_sub">Lịch</string>
+    <string name="gxzw_quick_open_alipay_pay">Mã thanh toán</string>
+    <string name="gxzw_quick_open_alipay_scan">Máy quét</string>
+    <string name="gxzw_quick_open_qr_code">Mã QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">Máy quét</string>
+    <string name="gxzw_quick_open_search">Tìm kiếm</string>
+    <string name="gxzw_quick_open_search_sub">Trình duyệt</string>
+    <string name="gxzw_quick_open_skip_teach">Bỏ qua hướng dẫn</string>
+    <string name="gxzw_quick_open_wechat_pay">Mã thanh toán</string>
+    <string name="gxzw_quick_open_wechat_scan">Máy quét</string>
+    <string name="gxzw_quick_open_xiaoai_title1">Nói tên ứng dụng bạn muốn mở</string>
+    <string name="gxzw_quick_open_xiaoai_title2">Nói tên tính năng bạn muốn sử dụng</string>
+    <string name="gxzw_quick_tip_press">Cứ giữ…</string>
+    <string name="gxzw_quick_tip_slide">Đừng nhấc ngón tay lên. Vuốt để chọn.</string>
 </resources>

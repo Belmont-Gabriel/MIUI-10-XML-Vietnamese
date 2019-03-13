@@ -187,4 +187,9 @@
         <item>Mảnh ghép cuộc sống</item>
         <item>Kỷ niệm cuối tuần</item>
     </string-array>
+	<string-array name="menu_copy_or_move">
+        <item>Chuyển</item>
+        <item>Sao chép</item>
+        <item>@string/cancel</item>
+    </string-array>
 </resources>

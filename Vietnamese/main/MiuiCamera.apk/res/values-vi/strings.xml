@@ -765,4 +765,17 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="pref_camera_zoom_mode_entry_ultra">Siêu rộng</string>
 	<string name="hint_ae_lock">Đã khóa phơi sáng tự động</string>
 	<string name="config_name_ratio">Tỷ lệ</string>
+	<string name="pref_camera_long_press_viewfinder_title">Nhấn &amp; giữ kính ngắm</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Ống kính Google</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Khóa AE &amp; AF</string>
+    <string name="pref_google_lens_summary">Tự động nhận diện mã QR, Email, số và văn bản</string>
+    <string name="pref_google_lens_title">Gợi ý thông minh</string>
+	<string name="macro_mode">Chế độ Macro</string>
+	<string name="macro_mode_tip">Vui lòng đặt đối tượng trong khoảng 10cm</string>
+	<string name="wideselfie_press_shoot_key_to_start">Nhấn nút chụp</string>
+	<string name="wideselfie_rotate_slowly">Xoay điện thoại từ từ</string>
+	<string name="wideselfie_rotate_to_back">Nghiêng điện thoại về phía sau</string>
+	<string name="wideselfie_rotate_to_front">Nghiêng điện thoại về phía trước</string>
+	<string name="wideselfie_rotate_to_left_slowly">Xoay điện thoại từ từ sang trái</string>
+	<string name="wideselfie_rotate_to_right_slowly">Xoay điện thoại từ từ sang phải</string>
 </resources>

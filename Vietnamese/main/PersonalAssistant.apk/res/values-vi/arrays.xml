@@ -56,4 +56,24 @@
         <item>Đỏ - lên, Xanh - xuống</item>
         <item>Xanh - lên, Đỏ - xuống</item>
     </string-array>
+	 <string-array name="keyword_recommend_unit">
+        <item>Muốn</item>
+        <item>Chỉ cần</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>Tắc nghẽn</item>
+        <item>Số km tắc nghẽn</item>
+        <item>Số km chậm</item>
+        <item>Làm đường</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>Cao điểm du lịch</item>
+        <item>Tắc nghẽn nghiêm trọng</item>
+        <item>Giao thông thông suốt</item>
+        <item>Không có tắc nghẽn rõ ràng</item>
+        <item>Giao thông bất thường</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>Trả nợ</item>
+    </string-array>
 </resources>
