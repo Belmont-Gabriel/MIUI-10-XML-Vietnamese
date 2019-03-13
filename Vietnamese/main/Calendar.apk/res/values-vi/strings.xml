@@ -1081,7 +1081,6 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="notification_open_setting_message">Bạn sẽ không thể nhận thông báo về sự kiện cho đến khi bạn cho phép Lịch gửi thông báo.</string>
 	<string name="notification_open_setting_title">Cho phép thông báo lịch?</string>
 	<string name="accessbility_suggestion_dropdown_closed">Không có gợi ý khả dụng</string>
-	<string name="accessbility_suggestion_dropdown_opened">Đã mở đề xuất liên hệ</string>
 	<string name="chips_action_cancel">Hủy</string>
 	<string name="chips_action_copy">Sao chép</string>
 	<string name="chips_permission_text">Cho phép gợi ý liên hệ</string>	
