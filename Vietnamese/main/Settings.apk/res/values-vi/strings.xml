@@ -7791,7 +7791,6 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
     <string name="gxzw_quick_open_slow_summary">Nhấn và giữ biểu tượng vân tay để mở menu lối tắt. Vuốt để sử dụng lối tắt.</string>
     <string name="gxzw_quick_open_slow_title">Nhấn và giữ</string>
     <string name="gxzw_quick_open_title">Lối tắt</string>
-	<string name="link_speed">%1$d Mb/giây</string>
 	<string name="cutout_mode_always">Luôn hiển thị tai thỏ</string>
 	<string name="cutout_mode_default">Tự động</string>
 	<string name="cutout_mode_settings_title">Một vài ứng dụng có thể hiển thị sai nếu bạn tùy chỉnh cách hiển thị tai thỏ.</string>
