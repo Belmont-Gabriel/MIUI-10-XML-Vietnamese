@@ -990,7 +990,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="bluetooth_confirm_passkey_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy đảm bảo thiết bị đang hiển thị mã xác nhận này:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_incoming_pairing_msg">Từ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ghép nối với thiết bị này?</string>
     <string name="bluetooth_display_passkey_pin_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy nhập trên thiết bị:&lt;br>&lt;b>%2$s&lt;/b> rồi nhấn Quay lại hoặc Enter.</string>
-    <string name="bluetooth_pairing_shares_phonebook">Cho phép %1$s truy cập danh bạ và nhật ký cuộc gọi của bạn</string>
+    <string name="bluetooth_pairing_shares_phonebook">Cho phép truy cập danh bạ và nhật ký cuộc gọi của bạn</string>
     <string name="bluetooth_connecting_error_message">Không thể kết nối với %1$s.</string>
     <string name="bluetooth_preference_scan_title">Dò tìm thiết bị</string>
     <string name="bluetooth_search_for_devices">Làm mới</string>

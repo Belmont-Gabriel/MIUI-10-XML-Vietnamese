@@ -572,7 +572,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_frozen_text_pad">Tài khoản của bạn bị đóng băng. Liên hệ 400–100–3399.</string>
     <string name="mibi_giftcard_available">Khả dụng</string>
     <string name="mibi_giftcard_discount">Phiếu giảm giá</string>
-    <string name="mibi_giftcard_discount_detail">Phiếu giảm giá</string>
+    <string name="mibi_giftcard_discount_detail">Phiếu giảm giá (Dành %1$s Mi Credits để đổi)</string>
     <string name="mibi_giftcard_discount_detail2">(Dành %1$s Mi Credits để đổi)</string>
     <string name="mibi_giftcard_empty_detail">Không %1$s phiếu giảm giá.</string>
     <string name="mibi_giftcard_has_unavailable">Hết hạn</string>

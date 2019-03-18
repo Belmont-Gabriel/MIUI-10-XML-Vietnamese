@@ -44,10 +44,10 @@ Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
     <string name="ime_privacy_policy">Chính sách Riêng tư của bàn phím đã chọn</string>
     <string name="ime_privacy_policy_no_network">Không có kết nối mạng. Xem Chính sách Riêng tư của bàn phím này tại %s.</string>
     <string name="terms_of_use">Điều khoản và Điều kiện</string>
-    <string name="terms_of_use_label">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+    <string name="terms_of_use_label">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
 
-Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Trong khi kích hoạt, dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Mô đun Màn hình chính, Dịch vụ Game, Thành phần hệ thống MAB và MSA, Dịch vụ Trực tiếp, Quick Card, thống kê, Mi SmartCard, Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
-    <string name="terms_of_use_label_gms">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. %s và Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
+    <string name="terms_of_use_label_gms">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
 
 Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm trò chơi, MAB, thành phần hệ thống Miui Daemon và MSA, ứng dụng web, Kho ứng dụng, thống kê, thẻ thông minh, Liên kết Mi, Tài khoản Mi và dịch vụ Google Play sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
@@ -76,7 +76,6 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="navigation_picker_radio_text_virtual_key">Chế độ phím ảo</string>
     <string name="congratulation_swipe">Trượt lên để vào hệ thống</string>
     <string name="enable_accessibility_dialog_message">Bạn bật TalkBack bằng cách dùng 2 ngón tay bấm màn hình hơn 10 giây. TalkBack phản hồi bằng giọng nói cho người khiếm thị. Nếu bạn vô tình bật, hãy chạm nút Hủy và chạm đúp màn hình.</string>
-    <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="enable_accessibility_dialog_negative_btn">Hủy</string>
     <string name="cm_terms_title">Thỏa thuận Nhà cung cấp Mạng Di động</string>
     <string name="cm_terms_content">Để cải thiện dịch vụ cung cấp cho bạn, nhà cung cấp mạng di dộng mà bạn chọn có thể tải dữ liệu cá nhân và thông tin thiết bị này đến máy chủ qua mạng Wi-Fi hoặc kết nối dữ liệu di động. Thông tin này chỉ được sử dụng cho mục đích thống kê để cải thiện chất lượng dịch vụ và công cấp nhiều nội dung cá nhân hơn. Thông tin này sẽ không được dùng để dịnh dạng cá nhân và sẽ không được tiết lộ cho bên thứ ba.</string>

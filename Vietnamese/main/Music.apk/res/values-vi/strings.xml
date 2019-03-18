@@ -53,7 +53,6 @@
     <string name="added_next_play">Đã thêm vào danh sách phát tiếp theo</string>
     <string name="alaka_required">Bạn cần trả phí để nghe bài hát này</string>
     <string name="album_label">Bìa album</string>
-    <string name="album_name">Album</string>
     <string name="all_tracks">Tất cả bài hát</string>
     <string name="already_download">Đang tải xuống…</string>
     <string name="already_download_btn">Đang tải xuống…</string>
@@ -128,8 +127,6 @@
     <string name="cloud_state_storage_full">Không đủ dung lượng lưu trữ trên điện thoại, tạm dừng sao lưu</string>
     <string name="cloud_welcome_message">Sao lưu bài hát</string>
     <string name="cloud_welcome_summary">Sao lưu bài hát đến Mi Cloud và nghe chúng trên thiết bị khác</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
-    <string name="confirm">OK</string>
     <string name="connecting_apk">Đang kết nối…</string>
     <string name="continue_backup">Tiếp tục</string>
     <string name="cp_info_first">"Dịch vụ phát nhạc trực tuyến
@@ -1378,4 +1375,5 @@ Kích thước: %2$s"</string>
 Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
 	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ khớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
+	<string name="xiaomi_update_sdk_connect_download_manager_fail">Kết nối Trình quản lý tải xuống thất bại, vui lòng kiểm tra trạng thái Trình quản lý tải xuống trong Quản lý ứng dụng.</string>
 </resources>

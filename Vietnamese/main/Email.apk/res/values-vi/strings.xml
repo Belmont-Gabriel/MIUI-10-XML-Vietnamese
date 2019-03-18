@@ -1169,4 +1169,5 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="float_window_content">Nhận biết rằng bạn đang sử dụng hộp thư, nhấn Xác nhận giúp bạn để tự động điền tài khoản Email 139 và mật khẩu.</string>
 	<string name="help_config">Cấu hình thủ công</string>
 	<string name="no_remind">Không nhắc lại</string>
+	<string name="photo_view_count">%d trên %d</string>
 </resources>
