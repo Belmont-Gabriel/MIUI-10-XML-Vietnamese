@@ -904,4 +904,9 @@
 	<string name="menu_traffic_destination">Đích đến</string>
 	<string name="number_recognition_partner">Nhà cung cấp dịch vụ Nhận dạng ID Người gửi</string>
 	<string name="train_edit_destination">Thêm</string>
+	<string name="delete_verification_code_sms_message">Xóa tất cả Mã OTP?</string>
+	<string name="delete_verification_code_sms_title">Xóa Mã OTP</string>
+	<string name="exceed_length_limit">Vượt quá giới hạn chiều dài tối đa</string>
+	<string name="group_verification_codes_summary">Tự động nhóm Mã OTP với nhau</string>
+	<string name="group_verification_codes_title">Nhóm Mã OTP</string>
 </resources>

@@ -134,4 +134,5 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
 	<string name="zone_picker_title">Chọn múi giờ</string>
 	<string name="locale_picker_other_locale_title">Thêm khu vực</string>
+	<string name="voice_assist_desp_screen_light">Sau khi màn hình sáng, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận dạng giọng nói của bạn và bạn có thể điều khiển thiết bị.</string>
 </resources>

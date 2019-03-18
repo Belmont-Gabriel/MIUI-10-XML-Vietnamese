@@ -32,7 +32,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="act_weather_find_city_added">Thành phố đã được thêm</string>
     <string name="activity_weathermain_locationg">Đang định vị…</string>
     <string name="activity_weathermain_locationg_error">Không tìm thấy vị trí</string>
-    <string name="activity_minute_rain_location_fail_msg">Không tìm thấy vị trí. Hiển thị Bắc Kinh làm vị trí mặc định.</string>
+    <string name="activity_minute_rain_location_fail_msg">Không tìm thấy vị trí. Chuyển sang thành phố hiện tại.</string>
     <string name="view_forecast_item_yesterday">Hôm qua</string>
     <string name="view_indexes_item_today">Hôm nay</string>
     <string name="view_indexes_item_tommorrow">Ngày mai</string>
@@ -112,7 +112,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="top_pollution_o3">O3</string>
     <string name="realtime_temperature_no_data">Không có dữ liệu</string>
     <string name="realtime_wind_default_title">Gió</string>
-    <string name="realtime_humidity_title">Độ ẩm tương đối</string>
+    <string name="realtime_humidity_title">Độ ẩm</string>
     <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
     <string name="aqi_detail_sub_title">Chi tiết AQI</string>
     <string name="aqi_publish_time">Đã cập nhật %1$s</string>
@@ -313,4 +313,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="permission_user_protocol">Thỏa thuận Người dùng (bắt buộc)</string>
 	<string name="weather_introduce">Luôn bên bạn, dù mưa hay nắng.</string>
 	<string name="weather_permission_agree">Đồng ý</string>
+	<string name="content_desc_edit_city_manage">Quản lý thành phố</string>
+	<string name="aqi_settings_summary">Cảnh báo AQI</string>
 </resources>

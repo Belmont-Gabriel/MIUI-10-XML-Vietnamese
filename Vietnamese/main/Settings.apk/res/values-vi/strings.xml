@@ -7766,8 +7766,8 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="aod_mode_clock">Đồng hồ</string>
 	<string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
 	<string name="aod_sample_date">Thứ ba, 10 Tháng năm</string>
-	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
-	<string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="aod_lock_screen_date">EE, d MMMM</string>
+	<string name="aod_lock_screen_date_12">EE, d MMMM</string>
 	<string name="dark_color_mode">Dark mode</string>
 	<string name="dark_color_summary">Chuyển sang màu tối cho hình nền hệ thống và ứng dụng tương thích</string>
 	<string name="open_dark_mode_dialog_summary">Một số cài đặt hiển thị nhất định sẽ không tương thích với Dark mode. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Dark mode. Bật Dark mode?</string>
@@ -7803,4 +7803,22 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="search_unlogin_account_title">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản</string>
 	<string name="unlogin_account_summary">Tất cả dịch vụ Mi. Một Tài khoản Mi</string>
 	<string name="unlogin_account_title">Đăng nhập vào Tài khoản Mi</string>
+	<string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
+	<string name="otg_closed">Tắt</string>
+	<string name="otg_opened">Bật</string>
+	<string name="otg_tip">"USB On-The-Go cho phép thiết bị USB và bàn phím, chuột kết nối với điện thoại và trao đổi dữ liệu.
+
+OTG tự động tắt sau 10 phút không hoạt động."</string>
+	<string name="cutout_type_desc">Bật để làm mịn đường cong của tai thỏ</string>
+	<string name="cutout_type_title">Điều chỉnh hình dáng tai thỏ</string>
+	<string name="auto_dual_clock_summary">Hiển thị Đồng hồ kép khi thời gian hiện tại khác với đồng hồ thứ hai</string>
+	<string name="auto_dual_clock_title">Đồng hồ kép</string>
+	<string name="dual_clock">Đồng hồ kép</string>
+	<string name="dual_clock_aod_hint">"\"Đồng hồ kép\" dựa trên các tính năng sau: 1. Với màn hình đã tắt, cho phép hiển thị các mục trong Cài đặt &gt; Hiển thị; 2. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 3. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
+	<string name="dual_clock_hint">"\"Dual Clock\" dựa trên các tính năng sau: 1. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 2. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
+	<string name="dual_clock_ok">Đã hiểu</string>
+	<string name="dual_clock_open_message">Đồng hồ kép sẽ hiển thị trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+	<string name="more_installed_services_title">Thêm dịch vụ đã tải</string>
+	<string name="resident_timezone_summary">Đồng hồ thứ hai</string>
+	<string name="toast_sta_ap_works_wifi_display_disable">Không thể truyền khi đã kết nối Wi-Fi và bật điểm phát sóng</string>
 </resources>

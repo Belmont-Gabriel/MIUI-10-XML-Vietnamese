@@ -24,4 +24,5 @@
     <string name="storage_description">Bộ nhớ cục bộ</string>
     <string name="unable_to_add_ringtone">Không thể thêm nhạc chuông tùy chỉnh</string>
     <string name="unable_to_delete_ringtone">Không thể xóa nhạc chuông tùy chỉnh</string>
+	<string name="Add_More_Ringtones">Thêm nhạc chuông ...</string>
 </resources>

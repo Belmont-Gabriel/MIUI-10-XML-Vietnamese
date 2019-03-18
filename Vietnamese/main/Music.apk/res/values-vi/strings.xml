@@ -1363,4 +1363,19 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="xiaoai_install_title">Cài đặt Trợ lý giọng nói Mi AI</string>
     <string name="xiaoai_update_message">Có vẻ trợ lý giọng nói Mi AI quá cũ. Bạn có thể cập nhật ngay.</string>
     <string name="xiaoai_update_title">Cập nhật Mi AI</string>
+	<string name="btn_earlier_items">Tải tin nhắn gần đây</string>
+	<string name="btn_earlier_items_progress">Đang tải tin nhắn gần đây…</string>
+	<string name="btn_more_items">Tải thêm tin nhắn</string>
+	<string name="btn_more_items_progress">Đang tải thêm tin nhắn…</string>
+	<string name="err_media_handle">Xin lỗi, chúng tôi không thể truy xuất đa phương tiện, vui lòng thử lại.</string>
+	<string name="err_offline_on_playback">Xin lỗi, bạn cần trực tuyến để phát phương tiện này.</string>
+	<string name="message_timestamp">dd MMM</string>
+	<string name="message_ws_response_error">Có vấn đề khi xử lý yêu cầu của bạn và/hoặc máy chủ trả về</string>
+	<string name="server_connection_failed">Xin lỗi, bạn cần trực tuyến để sử dụng tính năng này</string>
+	<string name="xiaomi_update_sdk_dialog_message">"Giới thiệu phiên bản %1$s
+Kích thước: %2$s"</string>
+	<string name="xiaomi_update_sdk_dialog_message_diff">"Giới thiệu phiên bản %1$s
+Kích thước cập nhật Delta: %2$s"</string>
+	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
+	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ khớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
 </resources>

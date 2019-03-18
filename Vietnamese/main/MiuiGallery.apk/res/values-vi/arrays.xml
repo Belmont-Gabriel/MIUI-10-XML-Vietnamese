@@ -187,4 +187,11 @@
         <item>Mảnh ghép cuộc sống</item>
         <item>Kỷ niệm cuối tuần</item>
     </string-array>
+	<string-array name="search_voice_assistant_suggestion">
+		<item>Giúp tôi tìm ảnh thẻ căn cước</item>
+		<item>Tôi muốn xem ảnh chụp ở Hồ Gươm</item>
+		<item>Tìm ảnh có văn bản</item>
+		<item>Tìm ảnh hội xuân vừa qua</item>
+		<item>Tìm ảnh của tôi với mẹ ở bãi biển tháng trước</item>
+	</string-array>
 </resources>

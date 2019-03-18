@@ -1711,4 +1711,12 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
     <string name="google_assistant">Trợ lý</string>
     <string name="midrop_send">Gửi</string>
     <string name="whatsapp_photos">Ảnh</string>
+	<string name="send_shortcut_failed">Không thể gửi</string>
+	<string name="send_shortcut_success">Đã đặt trên Màn hình chính</string>
+	<string name="tb_setting_xiaoai">Bạn nhỏ cùng lớp</string>
+	<string name="user_notice_title">Chú ý</string>
+	<string name="yellow_page_website">Trang Web chính thức</string>
+	<string name="miot_device_camera_size">%d máy ảnh</string>
+	<string name="disclaimer_content">Tính năng này cung cấp bởi %1$s. %1$s phải chịu mọi trách nhiệm liên quan đến dịch vụ mà họ cung cấp. Bạn có thể liên hệ %1$s nếu bạn có bất kỳ câu hỏi nào.</string>
+	<string name="disclaimer_title">Miễn trừ</string>
 </resources>

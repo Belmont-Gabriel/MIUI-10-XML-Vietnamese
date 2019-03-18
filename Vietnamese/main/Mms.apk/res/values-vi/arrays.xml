@@ -67,4 +67,9 @@
         <item>Đồng bộ tất cả tin nhắn</item>
         <item>Đồng bộ tin nhắn từ thẻ SIM được chọn</item>
     </string-array>
+	<string-array name="recv_type">
+		<item>Nhận và thông báo</item>
+		<item>Chỉ nhận</item>
+		<item>Từ chối</item>
+	</string-array>
 </resources>

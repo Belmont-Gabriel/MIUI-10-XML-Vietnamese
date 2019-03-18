@@ -549,4 +549,6 @@
     <string name="passport_wrong_captcha">Mã bạn nhập không chính xác</string>
     <string name="passport_wrong_phone_number_format">Định dạng số điện thoại bạn nhập không hợp lệ</string>
     <string name="passport_wrong_vcode">Mã bạn nhập không chính xác</string>
+	<string name="permission_granted">%1$s quyền đã cho phép</string>
+	<string name="time_in_justnow">Vừa xong</string>
 </resources>

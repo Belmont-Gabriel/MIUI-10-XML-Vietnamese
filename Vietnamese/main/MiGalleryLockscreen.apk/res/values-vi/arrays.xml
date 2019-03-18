@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="feature_desc">
+		<item>Chào buổi sáng: Đăng ký để nhận lời chào mỗi sáng.</item>
+		<item>Kết hợp Màn hình khóa mặc định với các chủ đề tùy chỉnh để sử dụng Tạp chí Khóa màn hình.</item>
+	</string-array>
+</resources>

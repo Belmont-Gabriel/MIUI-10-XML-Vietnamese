@@ -205,4 +205,5 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
 	<string name="cloud_back_up_subscribe_vip_title">Nâng cấp Tài khoản Mi</string>
     <string name="cloud_back_up_subscribe_vip_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Nâng cấp</string>
+	<string name="self_phone_home">Điện thoại này: %s</string>
 </resources>

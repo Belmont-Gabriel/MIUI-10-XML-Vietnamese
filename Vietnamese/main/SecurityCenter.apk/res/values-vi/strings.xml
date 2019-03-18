@@ -2838,4 +2838,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
     <string name="wlan_optimization_title">Tối ưu Wi-Fi</string>
 	<string name="foreground_traffic">Nền trước %s</string>
     <string name="background_traffic">Nền sau %s</string>
+	<string name="security_center_slogan">Bảo mật. Luôn được bảo vệ.</string>
+	<string name="third_desktop_dialog_content">Vì các ứng dụng Trình khởi chạy bên thứ ba có thể gây ra các vấn đề như rò rỉ dữ liệu, hao pin và lag bất thường, v.v., chỉ những ứng dụng được xác minh bởi MIUI mới có thể đặt làm Trình khởi chạy mặc định</string>
+	<string name="third_desktop_dialog_ok">Đã hiểu</string>
+	<string name="third_desktop_dialog_title">Lỗi</string>
 </resources>

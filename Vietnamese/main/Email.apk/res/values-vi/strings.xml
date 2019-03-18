@@ -1158,4 +1158,15 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="privacy_des">Thông tin nhật ký bao gồm thông tin gỡ lỗi được in bởi ứng dụng email và thông tin về thiết bị của bạn để xác định vấn đề bạn gặp phải. Chọn %1$s sau đây có nghĩa là bạn đã đọc và đồng ý với %2$s của Xiaomi.</string>
     <string name="qq_login_notice">Mẹo: Nếu bạn đã thiết lập mật khẩu độc lập, bạn cần nhập mật khẩu độc lập để xác nhận truy cập vào hộp thư.</string>
     <string name="qq_pwd_or_qq_auth_code">Mã xác thực QQ hoặc mật khẩu hộp thư</string>
+	<string name="open_androidp_warning">Cảnh báo Open 9.0 SDK không chính thức</string>
+	<string name="accessibility_guide_first">Ở màn hình tiếp theo, Chọn tab \"Dịch vụ\" Để kích hoạt Hộp thư 139 Cấu hình tự động</string>
+	<string name="accessibility_guide_second">Sau đó nhấn vào nút chuyển ở góc trên bên phải, chọn \"Xác nhận\" để tiếp tục.</string>
+	<string name="auto_mail_describe">Hộp thư 139 Cấu hình tự động có thể giúp bạn tự động điền thông tin đăng nhập vào hộp thư. Bạn có muốn bật tính năng này?</string>
+	<string name="auto_mail_disable_txt">Đã tắt</string>
+	<string name="auto_mail_go_email">Hộp thư</string>
+	<string name="close">Tắt</string>
+	<string name="email_address">Địa chỉ email</string>
+	<string name="float_window_content">Nhận biết rằng bạn đang sử dụng hộp thư, nhấn Xác nhận giúp bạn để tự động điền tài khoản Email 139 và mật khẩu.</string>
+	<string name="help_config">Cấu hình thủ công</string>
+	<string name="no_remind">Không nhắc lại</string>
 </resources>

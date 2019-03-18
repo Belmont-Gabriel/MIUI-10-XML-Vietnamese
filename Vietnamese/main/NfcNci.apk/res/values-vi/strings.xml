@@ -54,4 +54,9 @@
     <string name="disconnected_headset">Đã ngắt kết nối</string>
     <string name="pairing_headset">Đang ghép nối</string>
     <string name="pairing_headset_failed">Không thể ghép nối</string>
+	<string name="nfc_enabled_dialog">"Nfc đang tắt. 
+Bạn có muốn bật cho Dịch vụ NFC"</string>
+	<string name="no">Không</string>
+	<string name="permdesc_nfcReceiveEvent">Cho phép ứng dụng nhận thông tin về giao dịch NFC đang thực hiện</string>
+	<string name="permlab_nfcReceiveEvent">Nhận thức về giao dịch NFC</string>
 </resources>

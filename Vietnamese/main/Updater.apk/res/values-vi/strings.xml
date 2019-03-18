@@ -481,11 +481,14 @@ Cập nhật không khả dụng cho bạn!"</string>
     <string name="open_addition_toast">Tính năng cập nhật bổ sung đang bật</string>
     <string name="open_auto_download">Tải xuống tự động</string>
     <string name="other_setting">Khác</string>
-     <string name="privacy_revoke_msg">Cập nhật đảm bảo cho MIUI và các tính năng luôn được cập nhật. Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan (bao gồm cả dữ liệu về các thiết bị yêu cầu cập nhật) sẽ bị xóa khỏi thiết bị này và cả máy chủ. Từ chối cập nhật thiết bị có thể gây ra rủi ro bảo mật. Vẫn thu hồi ủy quyền?</string>
+    <string name="privacy_revoke_msg">Cập nhật đảm bảo cho MIUI và các tính năng luôn được cập nhật. Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan (bao gồm cả dữ liệu về các thiết bị yêu cầu cập nhật) sẽ bị xóa khỏi thiết bị này và cả máy chủ. Từ chối cập nhật thiết bị có thể gây ra rủi ro bảo mật. Vẫn thu hồi ủy quyền?</string>
     <string name="set_connect_error_msg">Kiểm tra cài đặt mạng của bạn và thử lại. Nếu bạn vẫn không thể tải xuống bản cập nhật, hãy báo cáo vấn đề này bằng ứng dụng \"Phản hồi\".</string>
     <string name="set_connect_error_title">Không thể kết nối đến máy chủ</string>
     <string name="tip_drag_last_toast">Xem tính năng mới của MIUI 10</string>
     <string name="title_can_download_update">Tùy chọn khả dụng</string>
     <string name="title_tip">Tính năng mới</string>
     <string name="update_setting">Cập nhật</string>
+	<string name="channel_downloading">Tiến trình tải xuống</string>
+	<string name="channel_update">Đã có phiên bản mới</string>
+	<string name="dialog_twrp">Bộ nhớ trong của bạn đã mã hóa. Sau khi thiết bị khởi động lại vào Chế độ khôi phục, vui lòng mở khóa thiết bị bằng mật khẩu để tiếp tục.</string>
 </resources>
