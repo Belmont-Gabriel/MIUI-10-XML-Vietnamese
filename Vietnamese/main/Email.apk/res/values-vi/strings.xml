@@ -616,7 +616,6 @@
     <string name="min_payment_text">Thanh toán tối thiểu</string>
     <string name="more_context">Thêm</string>
     <string name="move_to_selection_dialog_title">Chuyển sang thư mục khác</string>
-    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Tắt tiếng</string>
     <string name="navigation_menu">Menu điều hướng</string>
     <string name="need_get_qq_mail">Yêu cầu QQ Mail</string>

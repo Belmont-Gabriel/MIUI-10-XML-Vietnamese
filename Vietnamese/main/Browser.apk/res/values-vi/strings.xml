@@ -1818,4 +1818,6 @@ Kích thước: %2$s"</string>
 Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
 	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ nhớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
+	<string name="data_traffic_download_confirm">Sử dụng kết nối dữ liệu di động</string>
+	<string name="load_error_tip">Tải lỗi, chạm để thử lại</string>
 </resources>

@@ -4517,7 +4517,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="preferred_app_settings_reset">Cài đặt về mặc định</string>
     <string name="preferred_app_settings_reset_message">Khôi phục cài đặt ứng dụng mặc định về dữ liệu gốc.</string>
     <string name="preferred_app_settings_reset_button">Đặt lại</string>
-    <string name="system_app_settings">Ứng dụng hệ thống</string>
+    <string name="system_app_settings">Cài đặt ứng dụng hệ thống</string>
     <string name="connect_to_internet">Kết nối mạng</string>
     <string name="wifi_setting_category">Mạng có sẵn</string>
     <string name="account_autostar_label">Tự khởi chạy</string>
@@ -4583,7 +4583,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="other_advanced_settings">Cài đặt bổ sung</string>
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Xem các ứng dụng yêu cầu truy cập thông tin vị trí gần đây</string>
-    <string name="permission_manager">Quyền truy cập</string>
+    <string name="permission_manager">Quyền</string>
     <string name="personal_section_title">Cá nhân hóa</string>
     <string name="system_and_device_section_title">Cài đặt hệ thống</string>
     <string name="application_manager_section_title">Cài đặt ứng dụng</string>
@@ -7108,7 +7108,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="disabled_by_policy_title_turn_off_backups">Không thể tắt sao lưu</string>
     <string name="disabled_dependent_setting_summary">Phụ thuộc vào các cài đặt khác</string>
     <string name="disabled_for_user_setting_summary">Cài đặt không thể thay đổi bởi người dùng hiện tại</string>
-    <string name="display_cutout_emulation">Mô phỏng màn hình với cutout</string>
+    <string name="display_cutout_emulation">Mô phỏng hiển thị với phần cắt rời</string>
     <string name="display_cutout_emulation_none">Không</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở nhanh camera</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>

@@ -2842,4 +2842,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="third_desktop_dialog_content">Vì các ứng dụng Trình khởi chạy bên thứ ba có thể gây ra các vấn đề như rò rỉ dữ liệu, hao pin và lag bất thường, v.v., chỉ những ứng dụng được xác minh bởi MIUI mới có thể đặt làm Trình khởi chạy mặc định</string>
 	<string name="third_desktop_dialog_ok">Đã hiểu</string>
 	<string name="third_desktop_dialog_title">Lỗi</string>
+	<string name="later">Xử lý sau</string>
+	<string name="lucky_sound_mode_gold">Tiền vàng</string>
+	<string name="lucky_sound_mode_no">Tắt tiếng</string>
 </resources>
