@@ -106,7 +106,7 @@
     <string name="tts_status_requires_network">%1$s yêu cầu kết nối mạng</string>
     <string name="tts_status_not_supported">%1$s chưa được hỗ trợ</string>
     <string name="tts_status_checking">Đang kiểm tra…</string>
-    <string name="tts_engine_settings_title">Cài đặt %s</string>
+    <string name="tts_engine_settings_title">Cài đặt công cụ</string>
     <string name="tts_engine_settings_button">Cài đặt công cụ khởi chạy</string>
     <string name="tts_engine_preference_section_title">Công cụ ưu tiên</string>
     <string name="tts_general_section_title">Chung</string>
@@ -890,7 +890,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="unlock_set_unlock_pattern_title">Hình</string>
     <string name="unlock_set_unlock_pattern_summary">Vẽ hình đơn giản bằng ngón tay để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_pin_title">Mã PIN</string>
-    <string name="unlock_set_unlock_pin_summary">Nhập 4 số để mở khóa thiết bị</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Nhập %d-%d số để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_password_title">Mật khẩu</string>
     <string name="unlock_set_unlock_password_summary">Nhập 4 hoặc nhiều hơn 4 ký tự gồm chữ hoặc số để mở khóa thiết bị</string>
     <string name="unlock_set_do_later_title">Để sau</string>
@@ -2156,7 +2156,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="color_cyan">Chàm</string>
     <string name="color_yellow">Vàng</string>
     <string name="color_magenta">Tía</string>
-    <string name="enable_service_title">Dịch vụ sẽ thực hiện: %1$s</string>
+    <string name="enable_service_title">"Dịch vụ sẽ thực hiện: "</string>
     <string name="capabilities_list_title">%1$s cần:</string>
     <string name="touch_filtered_warning">Vì ứng dụng đang che khuất yêu cầu cấp quyền, Cài đặt không thể xác minh câu trả lời của bạn.</string>
     <string name="enable_service_encryption_warning">Nếu bạn bật %1$s, thiết bị của bạn sẽ không sử dụng khóa màn hình để cải tiến việc mã hóa dữ liệu.</string>
@@ -3304,13 +3304,13 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="keywords_vr_listener">vr ảo thực tế trình nghe âm thanh nổi trình trợ giúp dịch vụ</string>
     <string name="keywords_system_alert_window">hộp thoại cửa sổ thông báo hệ thống vẽ lên trên các ứng dụng khác</string>
     <string name="overlay_settings">Vẽ trên ứng dụng khác</string>
-    <string name="system_alert_window_summary" formatted="false">%d / %d ứng dụng được phép vẽ lên trên các ứng dụng khác</string>
+    <string name="system_alert_window_summary">%1$d trên %2$d ứng dụng được phép vẽ lên trên các ứng dụng khác</string>
     <string name="filter_overlay_apps">Các ứng dụng có quyền</string>
     <string name="system_alert_window_on">Có</string>
     <string name="system_alert_window_off">Không</string>
     <string name="write_settings">Sửa đổi cài đặt hệ thống</string>
     <string name="keywords_write_settings">ghi/sửa đổi cài đặt hệ thống</string>
-    <string name="write_settings_summary" formatted="false">%d / %d được phép sửa đổi cài đặt hệ thống</string>
+    <string name="write_settings_summary">%1$d trên %2$d ứng dụng được phép sửa đổi cài đặt hệ thống</string>
     <string name="filter_write_settings_apps">Có thể sửa đổi cài đặt hệ thống</string>
     <string name="write_settings_title">Có thể sửa đổi cài đặt hệ thống</string>
     <string name="write_system_settings">Sửa đổi cài đặt hệ thống</string>
@@ -3380,7 +3380,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="condition_bg_data_summary">Dữ liệu nền chỉ khả dụng qua Wi-Fi. Điều này có thể ảnh hưởng đến một số ứng dụng hoặc dịch vụ khi không có Wi-Fi.</string>
     <string name="condition_work_title">Hồ sơ công việc đã tắt</string>
     <string name="condition_work_summary">Ứng dụng, đồng bộ hóa dưới nền và các tính năng khác có liên quan đến hồ sơ công việc của bạn bị tắt.</string>
-    <string name="suggestions_title">Đề xuất (%1$d)</string>
+    <string name="suggestions_title">Đề xuất</string>
     <string name="suggestion_remove">Xóa</string>
     <string name="color_temperature">Nhiệt độ màu lạnh</string>
     <string name="color_temperature_desc">Sử dụng màu hiển thị lạnh hơn</string>
@@ -3392,9 +3392,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="ethernet_data_usage">Sử dụng dữ liệu ethernet</string>
     <string name="wifi">Wi-Fi</string>
     <string name="ethernet">Ethernet</string>
-    <string name="cell_data_template">%1$s dữ liệu di động</string>
-    <string name="wifi_data_template">%1$s dữ liệu Wi-Fi</string>
-    <string name="ethernet_data_template">%1$s dữ liệu ethernet</string>
+    <string name="cell_data_template">^1 dữ liệu di động</string>
+    <string name="wifi_data_template">^1 dữ liệu Wi-Fi</string>
+    <string name="ethernet_data_template">^1 dữ liệu ethernet</string>
     <string name="cell_warning_only">%1$s cảnh báo dữ liệu</string>
     <string name="cell_warning_and_limit">%1$s cảnh báo dữ liệu / %2$s giới hạn dữ liệu</string>
     <string name="billing_cycle">Chu kỳ thanh toán</string>
@@ -4002,7 +4002,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="show_rounded_corners">Làm bo tròn các góc màn hình</string>
     <string name="pref_operational_key">Phím điều hướng</string>
     <string name="pref_button_light">Đèn phím</string>
-    <string name="pref_button_light_summary">Bật sáng phím Menu, Trang chính, và phím Quay lại</string>
+    <string name="pref_button_light_summary">Bật sáng phím Menu, %1$s và phím Quay lại</string>
     <string name="pref_button_light_summary_sub">Trang chủ</string>
     <string name="button_light_timeout">Thời gian đèn bàn phím</string>
     <string name="battery_light_title">Sáng khi sạc</string>
@@ -6588,7 +6588,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>
      <string name="launch_error">Không thể bật ứng dụng!</string>
      <string name="lockdown_vpn_already_connected">Đã bật chế độ Luôn kết nối VPN để kết nối.</string>
-     <string name="lockpassword_choose_your_pin_title">Nhập 4-16 chữ số</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Nhập %d-%d chữ số</string>
      <string name="mi_pay_summary">Thẻ xe bus/Mi Pay/Card Emulator</string>
      <string name="mira_vision_summary">Mang lại hiệu ứng hình ảnh tốt nhất</string>
      <string name="miui_lab_ai_cloud_closed">Tải trước AI chưa khả dụng.</string>
@@ -6850,9 +6850,9 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="miui_sos_contacts_category">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts_quantity">Đã thêm %d</string>
-    <string name="miui_sos_emergency_delivered_sms">%1$s(%2$s)đã được chấp nhận</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)đã được chấp nhận</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1sđã được chấp nhận</string>
-    <string name="miui_sos_emergency_failed_sms">%1$s(%2$s)tin nhắn SOS gửi thất bại.</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">Không thể gửi tin nhắn cho %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">%1stin nhắn SOS gửi thất bại.</string>
     <string name="miui_sos_enable_switch_summary">Nhấn nhanh nút nguồn 5 lần để gửi vị trí và tin nhắn SOS đến số liên hệ khẩn cấp</string>
     <string name="miui_sos_enable_switch_title">SOS</string>
