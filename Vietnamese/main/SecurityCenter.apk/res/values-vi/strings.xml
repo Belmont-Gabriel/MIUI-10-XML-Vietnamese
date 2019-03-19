@@ -2575,7 +2575,7 @@ Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
     <string name="first_aid_result_summary_not_finished">Quét chưa hoàn tất. Vài rủi ro có thể không lường trước.</string>
     <string name="gamebox_app_not_find">Cài đặt ứng dụng trước.</string>
     <string name="gs_gamebox_slip">Kéo màn hình xuống để mở</string>
-    <string name="gs_slip_gamebox_detail">Sử dụng thanh trượt để hiện bảng lối tắt. Trả lời nhanh và quay phim màn hình khả dụng.</string>
+    <string name="gs_slip_gamebox_detail">Sử dụng thanh trượt hoặc vuốt từ cạnh trên màn hình để hiện bảng lối tắt.</string>
     <string name="main_daily_card_guide_dialog_ok">Đặt</string>
     <string name="main_daily_card_guide_dialog_summary">Bạn có thể chọn giữa gói dữ liệu ngày, tháng, và không giới hạn. Đặt loại gói dữ liệu ngay?</string>
     <string name="main_daily_card_guide_dialog_title">Chọn loại gói dữ liệu</string>

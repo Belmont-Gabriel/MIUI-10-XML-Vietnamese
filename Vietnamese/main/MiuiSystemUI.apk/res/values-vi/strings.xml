@@ -2033,4 +2033,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="wechatscan_description_talkback">Quét WeChat</string>
 	<string name="aod_lock_screen_date">EE, d MMMM</string>
 	<string name="aod_lock_screen_date_12">EE, d MMMM</string>
+	<string name="face_unlock_success">Xác thực dữ liệu khuôn mặt thành công</string>
 </resources>

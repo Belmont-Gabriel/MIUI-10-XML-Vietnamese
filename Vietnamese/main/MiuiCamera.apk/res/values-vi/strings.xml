@@ -750,7 +750,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="ultra_pixel_photography_48mp_close_tip">Chế độ siêu nét 48MP đã đóng</string>
 	<string name="zoom_no_support_tip_48M">Không hỗ trợ zoom ở chế độ Siêu nét 48MP</string>
 	<string name="accessibility_pull_down_to_open_camera">Vuốt xuống để mở Máy ảnh</string>
-	<string name="autozoom_click_hint">Chạm để lấy nét chủ thể. Tốt nhất trong khoảng ba mét.</string>
+	<string name="autozoom_click_hint">Chạm đối tượng để giữ nét khi nó di chuyển. Tốt nhất trong khoảng ba mét.</string>
     <string name="autozoom_disabled_hint">Đã tắt theo dõi chuyển động</string>
     <string name="autozoom_hint">Theo dõi đối tượng chuyển động</string>
     <string name="live_share_moments">Khoảnh khắc</string>
