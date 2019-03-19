@@ -136,7 +136,7 @@
     <string name="ball_basketball_title">Bóng rổ</string>
     <string name="ball_basketball_total_rank">Xếp hạng</string>
     <string name="ball_dialog_confirm">Cài đặt</string>
-    <string name="ball_dialog_content">Cài đặt HuPu Sports để sử dụng tính năng này. Cài đặt ngay?</string>
+    <string name="ball_dialog_content">Cài đặt %s để sử dụng tính năng này. Cài đặt ngay?</string>
     <string name="ball_dialog_tip">Không hiển thị lại</string>
     <string name="ball_dialog_title">Cài đặt ứng dụng trước.</string>
     <string name="ball_football_news">Tin bóng đá</string>
@@ -259,7 +259,7 @@
     <string name="didi_close">Đóng</string>
     <string name="didi_input">Chọn</string>
     <string name="didi_price">Giá</string>
-    <string name="didi_price_unit">NDT</string>
+    <string name="didi_price_unit">%sNDT</string>
     <string name="didi_trip">Taxi</string>
     <string name="drive">Lái xe</string>
     <string name="duokan_open">Thêm thẻ Duokan</string>
@@ -620,7 +620,7 @@
     <string name="setting_football_fav_null">Bạn chưa theo dõi bất kỳ đội nào</string>
     <string name="setting_football_hupu">Sportskeeda</string>
     <string name="setting_football_loading">Vui lòng chờ…</string>
-    <string name="setting_football_select_title" formatted="false">Chọn đội để theo dõi (%d/%d)</string>
+    <string name="setting_football_select_title">Chọn đội để theo dõi</string>
     <string name="setting_football_toast_max">Bạn có thể chọn đến 4 đội</string>
     <string name="setting_home_label">Thêm địa chỉ nhà riêng</string>
     <string name="setting_launch_all_added">Không thể thêm nhiều mục</string>

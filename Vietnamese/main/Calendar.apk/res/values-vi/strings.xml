@@ -772,7 +772,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="work_day_default_banner_title">Không dừng kiếm tiền, làm thêm giờ là cách giải quyết!</string>
     <string name="white_dews">Bạch lộ</string>
     <string name="weather_card_no_data_hint">Nhấn vào đây để lấy dữ liệu thời tiết</string>
-    <string name="weather_card_humidity_desc">Độ ẩm %1$s</string>
+    <string name="weather_card_humidity_desc">Độ ẩm %1$s%%</string>
     <string name="vernal_equinox">Xuân phân</string>
     <string name="valentines_day">Lễ Tình Nhân</string>
     <string name="united_nations_day">Ngày Liên Hợp Quốc</string>

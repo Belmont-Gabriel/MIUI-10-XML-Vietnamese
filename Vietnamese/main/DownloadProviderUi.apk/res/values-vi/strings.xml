@@ -115,7 +115,7 @@
     <string name="valid_in_this_month">Có giá trị trong tháng này</string>
     <string name="xunlei_speed_service">Tăng tốc tải xuống Xunlei</string>
     <string name="open_xunlei_speed_service">Bắt đầu tăng tốc tải xuống Xunlei</string>
-    <string name="bind_xunlei_account">Thêm Tài khoản Xunlei</string>
+    <string name="bind_xunlei_account">Thêm Tài khoản Xunlei %1$s</string>
     <string name="choose_open_time">Chọn khi nào bạn muốn bắt đầu</string>
     <string name="experience_xunlei_account_speed">Thành viên Xunlei có thể tận hưởng tải xuống tốc độ cao.</string>
     <string name="high_speed_channel">Tăng tốc Xunlei (trả phí):</string>

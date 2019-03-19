@@ -760,7 +760,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="same_folder_name_warning">Một nhóm có cùng tên đã tồn tại</string>
     <string name="save_button_text">Lưu</string>
     <string name="save_dialog_title">Lưu</string>
-    <string name="save_file">Lưu %s</string>
+    <string name="save_file">"Lưu "</string>
     <string name="save_file_already_exist_alert_message">Một tập tin cùng tên đã tồn tại, bạn có muốn thay thế?</string>
     <string name="save_file_already_exist_alert_title">Thay thế tập tin?</string>
     <string name="save_form_data_confirm_message">Tắt tính năng này có thể ảnh hưởng đến việc sử dụng.</string>
@@ -1321,7 +1321,7 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="new_version_name">Phiên bản mới %s</string>
     <string name="onews_category_cricket">Crikê</string>
     <string name="onews_category_reddit">Reddit</string>
-    <string name="permission_notification">%s cần gửi thông báo.</string>
+    <string name="permission_notification">gửi thông báo.</string>
     <string name="play_pause_video">Phát hoặc tạm dừng video</string>
     <string name="play_video">Phát video</string>
     <string name="popup_video">Popup video</string>

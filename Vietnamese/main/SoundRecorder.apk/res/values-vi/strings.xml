@@ -194,7 +194,7 @@
     <string name="mi_account_ok">Đăng nhập</string>
     <string name="mi_account_title">Đăng nhập với Tài khoản Mi</string>
     <string name="network_unavailable_tip">Kết nối mạng và thử lại.</string>
-    <string name="offline_recognize_progress">Đang phiên âm offline…</string>
+    <string name="offline_recognize_progress">Đang phiên âm offline %s…</string>
     <string name="offline_recognize_transfer_format">Đang phiên âm…</string>
     <string name="online_recognize_btn">Phiên âm</string>
     <string name="online_recognize_desp">Ghi âm của bạn sẽ được tải lên máy chủ để ước tính chi phí và phiên âm.</string>

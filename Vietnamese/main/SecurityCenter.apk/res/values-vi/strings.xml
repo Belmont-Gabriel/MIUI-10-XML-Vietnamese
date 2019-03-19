@@ -298,7 +298,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
-    <string name="gdpr_msg">Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư</a>.</string>
+	<string name="gdpr_msg">&lt;Data&gt;"Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
     <string name="list_empty_text">Trống</string>
     <string name="dialog_title_attention">Chú ý</string>
@@ -2029,7 +2029,7 @@ thiết bị của bạn"</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
     <string name="gmscore_support_service">Dịch vụ Google</string>
     <string name="gmscore_support_remind">Bật tính năng này nếu bạn gặp sự cố khi sử dụng Gmail, Google Map và các ứng dụng khác của Google. Điều này sẽ giảm nhẹ thời gian sử dụng pin.</string>
-    <string name="google_base_app_install_choice">\"%s\" yêu cầu Google Service Framework (Khung dịch vụ Google) để hoạt động bình thường. Tải xuống và cài đặt?</string>
+    <string name="google_base_app_install_choice">Ứng dụng yêu cầu Google Service Framework (Khung dịch vụ Google) để hoạt động bình thường. Tải xuống và cài đặt?</string>
     <string name="application_item_disable">Đã giới hạn</string>
     <string name="application_item_already_permission">Đã cho phép</string>
     <string name="man_add_application">Thêm ứng dụng tự khởi chạy thủ công</string>
@@ -2697,7 +2697,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="open_lucky">Mở Trợ lý lì xì Xiaomi</string>
     <string name="open_right_now">Chộp lì xì ngay</string>
     <string name="open_right_now_short">Chộp ngay</string>
-    <string name="person_have_hongbao">$1%s gửi bạn một phong bao lì xì!</string>
+    <string name="person_have_hongbao">%1$s gửi bạn một phong bao lì xì!</string>
     <string name="shake_send_sticker_summary">Trong WeChat và QQ, một biểu thức ngẫu nhiên sẽ xuất hiện. Đánh vần biểu thức vào ngày lễ, dễ mà!</string>
     <string name="shoop_again_float">Hiện lại</string>
     <string name="text_all_control_summary">Khi lì xì được phát hiện sau khi mở, màn hình sẽ tự sáng lên để nhắc</string>

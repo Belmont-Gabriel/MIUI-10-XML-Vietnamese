@@ -74,7 +74,7 @@
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Hình mở khóa hoàn tất</string>
-    <string name="memory_clear_result">Xóa %1$sB | Trống %2$sB</string>
+    <string name="memory_clear_result">Đã xóa %1$sB</string>
     <string name="memory_clear_nothing_result">Không có gì để dọn dẹp trong bộ nhớ đệm</string>
     <string name="shutdown_confirm_title">Tắt thiết bị ngay?</string>
     <string name="shutdown_progress">Đang tắt…</string>

@@ -197,7 +197,7 @@
     <string name="resource_comment_good_comments">Tích cực</string>
     <string name="resource_comment_invalid">Chạm vào các ngôi sao để đánh giá chủ đề</string>
     <string name="resource_comment_loading_list">Vui lòng chờ…</string>
-    <string name="resource_comment_name_default">Người dùng %1$s</string>
+    <string name="resource_comment_name_default">Biệt danh</string>
     <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Không có bình luận</string>
     <string name="resource_comment_publish">Đăng</string>

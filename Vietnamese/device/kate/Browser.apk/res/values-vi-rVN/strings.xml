@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="permission_notification">%s muốn gửi thông báo.</string>
+</resources>

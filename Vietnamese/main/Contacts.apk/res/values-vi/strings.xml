@@ -187,7 +187,7 @@
     <string name="composer_failed_to_get_database_infomation">Không thể lấy thông tin cơ sở dữ liệu.</string>
     <string name="composer_has_no_exportable_contact">Không có liên hệ có thể xuất. Nếu bạn có liên hệ trên điện thoại, một số nhà cung cấp có thể không cho phép liên hệ được xuất từ điện thoại.</string>
     <string name="composer_not_initialized">Trình soạn vCard không khởi động đúng.</string>
-    <string name="confirm_delete_contact_all_call_logs">Xóa lịch sử cuộc gọi?</string>
+    <string name="confirm_delete_contact_all_call_logs">Xóa tất cả lịch sử cuộc gọi của %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Xóa lịch sử cuộc gọi?</string>
     <string name="confirm_delete_sim_entry_miui_title">Xóa</string>
     <string name="confirm_export_message">Danh sách liên hệ của bạn sẽ được xuất đến tập tin: %s.</string>
