@@ -2270,4 +2270,19 @@ Bạn có muốn đóng trang không?"</string>
     <string name="permdesc_setProcessLimit">Cho phép ứng dụng kiểm soát số lượng tiến trình tối đa sẽ chạy. Không bao giờ cần cho ứng dụng thông thường.</string>
     <string name="permdesc_setScreenCompatibility">Cho phép ứng dụng kiểm soát chế độ tương thích màn hình của ứng dụng khác. Ứng dụng độc hại có thể phá vỡ hoạt động của các ứng dụng khác.</string>
     <string name="permdesc_setTime">Cho phép ứng dụng thay đổi giờ của điện thoại.</string>
+	<string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
+	<string name="immersive_cling_positive">Đã hiểu</string>
+	<string name="other_permissions">Quyền khác</string>
+	<string name="permission_title">Quyền</string>
+	<string name="notification_description">Trạng thái cuộc gọi thoại</string>
+	<string name="status_communication_speaker_summary">Một cuộc gọi rảnh tay đang diễn ra. Âm thanh sẽ vẫn được phát qua loa ngoài khi tai nghe được kết nối.</string>
+	<string name="status_communication_summary">Một cuộc gọi đang diễn ra. Bạn chỉ có thể điều chỉnh âm lượng bây giờ.</string>
+	<string name="hdmi_audio_output">Đầu ra âm thanh</string>
+	<string name="hdmi_audio_output_multi_channel">Đa kênh</string>
+	<string name="hdmi_audio_output_stereo">Âm thanh nổi</string>
+	<string name="hdmi_hdvideo_toast">HDMI không thể phát video 4K, kết nối sẽ bị ngắt.</string>
+	<string name="hdmi_mutex_call_content">Xin lỗi, HDMI đã dừng vì cuộc gọi hiện tại.</string>
+	<string name="hdmi_notification_content">Chạm để thiết lập HDMI</string>
+	<string name="hdmi_notification_title">Cáp HDMI đã kết nối</string>
+	<string name="pinpuk_attempts">"Số lần thử còn lại: "</string>
 </resources>

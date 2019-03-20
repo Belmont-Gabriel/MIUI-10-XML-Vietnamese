@@ -101,4 +101,49 @@
         <item>Xem tập trung</item>
         <item>Vấn đề trọng tâm</item>
     </string-array>
+	<string-array name="suggestion_weather_condition_message">
+		<item>Quang</item>
+		<item>Mây rải rác</item>
+		<item>Có mây</item>
+		<item>Mưa rào nhẹ</item>
+		<item>Bão có sấm sét</item>
+		<item>Mưa đá</item>
+		<item>Mưa tuyết</item>
+		<item>Mưa nhỏ</item>
+		<item>Mưa rào</item>
+		<item>Mưa to</item>
+		<item>Mưa bão</item>
+		<item>Mưa xối xả</item>
+		<item>Mưa rất to</item>
+		<item>Mưa tuyết</item>
+		<item>Tuyết rơi ít</item>
+		<item>Tuyết rơi</item>
+		<item>Tuyết rơi nhiều</item>
+		<item>Bão tuyết</item>
+		<item>Sương mù</item>
+		<item>Mưa lạnh</item>
+		<item>Bão cát</item>
+		<item>Mưa nhỏ đến mưa rào</item>
+		<item>Mưa rào đến mưa to</item>
+		<item>Mưa to đến mưa xối xả</item>
+		<item>Mưa xối xả đến mưa lớn</item>
+		<item>Mưa lớn đến mưa bão</item>
+		<item>Tuyết rơi nhẹ đến nhiều</item>
+		<item>Tuyết nhiều đến rất nhiều</item>
+		<item>Tuyết nhiều đến bão tuyết</item>
+		<item>Bụi bay</item>
+		<item>Cát bay</item>
+		<item>Bão cát</item>
+		<item>Sương mù dày đặc</item>
+		<item>Sương mù dày rất đặc</item>
+		<item>Sương mù mỏng</item>
+		<item>Sương mù dày</item>
+		<item>Sương mù nặng</item>
+		<item>Sương mù nặng</item>
+		<item>Sương mù dày đặc</item>
+		<item>Sương mù rất dày đặc</item>
+		<item>Không</item>
+		<item>Mưa</item>
+		<item>Tuyết</item>
+	</string-array>
 </resources>

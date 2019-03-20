@@ -167,4 +167,25 @@
     <string name="tw_presidential_alert_dialog_title">Cảnh báo Quốc gia</string>
     <string name="tw_required_monthly_test">Yêu cầu Kiểm tra hàng tháng</string>
     <string name="tw_required_monthly_test_dialog_title">Tin nhắn Kiểm tra hàng tháng</string>
+	<string name="tw_alert_message_level_language_summary">Tin nhắn Cảnh báo (Tiếng Anh)</string>
+	<string name="tw_alert_message_level_summary">Tin nhắn Cảnh báo (Trung Quốc)</string>
+	<string name="tw_emergency_alert_level_language_summary">Cảnh báo Khẩn cấp (Tiếng Anh)</string>
+	<string name="tw_emergency_alert_level_summary">Cảnh báo Khẩn cấp (Trung Quốc)</string>
+	<string name="tw_presidential_level_language_summary">Thông báo của Tổng thống (Tiếng Anh)</string>
+	<string name="tw_presidential_level_summary">Thông báo của Tổng thống (Trung Quốc)</string>
+	<string name="tw_required_monthly_test_level_language_summary">Kiểm tra bắt buộc hàng tháng (Tiếng Anh)</string>
+	<string name="tw_required_monthly_test_level_summary">Kiểm tra bắt buộc hàng tháng (Trung Quốc)</string>
+	<string name="cmas_amber_alert_off_summary">Bạn chọn từ chối thông báo AMBER</string>
+	<string name="cmas_amber_alert_on_summary">Bạn chọn nhận thông báo AMBER</string>
+	<string name="cmas_extreme_alert_off_summary">Bạn chọn từ chối thông báo Cảnh báo</string>
+	<string name="cmas_extreme_alert_on_summary">Bạn chọn nhận thông báo Cảnh báo</string>
+	<string name="cmas_alert_message">Tin nhắn Cảnh báo</string>
+	<string name="cmas_alert_message_chinese">Tin nhắn Cảnh báo</string>
+	<string name="cmas_alert_message_english">Tin nhắn Cảnh báo</string>
+	<string name="cmas_required_monthly_test_chinese">Kiểm tra bắt buộc hàng tháng</string>
+	<string name="cmas_required_monthly_test_english">Kiểm tra bắt buộc hàng tháng</string>
+	<string name="pws_cmas_presidential_level_alert_chinese">Thông báo của Tổng thống</string>
+	<string name="pws_cmas_presidential_level_alert_english">Thông báo của Tổng thống</string>
+	<string name="pws_other_message_identifiers_chinese">Cảnh báo Khẩn cấp</string>
+	<string name="pws_other_message_identifiers_english">Cảnh báo Khẩn cấp</string>
 </resources>

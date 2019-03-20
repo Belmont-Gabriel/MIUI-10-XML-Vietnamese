@@ -381,4 +381,5 @@
 	<string name="home_pull_down_action">Trượt xuống trên Màn hình chính</string>
     <string name="home_slide_up_action">Trượt lên trên Màn hình chính</string>
     <string name="minus_one_screen">màn hình trừ một</string>
+	<string name="edit_mode_top_menu_finish">Xong</string>
 </resources>

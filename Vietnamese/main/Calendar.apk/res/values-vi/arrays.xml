@@ -541,4 +541,57 @@
         <item>Song Xiaobao</item>
         <item>Guo Degang</item>
     </string-array>
+	<string-array name="preferences_skip_reminders_labels">
+		<item>Chỉ khi bị từ chối</item>
+		<item>Khi bị từ chối hoặc không phản hồi</item>
+	</string-array>
+	<string-array name="repeat_by_nth_sun">
+		<item>Vào mỗi Chủ nhật đầu tiên</item>
+		<item>Vào mỗi Chủ nhật lần thứ hai</item>
+		<item>Vào mỗi Chủ nhật lần thứ ba</item>
+		<item>Vào mỗi Chủ nhật lần thứ tư</item>
+		<item>Vào mỗi Chủ nhật cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_mon">
+		<item>Vào mỗi Thứ hai đầu tiên</item>
+		<item>Vào mỗi Thứ hai lần thứ hai</item>
+		<item>Vào mỗi Thứ hai lần thứ ba</item>
+		<item>Vào mỗi Thứ hai lần thứ tư</item>
+		<item>Vào mỗi Thứ hai cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_tues">
+		<item>Vào mỗi Thứ ba đầu tiên</item>
+		<item>Vào mỗi Thứ ba lần thứ hai</item>
+		<item>Vào mỗi Thứ ba lần thứ ba</item>
+		<item>Vào mỗi Thứ ba lần thứ tư</item>
+		<item>Vào mỗi Thứ ba cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_wed">
+		<item>Vào mỗi Thứ tư đầu tiên</item>
+		<item>Vào mỗi Thứ tư lần thứ hai</item>
+		<item>Vào mỗi Thứ tư lần thứ ba</item>
+		<item>Vào mỗi Thứ tư lần thứ tư</item>
+		<item>Vào mỗi Thứ tư cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_thurs">
+		<item>Vào mỗi Thứ năm đầu tiên</item>
+		<item>Vào mỗi Thứ năm lần thứ hai</item>
+		<item>Vào mỗi Thứ năm lần thứ ba</item>
+		<item>Vào mỗi Thứ năm lần thứ tư</item>
+		<item>Vào mỗi Thứ năm cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_fri">
+		<item>Vào mỗi Thứ sáu đầu tiên</item>
+		<item>Vào mỗi Thứ sáu lần thứ hai</item>
+		<item>Vào mỗi Thứ sáu lần thứ ba</item>
+		<item>Vào mỗi Thứ sáu lần thứ tư</item>
+		<item>Vào mỗi Thứ sáu cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_sat">
+		<item>Vào mỗi Thứ bảy đầu tiên</item>
+		<item>Vào mỗi Thứ bảy lần thứ hai</item>
+		<item>Vào mỗi Thứ bảy lần thứ ba</item>
+		<item>Vào mỗi Thứ bảy lần thứ tư</item>
+		<item>Vào mỗi Thứ bảy cuối cùng</item>
+	</string-array>
 </resources>
