@@ -650,4 +650,5 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
 	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
 	<string name="web_sso_login_message">Đang đăng nhập…</string>
 	<string name="webview_reload">Thử lại</string>
+	<string name="passport_confirm_recycle_account">Có</string>
 </resources>

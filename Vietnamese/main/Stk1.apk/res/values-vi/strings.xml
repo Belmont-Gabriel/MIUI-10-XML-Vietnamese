@@ -80,4 +80,8 @@
     <string name="sim_type_uim_name">Công cụ SIM</string>
 	<string name="default_setup_call_msg">Đang cài đặt cuộc gọi…</string>
 	<string name="stk_channel_name">Thông báo dịch vụ di động</string>
+	<string name="default_call_setup_msg">Cuộc gọi đang diễn ra…</string>
+	<string name="default_open_channel_msg">Mở kênh?</string>
+	<string name="default_tone_dialog_msg">Đang phát âm…</string>
+	<string name="sim_switch">Dịch vụ này chỉ khả dụng với SIM China Unicom. Đặt &lt;%s&gt; làm SIM dữ liệu mặc định?</string>
 </resources>

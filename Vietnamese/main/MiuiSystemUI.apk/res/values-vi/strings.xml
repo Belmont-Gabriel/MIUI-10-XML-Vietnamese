@@ -1981,7 +1981,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="usb_port_overheated_notification_content">Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không.</string>
 	<string name="usb_port_overheated_title">Cổng sạc bị quá nhiệt. Ngắt kết nối bộ sạc.</string>
 	<string name="face_unlock_fail">Không thể nhận diện khuôn mặt</string>
-	<string name="face_unlock_fail_retry">Không nhận diện khuôn mặt của bạn. Chạm vào biểu tượng và thử lại</string>
+	<string name="face_unlock_fail_retry">Không thể nhận diện khuôn mặt của bạn. Chạm vào biểu tượng và thử lại</string>
 	<string name="face_unlock_success_stay_screen_msg">Hiển thị Màn hình khóa sau khi nhận diện khuôn mặt. Vuốt lên để mở Màn hình chính.</string>
 	<string name="face_unlock_success_stay_screen_title">Không bỏ qua Màn hình khóa</string>
 	<string name="usb_port_short_circuit_dialog_content">Sạc bị hạn chế. Ngắt kết nối bộ sạc, lau sạch và khô cổng sạc để khôi phục khả năng sạc.</string>

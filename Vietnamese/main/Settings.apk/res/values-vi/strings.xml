@@ -1620,7 +1620,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="menu_restore">Đặt lại</string>
     <string name="restore_default_apn_completed">Đặt lại cài đặt APN mặc định đã hoàn tất.</string>
-    <string name="reset_network_title">Đặt lại cài đặt mạng</string>
+    <string name="reset_network_title">Đặt lại Wi-Fi, mạng di động &amp; Bluetooth</string>
     <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
 
 "<li>Wi‑Fi</li>"
@@ -3882,8 +3882,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="screenshot_three_gesture">Trượt ba ngón tay để chụp ảnh màn hình</string>
     <string name="screenshot_three_gesture_summary">Cử chỉ ba ngón tay khác sẽ tắt</string>
     <string name="has_screenshot_sound">Âm thanh chụp ảnh màn hình</string>
-    <string name="key_settings_title">Phím</string>
-    <string name="key_settings">Phím</string>
+    <string name="key_settings_title">Phím và cử chỉ</string>
+    <string name="key_settings">Phím và cử chỉ</string>
     <string name="key_position_cat">Vị trí phím</string>
     <string name="screen_key_position">Phím điều hướng</string>
     <string name="screen_key_press">Nhấn phím điều hướng</string>
@@ -3961,7 +3961,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>
     <string name="default_usb_mode">Kết nối USB</string>
-    <string name="wifi_tether_settings_title">Điểm phát sóng cá nhân</string>
+    <string name="wifi_tether_settings_title">Điểm phát sóng di động</string>
     <string name="tether_and_hotspot_title">Chia sẻ mạng &amp; điểm phát sóng</string>
     <string name="lock_settings">Màn hình khóa &amp; mật khẩu</string>
     <string name="second_space">Không gian thứ hai</string>
@@ -4328,9 +4328,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="retry">Hãy thử lại</string>
     <string name="brightness_auto_adjust_off">Độ sáng màn hình sẽ không thay đổi.</string>
     <string name="brightness_auto_adjust_on">Tự điều chỉnh độ sáng màn hình với ánh sáng môi trường.</string>
-    <string name="night_light">Ánh sáng ban đêm</string>
-    <string name="night_light_brightness">Độ sáng ánh sáng ban đêm</string>
-    <string name="night_light_color">Màu sắc ánh sáng ban đêm</string>
+    <string name="night_light">Chế độ ban đêm</string>
+    <string name="night_light_brightness">Độ sáng Chế độ ban đêm</string>
+    <string name="night_light_color">Nhiệt độ màu Chế độ ban đêm</string>
     <string name="night_light_summary">Giảm thiểu ánh sáng nền trong môi trường ánh sáng yếu để vào chế độ ánh sáng ban đêm</string>
     <string name="private_sms_need_to_unlock">Cần nhập mật khẩu:</string>
     <string name="private_sms_reset_by_account">Để đặt lại mật khẩu, đăng nhập vào Tài khoản Mi</string>
@@ -4346,7 +4346,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="lockpassword_choose_your_pin_header_second_space">Đặt PIN cho Không gian thứ hai</string>
     <string name="cancel_alert">Hủy các thay đổi của bạn?</string>
     <string name="android_beam_witch_label">Android Beam</string>
-    <string name="sim_management_title">Mạng di động</string>
+    <string name="sim_management_title">Thẻ SIM &amp; mạng di động</string>
     <string name="sim_management_title_cr_kolbi">Thẻ SIM &amp; mạng di động</string>
     <string name="sim_radio_off">Tắt</string>
     <string name="slot_status_title">Thông tin IMEI</string>
@@ -6771,7 +6771,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_data_prompt_summary">Hiển thị cảnh báo sử dụng dữ liệu khi trợ lý Wi-Fi chuyển sang dữ liệu di động</string>
      <string name="wifi_assistant_description">"Dưới đây là cách hoạt động của trợ lý Wi-Fi:
 1. Khi kết nối Wi-Fi yếu, trợ lý Wi-Fi sẽ cố gắng kết nối thiết bị của bạn với các mạng Wi-Fi khả dụng khác.
-2. Nếu tất cả kết nối Wi-Fi có sẵn đều yếu và dữ liệu di động sẽ được bật, trợ lý Wi-Fi sẽ chuyển sang dữ liệu di động."</string>
+2. Nếu tất cả kết nối Wi-Fi có sẵn đều yếu và dữ liệu di động sẽ được bật, trợ lý Wi-Fi tự lựa chọn mạng tốt nhất một cách thông minh."</string>
      <string name="wifi_assistant_disconnect">Ngắt kết nối</string>
      <string name="wifi_assistant_explicitly_confirm_data_message">Mạng Wi-Fi này không thể truy cập internet. Sử dụng dữ liệu di động thay thế?</string>
      <string name="wifi_assistant_explicitly_confirm_disconnect">Mạng Wi-Fi này không thể truy cập vào internet. Ngắt kết nối ngay?</string>
@@ -6780,7 +6780,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_off">Tắt</string>
      <string name="wifi_assistant_on">Bật</string>
      <string name="wifi_assistant_setup_wifi_assistant">Thiết lập</string>
-     <string name="wifi_assistant_summary">Chuyển đổi giữa mạng Wi-Fi và dữ liệu di động khi kết nối Wi-Fi yếu</string>
+     <string name="wifi_assistant_summary">Chuyển đổi giữa mạng Wi-Fi và dữ liệu di động một cách thông minh khi kết nối Wi-Fi yếu</string>
      <string name="wifi_assistant_switch_data">Sử dụng dữ liệu di động</string>
      <string name="wifi_assistant_switch_wifi">Chuyển đổi mạng</string>
      <string name="wifi_calling_disabled">Đãvôhiệuhoá</string>
@@ -6809,7 +6809,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_traffic_priority_on">Bật</string>
      <string name="wifi_traffic_priority_regular">Chế độ thường</string>
      <string name="wifi_traffic_priority_regular_summary">Chia sẻ băng thông giữa tiến trình nền và ứng dụng ở nền trước</string>
-     <string name="wifi_traffic_priority_summary">Ưu tiên tốc độ kết nối tự động</string>
+     <string name="wifi_traffic_priority_summary">Tự động điều chỉnh ưu tiên băng thông cho mạng hiện tại</string>
      <string name="wifi_wps_fail_error">Không thể cài đặt bảo vệ Wi-Fi, thử lại.</string>
      <string name="allow_device_id_access">Ứng dụng với nhận dạng thiết bị</string>
     <string name="bootloader_device_bind_no_data_network">Tắt WLAN rồi thêm tài khoản và thiết bị bằng dữ liệu di động.</string>
