@@ -1420,7 +1420,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="pick_favorites_list_title">%1$d ưa thích</string>
 	<string name="pick_recent_contacts_list_title">%1$d liên hệ gần đây</string>
 	<string name="pick_recent_list_title">%1$d liên hệ gần đây</string>
-	<string name="progress_notifier_message">Đang nhập %s/%s: %s</string>
+	<string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
 	<string name="remind_btn_ignore">Từ chối</string>
 	<string name="remind_btn_sync_now">Đồng bộ</string>
 	<string name="scanning">Đang quét…</string>

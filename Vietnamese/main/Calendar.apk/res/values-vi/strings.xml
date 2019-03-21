@@ -1137,22 +1137,5 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="year_label">Năm</string>
     <string name="year_picker_description">Danh sách năm</string>
     <string name="lunar_calendar">Âm lịch</string>
-    <string name="lunar_ling">0</string>
-    <string name="lunar_yi">1</string>
-    <string name="lunar_er">2</string>
-    <string name="lunar_san">3</string>
-    <string name="lunar_si">4</string>
-    <string name="lunar_wu">5</string>
-    <string name="lunar_liu">6</string>
-    <string name="lunar_qi">7</string>
-    <string name="lunar_ba">8</string>
-    <string name="lunar_jiu">9</string>
-    <string name="lunar_shi">10</string>
-    <string name="lunar_shi_yi">11</string>
-    <string name="lunar_shi_er">12</string>
-    <string name="lunar_chu_shi">10</string>
-    <string name="lunar_er_shi">20</string>
-    <string name="lunar_san_shi">30</string>
-    <string name="lunar_nian">20</string>
     <string name="match_ing">Đang tiến hành</string>
 </resources>
