@@ -50,8 +50,8 @@
     <string name="sst_subscribe_title">Đăng ký của tôi</string>
     <string name="sst_wifi_only_desc">Tắt tính năng này để tiết kiệm dữ liệu di động</string>
     <string name="sst_wifi_only_title">Cập nhật hình nền bằng dữ liệu di động</string>
-    <string name="summary">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
-    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+	<string name="summary">"Đồng ý với &lt;a href='%s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi để xem nội dung trực tuyến. Nếu bạn không đồng ý, hình nền trong máy vẫn sẽ khả dụng."</string>
+    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='%1$s'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='%2$s'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
     <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
     <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
     <string name="theme_applying">Đang áp dụng…</string>
@@ -127,7 +127,7 @@
     <string name="apply_to_wallpaper">Đặt làm Màn hình chính</string>
     <string name="carousel_declaration_btn_text">Bật Khóa tạp chí</string>
     <string name="carousel_declaration_cta_btn_text">Đồng ý và bật</string>
-    <string name="carousel_declaration_cta">Khóa tạp chí cần kết nối mạng để hoạt động bình thường. Để có thể truy cập nội dung trực tuyến, bạn cần đồng ý với &lt;a href=\'http://www.miui.com/res/doc/privacy/cn.html\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
+    <string name="carousel_declaration_cta">Khóa tạp chí cần kết nối mạng để hoạt động bình thường. Để có thể truy cập nội dung trực tuyến, bạn cần đồng ý với &lt;a href=\'%s\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
     <string name="carousel_declaration_des">Xem những địa điểm đẹp và nhận những bất ngờ thú vị với Khóa tạp chí</string>
     <string name="carousel_declaration_title">Đăng ký hình nền tuyệt đẹp</string>
     <string name="carousel_suggest">Chú ý</string>
@@ -557,10 +557,10 @@
     <string name="sst_wallpaper_history_title">Lịch sử</string>
     <string name="subscribe_item_checked">Đã đăng ký</string>
     <string name="subscribe_item_unchecked">Đã hủy đăng ký</string>
-    <string name="summary2">Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'>Thỏa thuận Người dùng&lt;/a> và &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường.</string>
-    <string name="theme_des">Tạp chí khóa màn hình chỉ hỗ trợ Chủ đề mặc định MIUI. Đặt chủ đề mặc định để có thể dùng Tạp chí khóa màn hình.</string>
-    <string name="theme_ok">Đặt chủ đề mặc định</string>
-    <string name="theme_title">Bạn đang không dùng chủ đề mặc định</string>
+    <string name="summary2">Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href =\'%1$s\'>Thỏa thuận Người dùng&lt;/a> và &lt;a href=\'%2$s\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường.</string>
+    <string name="theme_des">Áp dụng lại chủ đề mặc định và bật lại Tạp chí Khóa màn hình.</string>
+    <string name="theme_ok">Cài đặt</string>
+    <string name="theme_title">Chuyển sang Chủ đề mặc định</string>
     <string name="ticket_hint">Mã xác thực</string>
     <string name="ticket_invalid">Mã bạn nhập không đúng</string>
     <string name="ticket_sign_in">Đăng nhập qua SMS</string>
@@ -574,4 +574,30 @@
 	<string name="sst_lockscreen_show_headline_desc">Hiển thị tiêu đề hình nền bên dưới đồng hồ trên Màn hình khóa</string>
 	<string name="sst_lockscreen_show_headline_title">Hiển thị tiêu đề trên Màn hình khóa</string>
     <string name="time_current">Vừa xong</string>
+	<string name="about_download_fail">Không thể tải</string>
+	<string name="about_downloading">Đang tải xuống %s</string>
+	<string name="about_item_function">Tính năng mới</string>
+	<string name="about_net_error">Kiểm tra cài đặt mạng và thử lại.</string>
+	<string name="about_newest">Tạp chí Khóa màn hình đã được cập nhật.</string>
+	<string name="about_update">Cập nhật</string>
+	<string name="comment_pop_cancel">Không phải bây giờ</string>
+	<string name="comment_pop_ok">Rate</string>
+	<string name="comment_pop_content">Gửi đánh giá nếu bạn thích Tạp chí Khóa màn hình!</string>
+	<string name="comment_pop_title">Xếp hạng Tạp chí Khóa màn hình</string>
+	<string name="llks_pop_btm_des">Một nụ cười bắt đầu ngày mới</string>
+	<string name="llks_pop_btm_des_backup">Nhận lời chào ngày mới</string>
+	<string name="llks_pop_btm_title">Chào buổi sáng</string>
+	<string name="llks_pop_btm_title_backup">Chào buổi sáng</string>
+	<string name="llks_pop_i_know">Đã hiểu</string>
+	<string name="llks_pop_top_des">Nhận hình ảnh mới thường xuyên</string>
+	<string name="llks_pop_top_des_backup">Chuyển đến màn hình hàng ngày</string>
+	<string name="llks_pop_top_title">Hình nền mới</string>
+	<string name="llks_pop_top_title_backup">Ảnh mới</string>
+	<string name="new_feature_title">Có gì mới</string>
+	<string name="setting_about_item_des">Phiên bản</string>
+	<string name="setting_about_item_title">Tìm hiểu về Tạp chí Khóa màn hình</string>
+	<string name="sst_disable_unopen">Tính năng thử nghiệm</string>
+	<string name="sst_morning_greeting_disable_toast">Tính năng này sẽ sớm có</string>
+	<string name="theme_des_lock_style">Áp dụng Màn hình khóa mặc định và bật lại Tạp chí Khóa màn hình.</string>
+	<string name="theme_title_lock_style">Chuyển sang Màn hình khóa mặc định</string>
 </resources>

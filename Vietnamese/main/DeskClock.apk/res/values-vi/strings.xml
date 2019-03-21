@@ -265,4 +265,5 @@
     <string name="module_download_msg_replace">Bản cập nhật âm thanh cho báo thức thông minh khả dụng. Kết nối mạng và tải xuống ngay?</string>
     <string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_menu_space_shortcut_label">phím cách</string>
+	<string name="confirm_abort">Hủy</string>
 </resources>

@@ -641,7 +641,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
 	<string name="preferred_network_mode_gsm_wcdma_auto">GSM/WCDMA tự động</string>
 	<string name="preferred_network_mode_gsm_wcdma_lte">GSM/WCDMA/LTE</string>
 	<string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA ưa thích</string>
-	<string name="preferred_network_mode_lte_only">LTE only</string>
+	<string name="preferred_network_mode_lte_only">Chỉ LTE</string>
     <string name="preferred_network_mode_dialogtitle">Loại mạng ưu tiên</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Chế độ mạng ưu tiên: ưu tiên WCDMA</string>
     <string name="preferred_network_mode_gsm_only_summary">Chế độ mạng ưu tiên: chỉ GSM</string>

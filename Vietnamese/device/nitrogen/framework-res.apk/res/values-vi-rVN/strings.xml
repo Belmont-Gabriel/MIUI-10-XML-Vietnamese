@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="data_usage_warning_body">"Bạn đã sử dụng %s dữ liệu"</string>
+	<string name="ext_media_badremoval_notification_message">Ngắt phương tiện trước khi tháo để tránh mất nội dung</string>
+	<string name="ext_media_new_notification_message">Chạm để cài đặt</string>
+	<string name="ext_media_nomedia_notification_message">Một vài tính năng có thể không hoạt động đúng. Lắp bộ nhớ mới.</string>
+	<string name="ext_media_unmountable_notification_message">Chạm để sửa</string>
+	<string name="new_app_description">%1$s sẽ đóng mà không lưu</string>
+</resources>

@@ -507,7 +507,7 @@
     <string name="wechat_copy_video_failed_dialog_title">Không thể xuất</string>
     <string name="wechat_copying_video_success">Đã xuất thành công</string>
     <string name="wechat_copying_video_dialog_title">Xuất đến Thư viện</string>
-    <string name="wechat_copying_video_dialog_msg">Tập tin sẽ được lưu vào thư mục: /DCIM/WeChat</string>
+    <string name="wechat_copying_video_dialog_msg">Tập tin sẽ được lưu vào thư mục: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">Xóa tập tin sau khi xuất</string>
     <string name="wechat_copying_video_empty">Không có video nào để xuất</string>
     <string name="wechat_content_empty">Không có tập tin nào để xuất</string>

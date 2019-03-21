@@ -31,4 +31,9 @@
 	<string name="update_accounts_changed">Tài khoản đã thay đổi</string>
 	<string name="sim_state_changed">Thẻ SIM đã thay đổi</string>
     <string name="voicemail_cleanup">Dọn dẹp thư thoại</string>
+	<string name="group_name_contacts">Liên hệ</string>
+	<string name="group_name_coworkers">Đồng nghiệp</string>
+	<string name="group_name_family">Gia đình</string>
+	<string name="group_name_friends">Bạn bè</string>
+	<string name="unknown">Số chưa biết</string>
 </resources>

@@ -8,4 +8,5 @@
     <string name="cabl_levels_title">Mức độ chất lượng hình ảnh</string>
     <string name="cabl_levels_summary">Mức chất lượng hình ảnh thấp hơn có nghĩa là CABL sẽ cố gắng tiết kiệm càng nhiều điện năng càng tốt mà không ảnh hưởng đáng kể đến nội dung được hiển thị. Mức chất lượng hình ảnh tự động có nghĩa là CABL sẽ cố gắng để tiết kiệm tối đa điện năng dựa trên tự động phát hiện loại nội dung được hiển thị.</string>
     <string name="cabl_version_title">Phiên bản CABL</string>
+	<string name="cabl_info_default">Chưa biết</string>
 </resources>

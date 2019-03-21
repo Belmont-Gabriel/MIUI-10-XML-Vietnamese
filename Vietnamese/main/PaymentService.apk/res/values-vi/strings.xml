@@ -572,7 +572,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_frozen_text_pad">Tài khoản của bạn bị đóng băng. Liên hệ 400–100–3399.</string>
     <string name="mibi_giftcard_available">Khả dụng</string>
     <string name="mibi_giftcard_discount">Phiếu giảm giá</string>
-    <string name="mibi_giftcard_discount_detail">Phiếu giảm giá</string>
+    <string name="mibi_giftcard_discount_detail">Phiếu giảm giá (Dành %1$s Mi Credits để đổi)</string>
     <string name="mibi_giftcard_discount_detail2">(Dành %1$s Mi Credits để đổi)</string>
     <string name="mibi_giftcard_empty_detail">Không %1$s phiếu giảm giá.</string>
     <string name="mibi_giftcard_has_unavailable">Hết hạn</string>
@@ -643,4 +643,12 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="passport_verifying_activator_phone">Đang xác minh bảo mật điện thoại…</string>
     <string name="passport_yes">Có</string>
 	<string name="mibi_more_operation">Thêm hành động</string>
+	<string name="mibi_recharge_label">Nạp tiền</string>
+	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
+	<string name="mibi_privacy_policy">Chính sách Riêng tư</string>
+	<string name="no_network">Không thể kết nối mạng</string>
+	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
+	<string name="web_sso_login_message">Đang đăng nhập…</string>
+	<string name="webview_reload">Thử lại</string>
+	<string name="passport_confirm_recycle_account">Có</string>
 </resources>

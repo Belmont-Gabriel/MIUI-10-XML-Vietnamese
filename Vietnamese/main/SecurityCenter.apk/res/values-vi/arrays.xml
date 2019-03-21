@@ -129,4 +129,9 @@
         <item>Rung khi im lặng</item>
         <item>Luôn rung</item>
     </string-array>
+	<string-array name="luckymoney_sound">
+		<item>Tắt tiếng</item>
+		<item>Tiền vàng</item>
+		<item>Lì xì đang đến</item>
+	</string-array>
 </resources>

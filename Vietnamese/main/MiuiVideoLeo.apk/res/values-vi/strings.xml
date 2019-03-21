@@ -837,4 +837,5 @@ Vị trí: %s
     <string name="videos">Video</string>
     <string name="volume">Âm lượng</string>
     <string name="wrapper_footer_text">Đã đến cuối trang</string>
+	<string name="passport_identitfication_expired">Mã xác nhận hết hạn, thử lại</string>
 </resources>

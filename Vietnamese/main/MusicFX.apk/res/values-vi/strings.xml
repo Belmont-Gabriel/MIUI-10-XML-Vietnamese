@@ -14,4 +14,12 @@
     <string name="ci_extreme">Bộ tăng FX</string>
     <string name="user">Người dùng</string>
     <string name="picker_title">Bảng đ.khiển hiệu ứng âm nhạc</string>
+	<string name="classical">Cổ điển</string>
+	<string name="combo_device">Hiệu ứng chỉ hỗ trợ khi phát qua tai nghe.</string>
+	<string name="eq_custom">Để tùy chỉnh, chọn Tùy chỉnh</string>
+	<string name="none">Không</string>
+	<string name="normal">Bình thường</string>
+	<string name="power_on_prompt">Nhấn nút nguồn ở góc trên bên phải.</string>
+	<string name="toggle_button_off">Tắt</string>
+	<string name="toggle_button_on">Bật</string>
 </resources>

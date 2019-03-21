@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_gamemode_tip">Đang mở trò chơi…</string>
+    <string name="gb_antimsg_summary">Không bị rối</string>
+    <string name="gb_net_summary">Tối ưu kết nối</string>
+    <string name="gb_preformance_summary">Hiệu năng tốt hơn</string>
+</resources>

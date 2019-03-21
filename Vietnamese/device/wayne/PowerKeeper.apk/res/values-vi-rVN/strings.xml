@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="extreme_power_config_mode_desc">&lt;li&gt;"Siêu tiết kiệm pin dừng tất cả hoạt động nền của ứng dụng khi bạn rời khỏi nó và vào Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật."&lt;/li&gt;"
+"&lt;li&gt;Nếu bạn muốn ứng dụng chạy dưới nền, khóa nó lại trong Gần đây, hoặc thêm nó vào ngoại lệ nền bên dưới. Lên đến 4 ứng dụng có thể chạy nền khi Siêu tiết kiệm pin bật.&lt;/li&gt;"
+"&lt;li&gt;Siêu tiết kiệm pin mặc định tắt NFC. Bạn có thể thay đổi trong Cài đặt.&lt;/li&gt;"
+"&lt;li&gt;Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng trên điện thoại, Siêu tiết kiệm pin sẽ tự động tắt khi pin sạc được 30%.&lt;/li&gt;</string>
+</resources>

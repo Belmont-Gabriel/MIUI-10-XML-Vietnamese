@@ -321,4 +321,15 @@
         <item>, đang hoạt động (nội dung phương tiện)</item>
         <item>, đang hoạt động (điện thoại)</item>
     </string-array>
+	<string-array name="call_barring_outgoing_display_values">
+		<item>Tắt</item>
+		<item>Chặn cuộc gọi chuyển vùng</item>
+		<item>Chặn cuộc gọi quốc tế</item>
+		<item>Chặn cuộc gọi đi</item>
+	</string-array>
+	<string-array name="call_barring_incoming_display_values">
+		<item>Tắt</item>
+		<item>Chuyển vùng</item>
+		<item>Tất cả</item>
+	</string-array>
 </resources>

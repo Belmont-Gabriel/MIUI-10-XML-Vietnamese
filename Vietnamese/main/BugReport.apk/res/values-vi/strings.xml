@@ -161,7 +161,7 @@
     <string name="cta_cancel">Hủy</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Gửi báo cáo</string>
-    <string name="submit_dialog_content">Phản hồi của bạn cùng với đính kèm và nhật ký sẽ được gửi đến máy chủ MIUI. Chúng có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn.</string>
+	<string name="submit_dialog_content">&lt;Data&gt;"Bạn cần đồng ý với &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; và &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Thỏa thuận người dùng&amp;lt;/a&amp;gt; của chúng tôi để có thể sử dụng Phản hồi. Các vấn đề bạn báo cáo cùng với tệp đính kèm (có thể chứa thông tin cá nhân, cũng như thông tin về thiết bị và mạng của bạn) sẽ được tải lên máy chủ MIUI. Điều này sẽ giúp chúng tôi xác định và giải quyết vấn đề mà bạn báo cáo."&lt;/Data&gt;</string>
     <string name="submit_dialog_cancel">Hủy</string>
     <string name="submit_dialog_confirm">Gửi</string>
     <string name="mobile_data_note_dialog_title">Cảnh báo sử dụng dữ liệu</string>
@@ -178,7 +178,7 @@
     <string name="modem_tool_log_start_toast">Đang lưu modem log vào %s</string>
     <string name="modem_tool_log_stop_toast">Đã dừng lưu modem log vào %s</string>
     <string name="bugreport_dialog_not_show_again">Không hiển thị lại</string>
-    <string name="bugreport_dialog_submit_content">Phản hồi của bạn có thể chứa thông tin cá nhân và dữ liệu vị trí.</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Bạn đang lưu nhật ký trên thiết bị này. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Không chia sẻ nhật ký với bất kỳ ai nếu bạn không muốn thông tin bị lộ. Chọn \"Đồng ý\" nghĩa là bạn đã đọc và đồng ý với &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; và &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Thỏa thuận người dùng&amp;lt;/a&amp;gt; của chúng tôi."&lt;/Data&gt;</string>
     <string name="bugreport_dump_start_notification_title">Đang tạo báo cáo lỗi…</string>
     <string name="bugreport_dump_start_notification_summary">Quá trình này cần một vài phút, vui lòng chờ...</string>
     <string name="bugreport_dump_complete_notification_title">Đã tạo báo cáo lỗi</string>
@@ -301,7 +301,7 @@
     <string name="bugreport_feedback_from">Từ: %s</string>
     <string name="michat_mesage_resend_error_network">Không thể kết nối mạng</string>
     <string name="michat_mesage_send_error_network">Không thể gửi, kiểm tra kết nối mạng</string>
-	<string name="submit_dialog_content_global">"Phản hồi của bạn, cùng với tệp đính kèm và nhật ký, sẽ được gửi đến các máy chủ của MIUI. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Bạn có thể chọn không gửi bản ghi bằng cách bỏ chọn hộp tương ứng."</string>
+	<string name="submit_dialog_content_global">&lt;Data&gt;"Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô checkbox nếu không muốn tải lên) sẽ được gửi lên máy chủ MIUI và một phần hạn chế Diễn đàn MIUI dành cho các nhà phát triển. Thông tin về hoạt động diễn đàn của bạn cũng được thu thập để phân tích và liên lạc. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Chọn \"Đồng ý\" có nghĩa là bạn đã đọc và đồng ý với &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; và &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Thỏa thuận người dùng&amp;lt;/a&amp;gt; của chúng tôi."&lt;/Data&gt;</string>
 	<string name="app_search">Tìm kiếm ứng dụng</string>
     <string name="bugreport_tool_log_dumping_desc">Mất khoảng một phút</string>
     <string name="bugreport_tool_log_dumping_title">Đang tạo báo cáo lỗi</string>
@@ -549,4 +549,6 @@
     <string name="passport_wrong_captcha">Mã bạn nhập không chính xác</string>
     <string name="passport_wrong_phone_number_format">Định dạng số điện thoại bạn nhập không hợp lệ</string>
     <string name="passport_wrong_vcode">Mã bạn nhập không chính xác</string>
+	<string name="permission_granted">%1$s quyền đã cho phép</string>
+	<string name="time_in_justnow">Vừa xong</string>
 </resources>

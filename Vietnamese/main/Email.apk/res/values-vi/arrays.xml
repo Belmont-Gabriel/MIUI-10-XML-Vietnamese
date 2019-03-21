@@ -73,4 +73,13 @@
         <item>Từ chối trách nhiệm</item>
         <item>Miễn trừ Trách nhiệm Email</item>
     </string-array>
+	<string-array name="signature_special_string_array">
+		<item>Khước từ:</item>
+		<item>Khước từ Email</item>
+		<item>Đã gửi qua WPSMail</item>
+		<item>Gửi từ</item>
+		<item>Gửi với</item>
+		<item>Cảm ơn,</item>
+		<item>Trân trọng</item>
+	</string-array>
 </resources>

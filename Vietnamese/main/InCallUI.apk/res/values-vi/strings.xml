@@ -254,7 +254,7 @@
     <string name="online_check_warning_type_by_cmb">Thư rác</string>
     <string name="onscreen_mi_support_calls_text">Hỗ trợ Mi</string>
 	<string name="change_to_voice_tips_when_background">Đối phương đã chuyển sang cuộc gọi thoại</string>
-    <string name="video_crbt_title">%s nhạc chuông video</string>
+    <string name="video_crbt_title">Đang phát nhạc chờ video của bên kia</string>
 	<string name="card_title_answering_time_out">Không thể trả lời cuộc gọi, hãy thử lại.</string>
     <string name="crbt_second_hold_prompt">%s đang giữ…</string>
     <string name="crbt_second_hold_prompt_no_name">Cuộc gọi trước đang giữ…</string>

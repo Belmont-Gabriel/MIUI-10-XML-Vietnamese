@@ -106,7 +106,7 @@
     <string name="tts_status_requires_network">%1$s yêu cầu kết nối mạng</string>
     <string name="tts_status_not_supported">%1$s chưa được hỗ trợ</string>
     <string name="tts_status_checking">Đang kiểm tra…</string>
-    <string name="tts_engine_settings_title">Cài đặt %s</string>
+    <string name="tts_engine_settings_title">Cài đặt công cụ</string>
     <string name="tts_engine_settings_button">Cài đặt công cụ khởi chạy</string>
     <string name="tts_engine_preference_section_title">Công cụ ưu tiên</string>
     <string name="tts_general_section_title">Chung</string>
@@ -890,7 +890,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="unlock_set_unlock_pattern_title">Hình</string>
     <string name="unlock_set_unlock_pattern_summary">Vẽ hình đơn giản bằng ngón tay để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_pin_title">Mã PIN</string>
-    <string name="unlock_set_unlock_pin_summary">Nhập 4 số để mở khóa thiết bị</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Nhập %d-%d số để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_password_title">Mật khẩu</string>
     <string name="unlock_set_unlock_password_summary">Nhập 4 hoặc nhiều hơn 4 ký tự gồm chữ hoặc số để mở khóa thiết bị</string>
     <string name="unlock_set_do_later_title">Để sau</string>
@@ -990,7 +990,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="bluetooth_confirm_passkey_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy đảm bảo thiết bị đang hiển thị mã xác nhận này:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_incoming_pairing_msg">Từ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ghép nối với thiết bị này?</string>
     <string name="bluetooth_display_passkey_pin_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy nhập trên thiết bị:&lt;br>&lt;b>%2$s&lt;/b> rồi nhấn Quay lại hoặc Enter.</string>
-    <string name="bluetooth_pairing_shares_phonebook">Cho phép %1$s truy cập danh bạ và nhật ký cuộc gọi của bạn</string>
+    <string name="bluetooth_pairing_shares_phonebook">Cho phép truy cập danh bạ và nhật ký cuộc gọi của bạn</string>
     <string name="bluetooth_connecting_error_message">Không thể kết nối với %1$s.</string>
     <string name="bluetooth_preference_scan_title">Dò tìm thiết bị</string>
     <string name="bluetooth_search_for_devices">Làm mới</string>
@@ -1620,7 +1620,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
     <string name="menu_restore">Đặt lại</string>
     <string name="restore_default_apn_completed">Đặt lại cài đặt APN mặc định đã hoàn tất.</string>
-    <string name="reset_network_title">Đặt lại cài đặt mạng</string>
+    <string name="reset_network_title">Đặt lại Wi-Fi, mạng di động &amp; Bluetooth</string>
     <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
 
 "<li>Wi‑Fi</li>"
@@ -2156,7 +2156,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="color_cyan">Chàm</string>
     <string name="color_yellow">Vàng</string>
     <string name="color_magenta">Tía</string>
-    <string name="enable_service_title">Dịch vụ sẽ thực hiện: %1$s</string>
+    <string name="enable_service_title">"Dịch vụ sẽ thực hiện: "</string>
     <string name="capabilities_list_title">%1$s cần:</string>
     <string name="touch_filtered_warning">Vì ứng dụng đang che khuất yêu cầu cấp quyền, Cài đặt không thể xác minh câu trả lời của bạn.</string>
     <string name="enable_service_encryption_warning">Nếu bạn bật %1$s, thiết bị của bạn sẽ không sử dụng khóa màn hình để cải tiến việc mã hóa dữ liệu.</string>
@@ -3304,13 +3304,13 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="keywords_vr_listener">vr ảo thực tế trình nghe âm thanh nổi trình trợ giúp dịch vụ</string>
     <string name="keywords_system_alert_window">hộp thoại cửa sổ thông báo hệ thống vẽ lên trên các ứng dụng khác</string>
     <string name="overlay_settings">Vẽ trên ứng dụng khác</string>
-    <string name="system_alert_window_summary" formatted="false">%d / %d ứng dụng được phép vẽ lên trên các ứng dụng khác</string>
+    <string name="system_alert_window_summary">%1$d trên %2$d ứng dụng được phép vẽ lên trên các ứng dụng khác</string>
     <string name="filter_overlay_apps">Các ứng dụng có quyền</string>
     <string name="system_alert_window_on">Có</string>
     <string name="system_alert_window_off">Không</string>
     <string name="write_settings">Sửa đổi cài đặt hệ thống</string>
     <string name="keywords_write_settings">ghi/sửa đổi cài đặt hệ thống</string>
-    <string name="write_settings_summary" formatted="false">%d / %d được phép sửa đổi cài đặt hệ thống</string>
+    <string name="write_settings_summary">%1$d trên %2$d ứng dụng được phép sửa đổi cài đặt hệ thống</string>
     <string name="filter_write_settings_apps">Có thể sửa đổi cài đặt hệ thống</string>
     <string name="write_settings_title">Có thể sửa đổi cài đặt hệ thống</string>
     <string name="write_system_settings">Sửa đổi cài đặt hệ thống</string>
@@ -3380,7 +3380,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="condition_bg_data_summary">Dữ liệu nền chỉ khả dụng qua Wi-Fi. Điều này có thể ảnh hưởng đến một số ứng dụng hoặc dịch vụ khi không có Wi-Fi.</string>
     <string name="condition_work_title">Hồ sơ công việc đã tắt</string>
     <string name="condition_work_summary">Ứng dụng, đồng bộ hóa dưới nền và các tính năng khác có liên quan đến hồ sơ công việc của bạn bị tắt.</string>
-    <string name="suggestions_title">Đề xuất (%1$d)</string>
+    <string name="suggestions_title">Đề xuất</string>
     <string name="suggestion_remove">Xóa</string>
     <string name="color_temperature">Nhiệt độ màu lạnh</string>
     <string name="color_temperature_desc">Sử dụng màu hiển thị lạnh hơn</string>
@@ -3392,9 +3392,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="ethernet_data_usage">Sử dụng dữ liệu ethernet</string>
     <string name="wifi">Wi-Fi</string>
     <string name="ethernet">Ethernet</string>
-    <string name="cell_data_template">%1$s dữ liệu di động</string>
-    <string name="wifi_data_template">%1$s dữ liệu Wi-Fi</string>
-    <string name="ethernet_data_template">%1$s dữ liệu ethernet</string>
+    <string name="cell_data_template">^1 dữ liệu di động</string>
+    <string name="wifi_data_template">^1 dữ liệu Wi-Fi</string>
+    <string name="ethernet_data_template">^1 dữ liệu ethernet</string>
     <string name="cell_warning_only">%1$s cảnh báo dữ liệu</string>
     <string name="cell_warning_and_limit">%1$s cảnh báo dữ liệu / %2$s giới hạn dữ liệu</string>
     <string name="billing_cycle">Chu kỳ thanh toán</string>
@@ -3882,8 +3882,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="screenshot_three_gesture">Trượt ba ngón tay để chụp ảnh màn hình</string>
     <string name="screenshot_three_gesture_summary">Cử chỉ ba ngón tay khác sẽ tắt</string>
     <string name="has_screenshot_sound">Âm thanh chụp ảnh màn hình</string>
-    <string name="key_settings_title">Phím</string>
-    <string name="key_settings">Phím</string>
+    <string name="key_settings_title">Phím và cử chỉ</string>
+    <string name="key_settings">Phím và cử chỉ</string>
     <string name="key_position_cat">Vị trí phím</string>
     <string name="screen_key_position">Phím điều hướng</string>
     <string name="screen_key_press">Nhấn phím điều hướng</string>
@@ -3961,7 +3961,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>
     <string name="default_usb_mode">Kết nối USB</string>
-    <string name="wifi_tether_settings_title">Điểm phát sóng cá nhân</string>
+    <string name="wifi_tether_settings_title">Điểm phát sóng di động</string>
     <string name="tether_and_hotspot_title">Chia sẻ mạng &amp; điểm phát sóng</string>
     <string name="lock_settings">Màn hình khóa &amp; mật khẩu</string>
     <string name="second_space">Không gian thứ hai</string>
@@ -4002,7 +4002,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="show_rounded_corners">Làm bo tròn các góc màn hình</string>
     <string name="pref_operational_key">Phím điều hướng</string>
     <string name="pref_button_light">Đèn phím</string>
-    <string name="pref_button_light_summary">Bật sáng phím Menu, Trang chính, và phím Quay lại</string>
+    <string name="pref_button_light_summary">Bật sáng phím Menu, %1$s và phím Quay lại</string>
     <string name="pref_button_light_summary_sub">Trang chủ</string>
     <string name="button_light_timeout">Thời gian đèn bàn phím</string>
     <string name="battery_light_title">Sáng khi sạc</string>
@@ -4328,9 +4328,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="retry">Hãy thử lại</string>
     <string name="brightness_auto_adjust_off">Độ sáng màn hình sẽ không thay đổi.</string>
     <string name="brightness_auto_adjust_on">Tự điều chỉnh độ sáng màn hình với ánh sáng môi trường.</string>
-    <string name="night_light">Ánh sáng ban đêm</string>
-    <string name="night_light_brightness">Độ sáng ánh sáng ban đêm</string>
-    <string name="night_light_color">Màu sắc ánh sáng ban đêm</string>
+    <string name="night_light">Chế độ ban đêm</string>
+    <string name="night_light_brightness">Độ sáng Chế độ ban đêm</string>
+    <string name="night_light_color">Nhiệt độ màu Chế độ ban đêm</string>
     <string name="night_light_summary">Giảm thiểu ánh sáng nền trong môi trường ánh sáng yếu để vào chế độ ánh sáng ban đêm</string>
     <string name="private_sms_need_to_unlock">Cần nhập mật khẩu:</string>
     <string name="private_sms_reset_by_account">Để đặt lại mật khẩu, đăng nhập vào Tài khoản Mi</string>
@@ -4346,7 +4346,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="lockpassword_choose_your_pin_header_second_space">Đặt PIN cho Không gian thứ hai</string>
     <string name="cancel_alert">Hủy các thay đổi của bạn?</string>
     <string name="android_beam_witch_label">Android Beam</string>
-    <string name="sim_management_title">Mạng di động</string>
+    <string name="sim_management_title">Thẻ SIM &amp; mạng di động</string>
     <string name="sim_management_title_cr_kolbi">Thẻ SIM &amp; mạng di động</string>
     <string name="sim_radio_off">Tắt</string>
     <string name="slot_status_title">Thông tin IMEI</string>
@@ -4517,7 +4517,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="preferred_app_settings_reset">Cài đặt về mặc định</string>
     <string name="preferred_app_settings_reset_message">Khôi phục cài đặt ứng dụng mặc định về dữ liệu gốc.</string>
     <string name="preferred_app_settings_reset_button">Đặt lại</string>
-    <string name="system_app_settings">Ứng dụng hệ thống</string>
+    <string name="system_app_settings">Cài đặt ứng dụng hệ thống</string>
     <string name="connect_to_internet">Kết nối mạng</string>
     <string name="wifi_setting_category">Mạng có sẵn</string>
     <string name="account_autostar_label">Tự khởi chạy</string>
@@ -4583,7 +4583,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="other_advanced_settings">Cài đặt bổ sung</string>
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Xem các ứng dụng yêu cầu truy cập thông tin vị trí gần đây</string>
-    <string name="permission_manager">Quyền truy cập</string>
+    <string name="permission_manager">Quyền</string>
     <string name="personal_section_title">Cá nhân hóa</string>
     <string name="system_and_device_section_title">Cài đặt hệ thống</string>
     <string name="application_manager_section_title">Cài đặt ứng dụng</string>
@@ -6588,7 +6588,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>
      <string name="launch_error">Không thể bật ứng dụng!</string>
      <string name="lockdown_vpn_already_connected">Đã bật chế độ Luôn kết nối VPN để kết nối.</string>
-     <string name="lockpassword_choose_your_pin_title">Nhập 4-16 chữ số</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Nhập %d-%d chữ số</string>
      <string name="mi_pay_summary">Thẻ xe bus/Mi Pay/Card Emulator</string>
      <string name="mira_vision_summary">Mang lại hiệu ứng hình ảnh tốt nhất</string>
      <string name="miui_lab_ai_cloud_closed">Tải trước AI chưa khả dụng.</string>
@@ -6771,7 +6771,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_data_prompt_summary">Hiển thị cảnh báo sử dụng dữ liệu khi trợ lý Wi-Fi chuyển sang dữ liệu di động</string>
      <string name="wifi_assistant_description">"Dưới đây là cách hoạt động của trợ lý Wi-Fi:
 1. Khi kết nối Wi-Fi yếu, trợ lý Wi-Fi sẽ cố gắng kết nối thiết bị của bạn với các mạng Wi-Fi khả dụng khác.
-2. Nếu tất cả kết nối Wi-Fi có sẵn đều yếu và dữ liệu di động sẽ được bật, trợ lý Wi-Fi sẽ chuyển sang dữ liệu di động."</string>
+2. Nếu tất cả kết nối Wi-Fi có sẵn đều yếu và dữ liệu di động sẽ được bật, trợ lý Wi-Fi tự lựa chọn mạng tốt nhất một cách thông minh."</string>
      <string name="wifi_assistant_disconnect">Ngắt kết nối</string>
      <string name="wifi_assistant_explicitly_confirm_data_message">Mạng Wi-Fi này không thể truy cập internet. Sử dụng dữ liệu di động thay thế?</string>
      <string name="wifi_assistant_explicitly_confirm_disconnect">Mạng Wi-Fi này không thể truy cập vào internet. Ngắt kết nối ngay?</string>
@@ -6780,7 +6780,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_off">Tắt</string>
      <string name="wifi_assistant_on">Bật</string>
      <string name="wifi_assistant_setup_wifi_assistant">Thiết lập</string>
-     <string name="wifi_assistant_summary">Chuyển đổi giữa mạng Wi-Fi và dữ liệu di động khi kết nối Wi-Fi yếu</string>
+     <string name="wifi_assistant_summary">Chuyển đổi giữa mạng Wi-Fi và dữ liệu di động một cách thông minh khi kết nối Wi-Fi yếu</string>
      <string name="wifi_assistant_switch_data">Sử dụng dữ liệu di động</string>
      <string name="wifi_assistant_switch_wifi">Chuyển đổi mạng</string>
      <string name="wifi_calling_disabled">Đãvôhiệuhoá</string>
@@ -6809,7 +6809,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_traffic_priority_on">Bật</string>
      <string name="wifi_traffic_priority_regular">Chế độ thường</string>
      <string name="wifi_traffic_priority_regular_summary">Chia sẻ băng thông giữa tiến trình nền và ứng dụng ở nền trước</string>
-     <string name="wifi_traffic_priority_summary">Ưu tiên tốc độ kết nối tự động</string>
+     <string name="wifi_traffic_priority_summary">Tự động điều chỉnh ưu tiên băng thông cho mạng hiện tại</string>
      <string name="wifi_wps_fail_error">Không thể cài đặt bảo vệ Wi-Fi, thử lại.</string>
      <string name="allow_device_id_access">Ứng dụng với nhận dạng thiết bị</string>
     <string name="bootloader_device_bind_no_data_network">Tắt WLAN rồi thêm tài khoản và thiết bị bằng dữ liệu di động.</string>
@@ -6850,9 +6850,9 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="miui_sos_contacts_category">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts_quantity">Đã thêm %d</string>
-    <string name="miui_sos_emergency_delivered_sms">%1$s(%2$s)đã được chấp nhận</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)đã được chấp nhận</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1sđã được chấp nhận</string>
-    <string name="miui_sos_emergency_failed_sms">%1$s(%2$s)tin nhắn SOS gửi thất bại.</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">Không thể gửi tin nhắn cho %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">%1stin nhắn SOS gửi thất bại.</string>
     <string name="miui_sos_enable_switch_summary">Nhấn nhanh nút nguồn 5 lần để gửi vị trí và tin nhắn SOS đến số liên hệ khẩn cấp</string>
     <string name="miui_sos_enable_switch_title">SOS</string>
@@ -7108,7 +7108,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="disabled_by_policy_title_turn_off_backups">Không thể tắt sao lưu</string>
     <string name="disabled_dependent_setting_summary">Phụ thuộc vào các cài đặt khác</string>
     <string name="disabled_for_user_setting_summary">Cài đặt không thể thay đổi bởi người dùng hiện tại</string>
-    <string name="display_cutout_emulation">Mô phỏng màn hình với cutout</string>
+    <string name="display_cutout_emulation">Mô phỏng hiển thị với phần cắt rời</string>
     <string name="display_cutout_emulation_none">Không</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở nhanh camera</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>
@@ -7766,8 +7766,8 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="aod_mode_clock">Đồng hồ</string>
 	<string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
 	<string name="aod_sample_date">Thứ ba, 10 Tháng năm</string>
-	<string name="aod_lock_screen_date">EEEE, d MMMM</string>
-	<string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="aod_lock_screen_date">EE, d MMMM</string>
+	<string name="aod_lock_screen_date_12">EE, d MMMM</string>
 	<string name="dark_color_mode">Dark mode</string>
 	<string name="dark_color_summary">Chuyển sang màu tối cho hình nền hệ thống và ứng dụng tương thích</string>
 	<string name="open_dark_mode_dialog_summary">Một số cài đặt hiển thị nhất định sẽ không tương thích với Dark mode. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Dark mode. Bật Dark mode?</string>
@@ -7803,4 +7803,22 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="search_unlogin_account_title">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản</string>
 	<string name="unlogin_account_summary">Tất cả dịch vụ Mi. Một Tài khoản Mi</string>
 	<string name="unlogin_account_title">Đăng nhập vào Tài khoản Mi</string>
+	<string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
+	<string name="otg_closed">Tắt</string>
+	<string name="otg_opened">Bật</string>
+	<string name="otg_tip">"USB On-The-Go cho phép thiết bị USB và bàn phím, chuột kết nối với điện thoại và trao đổi dữ liệu.
+
+OTG tự động tắt sau 10 phút không hoạt động."</string>
+	<string name="cutout_type_desc">Bật để làm mịn đường cong của tai thỏ</string>
+	<string name="cutout_type_title">Điều chỉnh hình dáng tai thỏ</string>
+	<string name="auto_dual_clock_summary">Hiển thị Đồng hồ kép khi thời gian hiện tại khác với đồng hồ thứ hai</string>
+	<string name="auto_dual_clock_title">Đồng hồ kép</string>
+	<string name="dual_clock">Đồng hồ kép</string>
+	<string name="dual_clock_aod_hint">"\"Đồng hồ kép\" dựa trên các tính năng sau: 1. Với màn hình đã tắt, cho phép hiển thị các mục trong Cài đặt &gt; Hiển thị; 2. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 3. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
+	<string name="dual_clock_hint">"\"Dual Clock\" dựa trên các tính năng sau: 1. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 2. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
+	<string name="dual_clock_ok">Đã hiểu</string>
+	<string name="dual_clock_open_message">Đồng hồ kép sẽ hiển thị trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+	<string name="more_installed_services_title">Thêm dịch vụ đã tải</string>
+	<string name="resident_timezone_summary">Đồng hồ thứ hai</string>
+	<string name="toast_sta_ap_works_wifi_display_disable">Không thể truyền khi đã kết nối Wi-Fi và bật điểm phát sóng</string>
 </resources>
