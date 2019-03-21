@@ -60,7 +60,6 @@
     <string name="cancel">Hủy</string>
     <string name="close_alarm">Tắt</string>
     <string name="common_settings">Cài đặt</string>
-    <string name="confirm_abort">OK</string>
     <string name="default_alarm_alert">Âm báo thức mặc định</string>
     <string name="default_alarm_title">Nhạc chuông mặc định</string>
     <string name="delete_selected_timer_item">Xóa nhiệm vụ hẹn giờ đã chọn?</string>

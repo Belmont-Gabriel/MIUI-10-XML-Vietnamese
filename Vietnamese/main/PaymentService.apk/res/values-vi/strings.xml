@@ -307,7 +307,6 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
 
 Để kích hoạt tài khoản, chạm vào liên kết chúng tôi gửi đến hộp thư của bạn."</string>
     <string name="passport_completed">Hoàn tất</string>
-    <string name="passport_confirm_recycle_account">OK</string>
     <string name="passport_copy_message_text_success">Đã sao chép thành công</string>
     <string name="passport_copy_message_vcode">Sao chép mã</string>
     <string name="passport_delete_account">Đăng xuất</string>

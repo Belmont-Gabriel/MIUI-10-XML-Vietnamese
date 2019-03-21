@@ -204,7 +204,6 @@
     <string name="hybrid_pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="hybrid_service_unavailiable">Dịch vụ không khả dụng</string>
     <string name="hybrid_try_again">Hãy thử lại</string>
-    <string name="i_know">OK</string>
     <string name="importing_progress_private_message">Đang nhập…</string>
     <string name="in_sms">Tin nhắn</string>
     <string name="insufficient_drm_rights">Quyền DRM không đủ để phát hiện.</string>
