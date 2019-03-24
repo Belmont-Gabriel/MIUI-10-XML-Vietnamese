@@ -436,7 +436,7 @@
     <string name="switch_screen_button_order">Hoán đổi phím</string>
     <string name="switch_screen_button_order_desc">Hoán đổi vị trí phím Quay lại và Menu</string>
     <string name="unrestrict_max_aspect_ratio_title">Hỗ trợ tỷ lệ khung hình tối đa</string>
-    <string name="suggest_unrestrict_max_aspect_ratio_title">Kiến nghị bật tủ lệ khung hình tối đa</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">Kiến nghị bật tỷ lệ khung hình tối đa</string>
     <string name="restrict_max_aspect_ratio_title">Kiến nghị tắt tỷ lệ khung hình tối đa</string>
     <string name="max_aspect_settings_all_app_display_loading">Vui lòng chờ…</string>
     <string name="force_immersive_compatibility_hint_title">Vấn đề tương thích</string>
