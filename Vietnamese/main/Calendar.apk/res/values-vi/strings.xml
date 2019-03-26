@@ -944,7 +944,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="setting_title_lottery_card_display">Dịch vụ xổ số</string>
     <string name="setting_title_shift_card_desc">Thẻ trợ lý trên trang chủ lịch, cần kết nối mạng</string>
     <string name="setting_title_shift_card_display">Hiển thị trợ lý</string>
-    <string name="setting_title_weather_card_desc">Hiển thị thẻ thời tiết trên trang chủ lịch, cần kết nối mạng</string>
+    <string name="setting_title_weather_card_desc">Thông tin thời tiết ở phía bên phải của thẻ lịch âm</string>
     <string name="setting_title_weather_card_display">Hiển thị dịch vụ thời tiết</string>
     <string name="setting_title_yiji_display">Hiển thị Yiji</string>
     <string name="setting_user_experience">Trải nghiệm người dùng</string>
@@ -1138,4 +1138,11 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="year_picker_description">Danh sách năm</string>
     <string name="lunar_calendar">Âm lịch</string>
     <string name="match_ing">Đang tiến hành</string>
+	<string name="feed_tips_got_it">Tôi biết</string>
+	<string name="feed_tips_primary_text">Phiên bản gia hạn Đăng ký kênh Lịch</string>
+	<string name="feed_tips_secondary_text">Thêm thông tin và tích hợp hiệu quả các dịch vụ</string>
+	<string name="feed_tips_see_details">Xem chi tiết</string>
+	<string name="feed_tips_subscribe_more">Đăng ký nhiều kênh hơn</string>
+	<string name="weather_huangli_card_no_data_hint">Bấm để biết thông tin thời tiết</string>
+	<string name="yiji_app_download_card_lebal">Thích hợp</string>
 </resources>

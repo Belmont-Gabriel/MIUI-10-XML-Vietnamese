@@ -909,4 +909,18 @@
 	<string name="group_verification_codes_summary">Tự động nhóm Mã OTP với nhau</string>
 	<string name="group_verification_codes_title">Nhóm Mã OTP</string>
 	<string name="i_know">Đã hiểu</string>
+	<string name="application_list_title">Ứng dụng nhỏ</string>
+	<string name="attach_group_chat">Chat nhóm</string>
+	<string name="attach_video_call">Gọi video</string>
+	<string name="can_not_view_group_chat_stranger">Không thể xem chi tiết về người lạ</string>
+	<string name="contact_not_exists">Người này không trong Liên hệ của bạn</string>
+	<string name="groupchat_list_title">Chat nhóm</string>
+	<string name="menu_make_call">Gọi</string>
+	<string name="menu_view_group_info">Thông tin nhóm</string>
+	<string name="no_network_description">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+	<string name="rcs_auto_resend_as_sms_remind_change">Thay đổi cài đặt</string>
+	<string name="rcs_auto_resend_as_sms_remind_desp">Tin nhắn lên đến 900B có thể chuyển và gửi như SMS khi tín hiệu mạng yếu. Chạm \"Thay đổi cài đặt\" nếu bạn không muốn chuyển đổi tin nhắn của bạn sang SMS.</string>
+	<string name="rcs_auto_resend_as_sms_remind_title">Chuyển sang SMS</string>
+	<string name="rcs_hello_from_pc">Đăng nhập vào Fetion trên máy tính để chuyển tệp.</string>
+	<string name="rcs_offline">Chưa đăng nhập vào UC. Đợi một vài phút và thử lại.</string>
 </resources>
