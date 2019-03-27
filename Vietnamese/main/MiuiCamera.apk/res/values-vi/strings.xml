@@ -994,4 +994,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="wifi_connect_success">Đã kết nối</string>
     <string name="wifi_connecting">Đang kết nối…</string>
     <string name="wifi_warning">Trước khi kết nối, đảm bảo rằng mạng bạn đang sử dụng là bảo mật.</string>
+	<string name="dialog_google_lens_option_0">Google Ống kính (Đề xuất)</string>
+	<string name="pref_camera_long_press_viewfinder_google_lens">Google Ống kính</string>
+	<string name="pref_camera_long_press_viewfinder_lock_ae_af">Khóa AE/AF</string>
 </resources>

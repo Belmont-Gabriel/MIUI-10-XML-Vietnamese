@@ -97,4 +97,9 @@
         <item>Đổ chuông sau</item>
         <item>Đóng</item>
     </string-array>
+	<string-array name="clock_bg_setting_entries">
+		<item>Trắng</item>
+		<item>Đen</item>
+		<item>Tự động</item>
+	</string-array>
 </resources>
