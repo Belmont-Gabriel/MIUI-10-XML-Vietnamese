@@ -407,7 +407,7 @@
     <string name="status_bar_settings_status_bar">Thanh trạng thái</string>
     <string name="status_bar_settings_show_notification_icon">Hiển thị biểu tượng thông báo</string>
     <string name="status_bar_settings_show_network_speed">Hiển thị tốc độ kết nối</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Hiển thị trên màn hình khóa</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Hiển thị trên Màn hình khóa bảo mật</string>
     <string name="status_bar_settings_basic_settings">Cài đặt cơ bản</string>
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
     <string name="status_bar_settings_show_flow_info">Hiển thị dữ liệu sử dụng</string>
@@ -415,7 +415,6 @@
     <string name="status_bar_app_enable_message">Biểu tượng</string>
     <string name="status_bar_app_enable_floating">Thông báo nổi</string>
     <string name="status_bar_app_enable_keyguard">Màn hình khóa</string>
-    <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
     <string name="status_bar_settings_custom_carrier">Chỉnh sửa tên nhà mạng</string>
     <string name="status_bar_settings_no_carrier">Không</string>
@@ -3636,7 +3635,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_change_password">Thay đổi màn hình khóa;Màn hình khóa;Chỉnh sửa màn hình khóa;chỉnh sửa màn hình khóa;màn hình khóa</string>
     <string name="search_wakeup_for_keyguard_notification_title">Sáng màn hình khi có thông báo;bật màn hình;đánh thức thiết bị;bật điện thoại</string>
     <string name="search_pref_volume_wake_title">Đánh thức thiết bị bằng phím âm lượng;phím âm lượng</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Hiển thị trên màn hình khóa;hiển thị trên màn hình khóa</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Hiển thị trên màn hình khóa bảo mật;hiển thị trên màn hình khóa bảo mật</string>
     <string name="search_screen_on_proximity_sensor_title">Chặn quay số khi bỏ túi;bỏ túi;quay số khi bỏ túi</string>
     <string name="search_second_space">Không gian thứ hai;Hai không gian;2 không gian;Ẩn ứng dụng;Ẩn tập tin;Ẩn ảnh;Màn hình khóa;Mật khẩu Màn hình khóa;Riêng tư;Chế độ riêng tư;Chế độ khách;Dịch vụ khách;Khách truy cập;Tài khoản Khách;Khách</string>
     <string name="search_xspace">Ứng dụng kép;Ứng dụng đôi;Ứng dụng nhân bản;Ứng dụng ảo;Hai tài khoản;2 tài khoản</string>
@@ -7850,7 +7849,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="collect_diagnostics_title">Thu thập dữ liệu chẩn đoán</string>
     <string name="custom_carrier_title">Nhập tên nhà mạng</string>
     <string name="custom_wifi_name_title">Sửa tên Wi-Fi</string>
-    <string name="expandable_under_keyguard_title">Hiển thị trên Màn hình khóa</string>
+    <string name="expandable_under_keyguard_title">Hiển thị trên Màn hình khóa bảo mật</string>
     <string name="fold_title">Quy tắc nhóm thông báo</string>
     <string name="function_description">Về tính năng này</string>
     <string name="game_mode_cta_dialog_agree">Đồng ý</string>

@@ -18,4 +18,10 @@
         <item quantity="other">%1$s chủ đề</item>
         <item quantity="one">%1$s chủ đề</item>
     </plurals>
+	<plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Tìm trong %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d ứng dụng được tìm thấy</item>
+    </plurals>
 </resources>
