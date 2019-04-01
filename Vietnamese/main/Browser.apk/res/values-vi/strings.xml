@@ -1820,4 +1820,15 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ nhớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
 	<string name="data_traffic_download_confirm">Sử dụng kết nối dữ liệu di động</string>
 	<string name="load_error_tip">Tải lỗi, chạm để thử lại</string>
+	<string name="debug_mode_toast">Chế độ gỡ lỗi đã bật</string>
+	<string name="guide_first_optimization_type_main_title">Video tuyệt vời không có điểm dừng</string>
+	<string name="guide_first_optimization_type_sub_title">15 giây video nhỏ ghi lại khoảnh khắc</string>
+	<string name="guide_second_optimization_type_main_title">Thư giãn tại quán bar vui chơi</string>
+	<string name="guide_second_optimization_type_sub_title">Tin đồn giải trí, Điểm nóng quân sự, Phim và TV mới nhất, Sự đa dạng về cảm xúc</string>
+	<string name="passport_oauth_sucess_tip">Xác thực thành công</string>
+	<string name="pref_debug_mode">Chế độ gỡ lỗi</string>
+	<string name="search_notification_guide_content">Trải nghiệm ngay</string>
+	<string name="search_notification_guide_title">Vuốt cạnh trên màn hình để trải nghiệm tìm kiếm nhanh!</string>
+	<string name="small_video_comment">Tất cả bình luận</string>
+	<string name="small_video_comment_input_hint">Nhập bình luận của bạn</string>
 </resources>

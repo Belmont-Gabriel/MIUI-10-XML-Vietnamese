@@ -2845,4 +2845,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="later">Xử lý sau</string>
 	<string name="lucky_sound_mode_gold">Tiền vàng</string>
 	<string name="lucky_sound_mode_no">Tắt tiếng</string>
+	<string name="lucky_alarm_back">Quay trở lại trợ lý lì xì</string>
+	<string name="gamecenter_install_fail">Không thể cài đặt</string>
+	<string name="gamecenter_install_sucessfull">Cài đặt thành công</string>
+	<string name="gb_shortcut_pref_title">Lối tắt Màn hình chính</string>
 </resources>

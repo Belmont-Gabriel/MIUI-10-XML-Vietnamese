@@ -26,4 +26,104 @@
         <item>Lịch</item>
         <item>Bộ nhớ</item>
     </string-array>
+	<string-array name="settings_search_contacts">
+		<item>Đồng bộ danh bạ với Mi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Danh bạ; Lịch sử cuộc gọi; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_sms">
+		<item>Đồng bộ tin nhắn với Mi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Tin nhắn, SMS, MMS, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_gallery">
+		<item>Đồng bộ Thư viện với Mi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Thư viện ảnh, Ảnh; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_dial">
+		<item>Đồng bộ lịch sử cuộc gọi với Mi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Lịch sử cuộc gọi; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_recorder">
+		<item>Đồng bộ ghi âm với Mi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Ghi âm; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_music">
+		<item>Đồng bộ nhạc với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Âm nhạc, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_notes">
+		<item>Đồng bộ ghi chú với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Ghi chú; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_wlan">
+		<item>Đồng bộ Cài đặt Wi-Fi với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Wi-Fi, wifi; Wi-Fi; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_calendar">
+		<item>Đồng bộ Lịch với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Lịch; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_browser">
+		<item>Đồng bộ Trình duyệt với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Trình duyệt; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_security">
+		<item>Đồng bộ Bảo mật với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Bảo mật; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_personal_assistant">
+		<item>Đồng bộ App vault với Mi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>App Vault, Thẻ, Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_sync_manage">
+		<item>Mi Cloud. Tất cả Dịch vụ Mi ở một nơi.</item>
+		<item>Truy cập ảnh, liên hệ, tin nhắn và thiết bị của bạn từ mọi nơi</item>
+		<item>Hết bộ nhớ, Thành viên, Bộ nhớ, Dung lượng bộ nhớ, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud, Thùng rác; Các mục đã xóa; Bảo mật</item>
+	</string-array>
+	<string-array name="settings_search_find_phone">
+		<item>Tìm thiết bị</item>
+		<item>Xóa dữ liệu và khóa thiết bị của bạn nếu bị mất</item>
+		<item>Tìm thiết bị; Mất; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_find_pad">
+		<item>Tìm thiết bị</item>
+		<item>Xóa dữ liệu và khóa thiết bị của bạn nếu bị mất</item>
+		<item>Tìm thiết bị; Mất; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_recycle_bin">
+		<item>Mục đã xóa trong Mi Cloud</item>
+		<item>Khôi phục liên hệ, ảnh, tin nhắn và hơn thế</item>
+		<item>Thùng rác; Các mục đã xóa; Thùng rác; Khôi phục; Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_subscribe_vip">
+		<item>Thành viên Mi Cloud</item>
+		<item>Nâng cấp Thành viên, nhận thêm dung lượng và bảo mật dữ liệu của bạn</item>
+		<item>Hết bộ nhớ, Thành viên, Bộ nhớ, Dung lượng bộ nhớ; Đám mây; Đồng bộ hóa;Các dịch vụ đám mây; Mi Cloud; Mega; Ultra; VIP, Sao lưu, Sao lưu, Khôi phục; Thùng rác, Các mục đã xóa; Thùng rác</item>
+	</string-array>
+	<string-array name="settings_search_backup_setting">
+		<item>Sao lưu Màn hình chính vào Mi Cloud</item>
+		<item>Sao lưu Bố cục Màn hình chính, danh sách ứng dụng đã cài và cài đặt hệ thống</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Dịch vụ đám mây; Mi Cloud, Màn hình chính, Bố cục, Ứng dụng; Cài đặt, Tần suất sao lưu; Quản lý sao lưu; Khôi phục</item>
+	</string-array>
+	<string-array name="settings_search_backup_manage">
+		<item>Sao lưu</item>
+		<item>Mục đã sao lưu</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Dịch vụ đám mây; Mi Cloud, Màn hình chính, Bố cục, Ứng dụng; Quản lý sao lưu; Khôi phục</item>
+	</string-array>
+	<string-array name="settings_search_restore_device">
+		<item>Khôi phục các mục từ Mi Cloud</item>
+		<item>Tải mục đã sao lưu vào thiết bị</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Khôi phục; Dịch vụ đám mây; Mi Cloud</item>
+	</string-array>
 </resources>

@@ -588,7 +588,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Đồ họa</item>
-        <item>Phần trăm</item>
+        <item>Phần trăm (trong biểu tượng)</item>
+		<item>Phần trăm (cạnh biểu tượng)</item>
         <item>Thanh trên cùng</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -1483,5 +1484,24 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Bật đèn Flash</item>
         <item>Bật chế độ Đọc sách</item>
         <item>Không</item>
+    </string-array>
+	<string-array name="fold_entries">
+		<item>Đề xuất</item>
+		<item>Quan trọng</item>
+		<item>Không quan trọng</item>
+	</string-array>
+	<string-array name="fold_summaries">
+		<item>MIUI sẽ quyết định thông báo nào xuất hiện trực tiếp</item>
+		<item>Thông báo sẽ xuất hiện trong Bảng thông báo</item>
+		<item>Thông báo sẽ xuất hiện trong các thư mục</item>
+	</string-array>
+	<string-array name="notification_shade_shortcut_entries">
+		<item>Tìm kiếm</item>
+		<item>Cài đặt</item>
+	</string-array>
+	<string-array name="time_format_entries">
+        <item>12-tiếng 1:00 CH</item>
+        <item>24-tiếng 13:00</item>
+        <item>Tự động (dựa trên ngôn ngữ hệ thống)</item>
     </string-array>
 </resources>
