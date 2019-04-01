@@ -546,4 +546,6 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="korean_privacy_tv_summary">Đọc tất cả các mục sau một cách cẩn thận và chọn xem bạn có chấp nhận không.</string>
     <string name="korean_user_agreement_item_title">Thỏa thuận Người dùng (bắt buộc)</string>
     <string name="new_file_notification_title_image">Ảnh</string>
+	<string name="close">Đóng</string>
+	<string name="close_ad">Đóng quảng cáo</string>
 </resources>

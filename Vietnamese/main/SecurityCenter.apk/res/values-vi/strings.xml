@@ -2849,4 +2849,10 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gamecenter_install_fail">Không thể cài đặt</string>
 	<string name="gamecenter_install_sucessfull">Cài đặt thành công</string>
 	<string name="gb_shortcut_pref_title">Lối tắt Màn hình chính</string>
+	<string name="app_manager_find_apps">Tìm ứng dụng</string>
+	<string name="securityadd_install_fail">"Không thể cập nhật trình cắm. Thử lại."</string>
+	<string name="securityadd_update_tips_cancle">Không phải bây giờ</string>
+	<string name="securityadd_update_tips_message">Cập nhật Trình cắp Dịch vụ bảo mật để có thể truy cập tính năng chơi game mới nhất. Sẽ tải xuống khoảng %1$dMB.</string>
+	<string name="securityadd_update_tips_now">Cập nhật</string>
+	<string name="securityadd_update_tips_title">Cập nhật</string>
 </resources>

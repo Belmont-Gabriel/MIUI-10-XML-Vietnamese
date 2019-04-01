@@ -109,7 +109,7 @@
     <string name="mortgage_descript_accumulation">Lãi suất: %s (quỹ hỗ trợ)</string>
     <string name="mortgage_equals">=</string>
     <string name="mortgage_item_repayment">Phương thức trả</string>
-    <string name="mortgage_item_years">Thời gian vay</string>
+    <string name="mortgage_item_years">Thời hạn vay</string>
     <string name="mortgage_item_start_time">Thời gian trả lần đầu</string>
     <string name="mortgage_input_error">Nhập giá trị</string>
     <string name="mortgage_result">Kết quả</string>

@@ -9,4 +9,13 @@
     <plurals name="restoring_file_tile">
         <item quantity="other">Đang khôi phục %d tập tin</item>
     </plurals>
+	<plurals name="restore_app_order_prior">
+        <item quantity="other">Ưu tiên cao: %d mục</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Ưu tiên thông thường: %d mục</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d ứng dụng trên thiết bị này</item>
+    </plurals>
 </resources>

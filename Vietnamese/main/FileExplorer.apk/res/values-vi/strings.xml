@@ -1221,4 +1221,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="request_document_permission">Quá nhiều tệp trên thẻ SD, cho phép Quản lý file quyền được yêu cầu.</string>
 	<string name="request_document_permission_title">Yêu cầu quyền</string>
 	<string name="menu_set_wallpaper">Đặt làm hình nền</string>
+	<string name="ftp_anonymous_warning_msg">Tính năng ẩn có thể gây ra rủi ro bảo mật. Vẫn sử dụng tính năng này?</string>
+	<string name="ftp_anonymous_warning_title">Chú ý</string>
+    <string name="home_action_up">Quay lại</string>
 </resources>
