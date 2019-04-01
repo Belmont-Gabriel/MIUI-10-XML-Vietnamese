@@ -7967,4 +7967,13 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 1. Khi thiết bị của bạn hoạt động như một điểm truy cập mạng Wi-Fi, bạn không thể sử dụng các ứng dụng của thiết bị để truy cập Internet thông qua kết nối mạng Wi-Fi (nhưng tất nhiên bạn vẫn kết nối với Internet qua mạng dữ liệu di động của mình).
 
 2. Bạn định cấu hình điểm phát sóng với cài đặt điểm phát sóng Wi-Fi."</string>
+	<string name="none">Không</string>
+	<string name="feedback">Phản hồi</string>
+	<string name="game_booster">Trò chơi; Trò chơi; Turbo; Chơi game; Chế độ chơi game</string>
+	<string name="off">Tắt</string>
+	<string name="on">Bật</string>
+	<string name="title_of_auto_launch_manage">Tự khởi chạy</string>
+	<string name="activity_title_power_manager">Tiết kiệm pin; Tiết kiệm pin</string>
+    <string name="card_main_hbassistant_title">Phong bì đỏ, gói đỏ; Tiền</string>
+    <string name="loading">Chỉ vài giây…</string>
 </resources>
