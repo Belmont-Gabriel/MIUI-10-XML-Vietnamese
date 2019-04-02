@@ -150,7 +150,7 @@ trong Chế độ chân dung"</string>
     <string name="pref_camcorder_settings_category">Cài đặt máy ảnh</string>
     <string name="pref_camera_picturesize_title_simple_mode">Khung máy ảnh</string>
     <string name="pref_camera_picturesize_entry_standard">Chuẩn 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Toàn màn hình 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Toàn màn hình</string>
     <string name="pref_camera_jpegquality_title">Chất lượng ảnh</string>
     <string name="pref_camera_jpegquality_entry_high">Cao</string>
     <string name="pref_camera_jpegquality_entry_normal">Chuẩn</string>
@@ -1007,4 +1007,5 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_check_no_face">Không thấy khuôn mặt nào</string>
 	<string name="mimoji_check_normal">Vui lòng nhấn nút máy ảnh</string>
     <string name="mimoji_on_create">Đang tạo</string>
+	<string name="beauty_body_whole">Toàn thân</string>
 </resources>

@@ -851,7 +851,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="memory_clean_btn_click_text">Tăng tốc</string>
     <string name="optimize_result_header_view_summary">Tăng tốc</string>
     <string name="optimize_result_available_memory_info">Bộ nhớ trống</string>
-    <string name="optimize_result_title_uninstall_apps">Ứng dụng</string>
+    <string name="optimize_result_title_uninstall_apps">Gỡ ứng dụng</string>
     <string name="om_settings_title">Cài đặt tối ưu</string>
     <string name="om_settings_lock_app_manage">Khóa ứng dụng</string>
     <string name="om_settings_lock_app">Khóa ứng dụng</string>

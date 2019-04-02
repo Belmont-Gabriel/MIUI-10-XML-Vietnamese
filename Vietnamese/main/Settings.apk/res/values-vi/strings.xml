@@ -7982,4 +7982,6 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="layout_exhuge_font_take_effect_tips">Cỡ chữ XXL chỉ hoạt động trong Điện thoại, Tin nhắn và Liên hệ</string>
 	<string name="layout_exhuge_font_tips">Nhiều tùy chọn khả dụng trong %1$s</string>
 	<string name="layout_exhuge_font_tips_reg">Khả năng truy cập &gt; Kích thước hiển thị</string>
+	<string name="notification_fold_footer_icon_summary">Cho phép biểu tượng thông báo không quan trọng hiển thị ở bên phải thanh thông báo</string>
+	<string name="notification_fold_footer_icon_title">Hiển thị biểu tượng</string>
 </resources>
