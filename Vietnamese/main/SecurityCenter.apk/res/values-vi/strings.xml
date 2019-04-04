@@ -851,7 +851,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="memory_clean_btn_click_text">Tăng tốc</string>
     <string name="optimize_result_header_view_summary">Tăng tốc</string>
     <string name="optimize_result_available_memory_info">Bộ nhớ trống</string>
-    <string name="optimize_result_title_uninstall_apps">Ứng dụng</string>
+    <string name="optimize_result_title_uninstall_apps">Gỡ ứng dụng</string>
     <string name="om_settings_title">Cài đặt tối ưu</string>
     <string name="om_settings_lock_app_manage">Khóa ứng dụng</string>
     <string name="om_settings_lock_app">Khóa ứng dụng</string>
@@ -2849,4 +2849,10 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gamecenter_install_fail">Không thể cài đặt</string>
 	<string name="gamecenter_install_sucessfull">Cài đặt thành công</string>
 	<string name="gb_shortcut_pref_title">Lối tắt Màn hình chính</string>
+	<string name="app_manager_find_apps">Tìm ứng dụng</string>
+	<string name="securityadd_install_fail">"Không thể cập nhật trình cắm. Thử lại."</string>
+	<string name="securityadd_update_tips_cancle">Không phải bây giờ</string>
+	<string name="securityadd_update_tips_message">Cập nhật Trình cắp Dịch vụ bảo mật để có thể truy cập tính năng chơi game mới nhất. Sẽ tải xuống khoảng %1$dMB.</string>
+	<string name="securityadd_update_tips_now">Cập nhật</string>
+	<string name="securityadd_update_tips_title">Cập nhật</string>
 </resources>

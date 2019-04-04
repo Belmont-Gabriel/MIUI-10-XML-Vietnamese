@@ -117,7 +117,7 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="confirm_cancel_restore_positive">Tiếp tục</string>
     <string name="confirm_cancel_restore_negative">Hủy</string>
     <string name="confirm_restore_title">Khôi phục</string>
-    <string name="confirm_restore_summary">Màn hình chính sẽ khởi động lại và ứng dụng sẽ tải xuống tự động khi kết nối Wi-Fi</string>
+    <string name="confirm_restore_summary">Màn hình chính sẽ khởi động lại và ứng dụng đã sao lưu sẽ tải xuống tự động khi kết nối Wi-Fi</string>
     <string name="confirm_restore">Khôi phục</string>
     <string name="cloud_backup_have_data">Tìm thấy sao lưu trên Mi Cloud</string>
     <string name="cloud_backup_select_recover">Chọn sao lưu từ Mi Cloud</string>
@@ -206,4 +206,28 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="cloud_back_up_subscribe_vip_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Nâng cấp</string>
 	<string name="self_phone_home">Điện thoại này: %s</string>
+	<string name="btn_restore_continue">Vẫn khôi phục</string>
+	<string name="btn_restore_wait">Chờ Wi-Fi</string>
+	<string name="doing_calc_backup_data_size">Đang tính kích thước…</string>
+	<string name="msg_restore_start_with_metered_network">"Màn hình chính của bạn sẽ tự khởi động lại. Ứng dụng đã sao lưu sẽ được tải xuống tự động. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s tệp sẽ được tải xuống.&lt;/font&gt;&lt;/b&gt;"</string>
+	<string name="msg_restore_with_metered_network_hint">Nếu bạn bắt đầu khôi phục các mục này, dữ liệu di động sẽ được dùng để tải.</string>
+	<string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; tệp sẽ được tải xuống."</string>
+	<string name="restore_app_order_finish">Xong</string>
+	<string name="restore_app_order_loading">Chỉ vài giây…</string>
+	<string name="restore_app_order_retry">Thử lại</string>
+	<string name="restore_app_order_retry_desc">"Không thể kết nối mạng.
+Kiểm tra cài đặt mạng và thử lại."</string>
+	<string name="restore_app_order_search_hint">Tìm kiếm mục để đặt ưu tiên</string>
+	<string name="restore_app_order_search_installed">Ứng dụng trên thiết bị này</string>
+	<string name="restore_app_order_search_normal">Ứng dụng Ưu tiên thông thường</string>
+	<string name="restore_app_order_search_prior">Ứng dụng Ưu tiên cao</string>
+	<string name="restore_app_order_title">Ưu tiên các mục đã khôi phục</string>
+	<string name="restore_detail_category_apps">Bố cục Màn hình chính &amp; ứng dụng</string>
+	<string name="restore_detail_category_settings">Cài đặt</string>
+	<string name="restore_detail_more">Thêm</string>
+	<string name="restore_detail_title">Chọn mục để khôi phục</string>
+	<string name="restore_network_pause">%s (Chạm để tiếp tục)</string>
+	<string name="restore_network_unconnect">%s (Đang chờ kết nối)</string>
+    <string name="title_restore_with_current_network">Sử dụng kết nối hiện tại để tải tệp</string>
+    <string name="desktop_wait_network">Đang chờ…</string>
 </resources>

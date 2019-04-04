@@ -113,10 +113,10 @@
         <item quantity="other">Thử lại sau %d giây</item>
     </plurals>
 	<plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Yêu cầu vẽ mẫu hình sau %d giờ không hoạt động</item>
+        <item quantity="other">Vẽ mẫu hình ít nhất một lần mỗi %d giờ để luôn nhớ</item>
     </plurals>
 	<plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Yêu cầu nhập mật khẩu sau %d giờ không hoạt động</item>
+        <item quantity="other">Nhập mật khẩu ít nhất một lần mỗi %d giờ để luôn nhớ</item>
     </plurals>
 	<plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s giờ %2$s"</item>

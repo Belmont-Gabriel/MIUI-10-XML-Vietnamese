@@ -63,4 +63,7 @@
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">"%d giờ trước"</item>
     </plurals>
+	<plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s dịch vụ sẽ được đồng bộ với Mi Cloud</item>
+    </plurals>
 </resources>

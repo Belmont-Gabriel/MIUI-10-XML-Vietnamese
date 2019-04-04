@@ -2034,4 +2034,9 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="aod_lock_screen_date">EE, d MMMM</string>
 	<string name="aod_lock_screen_date_12">EE, d MMMM</string>
 	<string name="face_unlock_success">Xác thực dữ liệu khuôn mặt thành công</string>
+	<string name="gxzw_area">Quét vân tay</string>
+	<string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+	<string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
 </resources>

@@ -382,4 +382,5 @@
     <string name="home_slide_up_action">Trượt lên trên Màn hình chính</string>
     <string name="minus_one_screen">màn hình trừ một</string>
 	<string name="edit_mode_top_menu_finish">Xong</string>
+	<string name="launcher_sliding_up_gesture">Vuốt lên từ Màn hình chính để mở Tìm kiếm</string>
 </resources>

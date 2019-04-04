@@ -752,8 +752,8 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="date_time_auto_summaryOn">Sử dụng thời gian do mạng cung cấp</string>
     <string name="date_time_auto_summaryOff">Sử dụng thời gian do mạng cung cấp</string>
     <string name="zone_auto">Múi giờ tự động</string>
-    <string name="zone_auto_summaryOn">Sử dụng múi giờ do mạng cung cấp</string>
-    <string name="zone_auto_summaryOff">Sử dụng múi giờ do mạng cung cấp</string>
+    <string name="zone_auto_summaryOn">Sử dụng múi giờ do nhà mạng cung cấp</string>
+    <string name="zone_auto_summaryOff">Sử dụng múi giờ do nhà mạng cung cấp</string>
     <string name="date_time_24hour_title">Định dạng 24 giờ</string>
     <string name="date_time_24hour">Sử dụng định dạng 24 giờ</string>
     <string name="date_time_set_time_title">Thời gian</string>
@@ -4778,7 +4778,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="gesture_wakeup_title">Chạm hai lần để đánh thức thiết bị</string>
     <string name="pick_up_gesture_wakeup_title">Nhấc để đánh thức thiết bị</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
-    <string name="aod_mode_summary">Hiển thị thời gian, ngày và tin nhắn khi màn hình tắt.</string>
+    <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
     <string name="install_no_market_app_title">Quét ứng dụng bên thứ ba</string>
     <string name="install_no_market_app_summary">Quét virus ứng dụng bên thứ ba trước khi cài đặt</string>
     <string name="theme_settings_title">Chủ đề</string>
@@ -5596,7 +5596,7 @@ Tốc độ lấy mẫu"</string>
     <string name="notification_importance_low_title">Trung bình</string>
     <string name="notification_importance_min_title">Thấp</string>
     <string name="notification_log_details_badge">Có thể hiển thị huy hiệu</string>
-    <string name="notification_show_lights_title">Đèn nhấp nháy</string>
+    <string name="notification_show_lights_title">Đèn LED</string>
     <string name="notification_sound_default">Âm thanh thông báo mặc định</string>
     <string name="notification_toggle_off">Tắt</string>
     <string name="notification_toggle_on">Bật</string>
@@ -7111,7 +7111,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="display_cutout_emulation_none">Không</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở nhanh camera</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>
-    <string name="doze_always_on_summary">Hiển thị thời gian, biểu tượng thông báo và các thông tin khác. Tốn pin hơn</string>
+    <string name="doze_always_on_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
     <string name="doze_always_on_title">Luôn bật</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="fingerprint_delete_message">Bạn muốn xóa vân tay này?</string>
@@ -7816,17 +7816,17 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
 	<string name="dual_clock_aod_hint">"\"Đồng hồ kép\" dựa trên các tính năng sau: 1. Với màn hình đã tắt, cho phép hiển thị các mục trong Cài đặt &gt; Hiển thị; 2. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 3. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
 	<string name="dual_clock_hint">"\"Dual Clock\" dựa trên các tính năng sau: 1. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 2. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
 	<string name="dual_clock_ok">Đã hiểu</string>
-	<string name="dual_clock_open_message">Đồng hồ kép sẽ hiển thị trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+	<string name="dual_clock_open_message">Đồng hồ kép sẽ hiển thị trên Màn hình khóa và Màn hình chính.</string>
 	<string name="more_installed_services_title">Thêm dịch vụ đã tải</string>
 	<string name="resident_timezone_summary">Đồng hồ thứ hai</string>
 	<string name="toast_sta_ap_works_wifi_display_disable">Không thể truyền khi đã kết nối Wi-Fi và bật điểm phát sóng</string>
 	<string name="storage_menu_cleanup">Dọn dẹp bộ nhớ</string>
     <string name="ai_settings_click_title">Nhấn</string>
     <string name="allow_float_title">Thông báo nổi</string>
-    <string name="allow_float_summary">Thông báo nổi bên trên màn hình</string>
-    <string name="allow_keyguard_summary">Hiện thông báo trên Màn hình khóa</string>
+    <string name="allow_float_summary">Cho phép Thông báo nổi</string>
+    <string name="allow_keyguard_summary">Cho phép thông báo trên Màn hình khóa</string>
     <string name="allow_keyguard_title">Thông báo Màn hình khóa</string>
-    <string name="allow_lights_title">Cho phép thủ thuật đèn thở</string>
+    <string name="allow_lights_title">Cho phép sử dụng đèn LED</string>
     <string name="allow_sound_title">Cho phép âm thanh</string>
     <string name="allow_vibrate_title">Cho phép rung</string>
     <string name="app_link_title">Cài đặt bổ sung trong ứng dụng</string>
@@ -7878,10 +7878,10 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="network_operator_display_title">Hiển thị Nhà mạng</string>
     <string name="notifi_channels">Danh mục thông báo</string>
     <string name="notifi_channels_other">Khác</string>
-    <string name="notifi_importance_default">Hiển thị mọi nơi, tạo âm thanh nhưng không trực quan</string>
-    <string name="notifi_importance_high">Hiển thị mọi nơi, tạo âm thanh và biến mất. Có thể sử dụng ý định toàn màn hình</string>
-    <string name="notifi_importance_low">Hiển thị mọi nơi, nhưng không làm phiền.</string>
-    <string name="notifi_importance_min">Chỉ hiển thị trong Bảng thông báo</string>
+    <string name="notifi_importance_default">Phát âm thanh và hiển thị trên Màn hình khóa</string>
+    <string name="notifi_importance_high">Phát âm thanh, hiển thị trên Màn hình khóa. Có thể sử dụng tùy chọn toàn màn hình</string>
+    <string name="notifi_importance_low">Không phát âm thanh.</string>
+    <string name="notifi_importance_min">Không phát âm thanh, không hiển thị trên Màn hình khóa</string>
     <string name="notifi_importance_none">Tắt</string>
     <string name="notifi_importance_unspecified">Để ứng dụng quyết định</string>
     <string name="notifi_no_channels">Ứng dụng này chưa có thông báo nào</string>
@@ -7976,4 +7976,12 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="activity_title_power_manager">Tiết kiệm pin; Tiết kiệm pin</string>
     <string name="card_main_hbassistant_title">Phong bì đỏ, gói đỏ; Tiền</string>
     <string name="loading">Chỉ vài giây…</string>
+	<string name="auto_dual_clock_aod_summary">Hiển thị Đồng hồ đôi khi thời gian hiện tại khác thời gian trên đồng hồ thứ hai</string>
+	<string name="dual_clock_aod_open_message">Đồng hồ đôi sẽ hiện trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+    <string name="gxzw_enroll_again">Nhấc ngón tay lên và nhấn vào cảm biến vân tay lần nữa</string>
+	<string name="layout_exhuge_font_take_effect_tips">Cỡ chữ XXL chỉ hoạt động trong Điện thoại, Tin nhắn và Liên hệ</string>
+	<string name="layout_exhuge_font_tips">Nhiều tùy chọn khả dụng trong %1$s</string>
+	<string name="layout_exhuge_font_tips_reg">Khả năng truy cập &gt; Kích thước hiển thị</string>
+	<string name="notification_fold_footer_icon_summary">Cho phép biểu tượng thông báo không quan trọng hiển thị ở bên phải thanh thông báo</string>
+	<string name="notification_fold_footer_icon_title">Hiển thị biểu tượng</string>
 </resources>

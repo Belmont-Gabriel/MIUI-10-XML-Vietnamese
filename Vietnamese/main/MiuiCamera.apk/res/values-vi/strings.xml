@@ -150,7 +150,7 @@ trong Chế độ chân dung"</string>
     <string name="pref_camcorder_settings_category">Cài đặt máy ảnh</string>
     <string name="pref_camera_picturesize_title_simple_mode">Khung máy ảnh</string>
     <string name="pref_camera_picturesize_entry_standard">Chuẩn 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Toàn màn hình 16:9</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Toàn màn hình</string>
     <string name="pref_camera_jpegquality_title">Chất lượng ảnh</string>
     <string name="pref_camera_jpegquality_entry_high">Cao</string>
     <string name="pref_camera_jpegquality_entry_normal">Chuẩn</string>
@@ -994,7 +994,18 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="wifi_connect_success">Đã kết nối</string>
     <string name="wifi_connecting">Đang kết nối…</string>
     <string name="wifi_warning">Trước khi kết nối, đảm bảo rằng mạng bạn đang sử dụng là bảo mật.</string>
-	<string name="dialog_google_lens_option_0">Google Ống kính (Đề xuất)</string>
-	<string name="pref_camera_long_press_viewfinder_google_lens">Google Ống kính</string>
+	<string name="dialog_google_lens_option_0">Ống kính Google (Đề xuất)</string>
+	<string name="pref_camera_long_press_viewfinder_google_lens">Ống kính Google</string>
 	<string name="pref_camera_long_press_viewfinder_lock_ae_af">Khóa AE/AF</string>
+	<string name="hint_ae_af_lock_extra">Đã khóa Lấy nét tự động/Phơi sáng tự động. Chuyển sang Ống kính Google trong Cài đặt Máy ảnh</string>
+	<string name="mimoji_check_beyond_20_degrees">Vui lòng nhìn trực diện vào màn hình để xác nhận các đặc điểm khuôn mặt</string>
+	<string name="mimoji_check_face_occlusion">Vui lòng không che mặt để xác nhận các đặc điểm khuôn mặt</string>
+	<string name="mimoji_check_face_too_close">Quá gần, vui lòng di chuyển điện thoại ra xa</string>
+	<string name="mimoji_check_face_too_far">Quá xa, vui lòng di chuyển điện thoại lại gần</string>
+	<string name="mimoji_check_low_light">Di chuyển đến nơi sáng hơn để dễ nhận diện khuôn mặt hơn</string>
+	<string name="mimoji_check_multi_face">Vui lòng để chỉ một người trong khung ngắm</string>
+	<string name="mimoji_check_no_face">Không thấy khuôn mặt nào</string>
+	<string name="mimoji_check_normal">Vui lòng nhấn nút máy ảnh</string>
+    <string name="mimoji_on_create">Đang tạo</string>
+	<string name="beauty_body_whole">Toàn thân</string>
 </resources>
