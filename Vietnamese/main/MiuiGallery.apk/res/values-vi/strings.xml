@@ -1504,4 +1504,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="similar_keep_clear">Giữ ảnh đẹp nhất</string>
 	<string name="card_title_past_week_end">Cuối tuần trước</string>
 	<string name="print_log">In nhật ký</string>
+	<string name="photo_editor_compare_tip">Nhấn và giữ để xem ảnh gốc</string>
+	<string name="photo_editor_remove_watermark">Xóa dấu chìm ảnh</string>
 </resources>

@@ -9,8 +9,7 @@
         <item quantity="one">%1$s thư mục</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s chưa được đồng bộ</item>
-        <item quantity="one">%1$s chưa được đồng bộ</item>
+        <item quantity="other">%1$s mục chưa được đồng bộ</item>
     </plurals>
     <plurals name="note_count_in_folder">
         <item quantity="other">%1$s ghi chú</item>
@@ -27,5 +26,20 @@
     <plurals name="word_count">
         <item quantity="other">%d ký tự</item>
         <item quantity="one">%d ký tự</item>
+    </plurals>
+	<plurals name="alert_message_delete">
+        <item quantity="other">Xóa %1$s mục?</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Đã xóa %1$s ghi chú khỏi thư mục</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Đã chuyển %1$s ghi chú đến %2$s</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Ẩn thành công %1$s ghi chú</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Bỏ ẩn thành công %1$s ghi chú</item>
     </plurals>
 </resources>

@@ -2530,7 +2530,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="power_center_scan_item_title_running_app">Ứng dụng đang chạy trong nền</string>
      <string name="power_center_scan_result_safe">Không tìm thấy vấn đề pin</string>
      <string name="power_center_stop_scan_title">Dừng quét</string>
-     <string name="power_save_started_summary_text">power_save_started_summary_text\">Tiết kiệm Pin đang bật. Nó làm giảm hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
+     <string name="power_save_started_summary_text">Tiết kiệm Pin đang bật. Nó làm giảm hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
      <string name="privacy_apps">Ứng dụng ẩn</string>
      <string name="privacy_apps_category_title">Ứng dụng ẩn</string>
      <string name="privacy_apps_checkbox_remind_choice">Không hiển thị lại</string>

@@ -867,7 +867,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="mimoji_delete_success">Xóa thành công</string>
     <string name="mimoji_detect_tips">Vui lòng đặt khuôn mặt của bạn trong khung</string>
     <string name="mimoji_tips">Nhấn vào ảnh và nhấn giữ video</string>
-    <string name="module_name_fun_ar">Quan tâm AR</string>
+    <string name="module_name_fun_ar">Chụp AR</string>
     <string name="mimoji_edit_mimoji">Sửa emoji</string>
     <string name="mimoji_editor">Sửa</string>
     <string name="mimoji_recapture">Chụp lại</string>
@@ -1008,4 +1008,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_check_normal">Vui lòng nhấn nút máy ảnh</string>
     <string name="mimoji_on_create">Đang tạo</string>
 	<string name="beauty_body_whole">Toàn thân</string>
+	<string name="mimoji_edit_whether_abandon">Hủy chỉnh sửa?</string>
+	<string name="ultra_wide_mode_use_hint_text_sat">"Bật góc siêu rộng 0,6X để ghi lại góc nhìn rộng hơn cho bạn
+Khám phá vẻ đẹp thú vị hơn"</string>
 </resources>

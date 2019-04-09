@@ -126,4 +126,8 @@
 		<item>Tải mục đã sao lưu vào thiết bị</item>
 		<item>Đám mây; Sao lưu; Sao lưu; Khôi phục; Dịch vụ đám mây; Mi Cloud</item>
 	</string-array>
+	<string-array name="user_detail_fixed_items">
+		<item>Xem mục đã đồng bộ</item>
+		<item>Chi tiết lưu trữ</item>
+	</string-array>
 </resources>

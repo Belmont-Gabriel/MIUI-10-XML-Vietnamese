@@ -30,7 +30,7 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Tắt tiếng</item>
         <item>Micro</item>
-        <item>Loa</item>
+        <item>Âm thanh hệ thống</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Bộ nhớ trong</item>
