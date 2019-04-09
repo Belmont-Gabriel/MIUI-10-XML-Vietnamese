@@ -30,4 +30,10 @@
 	<plurals name="aqi_all_city_cur_num">
         <item quantity="other">Trung bình của %1$s trạm</item>
     </plurals>
+	<plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Bạn có thể gửi lại phản hồi trong %1$s phút</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Bạn có thể gửi lại phản hồi trong %1$s giây</item>
+    </plurals>
 </resources>

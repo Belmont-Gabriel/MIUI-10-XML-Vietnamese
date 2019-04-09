@@ -687,4 +687,6 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="warning_bar_title_sync_off">Đồng bộ với Mi Cloud đã tắt</string>
 	<string name="enable_sync_setting_title">Đang cấu hình dịch vụ đám mây…</string>
 	<string name="provision_sync_items_loading">Đang chuẩn bị đồng bộ</string>
+	<string name="user_detail_agreement">Thỏa thuận Người dùng</string>
+	<string name="user_detail_privacy_policy">Chính sách Riêng tư</string>
 </resources>

@@ -3463,7 +3463,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="reset_shortcut_manager_throttling">Đặt lại bộ đếm giới hạn tốc độ trong ShortcutManage</string>
     <string name="confirm_reset_shortcut_manager_throttling_title">Đặt lại giới hạn tốc độ trong ShortcutManager?</string>
     <string name="confirm_reset_shortcut_manager_throttling_message">Đặt lại bộ đếm giới hạn tốc độ trong ShortcutManager?</string>
-    <string name="notification_suggestion_title">Kiểm soát thông báo trên màn hình khóa</string>
+    <string name="notification_suggestion_title">Kiểm soát thông tin trên màn hình khóa</string>
     <string name="notification_suggestion_summary">Hiển thị hoặc ẩn nội dung thông báo</string>
     <string name="developer_density_summary">%d dp</string>
     <string name="developer_smallest_width">Độ rộng nhỏ nhất</string>
@@ -3715,7 +3715,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_permission_manager">Quyền;Truy cập root; Tải xuống; Tải xuống</string>
     <string name="search_permission_settings_title">Giấy phép ứng dụng</string>
     <string name="search_application_lock_name">Khóa ứng dụng</string>
-    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản</string>
+    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
     <string name="search_device_name">Tên thiết bị</string>
     <string name="search_legal_information">Thông tin pháp lý</string>
     <string name="search_copyright_title">Bản quyền</string>
@@ -7799,7 +7799,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="miui_special_feature">Tính năng đặc biệt</string>
 	<string name="other_settings_sync_settings">Đồng bộ</string>
 	<string name="search_other_settings_sync_settings">Đồng bộ;Tự động;Chỉ Wi-Fi</string>
-	<string name="search_unlogin_account_title">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản</string>
+	<string name="search_unlogin_account_title">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản;Tài khoản Xiaomi;Bảo vệ tài khoản;Bảo vệ tài khoản, Bảo mật tài khoản;Tài khoản của tôi</string>
 	<string name="unlogin_account_summary">Tất cả dịch vụ Mi. Một Tài khoản Mi</string>
 	<string name="unlogin_account_title">Đăng nhập vào Tài khoản Mi</string>
 	<string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
