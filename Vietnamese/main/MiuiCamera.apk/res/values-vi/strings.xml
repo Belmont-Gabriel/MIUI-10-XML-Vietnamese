@@ -1011,4 +1011,13 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_edit_whether_abandon">Hủy chỉnh sửa?</string>
 	<string name="ultra_wide_mode_use_hint_text_sat">"Bật góc siêu rộng 0,6X để ghi lại góc nhìn rộng hơn cho bạn
 Khám phá vẻ đẹp thú vị hơn"</string>
+	<string name="mimoji_detect_faceshape_failed">Nhận diện hình dáng khuôn mặt thất bại</string>
+	<string name="mimoji_detect_facial_failed">Nhận diện khuôn mặt thất bại</string>
+	<string name="mimoji_detect_gender_failed">Không nhận diện được giới tính</string>
+	<string name="mimoji_detect_glass_failed">Không nhận diện được kính</string>
+	<string name="mimoji_detect_haircolor_failed">Không nhận diện được màu tóc</string>
+	<string name="mimoji_detect_hairstyle_failed">Không nhận diện được kiểu tóc</string>
+	<string name="mimoji_detect_no_face_failed">Không nhận diện khuôn mặt nào</string>
+	<string name="mimoji_detect_skincolor_failed">Không nhận diện được màu da</string>
+	<string name="mimoji_detect_unknow_failed">Lỗi không xác định</string>
 </resources>

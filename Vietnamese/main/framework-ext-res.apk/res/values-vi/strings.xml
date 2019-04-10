@@ -200,4 +200,18 @@
 	<string name="resolver_offical_recommend">Chính thức</string>
 	<string name="resolver_other_method">Tùy chọn khác</string>
 	<string name="resolver_recommend_options_tag">Tùy chọn đề xuất</string>
+	<string name="popup_camera_calibrate_failed">Không thể hiệu chỉnh. Mang thiết bị của bạn lại gần Mi Home để phân tích vấn đề</string>
+	<string name="popup_camera_calibrate_now">Hiệu chỉnh</string>
+	<string name="popup_camera_calibrate_success">Hiệu chỉnh thành công. Giờ bạn có thể mở máy ảnh trước.</string>
+	<string name="popup_camera_front_failed">Không thể mở máy ảnh trước. Thử lại.</string>
+	<string name="popup_camera_front_falied_times">Không thể mở máy ảnh trước nhiều lần. Mang thiết bị của bạn lại gần Mi Home để phân tích vấn đề</string>
+	<string name="popup_camera_front_when_use">Máy ảnh trước đang bận. Vẫn mở?</string>
+	<string name="popup_camera_popup_falied_times_calibrate">Không thể mở máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
+	<string name="popup_camera_sure">Đã hiểu</string>
+	<string name="popup_camera_sure_wait">Đã hiểu (%ds)</string>
+	<string name="popup_camera_takeback_falied_times_calibrate">Không thể đóng máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
+	<string name="popup_camera_tip">Chú ý</string>
+	<string name="popup_camera_using_camera_background">%s đang sử dụng máy ảnh trước</string>
+	<string name="stop_operate_camera_frequently">Có vẻ bạn chuyển đổi giữa các máy ảnh quá thường xuyên.</string>
+	<string name="takeback_camera_front_failed">Không thể đóng máy ảnh trước. Thử lại.</string>
 </resources>

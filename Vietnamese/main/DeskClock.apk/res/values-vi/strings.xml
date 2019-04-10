@@ -280,4 +280,6 @@
     <string name="dialog_privacy_content_timer">Để tải xuống các tệp âm thanh cho bộ hẹn giờ tiếng ồn xung quanh và cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối với mạng. Trước khi sử dụng Đồng hồ, bạn cũng phải đọc và đồng ý với %1$s và %2$s của chúng tôi. Đồng ý?</string>
     <string name="dialog_privacy_content_news">Để cung cấp dịch vụ được cá nhân hóa và đưa tin tức buổi sáng vào báo thức của bạn, Đồng hồ cần kết nối với internet. Trước khi sử dụng Đồng hồ, bạn cũng phải đọc và đồng ý với %1$s và %2$s của chúng tôi. Đồng ý?</string>
     <string name="dialog_privacy_content_global">Để cung cấp dịch vụ được cá nhân hóa, Đồng hồ cần kết nối với internet. Trước khi sử dụng Đồng hồ, bạn cũng phải đọc và đồng ý với %1$s và %2$s của chúng tôi. Đồng ý?</string>
+	<string name="dialog_privacy_content">Để có được thông tin liên quan về các ngày lễ địa phương, điều chỉnh báo thức và cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối với internet. Trước khi sử dụng Đồng hồ, bạn cũng cần đọc và đồng ý với %1$s và %2$s của chúng tôi. Đồng ý?</string>
+	<string name="user_agreement">Thỏa thuận Người dùng</string>
 </resources>

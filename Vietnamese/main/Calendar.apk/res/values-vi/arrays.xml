@@ -594,4 +594,10 @@
 		<item>Vào mỗi Thứ bảy lần thứ tư</item>
 		<item>Vào mỗi Thứ bảy cuối cùng</item>
 	</string-array>
+	<string-array name="default_reminder_later_time_labels">
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+    </string-array>
 </resources>
