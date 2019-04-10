@@ -115,7 +115,7 @@
     <string name="add_countdown">Thêm đếm ngược</string>
     <string name="add_event">Thêm sự kiện</string>
     <string name="agenda_month_empty_hint">Không có sự kiện hôm nay</string>
-    <string name="alarm_label">Bỏ qua</string>
+    <string name="alarm_label">Đã hiểu</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Đã hết hạn</string>
     <string name="anniversary_card_title">Kỷ niệm</string>
@@ -1202,4 +1202,8 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="white_dews_tradition">Bạch lộ</string>
 	<string name="winter_begins_tradition">Lập đông</string>
 	<string name="winter_solstice_tradition">Đông chí</string>
+	<string name="cancel_reminder_later">Hủy nhắc nhở</string>
+	<string name="default_reminder_later_time">Khoảng thời gian mặc định cho \"Nhắc sau\"</string>
+	<string name="next_alarm_time">Nhắc nhở tiếp theo lúc %1$s</string>
+	<string name="reminder_later">Nhắc sau</string>
 </resources>

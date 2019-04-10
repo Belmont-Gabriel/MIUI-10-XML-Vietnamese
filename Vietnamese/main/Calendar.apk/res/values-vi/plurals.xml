@@ -112,4 +112,7 @@
 	<plurals name="travel_eta_advice">
         <item quantity="other">%2$s phút lái xe đến %1$s.</item>
     </plurals>
+	<plurals name="reminder_later_toast">
+        <item quantity="other">Nhắc nhở tiếp theo trong %1$d phút</item>
+    </plurals>
 </resources>

@@ -230,4 +230,6 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="restore_network_unconnect">%s (Đang chờ kết nối)</string>
     <string name="title_restore_with_current_network">Sử dụng kết nối hiện tại để tải tệp</string>
     <string name="desktop_wait_network">Đang chờ…</string>
+	<string name="provision_background_restore_more_data">Khôi phục nhiều mục hơn dưới nền</string>
+	<string name="provision_restore_data">Đang khôi phục các mục</string>
 </resources>
