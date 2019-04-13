@@ -7984,4 +7984,8 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="layout_exhuge_font_tips_reg">Khả năng truy cập &gt; Kích thước hiển thị</string>
 	<string name="notification_fold_footer_icon_summary">Cho phép biểu tượng thông báo không quan trọng hiển thị ở bên phải thanh thông báo</string>
 	<string name="notification_fold_footer_icon_title">Hiển thị biểu tượng</string>
+	<string name="screen_zoom_big">Lớn</string>
+    <string name="screen_zoom_normal">Nhỏ</string>
+    <string name="screen_zoom_small">Rất nhỏ</string>
+	<string name="winscope_trace_quick_settings_title">Dấu vết Winscope</string>
 </resources>

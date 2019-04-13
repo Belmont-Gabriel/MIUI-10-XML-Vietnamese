@@ -888,4 +888,12 @@
     <string name="tax_insurance_and_fund_detail">Chi tiết bảo hiểm</string>
 	<string name="tax_payment_period">Số thanh toán</string>
 	<string name="license_host_unreachable">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+	<string name="app_notification_info">Máy tính đang làm việc trong nền</string>
+    <string name="btn_float_window_alpha">Điều chỉnh độ mờ</string>
+    <string name="btn_float_window_back_to_app">Thu nhỏ Máy tính</string>
+    <string name="btn_float_window_close">Đóng cửa sổ Máy tính thu nhỏ</string>
+    <string name="btn_float_window_resize">Điều chỉnh lại kích thước cửa sổ Máy tính thu nhỏ</string>
+    <string name="float_window_guide_text">Chạm vào đây để thu nhỏ máy tính</string>
+    <string name="hint_floatwindow_alpha_guide_text">Chạm để điều chỉnh độ mờ</string>
+    <string name="view_float_window_move">Di chuyển cửa sổ Máy tính thu nhỏ</string>
 </resources>

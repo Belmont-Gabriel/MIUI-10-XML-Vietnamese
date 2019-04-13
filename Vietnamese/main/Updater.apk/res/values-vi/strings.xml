@@ -491,4 +491,5 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="channel_downloading">Tiến trình tải xuống</string>
 	<string name="channel_update">Đã có phiên bản mới</string>
 	<string name="dialog_twrp">Bộ nhớ trong của bạn đã mã hóa. Sau khi thiết bị khởi động lại vào Chế độ khôi phục, vui lòng mở khóa thiết bị bằng mật khẩu để tiếp tục.</string>
+	<string name="menu_back_button">Quay lại</string>
 </resources>

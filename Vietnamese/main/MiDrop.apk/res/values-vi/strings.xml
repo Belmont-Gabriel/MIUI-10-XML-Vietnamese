@@ -766,4 +766,5 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="nm">Mật khẩu:</string>
     <string name="nn">Trạng thái Wi-Fi</string>
     <string name="nw">Hôm qua</string>
+	<string name="av">Bỏ qua</string>
 </resources>

@@ -66,4 +66,8 @@
     <string name="runtime_permission_ungranted">Không thể bắt đầu ghi âm do không được cấp quyền</string>
 	<string name="menu_privacy">Chính sách Riêng tư</string>
     <string name="msg_try_plug_headset">Kết nối tai nghe và thử lại.</string>
+	<string name="jump">chuyển</string>
+    <string name="scan">quét</string>
+    <string name="start">bắt đầu</string>
+    <string name="stop">dừng</string>
 </resources>

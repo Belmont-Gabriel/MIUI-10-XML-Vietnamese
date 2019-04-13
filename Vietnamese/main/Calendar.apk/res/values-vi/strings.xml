@@ -1206,4 +1206,9 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="default_reminder_later_time">Khoảng thời gian mặc định cho \"Nhắc sau\"</string>
 	<string name="next_alarm_time">Nhắc nhở tiếp theo lúc %1$s</string>
 	<string name="reminder_later">Nhắc sau</string>
+	<string name="calendar_permission_desc">Quản lý sự kiện</string>
+    <string name="contacts_permission_desc">Truy cập thông tin liên hệ</string>
+    <string name="global_joke_collapse_text">Hiển thị ít hơn</string>
+    <string name="global_joke_copy_toast_message">Sao chép văn bản thành công</string>
+    <string name="global_joke_expand_text">Hiển thị thêm</string>
 </resources>

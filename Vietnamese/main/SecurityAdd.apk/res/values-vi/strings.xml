@@ -133,4 +133,5 @@
     <string name="gb_alipays_can_not_complete">Không thể hoàn tất thanh toán. Cài đặt để tiếp tục.</string>
 	<string name="xunyou_pay_webview">Dịch vụ Xunyou</string>
 	<string name="gamebox_no_network_btn">Tải lại</string>
+	<string name="ad_downloading">Tải xuống…</string>
 </resources>

@@ -1504,4 +1504,8 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>24-tiếng 13:00</item>
         <item>Tự động (dựa trên ngôn ngữ hệ thống)</item>
     </string-array>
+	<string-array name="wifi_hidden_entries">
+        <item>Không</item>
+        <item>Có</item>
+    </string-array>
 </resources>
