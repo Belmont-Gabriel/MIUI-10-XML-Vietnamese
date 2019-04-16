@@ -134,4 +134,6 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="zone_picker_title">Chọn múi giờ</string>
 	<string name="locale_picker_other_locale_title">Thêm khu vực</string>
 	<string name="voice_assist_desp_screen_light">Sau khi màn hình sáng, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận dạng giọng nói của bạn và bạn có thể điều khiển thiết bị.</string>
+	<string name="font_hint_normal">Tăng kích thước chữ</string>
+    <string name="font_hint_large">Kích thước chữ mặc định</string>
 </resources>
