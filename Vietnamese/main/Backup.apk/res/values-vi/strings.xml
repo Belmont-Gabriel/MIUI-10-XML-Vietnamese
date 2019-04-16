@@ -637,4 +637,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="trans_intro_title_gms">Dữ liệu tạo ra bởi các ứng dụng Google:</string>
     <string name="wait_link">Kết nối thiết bị cũ của bạn với điểm phát này. Không rời khỏi trang này cho đến khi kết nối được thiết lập.</string>
     <string name="waiting">Chỉ vài giây…</string>
+	<string name="err_no_gms">Phiên bản ứng dụng không tương thích. Cài đặt ứng dụng này một cách riêng biệt.</string>
+	<string name="trans_detail_item_app_data_skip_data">Không thể chuyển dữ liệu ứng dụng.</string>
 </resources>

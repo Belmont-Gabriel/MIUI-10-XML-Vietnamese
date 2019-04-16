@@ -51,8 +51,6 @@ Phương pháp xác thực: EAP-%5$s
 %1$s
 Khóa: %2$s
 "</string>
-    <string name="wifi_sim_config_text">"SIM: %s
-"</string>
     <string name="wifi_trust_config_text">"Tin tưởng chứng chỉ:
 %s
 "</string>

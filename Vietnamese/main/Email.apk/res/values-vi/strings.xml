@@ -232,7 +232,7 @@
     <string name="bill_remind">Nhắc nhở thanh toán</string>
     <string name="bill_remind_due">Kỳ hạn thanh toán vào %s, chạm để xem</string>
     <string name="blank_feedback_toast">Bạn cần viết phản hồi</string>
-    <string name="body_forward_email_text">[Forward]</string>
+    <string name="body_forward_email_text">[Chuyển tiếp]</string>
     <string name="body_hint">Soạn email</string>
     <string name="body_inline_pic_text">[Ảnh]</string>
     <string name="bottom_bar_more_quickreply">Trả lời nhanh</string>
@@ -665,7 +665,6 @@ Hãy thử hộp thư khác."</string>
     <string name="open_external_storage_and_calendar_permission">Cho phép Mail truy cập thông tin lưu trữ và lịch trong Cài đặt</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Cho phép Mail truy cập thông tin lưu trữ, liên hệ và lịch trong Cài đặt</string>
     <string name="open_external_storage_and_contacts_permission">Cho phép Mail truy cập lưu trữ và liên hệ trong Cài đặt</string>
-    <string name="open_notification_kingagent">Turn on burial point notifications</string>
     <string name="others_mail">Khác</string>
     <string name="others_mail_des">(Tương thích với dịch vụ mail 600K)</string>
     <string name="outbox_alert_button_no_resend">Không gửi</string>
