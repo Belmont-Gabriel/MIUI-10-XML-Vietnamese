@@ -581,7 +581,7 @@
 	<string name="about_newest">Tạp chí Khóa màn hình đã được cập nhật.</string>
 	<string name="about_update">Cập nhật</string>
 	<string name="comment_pop_cancel">Không phải bây giờ</string>
-	<string name="comment_pop_ok">Rate</string>
+	<string name="comment_pop_ok">Đánh giá</string>
 	<string name="comment_pop_content">Gửi đánh giá nếu bạn thích Tạp chí Khóa màn hình!</string>
 	<string name="comment_pop_title">Xếp hạng Tạp chí Khóa màn hình</string>
 	<string name="llks_pop_btm_des">Một nụ cười bắt đầu ngày mới</string>

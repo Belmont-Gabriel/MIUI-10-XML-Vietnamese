@@ -2039,4 +2039,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 d MMMM"</string>
 	<string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
+	<string name="gxzw_use_password_to_unlock">Nhập mật khẩu</string>
 </resources>

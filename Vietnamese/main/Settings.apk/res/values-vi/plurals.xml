@@ -388,4 +388,55 @@
         <item quantity="other">%d người khác</item>
         <item quantity="one">1 người khác</item>
     </plurals>
+	<plurals name="usage_state_device_explain_today">
+        <item quantity="other">Đã mở khóa %d lần hôm nay</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Đã mở khóa %d lần trong 7 ngày qua</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Đã nhận %d thông báo hôm nay</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Đã nhận %d thông báo trong 7 ngày qua</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" giờ"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" phút"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d thông báo</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d lần</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Cuối tuần: %d giờ</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Cuối tuần: %d phút</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Trong tuần: %d giờ</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Trong tuần: %d phút</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" giờ"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" phút"</item>
+    </plurals>
 </resources>

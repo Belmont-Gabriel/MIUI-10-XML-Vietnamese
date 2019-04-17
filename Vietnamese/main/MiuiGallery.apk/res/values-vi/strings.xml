@@ -1377,7 +1377,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="movie_download">Tải xuống</string>
     <string name="movie_download_failed">Không thể tải xuống</string>
     <string name="movie_download_failed_for_notwork">Không thể tải xuống. Kết nối mạng và thử lại.</string>
-    <string name="movie_download_sdk_without_wifi_msg">"Looks like your device isn't connected to Wi-Fi. Download the required plug-in (3MB) using mobile data?"</string>
+    <string name="movie_download_sdk_without_wifi_msg">Có vẻ thiết bị đang không kết nối Wi-Fi. Tải xuống trình cắm yêu cầu sử dụng (3MB) dữ liệu di động?"</string>
     <string name="movie_download_sdk_without_wifi_title">Tải xuống bằng dữ liệu di động</string>
     <string name="movie_download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải xuống tập tin sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="movie_download_without_wifi_title">Cảnh báo sử dụng dữ liệu</string>
@@ -1399,7 +1399,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="movie_template_party">Party</string>
     <string name="movie_template_pet">Paws</string>
     <string name="movie_template_selfie">Tươi mới</string>
-    <string name="movie_template_travel">Travel</string>
+    <string name="movie_template_travel">Du lịch</string>
     <string name="movie_template_xmas">Giáng Sinh</string>
     <string name="movie_video_long">Dài hơn</string>
     <string name="movie_video_short">10 giây</string>

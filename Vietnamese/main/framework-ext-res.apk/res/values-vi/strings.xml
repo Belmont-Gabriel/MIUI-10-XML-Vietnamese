@@ -212,6 +212,6 @@
 	<string name="popup_camera_takeback_falied_times_calibrate">Không thể đóng máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
 	<string name="popup_camera_tip">Chú ý</string>
 	<string name="popup_camera_using_camera_background">%s đang sử dụng máy ảnh trước</string>
-	<string name="stop_operate_camera_frequently">Có vẻ bạn chuyển đổi giữa các máy ảnh quá thường xuyên.</string>
+	<string name="stop_operate_camera_frequently">Có vẻ bạn mở máy ảnh trước quá thường xuyên.</string>
 	<string name="takeback_camera_front_failed">Không thể đóng máy ảnh trước. Thử lại.</string>
 </resources>

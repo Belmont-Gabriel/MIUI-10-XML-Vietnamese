@@ -115,7 +115,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="phone_get_text">Cho phép %1$s nhận số điện thoại của bạn (%2$s)?</string>
     <string name="phone_get_processing">Đang nhận…</string>
     <string name="agree">Cho phép</string>
-	<string name="activate_feature_voip">Mi Message VoIP</string>
+	<string name="activate_feature_voip">Tin nhắn Mi VoIP</string>
     <string name="checking_client">Đang kiểm tra môi trường kích hoạt</string>
     <string name="error_checking_client">Xảy ra rỗi khi kích hoạt</string>
     <string name="error_network_io">Lỗi kết nối mạng</string>
