@@ -480,4 +480,5 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Đã thêm vào Màn hình chính</string>
     <string name="yellowpage_search_the_yellowpage">Tìm kiếm Danh bạ web</string>
     <string name="yellowpage_user_profile">Hồ sơ</string>
+	<string name="mark_number_dialog_default_sub_title">Thông tin này sẽ được tải lên máy chủ của chúng tôi</string>
 </resources>

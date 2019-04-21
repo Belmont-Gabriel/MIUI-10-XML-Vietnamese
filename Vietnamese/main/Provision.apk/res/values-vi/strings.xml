@@ -136,4 +136,8 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="voice_assist_desp_screen_light">Sau khi màn hình sáng, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận dạng giọng nói của bạn và bạn có thể điều khiển thiết bị.</string>
 	<string name="font_hint_normal">Tăng kích thước chữ</string>
     <string name="font_hint_large">Kích thước chữ mặc định</string>
+	<string name="skip_gesture_guide_dialog_message">Đảm bảo bạn biết cách sử dụng cử chỉ toàn màn hình trước khi chọn tùy chọn này.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Hủy</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+    <string name="skip_gesture_guide_dialog_title">Cử chỉ màn hình tràn cạnh</string>
 </resources>

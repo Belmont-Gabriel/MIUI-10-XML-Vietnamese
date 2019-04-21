@@ -600,4 +600,41 @@
         <item>15 phút</item>
         <item>30 phút</item>
     </string-array>
+	<string-array name="repeat_monthly_on_day_count_values">
+        <item>Thứ hai đầu tiên</item>
+        <item>Thứ ba đầu tiên</item>
+        <item>Thứ tư đầu tiên</item>
+        <item>Thứ năm đầu tiên</item>
+        <item>Thứ sáu đầu tiên</item>
+        <item>Thứ bảy đầu tiên</item>
+        <item>Chủ nhật đầu tiên</item>
+        <item>Thứ hai thứ hai</item>
+        <item>Thứ ba thứ hai</item>
+        <item>Thứ tư thứ hai</item>
+        <item>Thứ năm thứ hai</item>
+        <item>Thứ sáu thứ hai</item>
+        <item>Thứ bảy thứ hai</item>
+        <item>Chủ nhật thứ hai</item>
+        <item>Thứ hai thứ ba</item>
+        <item>Thứ ba thứ ba</item>
+        <item>Thứ tư thứ ba</item>
+        <item>Thứ năm thứ ba</item>
+        <item>Thứ sáu thứ ba</item>
+        <item>Thứ bảy thứ ba</item>
+        <item>Chủ nhật thứ ba</item>
+        <item>Thứ hai thứ tư</item>
+        <item>Thứ ba thứ tư</item>
+        <item>Thứ tư thứ tư</item>
+        <item>Thứ năm thứ tư</item>
+        <item>Thứ sáu thứ tư</item>
+        <item>Thứ bảy thứ tư</item>
+        <item>Chủ nhật thứ tư</item>
+        <item>Thứ hai cuối cùng</item>
+        <item>Thứ ba cuối cùng</item>
+        <item>Thứ tư cuối cùng</item>
+        <item>Thứ năm cuối cùng</item>
+        <item>Thứ sáu cuối cùng</item>
+        <item>Thứ bảy cuối cùng</item>
+        <item>Chủ nhật cuối cùng</item>
+    </string-array>
 </resources>
