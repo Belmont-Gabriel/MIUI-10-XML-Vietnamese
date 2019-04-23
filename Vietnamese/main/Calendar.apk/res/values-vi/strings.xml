@@ -67,7 +67,6 @@
     <string name="month_view">Tháng</string>
     <string name="monthly">Hàng tháng</string>
     <string name="monthly_on_day">Hàng tháng (cùng ngày)</string>
-    <string name="monthly_on_day_count">Hàng tháng (%1$s %2$s)</string>
     <string name="new_event_dialog_label">Sự kiện mới</string>
     <string name="new_event_dialog_option">Sự kiện mới</string>
     <string name="no_title_label">(Không có tiêu đề)</string>
