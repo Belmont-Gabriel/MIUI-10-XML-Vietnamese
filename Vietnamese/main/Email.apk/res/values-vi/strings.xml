@@ -1172,4 +1172,5 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="folder_no_mails">Không có thư trong thư mục này</string>
 	<string name="toast_bar_sync_failed_mi_authority">Đồng bộ hóa không thành công. Vui lòng thử lại sau. Để đăng nhập vào thiết bị mới, vui lòng cho phép thiết bị thông qua trung tâm tài khoản mạng nội bộ hoặc lời nhắc SMS.</string>
 	<string name="wipe_account_fail_description_remind">Do quyền dữ liệu, có thể có dữ liệu còn lại trong Lịch và Danh bạ sau khi xóa tài khoản. Vui lòng xóa thủ công.</string>
+	<string name="open_notification_kingagent">Bật thông báo điểm theo dõi sự kiện</string>
 </resources>

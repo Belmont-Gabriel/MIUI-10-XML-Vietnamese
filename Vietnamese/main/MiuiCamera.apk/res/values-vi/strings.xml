@@ -1020,4 +1020,5 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_detect_no_face_failed">Không nhận diện khuôn mặt nào</string>
 	<string name="mimoji_detect_skincolor_failed">Không nhận diện được màu da</string>
 	<string name="mimoji_detect_unknow_failed">Lỗi không xác định</string>
+	<string name="video_beauty_tip">Làm đẹp cho video</string>
 </resources>

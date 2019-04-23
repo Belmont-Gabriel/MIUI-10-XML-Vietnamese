@@ -54,4 +54,7 @@
 	<plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Đánh dấu là %2$s bởi %1$d người</item>
     </plurals>
+	<plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Bạn nhận được %d lời mời tham gia group chat</item>
+    </plurals>
 </resources>

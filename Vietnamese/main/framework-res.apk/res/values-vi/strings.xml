@@ -2284,4 +2284,7 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="hdmi_notification_content">Chạm để thiết lập HDMI</string>
 	<string name="hdmi_notification_title">Cáp HDMI đã kết nối</string>
 	<string name="pinpuk_attempts">"Số lần thử còn lại: "</string>
+	<string name="wifi_softap_config_change">Những thay đổi trong mục cài đặt điểm phát sóng của bạn</string>
+    <string name="wifi_softap_config_change_detailed">Thiết bị này không hỗ trợ tùy chọn chỉ sử dụng băng tần 5 GHz. Thay vào đó, thiết bị này sẽ sử dụng băng tần 5 GHz khi có thể.</string>
+    <string name="wifi_softap_config_change_summary">Bằng tần của điểm phát sóng đã thay đổi.</string>
 </resources>

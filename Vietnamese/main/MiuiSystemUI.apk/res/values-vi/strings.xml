@@ -2040,4 +2040,13 @@ d MMMM"</string>
 	<string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
 	<string name="gxzw_use_password_to_unlock">Nhập mật khẩu</string>
+	<string name="battery_low_button_not_open_power_save">Lần tới</string>
+    <string name="battery_low_button_open_power_save">Bật</string>
+    <string name="battery_low_percent_format_save_mode_closed">Pin còn lại ít hơn %d%%. Sạc thiết bị.</string>
+    <string name="battery_low_percent_format_save_mode_open">Pin còn lại ít hơn %d%%. Bật Tiết kiệm Pin để tiết kiệm pin.</string>
+    <string name="battery_low_title_power_save">tiết kiệm Pin</string>
+	<string name="power_save_ps_clean">Xóa bộ nhớ đệm khi thiết bị bị khóa</string>
+    <string name="power_save_ps_close_setting">Tắt dịch vụ nền (đồng bộ, GPS) để tiết kiệm pin</string>
+    <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
+    <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
 </resources>

@@ -1508,4 +1508,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Không</item>
         <item>Có</item>
     </string-array>
+	<string-array name="screen_zoom_level">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Lớn</item>
+	</string-array>
 </resources>
