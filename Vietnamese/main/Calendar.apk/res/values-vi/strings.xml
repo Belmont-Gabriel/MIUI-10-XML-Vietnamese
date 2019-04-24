@@ -1210,4 +1210,6 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="global_joke_collapse_text">Hiển thị ít hơn</string>
     <string name="global_joke_copy_toast_message">Sao chép văn bản thành công</string>
     <string name="global_joke_expand_text">Hiển thị thêm</string>
+    <string name="change_zodiac">Thay đổi cung</string>
+	<string name="fb_birthday_region_warning">Tính năng này không khả dụng trong khu vực của bạn</string>
 </resources>

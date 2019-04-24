@@ -2040,9 +2040,8 @@ d MMMM"</string>
 	<string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
 	<string name="gxzw_use_password_to_unlock">Nhập mật khẩu</string>
-	<string name="battery_low_button_not_open_power_save">Không phải bây giờ</string>
 	<string name="battery_low_button_open_power_save">Bật</string>
-	<string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %d%%. Hãy sạc điện thoại.</string>
+	<string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %d%%. Hãy sạc thiết bị.</string>
 	<string name="battery_low_percent_format_save_mode_open">Pin còn ít hơn %d%%. Bật Tiết kiệm pin để tiết kiệm năng lượng.</string>
 	<string name="battery_low_title_power_save">Tiết kiệm pin</string>
 	<string name="dnd_notification_warnings_title">Cuộc gọi và thông báo sẽ im lặng cho đến khi bạn tắt Không làm phiền</string>
@@ -2051,6 +2050,7 @@ d MMMM"</string>
 	<string name="notification_channel_dnd">Không làm phiền</string>
 	<string name="power_save_ps_clean">Xóa bộ đệm khi thiết bị khóa</string>
 	<string name="power_save_ps_close_setting">Tắt dịch vụ nền (đồng bộ, GPS) để tiết kiệm pin</string>
-	<string name="power_save_ps_freeze">Đóng băng ứng dụng dưới nền</string>
-	<string name="power_save_ps_limit">Hạn chế hoạt động của ứng dụng hệ thống</string>
+	<string name="battery_low_button_not_open_power_save">Lần tới</string>
+    <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
+    <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
 </resources>
