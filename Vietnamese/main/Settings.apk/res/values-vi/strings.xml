@@ -2797,7 +2797,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="call_manager_enable_title">Bật Trình quản lý cuộc gọi</string>
     <string name="call_manager_enable_summary">Cho phép dịch vụ này quản lý cách thực hiện cuộc gọi của bạn.</string>
     <string name="call_manager_title">Trình quản lý cuộc gọi</string>
-    <string name="cell_broadcast_settings">Phát sóng trong tình huống khẩn cấp</string>
+    <string name="cell_broadcast_settings">Cảnh báo khẩn cấp</string>
     <string name="network_operators_settings">Nhà cung cấp dịch vụ mạng</string>
     <string name="access_point_names">Tên điểm truy cập</string>
     <string name="enhanced_4g_lte_mode_title">Chế độ 4G LTE được tăng cường</string>
@@ -7991,12 +7991,12 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="wifi_protection_on">Bật</string>
 	<string name="wifi_protection_settings_title">Bảo vệ đầu dò Wi-Fi</string>
 	<string name="wifi_protection_tip">MIUI tự động bật chức năng bảo vệ đầu dò Wi-Fi. Khi điện thoại di động quét mạng Wi-Fi, nó sẽ xử lý ngẫu nhiên địa chỉ MAC để ngăn đầu dò Wi-Fi đánh cắp quyền riêng tư của người dùng và bảo vệ điện thoại di động.</string>
-	<string name="usage_state_app_timer">Thời gian màn hình</string>
+	<string name="usage_state_app_timer">Thời gian sử dụng màn hình</string>
 	<string name="usage_state_app_usage_detail_title">Chi tiết sử dụng ứng dụng</string>
-	<string name="usage_state_app_usage_list_title">"Thời gian màn hình của ứng dụng"</string>
-	<string name="usage_state_app_usage_list_week_title">"Thời gian màn hình của ứng dụng (7 ngày gần đây)"</string>
-	<string name="usage_state_app_usage_tip_title" formatted="false">Thời gian màn hình giữa %d:00 và %d:00</string>
-	<string name="usage_state_app_use_time">Thời gian màn hình ứng dụng</string>
+	<string name="usage_state_app_usage_list_title">"Thời gian sử dụng màn hình của ứng dụng"</string>
+	<string name="usage_state_app_usage_list_week_title">"Thời gian sử dụng màn hình của ứng dụng (7 ngày gần đây)"</string>
+	<string name="usage_state_app_usage_tip_title" formatted="false">Thời gian sử dụng màn hình giữa %d:00 và %d:00</string>
+	<string name="usage_state_app_use_time">Thời gian sử dụng màn hình ứng dụng</string>
 	<string name="usage_state_channel_mouth">30 ngày qua</string>
 	<string name="usage_state_channel_week">7 ngày qua</string>
 	<string name="usage_state_device_noti_today_tip_title" formatted="false">Thông báo trong khoảng %d:00 và %d:00</string>
@@ -8010,23 +8010,23 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_noti_mourth_day">"'Thông báo lúc' d MMM"</string>
 	<string name="usage_state_notification">Quản lý thông báo</string>
 	<string name="usage_state_notification_manager">Quản lý thông báo ứng dụng</string>
-	<string name="usage_state_remind_summary">Bật để nhận cảnh báo thời gian màn hình. Bạn có thể đặt giới hạn khác nhau cho ngày trong tuần và cuối tuần.</string>
-	<string name="usage_state_remind_title">Cảnh báo thời gian màn hình</string>
+	<string name="usage_state_remind_summary">Bật để nhận cảnh báo thời gian sử dụng màn hình. Bạn có thể đặt giới hạn khác nhau cho ngày trong tuần và cuối tuần.</string>
+	<string name="usage_state_remind_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usage_state_rest_day">Cuối tuần</string>
 	<string name="usage_state_saturday">T7</string>
 	<string name="usage_state_set_invalid_time_toast">Không thể đặt giới hạn ít hơn 1 phút</string>
 	<string name="usage_state_sunday">CN</string>
 	<string name="usage_state_thursday">T5</string>
 	<string name="usage_state_today">Hôm nay</string>
-	<string name="usage_state_today_total_text">Thời gian màn hình hôm nay</string>
+	<string name="usage_state_today_total_text">Thời gian sử dụng màn hình hôm nay</string>
 	<string name="usage_state_tuesday">T3</string>
 	<string name="usage_state_unlock_mourth_day">"'Đã mở khóa lúc' d MMM"</string>
-	<string name="usage_state_usage_time">Thời gian màn hình</string>
-	<string name="usage_state_usage_time_remind">Cảnh báo thời gian màn hình</string>
-	<string name="usage_state_use_time_remind_title">Cảnh báo thời gian màn hình</string>
+	<string name="usage_state_usage_time">Thời gian sử dụng màn hình</string>
+	<string name="usage_state_usage_time_remind">Cảnh báo thời gian sử dụng màn hình</string>
+	<string name="usage_state_use_time_remind_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usage_state_wednesday">T4</string>
 	<string name="usage_state_week_day_hour_minute" formatted="false">Cuối tuần: %d giờ %d phút</string>
-	<string name="usage_state_week_total_text">Thời gian màn hình (7 ngày qua)</string>
+	<string name="usage_state_week_total_text">Thời gian sử dụng màn hình (7 ngày qua)</string>
 	<string name="usage_state_work_day">Ngày trong tuần</string>
 	<string name="usage_state_work_day_hour_minute" formatted="false">Ngày trong tuần: %d giờ %d phút</string>
 	<string name="usage_stats_normal_day">Ngày trong tuần</string>
@@ -8042,12 +8042,15 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usagestats_app_category_miui_tools">Công cụ</string>
 	<string name="usagestats_app_category_miui_undefined">Khác</string>
 	<string name="usagestats_app_category_miui_video_etc">Nhạc và video</string>
-	<string name="usagestats_device_notification_des">Giới hạn thời gian màn hình hôm nay: %s</string>
-	<string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian màn hình hôm nay</string>
-	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn thời gian màn hình hôm nay: %s | %s còn lại</string>
-	<string name="usagestats_device_notification_title">Cảnh báo thời gian màn hình</string>
+	<string name="usagestats_device_notification_des">Giới hạn thời gian sử dụng màn hình hôm nay: %s</string>
+	<string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian sử dụng màn hình hôm nay</string>
+	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn thời gian sử dụng màn hình hôm nay: %s | %s còn lại</string>
+	<string name="usagestats_device_notification_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usagestats_device_timeout_negative">Nhắc nhở trong 1 giờ</string>
 	<string name="usagestats_device_timeout_des" formatted="false">Bạn đã sử dụng điện thoại %d giờ %d phút hôm nay. Hãy nghỉ ngơi!</string>
 	<string name="usagestats_device_timeout_positive">Đã hiểu</string>
-	<string name="usagestats_device_timeout_title">Cảnh báo thời gian màn hình</string>
+	<string name="usagestats_device_timeout_title">Cảnh báo thời gian sử dụng màn hình</string>
+	<string name="dc_light_dialog_summary">Chất lượng hiển thị có thể bị ảnh hưởng khi bật Chế độ chống nhấp nháy. Vẫn bật?</string>
+	<string name="dc_light_summary">Áp dụng Làm mờ DC để giảm mỏi mắt</string>
+	<string name="dc_light_title">Chế độ chống nhấp nháy</string>
 </resources>
