@@ -40,4 +40,5 @@
     <string name="avast_virus_type_trjan_description">Virus này là trojan. Nó là một phần mềm độc hại khi chưa có sự cho phép vẫn có thể truy cập điều khiển từ xa vào thiết bị của người dùng. Trojan thường không có khả năng tự nhân bản như virus; Tuy nhiên, chúng có thể cài đặt phần mềm độc hại khác, đánh cắp dữ liệu người dùng, gây ra rò rỉ dữ liệu cá nhân và tổn thất tài sản.</string>
     <string name="avast_virus_type_unknown_description">Loại virus không xác định.</string>
     <string name="avast_virus_type_worm_description">Virus này là worm. Nó là một phần mềm độc hại độc lập, tự nhân bản chính nó để lây lan sang các thiết bị khác. Lợi dụng tính năng chuyển đổi thông tin hoặc tập tin của hệ thống (như hệ thống mạng), nó có thể lây lan mà không cần bất kỳ hành động nào của con người. Worm gây ra một số thiệt hại đến mạng.</string>
+	<string name="common_ids_permission_label">Quyền id chung Avast</string>
 </resources>

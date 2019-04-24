@@ -2855,4 +2855,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="securityadd_update_tips_message">Cập nhật Trình cắp Dịch vụ bảo mật để có thể truy cập tính năng chơi game mới nhất. Sẽ tải xuống khoảng %1$dMB.</string>
 	<string name="securityadd_update_tips_now">Cập nhật</string>
 	<string name="securityadd_update_tips_title">Cập nhật</string>
+	<string name="power_save_ps_clean">Xóa bộ đệm khi thiết bị khóa</string>
+	<string name="power_save_ps_close_setting">Tắt dịch vụ nền (đồng bộ, GPS) để tiết kiệm pin</string>
+	<string name="power_save_ps_freeze">Đóng băng ứng dụng dưới nền</string>
+	<string name="power_save_ps_limit">Hạn chế hoạt động của ứng dụng hệ thống</string>
 </resources>

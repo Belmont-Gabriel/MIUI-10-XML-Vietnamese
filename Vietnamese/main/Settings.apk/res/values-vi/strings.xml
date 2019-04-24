@@ -1626,7 +1626,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
 "<li>Dữ liệu di động</li>"
 "<li>Bluetooth</li></string>
     <string name="reset_network_button_text">Đặt lại cài đặt</string>
-    <string name="reset_network_final_desc">Đặt lại tất cả cài đặt mạng? Bạn không thể hoàn tác thao tác này!</string>
+    <string name="reset_network_final_desc">Đặt lại tất cả cài đặt mạng? Điều này có thể mất vài giây. Bạn không thể hoàn tác thao tác này!</string>
     <string name="reset_network_final_button_text">Đặt lại cài đặt</string>
     <string name="reset_network_confirm_title">Đặt lại?</string>
     <string name="network_reset_not_available">Đặt lại mạng không khả dụng cho người dùng này</string>

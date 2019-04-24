@@ -1981,7 +1981,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="usb_port_overheated_notification_content">Ngắt kết nối bộ sạc và kiểm tra xem cổng sạc có sạch không.</string>
 	<string name="usb_port_overheated_title">Cổng sạc bị quá nhiệt. Ngắt kết nối bộ sạc.</string>
 	<string name="face_unlock_fail">Không thể nhận diện khuôn mặt</string>
-	<string name="face_unlock_fail_retry">Không thể nhận diện khuôn mặt của bạn. Chạm vào biểu tượng và thử lại</string>
+	<string name="face_unlock_fail_retry">Không thể nhận diện khuôn mặt của bạn. Chạm phía trên và thử lại</string>
 	<string name="face_unlock_success_stay_screen_msg">Hiển thị Màn hình khóa sau khi nhận diện khuôn mặt. Vuốt lên để mở Màn hình chính.</string>
 	<string name="face_unlock_success_stay_screen_title">Không bỏ qua Màn hình khóa</string>
 	<string name="usb_port_short_circuit_dialog_content">Sạc bị hạn chế. Ngắt kết nối bộ sạc, lau sạch và khô cổng sạc để khôi phục khả năng sạc.</string>
@@ -2040,4 +2040,17 @@ d MMMM"</string>
 	<string name="lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
 	<string name="gxzw_use_password_to_unlock">Nhập mật khẩu</string>
+	<string name="battery_low_button_not_open_power_save">Không phải bây giờ</string>
+	<string name="battery_low_button_open_power_save">Bật</string>
+	<string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %d%%. Hãy sạc điện thoại.</string>
+	<string name="battery_low_percent_format_save_mode_open">Pin còn ít hơn %d%%. Bật Tiết kiệm pin để tiết kiệm năng lượng.</string>
+	<string name="battery_low_title_power_save">Tiết kiệm pin</string>
+	<string name="dnd_notification_warnings_title">Cuộc gọi và thông báo sẽ im lặng cho đến khi bạn tắt Không làm phiền</string>
+	<string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
+	<string name="face_unlock_fail_retry_global">Chạm phía trên để sử dụng Mở khóa Khuôn mặt</string>
+	<string name="notification_channel_dnd">Không làm phiền</string>
+	<string name="power_save_ps_clean">Xóa bộ đệm khi thiết bị khóa</string>
+	<string name="power_save_ps_close_setting">Tắt dịch vụ nền (đồng bộ, GPS) để tiết kiệm pin</string>
+	<string name="power_save_ps_freeze">Đóng băng ứng dụng dưới nền</string>
+	<string name="power_save_ps_limit">Hạn chế hoạt động của ứng dụng hệ thống</string>
 </resources>
