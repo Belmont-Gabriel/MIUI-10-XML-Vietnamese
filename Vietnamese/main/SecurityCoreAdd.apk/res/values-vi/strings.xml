@@ -463,4 +463,6 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="dialog_verify">Xác thực dấu vân tay của bạn</string>
     <string name="dialog_verify_fingerprint_retry">Không thể xác thực dấu vân tay. Thử lại.</string>
 	<string name="master_clear_not_available">Khôi phục cài đặt gốc bị hạn chế bởi công ty của bạn.</string>
+	<string name="dual_animation">Hiệu ứng khởi chạy</string>
+	<string name="dual_animation_description">Hiển thị hiệu ứng khi ứng dụng kép được khởi chạy</string>
 </resources>

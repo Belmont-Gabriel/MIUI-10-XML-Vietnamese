@@ -1020,5 +1020,26 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_detect_no_face_failed">Không nhận diện khuôn mặt nào</string>
 	<string name="mimoji_detect_skincolor_failed">Không nhận diện được màu da</string>
 	<string name="mimoji_detect_unknow_failed">Lỗi không xác định</string>
+	<string name="mimoji_ear">Tai</string>
+	<string name="mimoji_earring">Hoa tai</string>
+	<string name="mimoji_eye">Mắt</string>
+	<string name="mimoji_eye_shape">Hình dạng mắt</string>
+	<string name="mimoji_eyebrow">Lông mày</string>
+	<string name="mimoji_eyebrow_shape">Hình dạng lông mày</string>
+	<string name="mimoji_eyeglass">Kính</string>
+	<string name="mimoji_eyelash">Lông mi</string>
+	<string name="mimoji_featured_face">Kiểu mặt</string>
+	<string name="mimoji_freckle">Tàn nhang</string>
+	<string name="mimoji_hairstyle">Kiểu tóc</string>
+	<string name="mimoji_headwear">Mũ nón</string>
+	<string name="mimoji_mole">Nốt ruồi</string>
+	<string name="mimoji_mole_freckle">Nốt ruồi + tàn nhang</string>
+	<string name="mimoji_mouth_type">Kiểu miệng</string>
+	<string name="mimoji_mustache">Râu</string>
+	<string name="mimoji_nose">Mũi</string>
+	<string name="mimoji_nose_lisps">Mũi + môi</string>
+	<string name="mimoji_ornament">Phụ kiện</string>
+	<string name="ultra_wide_open_tip_sat">Góc siêu rộng 0.6X</string>
 	<string name="video_beauty_tip">Làm đẹp cho video</string>
+	<string name="mimoji_reset">Đặt lại</string>
 </resources>

@@ -613,7 +613,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="permission_group_sms">Tin nhắn</string>
 	<string name="permission_group_storage">Bộ nhớ</string>
 	<string name="select_all">Chọn tất cả</string>
-	<string name="agreement_and_privacy">Thỏa thuận Người dùng và Chính sách Riêng Tư</string>
+	<string name="agreement_and_privacy">Chính sách Riêng Tư và Thỏa thuận Người dùng</string>
 	<string name="passport_first_login_prompt">Tài khoản Mi sẽ tự động được tạo khi bạn đăng nhập lần đầu tiên.</string>
-	<string name="scan_barcode">Quét mã QR</string>
+	<string name="scan_barcode">Quét mã QR để đăng nhập</string>
 </resources>

@@ -60,4 +60,8 @@
     <string name="view">Xem hệ thống</string>
     <string name="wm">Trình quản lý Cửa sổ</string>
     <string name="workq">Công việc</string>
+	<string name="hint_fps_mode">Chọn chế độ Game FPS</string>
+	<string name="hint_vsync_mode">Chọn chế độ HW-Vsync</string>
+	<string name="mode_other">Khác:</string>
+	<string name="trace_dump_mode">Chế độ hiện dấu vết</string>
 </resources>

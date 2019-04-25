@@ -134,4 +134,6 @@
 	<string name="xunyou_pay_webview">Dịch vụ Xunyou</string>
 	<string name="gamebox_no_network_btn">Tải lại</string>
 	<string name="ad_downloading">Tải xuống…</string>
+	<string name="dual_app_title">Ứng dụng kép</string>
+	<string name="dual_app_words">Mỗi tài khoản xứng đáng có một ứng dụng riêng</string>
 </resources>
