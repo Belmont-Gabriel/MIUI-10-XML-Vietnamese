@@ -383,4 +383,7 @@
     <string name="minus_one_screen">màn hình trừ một</string>
 	<string name="edit_mode_top_menu_finish">Xong</string>
 	<string name="launcher_sliding_up_gesture">Vuốt lên từ Màn hình chính để mở Tìm kiếm</string>
+	<string name="edit_mode_dual_app">ứng dụng kép</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ cài đặt ứng dụng hệ thống"</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Chọn một ứng dụng trước</string>
 </resources>

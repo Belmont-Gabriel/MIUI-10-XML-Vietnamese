@@ -1831,4 +1831,13 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="search_notification_guide_title">Vuốt cạnh trên màn hình để trải nghiệm tìm kiếm nhanh!</string>
 	<string name="small_video_comment">Tất cả bình luận</string>
 	<string name="small_video_comment_input_hint">Nhập bình luận của bạn</string>
+	<string name="nf_choose_reason">Mô tả vấn đề</string>
+    <string name="nf_dislike">Không thú vị</string>
+    <string name="nf_feedback">Báo cáo</string>
+    <string name="nf_feedback_tips1">Bạn sẽ ít thấy mục thuộc loại này</string>
+    <string name="nf_feedback_tips2">Cảm ơn phản hồi của bạn</string>
+    <string name="nf_go_source">Nguồn</string>
+    <string name="nf_submit">Gửi</string>
+    <string name="toast_exit_browser">Chạm lại để thoát Trình duyệt</string>
+	<string name="more_recommend">Thêm kiến nghị</string>
 </resources>

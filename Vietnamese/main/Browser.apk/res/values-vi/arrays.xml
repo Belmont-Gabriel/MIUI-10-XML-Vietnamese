@@ -146,4 +146,11 @@
 		<item>Mưa</item>
 		<item>Tuyết</item>
 	</string-array>
+	<string-array name="nf_feedback_reason">
+        <item>Nội dung khiêu dâm</item>
+        <item>Thông tin sai sự thật</item>
+        <item>Tin cũ</item>
+        <item>Quan điểm cực đoan</item>
+        <item>Quảng cáo trá hình</item>
+    </string-array>
 </resources>
