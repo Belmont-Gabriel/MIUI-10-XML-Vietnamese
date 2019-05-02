@@ -19,7 +19,7 @@
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="expand_button_title">Nâng cao</string>
-    <string name="search_menu_title">Tìm kiếm</string
+    <string name="search_menu_title">Tìm kiếm</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
 </resources>
