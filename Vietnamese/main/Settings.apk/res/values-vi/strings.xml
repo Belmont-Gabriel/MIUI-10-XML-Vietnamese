@@ -5263,7 +5263,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wakeup_for_keyguard_notification_title">Sáng màn hình khóa khi có thông báo</string>
     <string name="secure_keyguard_business_title">Thiết lập khóa màn hình</string>
     <string name="fingerprint_and_password_entrance_title">Khóa màn hình &amp; vân tay</string>
-    <string name="password_entrance_title">Khóa màn hình</string>
+    <string name="password_entrance_title">Đặt khóa màn hình</string>
     <string name="apply_fingerprint_to_category_title">Áp dụng vân tay để…</string>
     <string name="manage_fingerprint_text">Quản lý vân tay</string>
     <string name="fingerprint_identify_msg">Đang đọc vân tay…</string>
@@ -7994,7 +7994,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_app_timer">Thời gian sử dụng màn hình</string>
 	<string name="usage_state_app_usage_detail_title">Chi tiết sử dụng ứng dụng</string>
 	<string name="usage_state_app_usage_list_title">"Thời gian sử dụng màn hình của ứng dụng"</string>
-	<string name="usage_state_app_usage_list_week_title">"Thời gian sử dụng màn hình của ứng dụng (7 ngày gần đây)"</string>
+	<string name="usage_state_app_usage_list_week_title">"Thời gian sử dụng màn hình của ứng dụng"</string>
 	<string name="usage_state_app_usage_tip_title" formatted="false">Thời gian sử dụng màn hình giữa %d:00 và %d:00</string>
 	<string name="usage_state_app_use_time">Thời gian sử dụng màn hình ứng dụng</string>
 	<string name="usage_state_channel_mouth">30 ngày qua</string>
@@ -8006,8 +8006,8 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_hour_minute" formatted="false">%d giờ %d phút</string>
 	<string name="usage_state_less_one_minute">Ít hơn một phút</string>
 	<string name="usage_state_monday">T2</string>
-	<string name="usage_state_mourth_day">"'Màn hình bật lúc' d MMM"</string>
-	<string name="usage_state_noti_mourth_day">"'Thông báo lúc' d MMM"</string>
+	<string name="usage_state_mourth_day">Thời gian màn hình lúc %s</string>
+	<string name="usage_state_noti_mourth_day">Thông báo lúc %s</string>
 	<string name="usage_state_notification">Quản lý thông báo</string>
 	<string name="usage_state_notification_manager">Quản lý thông báo ứng dụng</string>
 	<string name="usage_state_remind_summary">Bật để nhận cảnh báo thời gian sử dụng màn hình. Bạn có thể đặt giới hạn khác nhau cho ngày trong tuần và cuối tuần.</string>
@@ -8020,7 +8020,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_today">Hôm nay</string>
 	<string name="usage_state_today_total_text">Thời gian sử dụng màn hình hôm nay</string>
 	<string name="usage_state_tuesday">T3</string>
-	<string name="usage_state_unlock_mourth_day">"'Đã mở khóa lúc' d MMM"</string>
+	<string name="usage_state_unlock_mourth_day">Đã mở khóa lúc %s</string>
 	<string name="usage_state_usage_time">Thời gian sử dụng màn hình</string>
 	<string name="usage_state_usage_time_remind">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usage_state_use_time_remind_title">Cảnh báo thời gian sử dụng màn hình</string>
@@ -8044,7 +8044,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usagestats_app_category_miui_video_etc">Nhạc và video</string>
 	<string name="usagestats_device_notification_des">Giới hạn thời gian sử dụng màn hình hôm nay: %s</string>
 	<string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian sử dụng màn hình hôm nay</string>
-	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn thời gian sử dụng màn hình hôm nay: %s | %s còn lại</string>
+	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | %s còn lại</string>
 	<string name="usagestats_device_notification_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usagestats_device_timeout_negative">Nhắc nhở trong 1 giờ</string>
 	<string name="usagestats_device_timeout_des" formatted="false">Bạn đã sử dụng điện thoại %d giờ %d phút hôm nay. Hãy nghỉ ngơi!</string>
@@ -8053,4 +8053,13 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="dc_light_dialog_summary">Chất lượng hiển thị có thể bị ảnh hưởng khi bật Chế độ chống nhấp nháy. Vẫn bật?</string>
 	<string name="dc_light_summary">Áp dụng Làm mờ DC để giảm mỏi mắt</string>
 	<string name="dc_light_title">Chế độ chống nhấp nháy</string>
+	<string name="choose_keyguard_clock_style">Định dạng đồng hồ Màn hình khóa</string>
+	<string name="choose_keyguard_clock_summary">Cài đặt này không hoạt động với chủ đề bên thứ ba</string>
+	<string name="choose_unlock_face_msg">Đặt khóa màn hình trước khi ghi dữ liệu khuôn mặt.</string>
+	<string name="choose_unlock_fingerprint_msg">Đặt khóa màn hình trước khi thêm vân tay.</string>
+	<string name="miui_lab_gesture_desc">Tắt phím vật lý và trải nghiệm Cử chỉ Toàn màn hình</string>
+	<string name="miui_lab_gesture_title">Cử chỉ Toàn màn hình</string>
+	<string name="search_ambient_display_screen_title">Màn hình Ambient</string>
+	<string name="search_doze_always_on_title">Luôn bật</string>
+	<string name="usage_state_date">d MMM</string>
 </resources>

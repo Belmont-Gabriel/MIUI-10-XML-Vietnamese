@@ -1042,4 +1042,8 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="ultra_wide_open_tip_sat">Góc siêu rộng 0.6X</string>
 	<string name="video_beauty_tip">Làm đẹp cho video</string>
 	<string name="mimoji_reset">Đặt lại</string>
+	<string name="beauty_clear">Xóa</string>
+	<string name="beauty_clear_toast">Đã xóa hiệu ứng làm đẹp</string>
+	<string name="edit_hairline">Đường chân tóc</string>
+	<string name="mimoji_start_create">Tạo Mimoji...</string>
 </resources>

@@ -115,4 +115,13 @@
 	<plurals name="reminder_later_toast">
         <item quantity="other">Nhắc nhở tiếp theo trong %1$d phút</item>
     </plurals>
+	<plurals name="reminder_custom_unit_day">
+        <item quantity="other">" ngày"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" giờ"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" phút"</item>
+    </plurals>
 </resources>

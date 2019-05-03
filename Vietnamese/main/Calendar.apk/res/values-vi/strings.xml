@@ -223,7 +223,7 @@
     <string name="event_info_when">Khi</string>
     <string name="event_info_where">Địa điểm</string>
     <string name="event_reminder_allday_day_zero">Lúc %2$s cùng ngày</string>
-    <string name="event_reminder_value_zero">Trước sự kiện</string>
+    <string name="event_reminder_value_zero">Khi sự kiện bắt đầu</string>
     <string name="event_reminders_to_max">Bạn có thể thiết lập đến %d nhắc nhở</string>
     <string name="event_title">Tiêu đề</string>
     <string name="festival_detail_title">Ngày lễ</string>
@@ -1213,4 +1213,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="change_zodiac">Thay đổi cung</string>
 	<string name="fb_birthday_region_warning">Tính năng này không khả dụng trong khu vực của bạn</string>
 	<string name="monthly_on_day_count">Hàng tháng (%1$s)</string>
+	<string name="edit_event_custom_reminder_time_dup">Nhắc nhở tùy chỉnh: %1$s</string>
+	<string name="edit_event_custom_reminder_title">Đặt nhắc nhở tùy chỉnh</string>
+	<string name="event_reminder_custom">Tùy chỉnh</string>
 </resources>

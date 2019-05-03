@@ -465,4 +465,6 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="master_clear_not_available">Khôi phục cài đặt gốc bị hạn chế bởi công ty của bạn.</string>
 	<string name="dual_animation">Hiệu ứng khởi chạy</string>
 	<string name="dual_animation_description">Hiển thị hiệu ứng khi ứng dụng kép được khởi chạy</string>
+	<string name="close_kid_space_success">Xóa Không gian trẻ em</string>
+	<string name="kid_mode_label">Không gian trẻ em</string>
 </resources>

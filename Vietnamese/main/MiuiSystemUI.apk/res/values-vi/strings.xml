@@ -2044,7 +2044,7 @@ d MMMM"</string>
 	<string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %d%%. Hãy sạc thiết bị.</string>
 	<string name="battery_low_percent_format_save_mode_open">Pin còn ít hơn %d%%. Bật Tiết kiệm pin để tiết kiệm năng lượng.</string>
 	<string name="battery_low_title_power_save">Tiết kiệm pin</string>
-	<string name="dnd_notification_warnings_title">Cuộc gọi và thông báo sẽ im lặng cho đến khi bạn tắt Không làm phiền</string>
+	<string name="dnd_notification_warnings_title">Không làm phiền đang bật. Cuộc gọi và thông báo sẽ được giữ im lặng.</string>
 	<string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
 	<string name="face_unlock_fail_retry_global">Chạm phía trên để sử dụng Mở khóa Khuôn mặt</string>
 	<string name="notification_channel_dnd">Không làm phiền</string>
@@ -2053,4 +2053,14 @@ d MMMM"</string>
 	<string name="battery_low_button_not_open_power_save">Lần tới</string>
     <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
     <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
+	<string name="choose_clock_title_left_top">Căn trái</string>
+	<string name="choose_clock_title_middle">Căn giữa</string>
+	<string name="choose_clock_title_vertical">Dọc</string>
+	<string name="face_unlock_success_show_message_dialog_msg">Cho phép Thông báo Màn hình khóa có thể được hiển thị trên Màn hình khóa.</string>
+	<string name="face_unlock_success_show_message_dialog_negative_btn">Không, cảm ơn</string>
+	<string name="face_unlock_success_show_message_dialog_positive_btn">Cho phép</string>
+	<string name="face_unlock_success_show_message_dialog_title">Thông báo màn hình khóa</string>
+	<string name="face_unlock_success_show_message_msg">Chỉ hiển thị nguồn thông báo khi thiết bị đã khóa và thêm chi tiết thông báo sau khi đã xác thực khuôn mặt</string>
+	<string name="face_unlock_success_show_message_title">Hiển thị chi tiết thông báo sau khi xác thực khuôn mặt</string>
+	<string name="face_unlock_success_show_message_toast">Thông báo sẽ được hiển thị trên Màn hình khóa</string>
 </resources>

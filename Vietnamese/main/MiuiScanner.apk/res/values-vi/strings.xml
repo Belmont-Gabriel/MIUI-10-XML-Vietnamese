@@ -330,4 +330,5 @@
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
+	<string name="business_card_with_qr_code">Đặt danh thiếp hoặc mã QR trong khung</string>
 </resources>
