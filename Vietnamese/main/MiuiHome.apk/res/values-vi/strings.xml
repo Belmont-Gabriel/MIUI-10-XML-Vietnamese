@@ -386,4 +386,5 @@
 	<string name="edit_mode_dual_app">ứng dụng kép</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ cài đặt ứng dụng hệ thống"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Chọn một ứng dụng trước</string>
+	<string name="menu_auto_fill_of_uninstall">Điền vào ô trống của các ứng dụng đã gỡ</string>
 </resources>

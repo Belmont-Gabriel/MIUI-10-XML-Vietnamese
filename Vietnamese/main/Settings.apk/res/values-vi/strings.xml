@@ -8062,4 +8062,6 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="search_ambient_display_screen_title">Màn hình Ambient</string>
 	<string name="search_doze_always_on_title">Luôn bật</string>
 	<string name="usage_state_date">d MMM</string>
+	<string name="fingerprint_wakeup_title">Chạm cảm biến vân tay để đánh thức</string>
+	<string name="fingerprint_wakeup_summary">Đánh thức thiết bị khi không đăng ký vân tay.</string>
 </resources>

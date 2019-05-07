@@ -1046,4 +1046,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="beauty_clear_toast">Đã xóa hiệu ứng làm đẹp</string>
 	<string name="edit_hairline">Đường chân tóc</string>
 	<string name="mimoji_start_create">Tạo Mimoji...</string>
+	<string name="mimoji_delete">Xóa</string>
+	<string name="mimoji_delete_dialog_title">Bạn muốn xóa hình ảnh hiện tại?</string>
+	<string name="mimoji_edit_mid_title">Bạn muốn hủy ảnh chụp hiện tại?</string>
 </resources>
