@@ -8064,4 +8064,16 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_date">d MMM</string>
 	<string name="fingerprint_wakeup_title">Chạm cảm biến vân tay để đánh thức</string>
 	<string name="fingerprint_wakeup_summary">Đánh thức thiết bị khi không đăng ký vân tay.</string>
+	<string name="backup_set_clear_success">Đã tắt mật khẩu sao lưu</string>
+	<string name="backup_set_clear_title">Tắt mật khẩu sao lưu</string>
+	<string name="backup_set_confirm_clear">Tắt</string>
+	<string name="backup_set_enter_new_pw">Nhập mật khẩu sao lưu mới</string>
+	<string name="backup_set_enter_new_pw_again">Xác nhận mật khẩu sao lưu mới</string>
+	<string name="backup_set_enter_old_pw">Nhập mật khẩu sao lưu cũ</string>
+	<string name="backup_set_enter_pw_title">Nhập mật khẩu sao lưu</string>
+	<string name="backup_set_error_pw">Bạn vừa nhập sai mật khẩu</string>
+	<string name="backup_set_modify_title">Thay đổi mật khẩu sao lưu</string>
+	<string name="backup_set_new_pw_title">Nhập mật khẩu sao lưu mới</string>
+	<string name="backup_set_null_pw">Nhập mật khẩu trước</string>
+	<string name="backup_set_pw_confirm_title">Xác thực mật khẩu sao lưu mới</string>
 </resources>

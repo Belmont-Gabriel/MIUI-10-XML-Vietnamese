@@ -612,8 +612,8 @@ bối cảnh ảnh chụp"</string>
 Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
-	<string name="accessibility_camera_lighting_close_panel">Menu ánh sáng khép kín</string>
-    <string name="accessibility_camera_lighting_open_panel">Menu ánh sáng mở</string>
+	<string name="accessibility_camera_lighting_close_panel">Đã đóng menu hiệu ứng ánh sáng</string>
+    <string name="accessibility_camera_lighting_open_panel">Đã mở menu hiệu ứng ánh sáng</string>
     <string name="beauty_reset">Đặt lại</string>
     <string name="beauty_mode_reset_toast">Loại bỏ hiệu ứng</string>
     <string name="capture_back_pressed_hint">Chạm lần nữa để thoát</string>
@@ -640,7 +640,7 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="beauty_body_legged">Chân dài</string>
     <string name="beauty_body_reset_tip">Xóa hiệu ứng cơ thể</string>
     <string name="beauty_body_shoulder">Vai</string>
-    <string name="eye_light">Ánh mắt</string>
+    <string name="eye_light">Ánh mắt lấp lánh</string>
     <string name="eye_light_angel">Ánh mắt thiên thần</string>
     <string name="eye_light_comic">Ánh mắt truyện tranh</string>
     <string name="eye_light_nature">Ánh mắt tự nhiên</string>
@@ -648,7 +648,8 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="eye_light_rainbow">Ánh mắt cầu vồng</string>
     <string name="eye_light_star">Ánh mắt sao</string>
     <string name="eye_light_window">Ánh mắt cửa sổ</string>
-    <string name="hint_eye_light">Ánh mắt sẽ tốt hơn khi bật flash</string>
+	<string name="lighting_pattern_null">Không</string>
+    <string name="hint_eye_light">Ánh mắt lấp lánh sẽ hoạt động khi bật flash</string>
 	<string name="accessibility_bokeh_adjust">Mức độ mờ</string>
     <string name="accessibility_bokeh_level">Độ mờ F%1$s</string>
     <string name="accessibility_camera_liveshot_off">Chế độ ảnh động đang tắt</string>
@@ -687,16 +688,16 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
 	<string name="live_music_network_exception">Mạng không ổn định</string>
 	<string name="live_music_network_exception_tips">Mạng không ổn định, vui lòng thử lại</string>
 	<string name="pref_privacy_title">Chính sách Riêng tư</string>
-	<string name="accessibility_camera_record_start">Bắt đầu ghi âm</string>
-    <string name="accessibility_camera_record_stop">Dừng ghi âm</string>
+	<string name="accessibility_camera_record_start">Bắt đầu ghi</string>
+    <string name="accessibility_camera_record_stop">Dừng ghi</string>
     <string name="accessibility_lighting_panel_off">Đóng bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_lighting_panel_on">Mở bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_record_button">Nút ghi âm</string>
     <string name="accessibility_ultra_pixel_photography_off">Đã tắt siêu nét %d</string>
     <string name="accessibility_ultra_pixel_photography_on">Đã bật siêu nét %d</string>
-    <string name="accessibility_video_capture_button">Nút ảnh để ghi video</string>
-    <string name="accessibility_video_pause_button">Tạm dừng ghi âm</string>
-    <string name="accessibility_video_resume_button">Tiếp tục ghi âm</string>
+    <string name="accessibility_video_capture_button">Nút chụp ảnh khi quay video</string>
+    <string name="accessibility_video_pause_button">Tạm dừng ghi</string>
+    <string name="accessibility_video_resume_button">Tiếp tục ghi</string>
     <string name="ai_scene_top_moon_off">Chế độ ánh sáng yếu</string>
     <string name="beauty_reset_toast">Đã xóa hiệu ứng làm đẹp</string>
     <string name="camera_liveshot_off_tip">Tắt ảnh động</string>
@@ -1046,7 +1047,6 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="beauty_clear_toast">Đã xóa hiệu ứng làm đẹp</string>
 	<string name="edit_hairline">Đường chân tóc</string>
 	<string name="mimoji_start_create">Tạo Mimoji...</string>
-	<string name="mimoji_delete">Xóa</string>
 	<string name="mimoji_delete_dialog_title">Bạn muốn xóa hình ảnh hiện tại?</string>
 	<string name="mimoji_edit_mid_title">Bạn muốn hủy ảnh chụp hiện tại?</string>
 </resources>
