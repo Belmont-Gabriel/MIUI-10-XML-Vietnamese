@@ -673,7 +673,7 @@ d MMMM"</string>
     <string name="battery_profiles">Cấu hình sử dụng pin</string>
     <string name="enable_power_save_mode">Bật tiết kiệm Pin</string>
     <string name="save_mode_btn_ok">OK</string>
-    <string name="notification_low_battery_title">Pin yếu: %d%%</string>
+    <string name="notification_low_battery_title">Pin còn ít hơn %d%%</string>
     <string name="notification_low_battery_open_save_mode">Bật tiết kiệm Pin</string>
     <string name="notification_low_battery_action_btn">Bật</string>
     <string name="notification_low_battery_need_charge">Pin yếu. Hãy sạc thiết bị.</string>
