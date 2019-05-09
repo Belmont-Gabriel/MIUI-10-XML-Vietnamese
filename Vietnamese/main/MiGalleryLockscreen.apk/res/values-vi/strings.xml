@@ -600,4 +600,20 @@
 	<string name="sst_morning_greeting_disable_toast">Tính năng này sẽ sớm có</string>
 	<string name="theme_des_lock_style">Áp dụng Màn hình khóa mặc định và bật lại Tạp chí Khóa màn hình.</string>
 	<string name="theme_title_lock_style">Chuyển sang Màn hình khóa mặc định</string>
+	<string name="lks_left_top_notice">Chạm vào đây để quay lại bên trên</string>
+	<string name="lks_left_top_notice_refresh">Chạm để xem mục mới</string>
+	<string name="llks_setting_view_title">Màn hình bổ sung</string>
+	<string name="llks_simple_mode">Chế độ đơn giản</string>
+	<string name="llks_simple_mode_desc">Bố cục đơn giản và các phím tắt bổ sung</string>
+	<string name="llks_standard_mode">Mặc định</string>
+	<string name="llks_standard_mode_desc">Hình nền, câu chuyện và đề xuất hàng ngày</string>
+	<string name="llks_tools_gallery_name">Tạp chí khóa màn hình</string>
+	<string name="llks_tools_remote_control_name">Điều khiển Mi</string>
+	<string name="subscribe_apply_wp">Áp dụng hình nền Màn hình khóa thành công</string>
+	<string name="subscribe_dlg_content">Đăng ký để nhận hình nền mới chuyển trực tiếp đến Màn hình khóa và nhận lời chào buổi sáng mỗi ngày.</string>
+	<string name="toast_update_no_more_newest_feeds">Chưa có mục nào mới</string>
+	<string name="theme_apply_lockscreen_success">Áp dụng thành công</string>
+	<string name="theme_close_maml">Ảnh Tạp chí Khóa màn hình sẽ thay thế hình nền Màn hình khóa.</string>
+	<string name="theme_des_maml">"Các thành phần khác của chủ đề hiện tại sẽ không bị ảnh hưởng. Chủ đề sẽ được làm mới để áp dụng thay đổi."</string>
+	<string name="theme_title_subscribe">Đăng ký Tạp chí Khóa màn hình</string>
 </resources>

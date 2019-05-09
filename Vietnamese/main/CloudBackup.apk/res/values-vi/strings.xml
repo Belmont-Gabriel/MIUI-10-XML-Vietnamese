@@ -232,4 +232,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="desktop_wait_network">Đang chờ…</string>
 	<string name="provision_background_restore_more_data">Khôi phục nhiều mục hơn dưới nền</string>
 	<string name="provision_restore_data">Đang khôi phục các mục</string>
+	<string name="hint_restore_cross_space">Bố cục màn hình chính có thể hiển thị sai nếu bạn chuyển các mục giữa các không gian.</string>
+	<string name="selected">Đã chọn</string>
+	<string name="unselected">Không chọn</string>
 </resources>

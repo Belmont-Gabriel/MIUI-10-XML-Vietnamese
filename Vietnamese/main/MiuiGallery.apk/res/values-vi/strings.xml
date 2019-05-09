@@ -1506,4 +1506,20 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="print_log">In nhật ký</string>
 	<string name="photo_editor_compare_tip">Nhấn và giữ để xem ảnh gốc</string>
 	<string name="photo_editor_remove_watermark">Xóa dấu chìm ảnh</string>
+	<string name="ai_album_setting_key_word">Tìm ảnh</string>
+	<string name="base_btn_cancel">Hủy</string>
+	<string name="base_btn_download">Tải xuống</string>
+	<string name="filter_category_sky">Bầu trời</string>
+	<string name="filter_sky_cloudy">Mây</string>
+	<string name="filter_sky_detect_forbidden_tips">Không thể nhận diện bầu trời</string>
+	<string name="filter_sky_download_failed">Không thể tải trình cắm. Kiểm tra cài đặt mạng và thử lại</string>
+	<string name="filter_sky_download_finish">Đã tải xuống trình cắm</string>
+	<string name="filter_sky_download_sdk_without_wifi_msg">Nếu bạn không kết nối Wi-Fi, bạn có thể sử dụng dữ liệu di động để tải xuống trình cắm (%1$dMB) cho phép bạn thay đổi bầu trời trong ảnh.</string>
+	<string name="filter_sky_download_sdk_without_wifi_title">Tải xuống trình cắm</string>
+	<string name="filter_sky_dusk">Mờ tối</string>
+	<string name="filter_sky_glow">Sáng đỏ</string>
+	<string name="filter_sky_rainbow">Cầu vồng</string>
+	<string name="filter_sky_sunny">Nắng</string>
+	<string name="filter_sky_sunset">Hoàng hôn</string>
+	<string name="trash_bin_key_word">Đã xóa ảnh</string>
 </resources>

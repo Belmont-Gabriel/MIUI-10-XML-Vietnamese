@@ -2603,4 +2603,6 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
     <string name="wfc_wifi_handover_fail">Rất tiếc! Cuộc gọi không thể hoàn thành.</string>
     <string name="wfc_wifi_lte_handover_fail">Rất tiếc! Không có mạng LTE khả dụng để tiếp tục cuộc gọi.</string>
 	<string name="fiveg_switch_title">Mạng 5G</string>
+	<string name="jump_to_mobile_network_setting">Cài đặt mạng di động</string>
+	<string name="select_dds_dialog_title">Chọn SIM dữ liệu di động mặc định</string>
 </resources>

@@ -639,4 +639,5 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="waiting">Chỉ vài giây…</string>
 	<string name="err_no_gms">Phiên bản ứng dụng không tương thích. Cài đặt ứng dụng này một cách riêng biệt.</string>
 	<string name="trans_detail_item_app_data_skip_data">Không thể chuyển dữ liệu ứng dụng.</string>
+	<string name="phone_title">Cài đặt điện thoại</string>
 </resources>

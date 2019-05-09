@@ -194,4 +194,8 @@
 		<item>Tìm ảnh hội xuân vừa qua</item>
 		<item>Tìm ảnh của tôi với mẹ ở bãi biển tháng trước</item>
 	</string-array>
+	<string-array name="backup_automatically_key_words">
+		<item>Sao lưu ảnh</item>
+		<item>Đồng bộ ảnh với Mi Cloud</item>
+	</string-array>
 </resources>

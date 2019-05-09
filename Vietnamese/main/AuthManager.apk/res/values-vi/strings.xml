@@ -303,4 +303,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="permission_warning_template_ask">Cho phép %1$s quyền bên dưới?</string>
 	<string name="HIPS_Perm_UDevice_ID">Chia sẻ một phần thông tin thiết bị với nhà phát triển trò chơi để giúp họ cải thiện trải nghiệm chơi game của bạn. Đồng ý?</string>
 	<string name="HIPS_Perm_UDevice_ID_DESC">Chia sẻ một phần thông tin thiết bị với nhà phát triển trò chơi để giúp họ cải thiện trải nghiệm chơi game của bạn. Đồng ý?</string>
+	<string name="HIPS_Perm_deamon_notification">Thông báo thường trực</string>
+	<string name="HIPS_Perm_deamon_notification_Desc">Hiển thị thông báo thường trực</string>
 </resources>

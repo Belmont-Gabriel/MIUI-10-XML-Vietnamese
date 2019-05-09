@@ -787,4 +787,20 @@ Chủ đề sẽ xác định ứng dụng nào bạn đang sử dụng và hi�
 	<string name="wallpaper_loop_title">Trình chiếu hình nền</string>
 	<string name="wallpaper_loop_title_desk_wallpaper">Trình chiếu hình nền Màn hình chính</string>
 	<string name="wallpaper_loop_title_lock_walpaper">Trình chiếu hình nền Màn hình khóa</string>
+	<string name="audition_ringtone">Phát</string>
+	<string name="count_down_tip">%ds còn lại</string>
+	<string name="like_list">Mục tôi đã thích</string>
+	<string name="playing_ringtone">Đang phát</string>
+	<string name="trial_count_empty">Không còn mục nào để phát. Quay lại vào ngày mai!</string>
+	<string name="trial_count_tip">Hết hạn dùng thử trong %1$s:%2$s:%3$s</string>
+	<string name="trial_for_free">Dùng thử</string>
+	<string name="trial_get_failed_tip">Xem hết video để nhận chủ đề.</string>
+	<string name="trial_get_success_tip">"Chúc mừng! Bạn có 3 ngày dùng thử."</string>
+	<string name="trial_now">Thử ngay</string>
+	<string name="try_5_min">Thử 5 phút</string>
+	<string name="video_ad_click">Thử ngay</string>
+	<string name="video_ad_try_for_free">Dùng thử</string>
+	<string name="video_ad_uncomplete_tip">Xem hết video để nhận chủ đề.</string>
+	<string name="video_ad_uncomplete_tip_cancel">Hủy</string>
+	<string name="video_ad_uncomplete_tip_continue">Tiếp tục xem</string>
 </resources>

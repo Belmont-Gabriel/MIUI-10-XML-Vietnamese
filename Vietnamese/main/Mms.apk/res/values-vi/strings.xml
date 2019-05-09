@@ -923,4 +923,5 @@
 	<string name="rcs_auto_resend_as_sms_remind_title">Chuyển sang SMS</string>
 	<string name="rcs_hello_from_pc">Đăng nhập vào Fetion trên máy tính để chuyển tệp.</string>
 	<string name="rcs_offline">Chưa đăng nhập vào UC. Đợi một vài phút và thử lại.</string>
+	<string name="dialog_sim_locked_message">Thẻ SIM của bạn không hoạt động đầy đủ với điện thoại này vì nó không tuân thủ điều khoản và điều kiện đăng ký của bạn. Nếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin về vấn đề này, vui lòng liên hệ Trung tâm dịch vụ Xiaomi hoặc cửa hàng nơi bán điện thoại cho bạn.</string>
 </resources>
