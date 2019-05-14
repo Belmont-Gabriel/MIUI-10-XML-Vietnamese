@@ -290,4 +290,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="hints_scan_danger_result_with_number">
         <item quantity="other">Tìm thấy %d nguy cơ, sửa ngay</item>
     </plurals>
+	<plurals name="function_shield_num">
+        <item quantity="other">%d tính năng</item>
+    </plurals>
 </resources>

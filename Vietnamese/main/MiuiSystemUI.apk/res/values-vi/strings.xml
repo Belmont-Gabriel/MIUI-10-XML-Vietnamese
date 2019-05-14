@@ -2063,4 +2063,9 @@ d MMMM"</string>
 	<string name="face_unlock_success_show_message_msg">Chỉ hiển thị nguồn thông báo khi thiết bị đã khóa và thêm chi tiết thông báo sau khi đã xác thực khuôn mặt</string>
 	<string name="face_unlock_success_show_message_title">Hiển thị chi tiết thông báo sau khi xác thực khuôn mặt</string>
 	<string name="face_unlock_success_show_message_toast">Thông báo sẽ được hiển thị trên Màn hình khóa</string>
+	<string name="keyguard_charging_normal_and_level_tip">Đang sạc %d%%</string>
+	<string name="keyguard_charging_quick_and_level_tip">Đang sạc nhanh %d%%</string>
+	<string name="keyguard_charging_super_quick_and_level_tip">Đang sạc siêu nhanh %d%%</string>
+	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Thêm</string>
+	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Nhập</string>
 </resources>
