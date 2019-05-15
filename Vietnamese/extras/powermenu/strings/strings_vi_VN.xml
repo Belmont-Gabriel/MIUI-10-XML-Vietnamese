@@ -8,4 +8,6 @@
     <string name="label_alert_shutdown">Chạm để tắt nguồn</string>
     <string name="label_blank">Quay lại</string>
     <string name="label_emergency_call">Cuộc gọi khẩn cấp</string>
+	<string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_fastboot">Fastboot</string>
 </resources>

@@ -2541,8 +2541,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="privacy_apps_manage_dialog_title">Giới thiệu ứng dụng ẩn</string>
      <string name="privacy_apps_manager_dialog_message">Biểu tượng ứng dụng này sẽ không hiển thị trên Màn hình chính sau khi bị ẩn. Ẩn ứng dụng này ngay?</string>
      <string name="privacy_apps_tutorial">Hướng dẫn</string>
-     <string name="privacy_apps_tutorial_prompt_pageone">"Khi bạn ẩn ứng dụng, ứng dụng sẽ được di chuyển vào thư mục ẩn. Lối tắt màn hình chính của ứng dụng cũng sẽ được ẩn.
-Tính năng này không hỗ trợ ứng dụng hệ thống."</string>
+     <string name="privacy_apps_tutorial_prompt_pageone">Tính năng này cho phép bạn ẩn biểu tượng của ứng dụng, vì vậy nó sẽ không còn xuất hiện trên Màn hình chính</string>
      <string name="privacy_apps_tutorial_prompt_pagethree">Sau khi bạn nhập mật khẩu, thư mục ứng dụng ẩn sẽ xuất hiện.</string>
      <string name="privacy_apps_tutorial_prompt_pagetwo">Trượt hai ngón tay trên màn hình. Bạn sẽ nhìn thấy tin nhắn yêu cầu bạn nhập mật khẩu Khóa ứng dụng.</string>
      <string name="reset_data_dialog_message">Thiết bị này chưa được liên kết với Tài khoản Mi của bạn. Không thể khôi phục hoặc đặt lại mật khẩu. Sao lưu tất cả các mục quan trọng và thực hiện đặt lại dữ liệu gốc. Tất cả dữ liệu sẽ bị xóa vĩnh viễn, thẻ SD của bạn sẽ được định dạng trong khi đặt lại dữ liệu gốc.</string>
