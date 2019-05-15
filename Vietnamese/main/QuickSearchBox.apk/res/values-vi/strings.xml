@@ -13,7 +13,7 @@
     <string name="search_in_app_store">Tìm kiếm chợ ứng dụng</string>
     <string name="send_secret_code">Gửi mã</string>
     <string name="xiaomi_search_label">Kết quả</string>
-    <string name="search_suggestion">Thủ thuật</string>
+    <string name="search_suggestion">Gợi ý</string>
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="search_sources">Mục có thể tìm kiếm</string>
@@ -26,7 +26,7 @@
     <string name="cta_declaration_ignore">Không hiển thị lại</string>
     <string name="cta_declaration_positive_text">Cho phép</string>
     <string name="cta_declaration_negative_text">Thoát</string>
-    <string name="default_hint">Tìm kiếm ứng dụng, nhạc, video, sách…</string>
+    <string name="default_hint">Tìm kiếm cục bộ hoặc tìm trên web cho…</string>
     <string name="network_unavailable">Không thể kết nối vào mạng</string>
     <string name="connect_and_retry">Kết nối với internet và thử lại</string>
     <string name="applications_search_label">Ứng dụng</string>

@@ -623,8 +623,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="member_entrance_title_ultra_low_case_a">Gia hạn</string>
     <string name="member_entrance_title_ultra_low_case_b">Gia hạn</string>
     <string name="micloud_main_manual_sync">Đồng bộ thủ công</string>
-    <string name="micloud_main_sync_mode_summary">Hầu hết các mục được đồng bộ khi màn hình tắt và đang sạc.</string>
-    <string name="micloud_main_sync_mode_title">Chế độ Tiết kiệm pin</string>
+    <string name="micloud_main_sync_mode_summary">Các mục phía trên sẽ được đồng bộ thời gian thực khi bật tùy chọn này. Điều này có thể khiến thiết bị tốn pin hơn.</string>
+    <string name="micloud_main_sync_mode_title">Đồng bộ thời gian thực</string>
     <string name="micloud_manaul_sync_success_button_text">Xem chi tiết</string>
     <string name="micloud_manaul_sync_success_title">Đồng bộ thành công</string>
     <string name="micloud_manual_activating">Đang kích hoạt…</string>
