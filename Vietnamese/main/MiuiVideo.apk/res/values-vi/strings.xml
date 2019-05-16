@@ -816,4 +816,9 @@ Tăng cường bảo mật tài khoản."</string>
     <string name="message_setting_clear_message_toast_success">Xóa tin nhắn thành công</string>
     <string name="message_setting_unread_message_summary">Bật để nhận thông báo</string>
     <string name="message_setting_unread_message_title">Thông báo về tin nhắn chưa đọc</string>
+	<string name="v_notification_settings_title">Quản lý thông báo</string>
+	<string name="v_notification_settings_summary">Thông báo trên thanh trạng thái</string>
+	<string name="notification_name_common">Thông báo thường xuyên</string>
+	<string name="v_version_alpha">Thử nghiệm</string>
+    <string name="v_version_release">Ổn định</string>
 </resources>
