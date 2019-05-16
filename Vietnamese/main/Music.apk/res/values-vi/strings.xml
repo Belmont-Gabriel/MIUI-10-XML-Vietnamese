@@ -1377,4 +1377,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ khớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
 	<string name="xiaomi_update_sdk_connect_download_manager_fail">Kết nối Trình quản lý tải xuống thất bại, vui lòng kiểm tra trạng thái Trình quản lý tải xuống trong Quản lý ứng dụng.</string>
 	<string name="voice_search_first_hint">Thử tìm kiếm bằng giọng nói!</string>
+	<string name="local_page_music">Nhạc trên máy</string>
+	<string name="privacy_category">Chính sách</string>
+	<string name="privacy_preference">Chính sách Riêng tư</string>
 </resources>
