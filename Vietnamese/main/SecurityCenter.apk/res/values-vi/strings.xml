@@ -2867,4 +2867,14 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gs_show_way">Hướng trang chủ</string>
 	<string name="gs_show_way_horizontal">Ngang</string>
 	<string name="gs_show_way_vertical">Dọc</string>
+	<string name="lucky_money_close">Đóng</string>
+	<string name="notification_battery_scan_consume_abnormal_summary">Chạm để sửa vấn đề</string>
+	<string name="notification_battery_scan_consume_abnormal_title_set">%s đang gây hao pin</string>
+	<string name="pc_abnormal_scan_button_text">Đóng ứng dụng</string>
+	<string name="pc_abnormal_scan_reason_prevent_standby">Ngăn hệ thống vào chế độ nghỉ</string>
+	<string name="pc_abnormal_scan_reason_runtime_exception">Chạy không bình thường</string>
+	<string name="pc_abnormal_scan_reason_scan_wifi">Tìm kiếm Wi-Fi quá thường xuyên0</string>
+	<string name="pc_abnormal_scan_reason_reconnect">Thử kết nối mạng quá thường xuyên</string>
+	<string name="pc_abnormal_scan_reason_use_GPS">Sử dụng dịch vụ vị trí quá thường xuyên</string>
+	<string name="pc_abnormal_scan_reason_wake_system">Đánh thức hệ thống quá thường xuyên</string>
 </resources>

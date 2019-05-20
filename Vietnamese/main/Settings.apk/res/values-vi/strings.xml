@@ -8079,4 +8079,24 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="dc_light_summary_new">Chế độ chống nhấp nháy giảm mỏi mắt trong điều kiện thiếu ánh sáng. Tuy nhiên, chất lượng hiển thị hình ảnh có thể bị ảnh hưởng khi bật Chế độ chống nhấp nháy.</string>
 	<string name="search_add_facerecoginition_text">Mở khóa khuôn mặt; Nhận diện khuôn mặt</string>
 	<string name="search_manage_facerecoginition_text">Mở khóa khuôn mặt; Nhận diện khuôn mặt</string>
+	<string name="color_led_applications_title">Chọn ứng dụng</string>
+	<string name="color_led_applications_title_summary">Bạn có thể hạn chế sử dụng LED cho từng ứng dụng</string>
+	<string name="color_led_battery_title">Giữ luôn bật khi đang sạc</string>
+	<string name="color_led_end_time">Thời gian kết thúc</string>
+	<string name="color_led_game_mode_title">Tăng tốc Trò chơi</string>
+	<string name="color_led_hint">Chọn kịch bản sử dụng LED. Ánh sáng LED sẽ sáng khi màn hình úp xuống và Không làm phiền tắt.</string>
+	<string name="color_led_incall_pulse_title">Nháy khi có cuộc gọi đến</string>
+	<string name="color_led_lucky_dialog_message">Tính năng này yêu cầu sử dụng Trợ lý lì xì. Bật ngay?</string>
+	<string name="color_led_lucky_dialog_title">Bật Trợ lý lì xì</string>
+	<string name="color_led_music_mode_summary">Hiển thị hiệu ứng ánh sáng nhịp nhàng khi phát nhạc</string>
+	<string name="color_led_music_mode_title">Âm nhạc</string>
+	<string name="color_led_notification_pulse_title">Thông báo dạng xung</string>
+	<string name="color_led_red_more_feature">Hiệu ứng đặc biệt</string>
+	<string name="color_led_red_package_title">Lì xì</string>
+	<string name="color_led_start_time">Thời gian bắt đầu</string>
+	<string name="color_led_title">Ánh sáng LED</string>
+	<string name="long_press_power_key">Nhấn giữ nút nguồn</string>
+	<string name="long_press_power_key_tips">&lt;Data&gt;Nhấn giữ nút nguồn &amp;lt;font color=#999999&amp;gt;Nhanh và thuận tiện hơn&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+	<string name="toggle_auto_speaker_preference_summary">Thiết bị sẽ chuyển sang loa ngoài khi bạn di chuyển nó xa khỏi tai khi đang nghe điện thoại. Tính năng này chỉ hoạt động khi bật TalkBack.</string>
+	<string name="toggle_auto_speaker_preference_title">Tự động chuyển sang loa ngoài</string>
 </resources>

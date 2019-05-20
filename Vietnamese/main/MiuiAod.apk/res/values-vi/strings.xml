@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_battery_level">Pin %d phần trăm.</string>
+    <string name="accessibility_battery_level_charging">Đang sạc pin, %d phần trăm.</string>
+    <string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
+    <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
+    <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
+    <string name="aod_mode_time_title">Hẹn giờ bật</string>
+    <string name="aod_mode_title">Chế độ luôn bật</string>
+    <string name="aod_to_close">Tắt</string>
+    <string name="cancel">Hủy</string>
+    <string name="paper_mode_end_time_title">Tắt</string>
+    <string name="paper_mode_start_time_title">Bật</string>
+</resources>
