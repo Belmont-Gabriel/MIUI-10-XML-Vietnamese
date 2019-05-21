@@ -643,4 +643,8 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="dialog_app_upgrade_download">Cập nhật</string>
 	<string name="dialog_app_upgrade_exit">Thoát</string>
 	<string name="dialog_app_upgrade_message">Có phiên bản mới của Mi Mover. Cập nhật Mi Mover ngay?</string>
+	<string name="dialog_backup_password_backup_tips">Không thể sao lưu các mục khi mật khẩu sao lưu được bật. Tắt mật khẩu sao lưu.</string>
+	<string name="dialog_backup_password_cancel">Hủy</string>
+	<string name="dialog_backup_password_change_machine_tips">Bạn không thể chuyển bản sao lưu được bảo vệ bởi mật khẩu. Tắt mật khẩu sao lưu trước khi dùng Mi Mover.</string>
+	<string name="dialog_backup_password_to_settings">Cài đặt</string>
 </resources>

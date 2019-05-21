@@ -20,4 +20,8 @@
     <string name="switch_international">Chuyển sang máy chủ nước ngoài</string>
     <string name="switch_to_official">Chuyển sang máy chủ chính thức</string>
     <string name="switch_to_staging">Chuyển sang máy chủ dàn dựng</string>
+	<string name="booster_config_version">Phiên bản CC hiện tại:</string>
+	<string name="cc_version">Phiên bản cấu hình đám mây hiện tại:</string>
+	<string name="open_cta">Vui lòng mở ứng dụng Bảo mật và \"Cho phép kết nối mạng\" trong Cài đặt</string>
+	<string name="stop_sync">KHÔNG tự đồng bộ</string>
 </resources>

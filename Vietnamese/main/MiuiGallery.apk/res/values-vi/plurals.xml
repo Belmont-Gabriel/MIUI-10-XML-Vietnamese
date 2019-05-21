@@ -210,4 +210,7 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d tập tin</item>
     </plurals>
+	<plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Ảnh ghép có thể chứa từ 1-%d ảnh</item>
+    </plurals>
 </resources>

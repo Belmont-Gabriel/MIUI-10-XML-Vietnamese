@@ -1840,4 +1840,14 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="nf_submit">Gửi</string>
     <string name="toast_exit_browser">Chạm lại để thoát Trình duyệt</string>
 	<string name="more_recommend">Thêm kiến nghị</string>
+	<string name="mw_add_to_dictionary">Thêm vào từ điển</string>
+	<string name="mw_delete_suggestion_text">Xóa</string>
+	<string name="dialog_ad_exit_exit_app">Mở sau</string>
+	<string name="dialog_ad_exit_open_app">Mở ngay</string>
+	<string name="dialog_nps_comment_cancel_text">Từ chối</string>
+	<string name="dialog_nps_comment_confirm_text">Đồng ý</string>
+	<string name="document_open_txt_message">Để cải thiện trải nghiệm đọc của bạn và đảm bảo bảo mật, sử dụng Kệ sách</string>
+	<string name="document_open_txt_start_read">Bắt đầu đọc</string>
+	<string name="hot_word_hot_count">%d người đang xem</string>
+	<string name="nav_lunch_duokan">Trình duyệt đang mở để bạn xem thêm</string>
 </resources>

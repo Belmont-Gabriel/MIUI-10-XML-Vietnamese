@@ -1173,4 +1173,16 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="toast_bar_sync_failed_mi_authority">Đồng bộ hóa không thành công. Vui lòng thử lại sau. Để đăng nhập vào thiết bị mới, vui lòng cho phép thiết bị thông qua trung tâm tài khoản mạng nội bộ hoặc lời nhắc SMS.</string>
 	<string name="wipe_account_fail_description_remind">Do quyền dữ liệu, có thể có dữ liệu còn lại trong Lịch và Danh bạ sau khi xóa tài khoản. Vui lòng xóa thủ công.</string>
 	<string name="open_notification_kingagent">Bật thông báo điểm theo dõi sự kiện</string>
+	<string name="account_setup_basics_password_label_authcode">Nhập mật khẩu hoặc mã xác thực</string>
+	<string name="add_account_search">Thêm tài khoản</string>
+	<string name="attachment_opening_mode">Ứng dụng mở đính kèm</string>
+	<string name="default_opening_attchemnt_mode">Mở tệp đính kèm sử dụng ứng dụng mặc đinh</string>
+	<string name="delete_contact_content">Xóa liên hệ này ngay?</string>
+	<string name="local_search_result">%s Kết quả đã đồng bộ</string>
+	<string name="login_err_message">Mật khẩu  bạn nhập không đúng. Bạn có thể cần mã xác thực để đăng nhập. Nếu bạn cần đặt lại mật khẩu, truy cập  https://email.163.com/ để thấy các tùy chọn khả dụng cho bạn.</string>
+	<string name="print_scheduler_title">In tất cả lịch trình</string>
+	<string name="recommend_protocal">Giao thức đề xuất</string>
+	<string name="update_domain_summary">Cập nhật danh sách tên miền và cấu hình</string>
+	<string name="update_domain_title">Cập nhật tên miền</string>
+	<string name="wait_while_update_db">Chờ một chút để cơ sở dữ liệu cập nhật!</string>
 </resources>

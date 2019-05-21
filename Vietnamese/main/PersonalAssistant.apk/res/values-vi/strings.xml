@@ -1627,11 +1627,11 @@ Một vài đơn hàng được gửi qua SF Express từ các nhà cung cấp n
     <string name="miot_device_add_device">Thêm thiết bị</string>
     <string name="miot_device_all_device">Tất cả thiết bị</string>
     <string name="miot_device_cancel">Hủy</string>
-    <string name="miot_device_click_show_detail">Chạm để biết thêm về các thiết bị gia dụng thông minh</string>
+    <string name="miot_device_click_show_detail">(Chạm để biết thêm về các thiết bị gia dụng thông minh)</string>
     <string name="miot_device_click_show_img">Chạm để xem ảnh</string>
     <string name="miot_device_cta_and">" và "</string>
-    <string name="miot_device_cta_message">Thêm thiết bị thông minh của bạn để điều khiển. Chạm Xác thực để đồng ý</string>
-    <string name="miot_device_cta_priv">Chính sách Riêng tư</string>
+    <string name="miot_device_cta_message">"Thêm thiết bị thông minh của bạn để điều khiển. Chạm Xác thực để đồng ý "</string>
+    <string name="miot_device_cta_priv">"Chính sách Riêng tư. "</string>
     <string name="miot_device_cta_use_info">Thỏa thuận Người dùng Mi Home</string>
     <string name="miot_device_edit">Sửa</string>
     <string name="miot_device_empty_device_hint">Thêm thiết bị thông minh như Máy lọc không khí, camera và robot lau nhà để điều khiển nhanh</string>

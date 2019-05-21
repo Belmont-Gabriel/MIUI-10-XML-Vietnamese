@@ -214,4 +214,6 @@
 	<string name="popup_camera_using_camera_background">%s đang sử dụng máy ảnh trước</string>
 	<string name="stop_operate_camera_frequently">Có vẻ bạn mở máy ảnh trước quá thường xuyên.</string>
 	<string name="takeback_camera_front_failed">Không thể đóng máy ảnh trước. Thử lại.</string>
+	<string name="sim_lock_non_ais_msg">Thẻ SIM của bạn không hoạt động đầy đủ với điện thoại của bạn vì nó không tuân thủ điều khoản và điều kiện đăng ký. Nếu bạn có bất kỳ câu hỏi hoặc cần thêm thông tin về vấn đề này, vui lòng liên hệ với các trung tâm dịch vụ của Xiaomi hoặc cửa hàng bán sản phẩm cho bạn.</string>
+	<string name="voice_assistant_tips">Đã nâng cấp để có thể nhấn giữ nút nguồn để gọi trợ lý giọng nói</string>
 </resources>

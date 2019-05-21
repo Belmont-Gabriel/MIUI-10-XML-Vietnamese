@@ -637,4 +637,12 @@
         <item>Thứ bảy cuối cùng</item>
         <item>Chủ nhật cuối cùng</item>
     </string-array>
+	<string-array name="close_alarm_repeating_labels">
+		<item>Chỉ lần này</item>
+		<item>Tắt lời nhắc lặp lại</item>
+	</string-array>
+	<string-array name="open_alarm_repeating_labels">
+		<item>Chỉ lần này</item>
+		<item>Đặt lời nhắc lặp lại</item>
+	</string-array>
 </resources>

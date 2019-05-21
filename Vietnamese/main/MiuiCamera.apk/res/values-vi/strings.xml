@@ -1052,4 +1052,8 @@ Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="mimoji_edit_abandon_alert">Bạn có muốn hủy ảnh đang sửa?</string>
 	<string name="mimoji_edit_abandon_capture_alert">Bạn có muốn hủy ảnh chụp hiện tại?</string>
 	<string name="mimoji_edit_cancel_alert">Hủy thay đổi và hủy bỏ?</string>
+	<string name="mimoji_create_tips">Nhìn thẳng vào máy ảnh và tạo Mimoji của bạn</string>
+	<string name="mimoji_edit_back_alert">Tất cả thay đổi sẽ hủy bỏ khi bạn quay lại. Vẫn quay lại?</string>
+	<string name="mimoji_recapture_alert">Tất cả thay đổi sẽ hủy bỏ khi bạn làm lại. Vẫn làm lại?</string>
+	<string name="ultra_wide_recommend_tip_hint_sat">Thử chế độ góc siêu rộng 0.6x</string>
 </resources>

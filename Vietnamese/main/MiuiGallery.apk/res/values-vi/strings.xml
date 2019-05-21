@@ -1522,4 +1522,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="filter_sky_sunny">Nắng</string>
 	<string name="filter_sky_sunset">Hoàng hôn</string>
 	<string name="trash_bin_key_word">Đã xóa ảnh</string>
+	<string name="clear_dup_medias">Dọn ảnh trùng</string>
+	<string name="clear_dup_success">Dọn thành công</string>
+	<string name="clear_dup_tip">Đang dọn ảnh trùng</string>
 </resources>

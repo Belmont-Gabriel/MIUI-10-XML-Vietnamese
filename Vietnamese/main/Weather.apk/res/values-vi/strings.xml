@@ -315,4 +315,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="weather_permission_agree">Đồng ý</string>
 	<string name="content_desc_edit_city_manage">Quản lý thành phố</string>
 	<string name="aqi_settings_summary">Cảnh báo AQI</string>
+	<string name="tts_best_aqi">Chất lượng không khí tốt nhất</string>
+	<string name="tts_hour_weather_date_time">Từ %2$s vào %1$s đến %4$s vào %3$s</string>
+	<string name="tts_max_wind_power">Tốc độ gió cao nhất</string>
 </resources>
