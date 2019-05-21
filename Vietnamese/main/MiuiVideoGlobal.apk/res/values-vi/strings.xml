@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="app_name">Video</string>
     <string name="audio_changed">Audio track mới</string>
     <string name="audio_title">Audio track</string>
@@ -314,9 +313,6 @@
     <string name="t_network_error_to_retry">Lỗi mạng.</string>
     <string name="t_no_miuibbs">Không tìm thấy ứng dụng diễn đàn, vui lòng thử lại sau khi cài đặt</string>
     <string name="t_search_key_not_null">Nhập từ khóa để tìm kiếm</string>
-    <string name="tag_index">Chỉ mục thẻ</string>
-    <string name="tag_key">Từ khoá</string>
-    <string name="tag_object">Các đối tượng được gắn thẻ</string>
     <string name="temp_play_history_button_label">Lịch sử</string>
     <string name="tencent_shortcut_name">Video Tencent</string>
     <string name="this_source_none_ad">Không có QC</string>
