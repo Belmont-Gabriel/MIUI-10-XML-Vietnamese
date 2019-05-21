@@ -491,7 +491,7 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">Nếu bạn tắt tính năng này, bạn sẽ không thể định vị thiết bị của mình trong trường hợp bị mất.</string>
     <string name="micloud_find_device_close_alert_positive">Tiếp tục mở</string>
     <string name="micloud_find_device_close_alert_negtive">Tiếp tục tắt</string>
-    <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với \"Chính sách Riêng tư\". Nếu bạn cần hủy ủy quyền riêng tư, vui lòng tắt tính năng này.</string>
+    <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/u&gt;. Nếu bạn cần hủy ủy quyền riêng tư, vui lòng tắt tính năng này.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">\"Chính sách Riêng tư\"</string>
     <string name="activate_finddevice">Kết nối mạng để kích hoạt thiết bị</string>
     <string name="account_related">Thiết bị này đã liên kết với Tài khoản Mi (%s). Kết nối mạng để xác minh thiết bị.</string>
