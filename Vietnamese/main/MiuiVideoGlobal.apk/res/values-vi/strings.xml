@@ -864,4 +864,5 @@ Tăng cường bảo mật tài khoản."</string>
 	<string name="title_publisher">Người tạo</string>
 	<string name="title_subscribe">Người đăng ký</string>
 	<string name="ugc_confirm_unsubscribe">Bỏ đăng ký?</string>
+	<string name="restore_channel_list">Khôi phục mặc định ngay?</string>
 </resources>

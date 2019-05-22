@@ -8,4 +8,11 @@
         <item>Bản ổn định</item>
         <item>Bản thử nghiệm</item>
     </string-array>
+	<string-array name="playback_streaming_quality">
+		<item>Tự động</item>
+		<item>Thấp</item>
+		<item>Trung bình</item>
+		<item>Cao</item>
+		<item>Rất cao</item>
+	</string-array>
 </resources>
