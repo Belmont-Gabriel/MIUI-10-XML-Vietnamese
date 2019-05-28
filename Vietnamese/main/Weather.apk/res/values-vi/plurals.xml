@@ -16,7 +16,7 @@
         <item quantity="other">Phản hồi sau %1$s giây</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s người | </item>
+        <item quantity="other">"%1$s người | "</item>
     </plurals>
     <plurals name="total_voted_num_text">
         <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> người đã bình chọn"</item>
@@ -25,7 +25,7 @@
         <item quantity="other">Quang</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s người</item>
+        <item quantity="other">" | %1$s người"</item>
     </plurals>
 	<plurals name="aqi_all_city_cur_num">
         <item quantity="other">Trung bình của %1$s trạm</item>
@@ -37,15 +37,15 @@
         <item quantity="other">Bạn có thể gửi lại phản hồi trong %1$s giây</item>
     </plurals>
 	<plurals name="tts_report_temperature_high_centigrade">
-        <item quantity="other">Nhiệt độ cao nhất: %1$s độ C</item>
+        <item quantity="other">Nhiệt độ cao nhất: %1$s°C</item>
     </plurals>
     <plurals name="tts_report_temperature_high_fahrenheit">
-        <item quantity="other">Nhiệt độ cao nhất: %1$s độ F</item>
+        <item quantity="other">Nhiệt độ cao nhất: %1$s°F</item>
     </plurals>
     <plurals name="tts_report_temperature_low_centigrade">
-        <item quantity="other">Nhiệt độ thấp nhất: %1$s độ C</item>
+        <item quantity="other">Nhiệt độ thấp nhất: %1$s°C</item>
     </plurals>
     <plurals name="tts_report_temperature_low_fahrenheit">
-        <item quantity="other">Nhiệt độ thấp nhất: %1$s độ F</item>
+        <item quantity="other">Nhiệt độ thấp nhất: %1$s°F</item>
     </plurals>
 </resources>

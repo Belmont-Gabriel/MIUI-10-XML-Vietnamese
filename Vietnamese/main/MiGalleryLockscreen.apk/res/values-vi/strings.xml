@@ -616,4 +616,5 @@
 	<string name="theme_close_maml">Ảnh Tạp chí Khóa màn hình sẽ thay thế hình nền Màn hình khóa.</string>
 	<string name="theme_des_maml">"Các thành phần khác của chủ đề hiện tại sẽ không bị ảnh hưởng. Chủ đề sẽ được làm mới để áp dụng thay đổi."</string>
 	<string name="theme_title_subscribe">Đăng ký Tạp chí Khóa màn hình</string>
+	<string name="llks_tools_mipay_wallet_name">Ví Mi</string>
 </resources>

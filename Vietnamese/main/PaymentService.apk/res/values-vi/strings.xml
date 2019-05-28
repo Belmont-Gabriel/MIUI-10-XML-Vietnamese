@@ -650,4 +650,6 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
 	<string name="web_sso_login_message">Đang đăng nhập…</string>
 	<string name="webview_reload">Thử lại</string>
 	<string name="passport_confirm_recycle_account">Có</string>
+	<string name="mibi_menu_qa_feedback">Câu hỏi thường gặp &amp; phản hồi</string>
+	<string name="mibi_paytool_wechat_return_cancel">Hủy hoàn WeChat</string>
 </resources>

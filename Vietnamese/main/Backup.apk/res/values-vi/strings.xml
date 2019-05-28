@@ -647,4 +647,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="dialog_backup_password_cancel">Hủy</string>
 	<string name="dialog_backup_password_change_machine_tips">Bạn không thể chuyển bản sao lưu được bảo vệ bởi mật khẩu. Tắt mật khẩu sao lưu trước khi dùng Mi Mover.</string>
 	<string name="dialog_backup_password_to_settings">Cài đặt</string>
+	<string name="gallery_summary">Cài đặt Thư viện (Không bao gồm ảnh)</string>
+	<string name="user_feedback">Phản hồi</string>
 </resources>
