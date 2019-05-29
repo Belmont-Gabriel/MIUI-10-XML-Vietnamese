@@ -4600,7 +4600,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="bluetooth_preference_connected_devices">Đã kết nối thiết bị</string>
     <string name="bluetooth_unlock_confirm_device_text">Chạm thiết bị Bluetooth để xác nhận.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Chạm vào nút trên thiết bị để mở khóa.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Chạm vào nút trên đồng hồ để mở khóa.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Xác nhận trên đồng hồ.</string>
     <string name="bluetooth_unlock_device_matched_text">Sử dụng thiết bị này để mở khóa.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Xóa thiết bị này?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Thiết bị cũ sẽ được thay thế bằng thiết bị hiện tại.</string>
@@ -8101,4 +8101,5 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="toggle_auto_speaker_preference_title">Tự động chuyển sang loa ngoài</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Hộp thoại Quyền đang bị che bởi Phím ảo. Di chuyển Phím ảo sang chỗ khác hoặc tắt tính năng đó.</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Xác nhận trên vòng đeo tay.</string>
+	<string name="screen_paper_mode_hdr_toast_new">Chế độ đọc sách sẽ tự động tắt khi đang phát video HDR và xác nhận vân tay. Thiết bị của bạn sẽ chuyển lại sang Chế độ đọc sách khi các hành động đó đã được thực hiện xong.</string>
 </resources>
