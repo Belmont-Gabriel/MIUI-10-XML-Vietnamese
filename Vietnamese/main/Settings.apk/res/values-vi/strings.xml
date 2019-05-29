@@ -6810,7 +6810,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_traffic_priority_regular_summary">Chia sẻ băng thông giữa tiến trình nền và ứng dụng ở nền trước</string>
      <string name="wifi_traffic_priority_summary">Tự động điều chỉnh ưu tiên băng thông cho mạng hiện tại</string>
      <string name="wifi_wps_fail_error">Không thể cài đặt bảo vệ Wi-Fi, thử lại.</string>
-     <string name="allow_device_id_access">Ứng dụng với nhận dạng thiết bị</string>
+     <string name="allow_device_id_access">Chọn ứng dụng có thể truy cập nhận dạng thiết bị</string>
     <string name="bootloader_device_bind_no_data_network">Tắt WLAN rồi thêm tài khoản và thiết bị bằng dữ liệu di động.</string>
     <string name="bootloader_device_bind_server_token_expired_1">Không thể xác thực. Thử thêm lại tài khoản và thiết bị</string>
     <string name="bootloader_device_bind_server_token_expired_2">Không thể xác thực. Đăng nhập vào tài khoản của bạn và làm lại từ đầu.</string>
@@ -6824,7 +6824,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="dangerous_option_hint">\"%1$s\" đã bật. Chạm để thay đổi cài đặt.</string>
     <string name="dangerous_option_hint_title">Tính năng có rủi ro cao đã bật</string>
     <string name="dangerous_option_switch_title">Thông báo về tính năng có rủi ro cao</string>
-    <string name="device_id">Nhận dạng thiết bị</string>
+    <string name="device_id">Nhận dạng thiết bị cho đề xuất cá nhân hóa</string>
     <string name="enable_atrace">Bật ATrace</string>
     <string name="enable_atrace_summary">Bắt sự kiện kernel sử dụng ATrace</string>
     <string name="fingerprint_others_title">Khác</string>
@@ -6880,10 +6880,10 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="miui_sos_statusbar_summary">Chạm để tắt</string>
     <string name="miui_sos_statusbar_title">SOS đã kích hoạt</string>
     <string name="pref_show_lunar_calendar_title">Hiển thị lịch Trung Quốc trên màn hình khóa</string>
-    <string name="restore_device_id_content">Đặt lại cá nhân hóa đề xuất</string>
-    <string name="restore_device_id_title">Khôi phục nhận dạng thiết bị</string>
-    <string name="restore_dialog_content">Khôi phục nhận dạng thiết bị sẽ đặt lại cá nhân hóa đề xuất của bạn.</string>
-    <string name="restore_dialog_positive">Khôi phục</string>
+    <string name="restore_device_id_content">Đề xuất cá nhân hóa sẽ được đặt lại</string>
+    <string name="restore_device_id_title">Đặt lại nhận dạng thiết bị</string>
+    <string name="restore_dialog_content">Đặt lại nhận dạng thiết bị sẽ đặt lại cá nhân hóa đề xuất của bạn.</string>
+    <string name="restore_dialog_positive">Đặt lại</string>
     <string name="restore_dialog_title">Nhắc nhở</string>
     <string name="select_sim_card">Chọn thẻ SIM</string>
     <string name="sos_privacy_and_content_policy">Thỏa thuận người dùng và Chính sách Riêng tư</string>
@@ -8102,4 +8102,9 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="miui_touch_filtered_touchassistant_warning">Hộp thoại Quyền đang bị che bởi Phím ảo. Di chuyển Phím ảo sang chỗ khác hoặc tắt tính năng đó.</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Xác nhận trên vòng đeo tay.</string>
 	<string name="screen_paper_mode_hdr_toast_new">Chế độ đọc sách sẽ tự động tắt khi đang phát video HDR và xác nhận vân tay. Thiết bị của bạn sẽ chuyển lại sang Chế độ đọc sách khi các hành động đó đã được thực hiện xong.</string>
+	<string name="allow_oaid_used">Cho phép sử dụng Nhận dạng thiết bị</string>
+	<string name="device_oaid">Nhận dạng thiết bị</string>
+	<string name="restore_oaid_content">Đặt lại Nhận dạng thiết bị hiện tại sẽ tạo cái mới. Đặt lại ngay?</string>
+	<string name="restore_oaid_positive">Đặt lại</string>
+	<string name="restore_oaid_title">Đang đặt lại Nhận dạng thiết bị</string>
 </resources>

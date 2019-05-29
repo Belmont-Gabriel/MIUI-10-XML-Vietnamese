@@ -1417,7 +1417,7 @@ thiết bị của bạn"</string>
     <string name="hints_scanning_text">Đang quét…</string>
     <string name="auto_handle_title">CHUNG</string>
     <string name="manual_item_white_list_title">Danh sách ngoại lệ</string>
-    <string name="manual_item_white_list_summary">Ngăn chặn các ứng dụng đã chọn được tối ưu hóa</string>
+    <string name="manual_item_white_list_summary">Ngăn chặn các mục đã chọn được tối ưu hóa</string>
     <string name="pm_auto_start_by_system">Bắt đầu ứng dụng</string>
     <string name="pm_auto_start_by_system_event">Cho phép ứng dụng bắt đầu tự động</string>
     <string name="pm_auto_start_by_other">Đã kích hoạt khởi chạy</string>
@@ -1855,7 +1855,7 @@ thiết bị của bạn"</string>
     <string name="app_manager_default_open_title">Xóa mặc định</string>
     <string name="app_manager_default_close_summary">Chưa đặt mặc định.</string>
     <string name="app_manager_default_open_summary">Bạn đã chọn khởi chạy ứng dụng này mặc định để thực hiện một vài thao tác.</string>
-    <string name="app_manager_app_version_name">Phiên bản:</string>
+    <string name="app_manager_app_version_name">"Phiên bản: "</string>
     <string name="app_manager_unstall_application">Gỡ cài đặt</string>
     <string name="app_manager_force_stop_dlg_title">Buộc dừng?</string>
     <string name="app_manager_force_stop_dlg_text">Nếu bạn buộc dừng ứng dụng, điều này có thể phát sinh lỗi.</string>
@@ -2437,7 +2437,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="first_aid_item4_content">Pin</string>
      <string name="first_aid_item5_content">Vấn đề khác</string>
      <string name="first_aid_result_feedback_button">Gửi</string>
-     <string name="first_aid_result_feedback_summary">Tôi không thể giải quyết vấn đề trên thiết bị của mình.</string>
+     <string name="first_aid_result_feedback_summary">"Quét bảo mật không thể tìm thấy bất kỳ vấn đề nào. Tuy nhiên, tôi phát hiện ra một số."</string>
      <string name="first_aid_result_feedback_title">Phản hồi</string>
      <string name="first_aid_result_summary_normal">Tất cả mọi thứ đều tốt!</string>
      <string name="first_aid_scanning_item1">Đang kiểm tra vấn đề về hiệu suất…</string>

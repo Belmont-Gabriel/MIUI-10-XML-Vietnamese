@@ -1516,4 +1516,9 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="v5_date_time_picker_dialog_title">Đặt thời gian nhắc nhở</string>
     <string name="v5_time_picker_label_hour">Giờ</string>
     <string name="v5_time_picker_label_minute">Phút</string>
+	<string name="menu_share_qrcode">Mã QR</string>
+	<string name="menu_share_text">Văn bản</string>
+	<string name="menu_share_vcard_file">Tệp tin</string>
+	<string name="share_contact_as">Chia sẻ Liên hệ như</string>
+	<string name="share_qrcode">Chia sẻ Mã QR</string>
 </resources>

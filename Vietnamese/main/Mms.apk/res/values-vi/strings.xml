@@ -924,4 +924,9 @@
 	<string name="rcs_hello_from_pc">Đăng nhập vào Fetion trên máy tính để chuyển tệp.</string>
 	<string name="rcs_offline">Chưa đăng nhập vào UC. Đợi một vài phút và thử lại.</string>
 	<string name="dialog_sim_locked_message">Thẻ SIM của bạn không hoạt động đầy đủ với điện thoại này vì nó không tuân thủ điều khoản và điều kiện đăng ký của bạn. Nếu bạn có bất kỳ câu hỏi nào hoặc cần thêm thông tin về vấn đề này, vui lòng liên hệ Trung tâm dịch vụ Xiaomi hoặc cửa hàng nơi bán điện thoại cho bạn.</string>
+	<string name="heduohao_sub_sim_card">Phụ</string>
+	<string name="recipients_contain_sub_sim_number">"Có vẻ như có số thẻ SIM thứ hai trong danh sách người nhận. Gửi tin nhắn này bằng SIM thứ hai."</string>
+	<string name="sub_sim_card">Phụ</string>
+	<string name="sub_sim_card_indicator">Phụ %d</string>
+	<string name="sub_sim_not_support_mms">"Không thể gửi MMS bằng SIM thứ hai"</string>
 </resources>
