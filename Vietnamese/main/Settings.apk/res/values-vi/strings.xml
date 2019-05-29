@@ -4554,7 +4554,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="launching_pho">Đang khởi chạy thông tin điện thoại, vui lòng chờ.</string>
     <string name="launching_cit">Khởi chạy CIT</string>
     <string name="launching_rep">Đang báo cáo…</string>
-    <string name="status_serialno">số sê-ri</string>
+    <string name="status_serialno">Số sê-ri</string>
     <string name="privacy_mode_dialog_title">Chế độ Khách</string>
     <string name="privacy_mode_dialog_message">Ẩn tin nhắn, ghi chú, ảnh, cài đặt và cuộc gọi đến?</string>
     <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
@@ -4600,7 +4600,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="bluetooth_preference_connected_devices">Đã kết nối thiết bị</string>
     <string name="bluetooth_unlock_confirm_device_text">Chạm thiết bị Bluetooth để xác nhận.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Chạm vào nút trên thiết bị để mở khóa.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Chạm vào nút trên đồng hồ để mở khóa.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Xác nhận trên đồng hồ.</string>
     <string name="bluetooth_unlock_device_matched_text">Sử dụng thiết bị này để mở khóa.</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Xóa thiết bị này?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Thiết bị cũ sẽ được thay thế bằng thiết bị hiện tại.</string>
@@ -6890,12 +6890,12 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="sos_privacy_dialog_button_cancel">Hủy</string>
     <string name="sos_privacy_dialog_button_ok">Tiếp tục</string>
     <string name="sos_privacy_dialog_title">Điều khoản và điều kiện</string>
-    <string name="sos_privacy_dialog_message">Bật chức năng SOS, hãy đọc và xác nhaạn %s. Để tính năng trợ giúp SOS hoạt động bình thường, có thể cần lấy vị trí của bạn, sử dụng mạng di động và địa chỉ của bạn. Đồng ý?</string>
+    <string name="sos_privacy_dialog_message">Bật chức năng SOS, hãy đọc và xác nhận %s. Để tính năng trợ giúp SOS hoạt động bình thường, có thể cần lấy vị trí của bạn, sử dụng mạng di động và địa chỉ của bạn. Đồng ý?</string>
     <string name="status_bar_settings_notification_style">Kiểu thông báo</string>
     <string name="status_bar_settings_peek_notification_icon">Hiển thị biểu tượng cho thông báo đến</string>
     <string name="status_bar_settings_notification_sound_custom">Tùy chỉnh âm thanh</string>
     <string name="status_bar_settings_notification_led_custom">Tùy chỉnh màu</string>
-    <string name="extended_power_menu">Mở rộng power menu</string>
+    <string name="extended_power_menu">Mở rộng menu nút nguồn</string>
     <string name="unmute_sound_title">Âm thanh bật tiếng</string>
     <string name="keyguard_vertical_clock_title">Đồng hồ dọc</string>
     <string name="status_bar_settings_expand_top_notification">Mở rộng thông báo trên cùng</string>
@@ -7305,9 +7305,9 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng 
     <string name="model_summary">Đời máy: %1$s</string>
     <string name="my_device_info_account_preference_title">Tài khoản</string>
     <string name="my_device_info_device_name_preference_title">Tên thiết bị</string>
-    <string name="network_dashboard_summary_data_usage">sử dụng dữ liệu</string>
-    <string name="network_dashboard_summary_hotspot">điểm truy cập</string>
-    <string name="network_dashboard_summary_mobile">di động</string>
+    <string name="network_dashboard_summary_data_usage">Sử dụng dữ liệu</string>
+    <string name="network_dashboard_summary_hotspot">Điểm truy cập</string>
+    <string name="network_dashboard_summary_mobile">Di động</string>
     <string name="new_device_suggestion_summary">Tham quan điện thoại mới của bạn</string>
     <string name="new_device_suggestion_title">Có gì mới và thích thú?</string>
     <string name="night_display_activation_off_custom">Tắt đến khi %1$s</string>
@@ -7316,7 +7316,7 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng 
     <string name="night_display_activation_on_custom">Bật đến khi %1$s</string>
     <string name="night_display_activation_on_manual">Bật ngay</string>
     <string name="night_display_activation_on_twilight">Bật đến khi bình minh</string>
-    <string name="night_display_status_title">Trạngt hái</string>
+    <string name="night_display_status_title">Trạng thái</string>
     <string name="night_display_suggestion_summary">Tự động phủ màu màn hình mỗi tối</string>
     <string name="night_display_suggestion_title">Đặt lịch Night Light</string>
     <string name="no_carrier_update_now_text">Cập nhật vừa xong</string>
@@ -8099,4 +8099,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="long_press_power_key_tips">&lt;Data&gt;Nhấn giữ nút nguồn &amp;lt;font color=#999999&amp;gt;Nhanh và thuận tiện hơn&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
 	<string name="toggle_auto_speaker_preference_summary">Thiết bị sẽ chuyển sang loa ngoài khi bạn di chuyển nó xa khỏi tai khi đang nghe điện thoại. Tính năng này chỉ hoạt động khi bật TalkBack.</string>
 	<string name="toggle_auto_speaker_preference_title">Tự động chuyển sang loa ngoài</string>
+	<string name="miui_touch_filtered_touchassistant_warning">Hộp thoại Quyền đang bị che bởi Phím ảo. Di chuyển Phím ảo sang chỗ khác hoặc tắt tính năng đó.</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Xác nhận trên vòng đeo tay.</string>
+	<string name="screen_paper_mode_hdr_toast_new">Chế độ đọc sách sẽ tự động tắt khi đang phát video HDR và xác nhận vân tay. Thiết bị của bạn sẽ chuyển lại sang Chế độ đọc sách khi các hành động đó đã được thực hiện xong.</string>
 </resources>

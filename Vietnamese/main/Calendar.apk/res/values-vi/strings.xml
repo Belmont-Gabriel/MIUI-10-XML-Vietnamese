@@ -1245,4 +1245,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="setting_daysoff_update_schedule">Đang cập nhật…</string>
 	<string name="setting_daysoff_update_success">Cập nhật thành công</string>
 	<string name="talk_back_tab_switch">Chuyển đổi giữa các chế độ xem</string>
+	<string name="preferences_popup_alert_smart_summary">MIUI sẽ tự nhận diện sự kiện nào liên quan nhất</string>
+	<string name="preferences_popup_alert_smart_tips">"Thay thế các thông báo truyền thống bằng các cảnh báo bật lên để tránh bỏ lỡ các sự kiện quan trọng. Cảnh báo bật lên sẽ không xuất hiện khi bạn đang chơi trò chơi, xem video toàn màn hình hoặc sử dụng chế độ Xe hơi."</string>
+	<string name="preferences_popup_alert_title">Cảnh báo bật lên</string>
 </resources>

@@ -616,4 +616,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="agreement_and_privacy">Chính sách Riêng Tư và Thỏa thuận Người dùng</string>
 	<string name="passport_first_login_prompt">Tài khoản Mi sẽ tự động được tạo khi bạn đăng nhập lần đầu tiên.</string>
 	<string name="scan_barcode">Quét mã QR để đăng nhập</string>
+	<string name="passport_wx_bind_account_limit">"Không thể tạo tài khoản. Thử phương thức đăng nhập khác."</string>
 </resources>

@@ -645,4 +645,9 @@
 		<item>Chỉ lần này</item>
 		<item>Đặt lời nhắc lặp lại</item>
 	</string-array>
+	<string-array name="prefEntries_alerts_popup">
+		<item>Tắt</item>
+		<item>Cho tất cả sự kiện</item>
+		<item>Cho sự kiện liên quan nhất</item>
+	</string-array>
 </resources>

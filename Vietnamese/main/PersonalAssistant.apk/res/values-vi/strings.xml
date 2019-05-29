@@ -1627,10 +1627,10 @@ Một vài đơn hàng được gửi qua SF Express từ các nhà cung cấp n
     <string name="miot_device_add_device">Thêm thiết bị</string>
     <string name="miot_device_all_device">Tất cả thiết bị</string>
     <string name="miot_device_cancel">Hủy</string>
-    <string name="miot_device_click_show_detail">(Chạm để biết thêm về các thiết bị gia dụng thông minh)</string>
+    <string name="miot_device_click_show_detail">Chạm để biết thêm về các thiết bị gia dụng thông minh.</string>
     <string name="miot_device_click_show_img">Chạm để xem ảnh</string>
     <string name="miot_device_cta_and">" và "</string>
-    <string name="miot_device_cta_message">"Thêm thiết bị thông minh của bạn để điều khiển. Chạm Xác thực để đồng ý "</string>
+    <string name="miot_device_cta_message">"Thêm thiết bị thông minh của bạn để điều khiển trong App vault. Bằng cách chạm \"Đồng ý\", bạn đang đồng ý với "</string>
     <string name="miot_device_cta_priv">"Chính sách Riêng tư. "</string>
     <string name="miot_device_cta_use_info">Thỏa thuận Người dùng Mi Home</string>
     <string name="miot_device_edit">Sửa</string>
@@ -1638,7 +1638,7 @@ Một vài đơn hàng được gửi qua SF Express từ các nhà cung cấp n
     <string name="miot_device_empty_text">Thêm máy lọc không khí, camera, robot lau nhà và các thiết bị thông minh khác để điều khiển.</string>
     <string name="miot_device_hide_frame_toast">Ẩn hình ảnh</string>
     <string name="miot_device_install_mijia">Tải xuống</string>
-    <string name="miot_device_introduction">Điều khiển nhanh thiết bị thông minh</string>
+    <string name="miot_device_introduction">Vuốt xuống trong App vault để thấy điều khiển thiết bị gia dụng thông minh khả dụng</string>
     <string name="miot_device_loading">Đang tải…</string>
     <string name="miot_device_login">Đăng nhập</string>
     <string name="miot_device_mijia_logout_message">Bạn cần đăng nhập với Tài khoản Mi trước khi thêm hoặc sử dụng bất kỳ thiết bị nào. Bạn có muốn đăng nhập ngay?</string>
@@ -1741,7 +1741,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="miot_delete_dialog_title">Đang xóa thẻ Mi Home</string>
 	<string name="miot_device_edit_device">Sắp xếp lại thiết bị</string>
 	<string name="preload_empty">Chưa có mục nào ở đây. Kéo xuống để làm mới.</string>
-	<string name="quick_app_setting_brief">Ứng dụng nhanh sử dụng gần đây (Vuốt xuống ở App vault để xem)</string>
+	<string name="quick_app_setting_brief">Vuốt xuống ở App vault để xem Ứng dụng nhanh sử dụng gần đây</string>
 	<string name="quick_app_setting_brief_detail">Xem tất cả ứng dụng nhanh bạn vừa dùng</string>
 	<string name="quick_app_title">Ứng dụng nhanh gần đây</string>
 	<string name="recommend_empty_tip">Chưa có mục nào ở đây. Bạn có thể thêm nhiều sản phẩm.</string>
@@ -1755,4 +1755,5 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="shopping_recommend">Gợi ý sản phẩm</string>
 	<string name="shopping_recommend_coupon">Phiếu khuyến mãi ￥%s</string>
 	<string name="toast_function_add_limit">Bạn có thể thêm tới %d lối tắt</string>
+	<string name="miot_device_card_title">Thiết bị Mi Home</string>
 </resources>

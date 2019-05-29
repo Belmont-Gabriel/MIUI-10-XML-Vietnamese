@@ -380,10 +380,10 @@
     <string name="widgets_preview_title">Thêm tiện ích</string>
 	<string name="home_pull_down_action">Trượt xuống trên Màn hình chính</string>
     <string name="home_slide_up_action">Trượt lên trên Màn hình chính</string>
-    <string name="minus_one_screen">màn hình trừ một</string>
+    <string name="minus_one_screen">Bớt một màn hình</string>
 	<string name="edit_mode_top_menu_finish">Xong</string>
 	<string name="launcher_sliding_up_gesture">Vuốt lên từ Màn hình chính để mở Tìm kiếm</string>
-	<string name="edit_mode_dual_app">ứng dụng kép</string>
+	<string name="edit_mode_dual_app">Ứng dụng kép</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ cài đặt ứng dụng hệ thống"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Chọn một ứng dụng trước</string>
 	<string name="menu_auto_fill_of_uninstall">Điền vào ô trống của các ứng dụng đã gỡ</string>
