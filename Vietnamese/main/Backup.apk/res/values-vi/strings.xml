@@ -649,4 +649,10 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="dialog_backup_password_to_settings">Cài đặt</string>
 	<string name="gallery_summary">Cài đặt Thư viện (Không bao gồm ảnh)</string>
 	<string name="user_feedback">Phản hồi</string>
+	<string name="feature_title_mms_setting">Cài đặt MMS</string>
+	<string name="dialog_backup_password_auto_backup_tips">"Không thể sao lưu các mục khi mật khẩu sao lưu được bật. Tắt mật khẩu sao lưu trước."</string>
+	<string name="dialog_backup_password_change_device_restore_tips">"Không thể sử dụng Mi Mover khi mật khẩu sao lưu được bật. Tắt mật khẩu sao lưu trước."</string>
+	<string name="dialog_backup_password_restore_tips">"Không thể khôi phục các mục khi mật khẩu sao lưu được bật. Tắt mật khẩu sao lưu trước."</string>
+	<string name="iCloud_ID_verification_tip">"Nhập mã xác minh SMS được gửi tới số điện thoại liên kết với tài khoản Apple của bạn. Bỏ qua màn hình hiện mã bật lên trên màn hình iPhone của bạn."</string>
+	<string name="trans_complete_restoring">Truyền thành công. Đang khôi phục dữ liệu ứng dụng…</string>
 </resources>

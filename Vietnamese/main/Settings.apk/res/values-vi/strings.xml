@@ -8107,4 +8107,21 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="restore_oaid_content">Đặt lại Nhận dạng thiết bị hiện tại sẽ tạo cái mới. Đặt lại ngay?</string>
 	<string name="restore_oaid_positive">Đặt lại</string>
 	<string name="restore_oaid_title">Đang đặt lại Nhận dạng thiết bị</string>
+	<string name="backup_set_new_continue">Tiếp tục</string>
+	<string name="backup_set_new_exit">Thoát</string>
+	<string name="backup_set_new_pw_confirm_hint">Chú ý</string>
+	<string name="backup_set_new_pw_confirm_summary">Các mục của bạn hiện được sao lưu tự động. Tạo mật khẩu sao lưu sẽ dừng sao lưu tự động. Vẫn tiếp tục?</string>
+	<string name="device_miui_version_parameters">Phiên bản MIUI</string>
+	<string name="quick_reply_title">Trả lời nhanh</string>
+	<string name="popup_led_summary">Hiển thị hiệu ứng khi máy ảnh trước mở ra và thu gọn</string>
+	<string name="popup_led_title">Hiệu ứng hình ảnh</string>
+	<string name="popup_title">Hiệu ứng máy ảnh trước</string>
+	<string name="popup_title_cangmen">Cửa cabin</string>
+	<string name="popup_title_chilun">Bánh răng</string>
+	<string name="popup_title_jijia">Cơ điện</string>
+	<string name="popup_title_mofa">Ảo thuật</string>
+	<string name="popup_title_muqin">Mộc cầm</string>
+	<string name="popup_title_yingyan">Sải cánh</string>
+	<string name="popup_voice_summary">Phát âm thanh khi máy ảnh trước mở ra và thu gọn</string>
+	<string name="popup_voice_title">Hiệu ứng âm thanh</string>
 </resources>

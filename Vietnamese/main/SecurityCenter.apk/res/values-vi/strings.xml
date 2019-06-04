@@ -2877,4 +2877,9 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="pc_abnormal_scan_reason_reconnect">Thử kết nối mạng quá thường xuyên</string>
 	<string name="pc_abnormal_scan_reason_use_GPS">Sử dụng dịch vụ vị trí quá thường xuyên</string>
 	<string name="pc_abnormal_scan_reason_wake_system">Đánh thức hệ thống quá thường xuyên</string>
+	<string name="gb_add_game_hint">Thêm mục từ danh sách ứng dụng</string>
+	<string name="gb_global_settings">Cài đặt chung</string>
+	<string name="qucick_replay_instrument">Sử dụng trả lời nhanh trong thông báo của trình nhắn tin được chọn(v.d. WhatsApp, WeChat, QQ)</string>
+	<string name="quick_replay_list_title">Ứng dụng khả dụng</string>
+	<string name="quick_reply_title">Trả lời nhanh</string>
 </resources>

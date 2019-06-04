@@ -55,7 +55,7 @@
     <string name="sound_recorder_settings">Cài đặt ghi âm</string>
     <string name="preference_led_indicator">Thông báo khóa màn hình</string>
     <string name="preference_tip_rename">Đặt tên bản ghi thủ công</string>
-    <string name="preference_led_indicator_prompt">Hiện thanh thông báo màu đỏ và nháy đèn báo khi khóa màn hình</string>
+    <string name="preference_led_indicator_prompt">Khi ghi âm, hiển thị lối tắt thanh trạng thái và nháy đèn thông báo</string>
     <string name="preference_scenes">Loại ghi âm</string>
     <string name="preference_record_scenes_dialog_title">Chọn loại ghi âm</string>
     <string name="preference_silent_mode">Im lặng khi ghi âm</string>
@@ -291,4 +291,11 @@
 	<string name="korea_permission_record_resc">Để ghi âm</string>
 	<string name="korea_permission_storage">Bộ nhớ</string>
 	<string name="korea_permission_storage_desc">Để lưu lại ghi âm</string>
+	<string name="call_record_list_group_all">Tất cả</string>
+	<string name="call_record_list_group_connected">Đã kết nối</string>
+	<string name="call_record_list_group_unconnected">Chưa kết nối</string>
+	<string name="preference_status_bar_indicator_prompt">Hiển thị lối tắt thanh trạng thái khi đang ghi âm</string>
+	<string name="shortcut_records">Ghi âm</string>
+	<string name="shortcut_start_record">Bắt đầu ghi âm</string>
+	<string name="shortcut_stop_record">Dừng ghi âm</string>
 </resources>

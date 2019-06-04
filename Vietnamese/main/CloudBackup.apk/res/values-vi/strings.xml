@@ -102,7 +102,7 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="restore_task_cancelling">Đang hủy…</string>
     <string name="remove_task_in_process">Đang xóa…</string>
     <string name="remove_task_unfinished">Chưa hoàn tất xóa</string>
-    <string name="back_up_task_unfinished">Chưa hoàn tất sao lưu</string>
+    <string name="back_up_task_unfinished">Không thể sao lưu</string>
     <string name="about_to_recover">Vui lòng chờ…</string>
     <string name="success_open_cloudbackup">Đã bật sao lưu ứng dụng Màn hình chính</string>
     <string name="as_new_device">Thay thế cài đặt và Màn hình chính trước</string>
@@ -235,4 +235,10 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="hint_restore_cross_space">Bố cục màn hình chính có thể hiển thị sai nếu bạn chuyển các mục giữa các không gian.</string>
 	<string name="selected">Đã chọn</string>
 	<string name="unselected">Không chọn</string>
+	<string name="backup_failed_reason_cloud_space_not_enough">Không đủ dung lượng lưu trữ trong Mi Cloud. Nâng cấp gói tài khoản của bạn để giải phóng dung lượng lưu trữ.</string>
+	<string name="backup_failed_reason_disk_space_not_enough">Không đủ dung lượng lưu trữ. Giải phóng dung lượng trước.</string>
+	<string name="backup_failed_reason_network_error">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
+	<string name="restore_failed_reason_disk_space_not_enough">Không đủ dung lượng lưu trữ. Giải phóng dung lượng trước.</string>
+	<string name="restore_failed_reason_network_error">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
+	<string name="restore_task_unfinished">"Không thể khôi phục"</string>
 </resources>

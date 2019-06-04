@@ -103,7 +103,7 @@
     <string name="button_text_uninstall">Gỡ cài đặt</string>
     <string name="pref_category_title_cleanup_white_list">Danh sách ngoại lệ</string>
     <string name="pref_title_cleanup_white_list">Danh sách ngoại lệ</string>
-    <string name="pref_summary_cleanup_white_list">Ngăn chặn các ứng dụng đã chọn được dọn dẹp</string>
+    <string name="pref_summary_cleanup_white_list">Ngăn chặn các tệp đã chọn được dọn dẹp</string>
     <string name="pref_category_title_auto_update_cleanup_db">Cài đặt bổ sung</string>
     <string name="pref_title_auto_update_cleanup_db">Tự động cập nhật</string>
     <string name="pref_summary_auto_update_cleanup_db">Cập nhật lần cuối %s</string>

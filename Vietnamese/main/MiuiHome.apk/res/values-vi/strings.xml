@@ -387,4 +387,7 @@
     <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ cài đặt ứng dụng hệ thống"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Chọn một ứng dụng trước</string>
 	<string name="menu_auto_fill_of_uninstall">Điền vào ô trống của các ứng dụng đã gỡ</string>
+	<string name="announce_for_search_bar">Thanh tìm kiếm</string>
+	<string name="privacy_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
+	<string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
 </resources>

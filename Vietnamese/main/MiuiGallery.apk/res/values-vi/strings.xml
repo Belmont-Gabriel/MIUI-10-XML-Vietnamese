@@ -110,7 +110,7 @@ khả dụng"</string>
     <string name="add_to_album_success">Đã thêm vào album</string>
     <string name="add_to_album_tip">Ảnh Mi Cloud</string>
     <string name="add_to_favorites_failed">Không thể thêm vào yêu thích</string>
-    <string name="add_to_secret_exist">Ảnh đã tồn tại trong album ẩn</string>
+    <string name="add_to_secret_exist">Mục này đã tồn tại trong album ẩn</string>
     <string name="add_to_secret_fail">Không thể thêm vào album ẩn</string>
     <string name="add_to_secret_failed_with_reason">Không thể thêm vào album ẩn. %1$s.</string>
     <string name="add_to_secret_successful">Đã thêm vào album ẩn</string>
@@ -1469,7 +1469,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="image_selection_summary">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
     <string name="image_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="operation_set_video_wallpaper">Đặt làm video nền</string>
-    <string name="photo_editor_font_default">>Mi Lanting (Mặc định)</string>
+    <string name="photo_editor_font_default">Mi Lanting (Mặc định)</string>
     <string name="recommend_category_title">Chọn ảnh</string>
     <string name="set_as_video_wallpaper_description">Tải xuống mục này và đặtlàm video nền?</string>
     <string name="set_as_video_wallpaper_title">Đặt làm video nền</string>
@@ -1525,4 +1525,23 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="clear_dup_medias">Dọn ảnh trùng</string>
 	<string name="clear_dup_success">Dọn thành công</string>
 	<string name="clear_dup_tip">Đang dọn ảnh trùng</string>
+	<string name="burst_image_download_item_title" formatted="false">Tải ảnh gốc (%s|%s)</string>
+	<string name="burst_preview_title">Chụp liên tiếp</string>
+	<string name="burst_save_all">Lưu tất cả</string>
+	<string name="burst_save_choice_title" formatted="false">Chọn %d trên %d</string>
+	<string name="burst_save_confirm_dialog_title">Đang lưu ảnh</string>
+	<string name="burst_save_error_msg">"Không thể lưu"</string>
+	<string name="burst_save_processing">Đang xử lý…</string>
+	<string name="decrypt_video_failed">"Không thể chuẩn bị video"</string>
+	<string name="decrypting_video">Đang chuẩn bị video…</string>
+	<string name="editor_cancel">Hủy</string>
+	<string name="editor_export">Lưu</string>
+	<string name="first_time_add_video_to_secret_tips">Cập nhật Thư viện để có thể ẩn video</string>
+	<string name="photo_editor_remove_watermark_on">Thêm dấu chìm</string>
+	<string name="photo_editor_talkback_crop_2_3">2:3</string>
+	<string name="special_type_eye_repair">Sửa mắt nhắm bằng AI</string>
+	<string name="special_type_night_beauty">Làm đẹp Thiếu sáng AI</string>
+	<string name="special_type_night_mode">Chế độ tối AI</string>
+	<string name="special_type_portrait">Vẽ chân dung ánh sáng AI</string>
+	<string name="special_type_wide_angle">Góc rộng AI</string>
 </resources>
