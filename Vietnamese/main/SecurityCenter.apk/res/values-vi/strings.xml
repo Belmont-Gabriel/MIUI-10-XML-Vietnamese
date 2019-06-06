@@ -2882,4 +2882,9 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="qucick_replay_instrument">Sử dụng trả lời nhanh trong thông báo của trình nhắn tin được chọn(v.d. WhatsApp, WeChat, QQ)</string>
 	<string name="quick_replay_list_title">Ứng dụng khả dụng</string>
 	<string name="quick_reply_title">Trả lời nhanh</string>
+	<string name="gamebox_display_1">Không</string>
+	<string name="gamebox_display_2">Bão hòa</string>
+	<string name="gamebox_display_3">Sáng</string>
+	<string name="gamebox_display_4">Sáng &amp; bão hòa</string>
+	<string name="gamebox_display_set">"Tăng cường thị giác: "</string>
 </resources>

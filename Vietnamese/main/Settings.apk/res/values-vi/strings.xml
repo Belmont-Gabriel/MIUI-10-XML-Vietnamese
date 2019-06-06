@@ -8124,4 +8124,17 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="popup_title_yingyan">Sải cánh</string>
 	<string name="popup_voice_summary">Phát âm thanh khi máy ảnh trước mở ra và thu gọn</string>
 	<string name="popup_voice_title">Hiệu ứng âm thanh</string>
+	<string name="a11y_settings_label">Cài đặt Trợ năng</string>
+	<string name="accessibility_menu_description">"Menu Trợ năng cung cấp các phím tắt thuận tiện cho phép bạn điều khiển thiết bị của mình.
+
+Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình để mở menu."</string>
+	<string name="accessibility_menu_service_name">Menu Trợ năng</string>
+	<string name="accessibility_menu_summary">Điều khiển thiết bị bằng các phím tắt thuận tiện</string>
+	<string name="google_assistant_label">Trợ lý Google</string>
+	<string name="lockscreen_label">Màn hình khóa</string>
+	<string name="power_label">Năng lượng</string>
+	<string name="quick_settings_label">Nút chuyển đổi</string>
+	<string name="recent_apps_label">Gần đây</string>
+	<string name="screenshot_label">Ảnh chụp màn hình</string>
+	<string name="volume_label">Âm lượng</string>
 </resources>

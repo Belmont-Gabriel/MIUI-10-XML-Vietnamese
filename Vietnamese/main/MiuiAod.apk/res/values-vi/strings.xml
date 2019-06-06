@@ -6,7 +6,7 @@
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
-    <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
+    <string name="aod_mode_summary">Hiển thị đồng hồ, ngày, thông báo, và ảnh nền khi màn hình tắt.</string>
     <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
     <string name="aod_mode_time_title">Hẹn giờ bật</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
@@ -14,4 +14,13 @@
     <string name="cancel">Hủy</string>
     <string name="paper_mode_end_time_title">Tắt</string>
     <string name="paper_mode_start_time_title">Bật</string>
+	<string name="always_style">Luôn luôn</string>
+	<string name="aod_mode_preview">Xem trước</string>
+	<string name="aod_mode_style_title">Thêm tùy chọn</string>
+	<string name="aod_show_style_title">Mục hiển thị</string>
+	<string name="scheduled_style">Đã lên kế hoạch</string>
+	<string name="summary">"Để giảm hao pin, các mục sẽ không hiển thị trong những trường hợp dưới đây:
+1. Khi thiết bị ở lâu trong môi trường tối.
+2. Khi Không làm phiền bật."</string>
+	<string name="temporary_style">Cho 10 giây sau khi chạm</string>
 </resources>

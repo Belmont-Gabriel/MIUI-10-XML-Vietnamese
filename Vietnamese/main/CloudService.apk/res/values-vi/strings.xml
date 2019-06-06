@@ -524,7 +524,7 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="cloud_storage_full">Lưu trữ Mi Cloud đã đầy</string>
     <string name="micloud_sync_off">Đồng bộ với Mi Cloud đã tắt</string>
     <string name="open_micloud_sync">Bật đồng bộ với Mi Cloud</string>
-    <string name="sync_item_title">Đang đồng bộ dữ liệu</string>
+    <string name="sync_item_title">Đồng bộ dữ liệu ứng dụng</string>
     <string name="member_due_date">Có hiệu lực đến %s</string>
     <string name="due_date_format">dd/MM/yyyy</string>
     <string name="all_sync_item_open">Bật tất cả</string>

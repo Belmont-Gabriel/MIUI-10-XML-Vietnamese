@@ -2605,4 +2605,8 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="fiveg_switch_title">Mạng 5G</string>
 	<string name="jump_to_mobile_network_setting">Cài đặt mạng di động</string>
 	<string name="select_dds_dialog_title">Chọn SIM dữ liệu di động mặc định</string>
+	<string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM tự động</string>
+	<string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM tự động</string>
+	<string name="preferred_network_type_pref_entries_only_2g_lm_cr">Chỉ GSM</string>
+	<string name="preferred_network_type_pref_entries_only_3g_lm_cr">Chỉ WCDMA</string>
 </resources>
