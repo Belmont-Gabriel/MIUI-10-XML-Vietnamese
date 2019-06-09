@@ -803,4 +803,21 @@ Chủ đề sẽ xác định ứng dụng nào bạn đang sử dụng và hi�
 	<string name="video_ad_uncomplete_tip">Xem hết video để nhận chủ đề.</string>
 	<string name="video_ad_uncomplete_tip_cancel">Hủy</string>
 	<string name="video_ad_uncomplete_tip_continue">Tiếp tục xem</string>
+	<string name="agreement_desc">Thỏa thuận Người dùng (bắt buộc)</string>
+    <string name="app_permission_optional">Quyền tùy chọn</string>
+    <string name="app_permission_require">Quyền bắt buộc</string>
+    <string name="app_permission_use_desc">Quyền</string>
+    <string name="app_permission_use_group_account">Tài khoản</string>
+    <string name="app_permission_use_group_account_desc">Để nhận thông tin Tài khoản Mi</string>
+    <string name="app_permission_use_group_phone">Điện thoại</string>
+    <string name="app_permission_use_group_phone_desc">Để xác minh tài khoản và ủy quyền</string>
+    <string name="app_permission_use_group_storage">Bộ nhớ</string>
+    <string name="app_permission_use_group_storage_desc">Để sử dụng và lưu chủ đề, hình nền, nhạc chuông và phông chữ</string>
+    <string name="data_use_desc">Tài liệu pháp lý</string>
+    <string name="exit">Thoát</string>
+    <string name="more">Thêm</string>
+    <string name="privacy_desc">Chính sách Riêng tư (bắt buộc)</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="user_agree">Đồng ý</string>
+    <string name="user_know">Tôi biết</string>
 </resources>

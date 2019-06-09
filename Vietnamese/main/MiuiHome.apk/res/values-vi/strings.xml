@@ -390,4 +390,6 @@
 	<string name="announce_for_search_bar">Thanh tìm kiếm</string>
 	<string name="privacy_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
 	<string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
+	<string name="activity_not_unlocked">Chờ cho đến khi thiết bị được khởi động lại hoàn toàn trước khi mở ứng dụng</string>
+    <string name="system_shortcuts_more_operation">Thông tin ứng dụng</string>
 </resources>
