@@ -8137,4 +8137,10 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="recent_apps_label">Gần đây</string>
 	<string name="screenshot_label">Ảnh chụp màn hình</string>
 	<string name="volume_label">Âm lượng</string>
+	<string name="close_privacy_thumbnail_blur_title">"Xem trước chưa được làm mờ"</string>
+	<string name="confirm_fingerprint">Xác thực vân tay của bạn</string>
+	<string name="confirm_password_with_fingerprint">Sử dụng vân tay</string>
+	<string name="confirm_password_with_password">Nhập mật khẩu</string>
+	<string name="open_privacy_thumbnail_blur_title">Xem trước đã được làm mờ</string>
+	<string name="privacy_thumbnail_blur_progress_message">Chỉ vài giây…</string>
 </resources>

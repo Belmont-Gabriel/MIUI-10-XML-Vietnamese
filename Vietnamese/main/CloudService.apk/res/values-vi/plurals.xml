@@ -66,4 +66,7 @@
 	<plurals name="provision_sync_items_status_title">
         <item quantity="other">%s dịch vụ sẽ được đồng bộ với Mi Cloud</item>
     </plurals>
+	<plurals name="dirty_phrase_count">
+        <item quantity="other">%d cụm từ thường xuyên</item>
+    </plurals>
 </resources>

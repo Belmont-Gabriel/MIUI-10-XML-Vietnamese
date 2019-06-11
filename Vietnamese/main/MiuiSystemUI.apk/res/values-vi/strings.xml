@@ -2069,4 +2069,6 @@ d MMMM"</string>
 	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Thêm</string>
 	<string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Nhập</string>
 	<string name="lock_screen_magazine_label">Mở Tạp chí Khóa màn hình</string>
+	<string name="long_screenshot_guide_text">"Chạm để tạo
+ảnh chụp màn hình cuộn"</string>
 </resources>

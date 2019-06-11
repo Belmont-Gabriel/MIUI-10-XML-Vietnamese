@@ -689,4 +689,7 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 	<string name="provision_sync_items_loading">Đang chuẩn bị đồng bộ</string>
 	<string name="user_detail_agreement">Thỏa thuận Người dùng</string>
 	<string name="user_detail_privacy_policy">Chính sách Riêng tư</string>
+	<string name="micloud_request_sync_too_frequent">Quá nhiều yêu cầu. Chờ một vài phút rồi thử lại.</string>
+	<string name="system_busy_or_network_error">Có lỗi xảy ra. Chờ một vài phút rồi thử lại.</string>
+	<string name="waiting_for_sync">Đang chờ…</string>
 </resources>

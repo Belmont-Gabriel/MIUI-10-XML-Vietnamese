@@ -2887,4 +2887,6 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gamebox_display_3">Sáng</string>
 	<string name="gamebox_display_4">Sáng &amp; bão hòa</string>
 	<string name="gamebox_display_set">"Tăng cường thị giác: "</string>
+	<string name="app_manager_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
+	<string name="app_manager_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
 </resources>

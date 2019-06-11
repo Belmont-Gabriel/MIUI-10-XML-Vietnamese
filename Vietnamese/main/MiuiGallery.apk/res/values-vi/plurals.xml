@@ -213,4 +213,25 @@
 	<plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Ảnh ghép có thể chứa từ 1-%d ảnh</item>
     </plurals>
+	<plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d ảnh</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Lưu %d ảnh đã chọn và xóa phần còn lại?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Lưu %d ảnh đã chọn</item>
+    </plurals>
+	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xóa %d ảnh chụp liên tiếp từ Mi Cloud và từ tất cả các thiết bị đã đồng bộ?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Xóa %d ảnh chụp liên tiếp?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Xóa %d ảnh chụp liên tiếp từ Mi Cloud và thiết bị này?</item>
+    </plurals>
+	<plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Xóa %d ảnh chụp liên tiếp trên thiết bị?</item>
+    </plurals>
 </resources>
