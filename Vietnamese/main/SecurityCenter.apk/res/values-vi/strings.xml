@@ -2889,4 +2889,23 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gamebox_display_set">"Tăng cường thị giác: "</string>
 	<string name="app_manager_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
 	<string name="app_manager_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
+	<string name="power_center_battery_last">%s còn lại</string>
+	<string name="power_center_dialog_msg_bottom">Bạn có thể tăng thời lượng pin lên đến %1$dg %2$dp. Bật Tiết kiệm pin?</string>
+	<string name="power_center_dialog_msg_top">Khi bật Tiết kiệm pin, MIUI sẽ thực hiện các tối ưu hóa sau:</string>
+	<string name="power_center_one_key_save">Tối ưu</string>
+	<string name="power_center_power_save_summary_text">Tăng thời lượng còn lại lên đến %1$dg %2$dp</string>
+	<string name="power_center_power_save_title_text">Tiết kiệm pin</string>
+	<string name="power_center_super_save_summary_text">Tăng thời lượng còn lại lên đến %1$dg %2$dp</string>
+	<string name="power_center_super_save_title_text">Siêu Tiết kiệm pin</string>
+	<string name="power_dialog_super_save_msg">"Siêu tiết kiệm pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu tiết kiệm pin?"</string>
+	<string name="power_dialog_super_save_title">Siêu tiết kiệm pin</string>
+	<string name="power_setting_background_app_save_summary">Giới hạn hoạt động của ứng dụng trong nền mà không ảnh hưởng đến chức năng</string>
+	<string name="power_setting_background_app_save_title">Tiết kiệm pin dưới nền</string>
+	<string name="power_setting_category_other">Cài đặt thêm</string>
+	<string name="power_setting_power_save_summary_text">Tối ưu cài đặt hệ thống để tiết kiệm pin</string>
+	<string name="power_settings_lock_screen_saver_title">Cài đặt màn hình khóa</string>
+	<string name="power_setting_super_save_summary_text">Hạn chế nhiều tính năng hệ thống để tiết kiệm pin</string>
+	<string name="quick_optimize_sub_battery_text">Khoảng %s còn lại</string>
+	<string name="quick_optimize_sub_summary_with_battery_text">Đã thêm %1$s, khoảng %2$s còn lại</string>
+	<string name="user_guide_title">Chọn Cần điều khiển</string>
 </resources>

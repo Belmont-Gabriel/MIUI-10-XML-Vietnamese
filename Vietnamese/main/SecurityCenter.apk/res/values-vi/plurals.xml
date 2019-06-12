@@ -299,4 +299,13 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d ứng dụng đang làm hao pin</item>
     </plurals>
+	<plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ngày</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s giờ</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s phút</item>
+    </plurals>
 </resources>
