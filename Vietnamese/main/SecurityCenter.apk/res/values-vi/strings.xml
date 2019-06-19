@@ -2908,4 +2908,19 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="quick_optimize_sub_battery_text">Khoảng %s còn lại</string>
 	<string name="quick_optimize_sub_summary_with_battery_text">Đã thêm %1$s, khoảng %2$s còn lại</string>
 	<string name="user_guide_title">Chọn Cần điều khiển</string>
+	<string name="button_dark_mode">Sửa</string>
+	<string name="pc_main_battery_text_day">Đã thêm %1$s phút, khoảng %2$s ngày còn lại</string>
+	<string name="pc_main_battery_text_day_hour">Đã thêm %1$s phút, khoảng %2$s ngày %3$s giờ còn lại</string>
+	<string name="pc_main_battery_text_hour">Đã thêm %1$s phút, khoảng %2$s giờ còn lại</string>
+	<string name="pc_main_battery_text_hour_minute">Đã thêm %1$s phút, khoảng %2$s giờ %3$s phút còn lại</string>
+	<string name="pc_main_battery_text_minute">Đã thêm %1$s phút, khoảng %2$s phút còn lại</string>
+	<string name="pc_main_power_manager_day_hour">%1$s ngày %2$s giờ cho đến khi đầy</string>
+	<string name="pc_main_power_manager_hour_minute">%1$sh %2$s phút cho đến khi đầy</string>
+	<string name="pc_main_sub_battery_text_day_hour">%1$s ngày %2$s giờ còn lại</string>
+	<string name="pc_main_sub_battery_text_hour_minute">%1$s giờ %2$s phút còn lại</string>
+	<string name="power_main_battery_last_day_hour">%1$s ngày %2$s giờ còn lại</string>
+	<string name="power_main_battery_last_hour_minute">%1$s giờ %2$s phút còn lại</string>
+	<string name="summary_dark_mode">Một vài trang bị dựng thành màu đen vì dịch vụ bên thứ ba</string>
+	<string name="title_dark_mode">"Một vài mục bị hiển thị sai"</string>
+	<string name="toast_dark_mode_fixed">Sửa thành công. Rời trang này để áp dụng thay đổi.</string>
 </resources>

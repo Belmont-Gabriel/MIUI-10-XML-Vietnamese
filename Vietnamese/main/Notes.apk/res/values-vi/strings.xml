@@ -56,8 +56,8 @@
     <string name="error_send_empty_note_to_weibo">Không thể gửi ghi chú trống đến Weibo</string>
     <string name="recover_notes_hint">Đã xảy ra lỗi, vào i.mi.com để khôi phục ghi chú.</string>
     <string name="force_touch_menu_add">Thêm ghi chú</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Xóa nhanh</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Không yêu cầu xác nhận khi xóa ghi chú bằng cử chỉ</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Xóa bằng cử chỉ</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Vuốt lên bằng 2 ngón tay để xóa mà không cần xác nhận</string>
     <string name="pref_title_show_root_folder_in_homepage">Chỉ hiển thị ghi chú nhanh trên trang bắt đầu</string>
     <string name="alert_title_hidden_note">Đã nhận nhắc nhở ghi chú ẩn</string>
     <string name="hint_cannot_view_hidden_note_content">Không thể xem nội dung trong ghi chú ẩn</string>
@@ -289,4 +289,5 @@ Cho phép Ghi chú đọc nội dung trên thẻ SD của bạn."</string>
 Cho phép Ghi chú đọc trạng thái và nhận dạng điện thoại."</string>
 	<string name="toast_refuse_to_use_record_audio">"Quyền Micro bị hạn chế.
 Cho phép Ghi chú ghi âm."</string>
+	<string name="toast_pic_is_not_really">Đang lưu ảnh…</string>
 </resources>

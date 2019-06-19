@@ -204,4 +204,22 @@
     <string name="newday">Ngày mới</string>
     <string name="thinker">Nhà tư tưởng</string>
 	<string name="dewdrops">Giọt sương</string>
+	<string name="asend">Gửi</string>
+	<string name="child">Thời thơ ấu</string>
+	<string name="citylight">Ánh sàng thành thị</string>
+	<string name="countryside">Nông thôn</string>
+	<string name="dance">Nhảy</string>
+	<string name="frenchchic">Sang trọng</string>
+	<string name="game">Trò chơi</string>
+	<string name="glorious">Vinh quang</string>
+	<string name="greenandblue">Cầu vồng</string>
+	<string name="hallofmemories">Kỷ niệm</string>
+	<string name="hawaii">Hawaii</string>
+	<string name="makewishes">Điều ước sinh nhật</string>
+	<string name="martix">Ma trận</string>
+	<string name="monet">Ao hồ</string>
+	<string name="passionflower">Nghệ thuật</string>
+	<string name="robot">Robot</string>
+	<string name="secretgarden">Khu vườn bí mật</string>
+	<string name="surprise">Ngạc nhiên</string>
 </resources>

@@ -1161,4 +1161,11 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="success_image_saved_camera">Ảnh đã được lưu vào Máy ảnh.</string>
 	<string name="text_copied_to_clipboard">Văn bản đã sao chép vào khay nhớ tạm</string>
 	<string name="translate_chip_text">Dịch trong Ống kính</string>
+	<string name="accessibility_ultra_pixel_photography_64mp_off">64MP bật</string>
+	<string name="accessibility_ultra_pixel_photography_64mp_on">64MP tắt</string>
+	<string name="calibration_guide_tittle">Máy ảnh chưa hiệu chuẩn</string>
+	<string name="calibration_hint_usage">Máy ảnh chưa hiệu chuẩn sẽ có tác động tiêu cực đến chất lượng hình ảnh. Vui lòng liên hệ với dịch vụ sau bán hàng.</string>
+	<string name="pref_menu_ultra_pixel_photography_64mp">64MP siêu nét</string>
+	<string name="ultra_pixel_photography_64mp_close_tip">64MP siêu nét đã tắt</string>
+	<string name="ultra_pixel_photography_64mp_open_tip">64MP bật</string>
 </resources>

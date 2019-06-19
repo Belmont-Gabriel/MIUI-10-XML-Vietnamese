@@ -331,7 +331,7 @@
     <string name="networking_allow_desc_without_mx">Tin nhắn Mi cần kết nối internet để hoạt động bình thường. Để nhận dạng số không xác định, lọc thư rác và bật những tính năng khác, Tin nhắn Mi cần sử dụng Danh bạ web. Cho phép Danh bạ web kết nối internet, nhận thông tin vị trí và đọc liên hệ của bạn?</string>
     <string name="networking_allow_title">Chú ý</string>
     <string name="new_message">Soạn</string>
-    <string name="new_message_arrived">Bạn có một tin nhắn mới</string>
+    <string name="new_message_arrived">Chạm để xem</string>
     <string name="new_phrase">Thêm phản hồi</string>
     <string name="new_phrase_hint">Nhập phản hồi mới</string>
     <string name="no">Hủy</string>
@@ -620,7 +620,7 @@
     <string name="undelivered_msg_dialog_title">Tin nhắn chưa được gửi</string>
     <string name="undelivered_sms_dialog_body">Không thể gửi tin nhắn này.</string>
     <string name="unknown_num">Số không xác định</string>
-    <string name="unknown_sender">Người gửi không xác định</string>
+    <string name="unknown_sender">Bạn có tin nhắn mới</string>
     <string name="unstick">Gỡ</string>
     <string name="unstick_conversation">Gỡ cuộc hội thoại hiện tại</string>
     <string name="unsticked_conversation">Cuộc hội thoại đã được gỡ</string>
@@ -929,4 +929,5 @@
 	<string name="sub_sim_card">Phụ</string>
 	<string name="sub_sim_card_indicator">Phụ %d</string>
 	<string name="sub_sim_not_support_mms">"Không thể gửi MMS bằng SIM thứ hai"</string>
+	<string name="dialog_complain_tips">Cho phép Tin nhắn kết nối mạng để có thể báo cáo vấn đề.</string>
 </resources>
