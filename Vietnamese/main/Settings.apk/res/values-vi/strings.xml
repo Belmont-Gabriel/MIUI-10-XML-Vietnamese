@@ -7003,10 +7003,10 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="bluetooth_active_no_battery_level">Kích hoạt</string>
     <string name="bluetooth_battery_level">%1$s pin</string>
     <string name="bluetooth_connect_failed">Không thể kết nối. Thử lại.</string>
-    <string name="bluetooth_connected_battery_level">Đã kết nối | Pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện) | Pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại) | Pin %1$s/%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có phương tiện hoặc điện thoại) | Pin %1$s/%2$s</string>
+    <string name="bluetooth_connected_battery_level">Đã kết nối | Pin %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện) | Pin %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại) | Pin %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có phương tiện hoặc điện thoại) | Pin %1$s%2$s</string>
     <string name="bluetooth_device_mac_address">Địa chỉ bluetooth của thiết bị: %1$s</string>
     <string name="bluetooth_device_name_summary">Hiển thị là “^1” cho các thiết bị khác</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Hủy</string>
@@ -8162,4 +8162,6 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="usage_app_system_app_summary">"Không thể giới hạn thời gian màn hình cho ứng dụng hệ thống"</string>
 	<string name="usage_app_weekday_limit">Ngày trong tuần</string>
 	<string name="usage_app_weekend_limit">Ngày cuối tuần</string>
+	<string name="popup_gesture_summary">Nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
+	<string name="popup_gesture_title">Nhấc điện thoại để mở Máy ảnh trước</string>
 </resources>

@@ -865,4 +865,16 @@ Tăng cường bảo mật tài khoản."</string>
 	<string name="title_subscribe">Người đăng ký</string>
 	<string name="ugc_confirm_unsubscribe">Bỏ đăng ký?</string>
 	<string name="restore_channel_list">Khôi phục mặc định ngay?</string>
+	<string name="com_mixpanel_android_close">Đóng</string>
+	<string name="com_mixpanel_android_done">Xong</string>
+	<string name="com_mixpanel_android_exit">Thoát</string>
+	<string name="com_mixpanel_android_logo">Bởi Mixpanel</string>
+	<string name="com_mixpanel_android_notification_image">Ảnh không hiển thị</string>
+	<string name="lv_content_null">Không có mục nào ở đây</string>
+	<string name="ovp_player_update_dialog_info">Cập nhật trình cắm Mi Video lên phiên bản mới nhất để có thể phát video này. Cập nhật ngay?</string>
+	<string name="ovp_player_update_info">"Không thể phát video này.
+Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
+	<string name="ovp_resolution_auto">Tự động</string>
+	<string name="ovp_resolution_not_support">"Không thể đổi độ phân giải cho video này"</string>
+	<string name="ovp_resolution_title">Độ phân giải</string>
 </resources>
