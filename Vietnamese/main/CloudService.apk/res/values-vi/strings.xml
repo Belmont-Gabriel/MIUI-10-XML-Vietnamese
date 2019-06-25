@@ -692,4 +692,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 	<string name="micloud_request_sync_too_frequent">Quá nhiều yêu cầu. Chờ một vài phút rồi thử lại.</string>
 	<string name="system_busy_or_network_error">Có lỗi xảy ra. Chờ một vài phút rồi thử lại.</string>
 	<string name="waiting_for_sync">Đang chờ…</string>
+	<string name="member_menu_vipname_mega">Bạch kim</string>
+	<string name="member_menu_vipname_premium">Vàng</string>
+	<string name="member_menu_vipname_ultra">Kim cương</string>
+	<string name="micloud_last_sync_canceled">Đồng bộ đã hủy. Thử lại.</string>
 </resources>

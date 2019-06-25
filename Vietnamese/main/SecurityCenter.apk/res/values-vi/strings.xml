@@ -2923,4 +2923,6 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="summary_dark_mode">Một vài trang bị dựng thành màu đen vì dịch vụ bên thứ ba</string>
 	<string name="title_dark_mode">"Một vài mục bị hiển thị sai"</string>
 	<string name="toast_dark_mode_fixed">Sửa thành công. Rời trang này để áp dụng thay đổi.</string>
+	<string name="delete_all_sms">Xóa tất cả</string>
+	<string name="sms_delete_all_hint">Xóa tất cả tin nhắn ngay?</string>
 </resources>

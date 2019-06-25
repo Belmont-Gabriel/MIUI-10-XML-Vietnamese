@@ -1380,4 +1380,43 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="local_page_music">Nhạc trên máy</string>
 	<string name="privacy_category">Chính sách</string>
 	<string name="privacy_preference">Chính sách Riêng tư</string>
+	<string name="April">Tháng tư</string>
+	<string name="August">Tháng tám</string>
+	<string name="December">Tháng mười hai</string>
+	<string name="February">Tháng hai</string>
+	<string name="January">Tháng một</string>
+	<string name="July">Tháng bảy</string>
+	<string name="June">Tháng sáu</string>
+	<string name="March">Tháng ba</string>
+	<string name="May">Tháng năm</string>
+	<string name="November">Tháng mười một</string>
+	<string name="October">Tháng mười</string>
+	<string name="September">Tháng chín</string>
+	<string name="Updated_at">"Đã cập nhật: "</string>
+	<string name="home_tab_joox">Âm nhạc JOOX</string>
+	<string name="home_tab_yandex">Âm nhạc Yandex</string>
+	<string name="hungama_category_chart">Biểu đồ</string>
+	<string name="hungama_playlist_category">Danh mục danh sách phát</string>
+	<string name="hungama_privacy_desc">Chính sách Riêng tư Hungama (tùy chọn)</string>
+	<string name="hungama_privacy_tips_content">Để có thể truy cập nội dung trực tuyến, bạn phải đồng ý với &lt;a href="/link/click"&gt;Chính sách Riêng tư Hungama&lt;/a&gt;.</string>
+	<string name="hungama_privacy_tips_title">Chính sách Riêng tư Hungama</string>
+	<string name="online_apk_acquired">Đã tải %d%%</string>
+	<string name="online_apk_acquiring">Đang tải… %d%%</string>
+	<string name="online_apk_install_alert_continue">Tiếp tục</string>
+	<string name="online_apk_install_alert_failed_text">"Không thể tải xuống. Thử lại."</string>
+	<string name="online_apk_install_alert_mobile_net_text">"Bạn đang sử dụng dữ liệu di động. Sử dụng dữ liệu di động để tải xuống có thể phát sinh chi phí."</string>
+	<string name="online_apk_install_alert_note_new">Nội dung trực tuyến được cung cấp bởi %s</string>
+	<string name="online_apk_install_alert_pause">Tạm dừng</string>
+	<string name="online_apk_install_alert_retry">Thử lại</string>
+	<string name="online_apk_install_alert_start">Bắt đầu</string>
+	<string name="online_apk_install_completed">Tải nội dung trực tuyến thành công. Chạm %s để xem.</string>
+	<string formatted="false" name="online_apk_install_failed_with_reason">"Không thể tải nội dung trực tuyến. Chạm %s để thử lại. Mã lỗi: %d."</string>
+	<string name="online_apk_install_in_background">Đang tải nội dung trực tuyến dưới nền…</string>
+	<string name="online_apk_install_network_change_paused">"Bạn đang sử dụng dữ liệu di động. Đã tạm dừng tải. Chạm %s để xem."</string>
+	<string name="online_apk_install_network_error">"Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại."</string>
+	<string name="online_playlist_category">Danh sách phát</string>
+	<string name="playlist_recommend_title">Đề xuất</string>
+	<string name="search_empty_subtitle_online_music">Chạm nút bên dưới để mở %s.</string>
+	<string name="search_empty_title_online_music">Chưa có mục nào ở đây.</string>
+	<string name="top_chart_title">Biểu đồ</string>
 </resources>

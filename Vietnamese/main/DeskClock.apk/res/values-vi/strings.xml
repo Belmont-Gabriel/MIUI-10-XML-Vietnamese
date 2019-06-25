@@ -118,7 +118,7 @@
     <string name="setting_alarm_arriving_summary">Gửi thông báo trước khi đổ chuông</string>
     <string name="setting_alarm_arriving_title">Thông báo trước khi đổ chuông</string>
     <string name="shutdown_alarm_disable_summary">Báo thức sẽ không đổ chuông sau khi tắt nguồn</string>
-    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông nếu nó được đặt ít nhất 5 phút trước khi bạn tắt nguồn</string>
+    <string name="shutdown_alarm_enable_summary">Báo thức sẽ đổ chuông nếu nó được đặt ít nhất 10 phút trước khi bạn tắt nguồn</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
     <string name="slider_text">Trượt lên để tắt</string>
@@ -286,4 +286,8 @@
 	<string name="shortcut_new_alarm">Đặt lời nhắc</string>
 	<string name="shortcut_start_timer">Bắt đầu hẹn giờ</string>
 	<string name="shortcut_stop_watch">Bắt đầu bấm giờ</string>
+	<string name="edit_systemtime_setting_summary">Ngày, giờ và Đồng hồ đôi</string>
+	<string name="worldclock_resident_city_text">Đồng hồ thứ hai: %s</string>
+	<string name="worldclock_resident_city_text_detail">Đồng hồ đôi đang bật</string>
+	<string name="worldcolock_date_display_prefix">"Hiện tại: "</string>
 </resources>

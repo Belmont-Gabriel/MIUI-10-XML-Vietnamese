@@ -240,7 +240,7 @@
     <string name="button_unbind">Ngắt kết nối</string>
     <string name="unbind_sns_description">Sau khi bạn ngắt kết nối đến tài khoản này, bạn sẽ không thể sử dụng thông tin Tài khoản %s để đăng nhập vào Tài khoản Mi của bạn.</string>
     <string name="confirm_unbind">Ngắt kết nối tài khoản này?</string>
-    <string name="binded_description" formatted="false">%s đã được kết nối với tài khoản Mi của bạn. Hồ sơ của bạn đã được cập nhật bằng thông tin từ Tài khoản %s.</string>
+    <string name="binded_description" formatted="false">%s đã được kết nối với tài khoản Mi của bạn. Giờ bạn có thể đăng nhập Tài khoản Mi bằng %s.</string>
     <string name="update_contacts">Cập nhật liên hệ</string>
     <string name="updated_nothing">Đã cập nhật</string>
     <string name="access_token_expired_warning">Tài khoản Weibo đã hết hạn</string>
@@ -676,4 +676,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">Tiếp tục dưới tên %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Xác nhận đăng nhập</string>
     <string name="com_facebook_tooltip_default">Bạn nắm quyền kiểm soát - chọn thông tin bạn muốn chia sẻ với ứng dụng.</string>
+	<string name="bind_google">Kết nối tài khoản Google của bạn</string>
+	<string name="bind_weixin">Kết nối tài khoản WeChat của bạn</string>
+	<string name="need_install_wechat">Cài đặt WeChat trước</string>
 </resources>

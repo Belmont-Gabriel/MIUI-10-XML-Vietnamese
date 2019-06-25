@@ -8164,4 +8164,22 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="usage_app_weekend_limit">Ngày cuối tuần</string>
 	<string name="popup_gesture_summary">Nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
 	<string name="popup_gesture_title">Nhấc điện thoại để mở Máy ảnh trước</string>
+	<string name="bluetooth_disable_inband_ringing">Vô hiệu hóa chuông trong thiết bị đeo</string>
+	<string name="bluetooth_disable_inband_ringing_summary">Không phát nhạc chuông tùy chỉnh trên Tai nghe Bluetooth</string>
+	<string name="customize_function">Mẫu khả dụng</string>
+	<string name="gesture_c">Mẫu C</string>
+	<string name="gesture_m">Mẫu M</string>
+	<string name="gesture_open_alipay">Mở Alipay</string>
+	<string name="gesture_open_camera">Mở Máy ảnh</string>
+	<string name="gesture_open_music">Mở Nhạc</string>
+	<string name="gesture_open_wechat">Mở WeChat</string>
+	<string name="gesture_w">Mẫu W</string>
+	<string name="gesture_z">Mẫu Z</string>
+	<string name="miui_lab_3d_gesture_desc">Mở Màn hình chính của bạn và cầm điện thoại vẽ một trong các mẫu vào không khí để mở ứng dụng được chọn</string>
+	<string name="miui_lab_3d_gesture_slogan">Vẽ mẫu hình trong không khí bằng điện thoại để mở ứng dụng</string>
+	<string name="miui_lab_3d_gesture_summary">Vẽ mẫu hình trong không khí bằng điện thoại để mở ứng dụng</string>
+	<string name="miui_lab_3d_gesture_title">Mẫu 3D</string>
+	<string name="miui_lab_home_feed_desc">Sáng kiến. Câu chuyện hấp dẫn.</string>
+	<string name="miui_lab_home_feed_title">Trung tâm Phương tiện</string>
+	<string name="support_gesture_title">Mẫu 3D</string>
 </resources>

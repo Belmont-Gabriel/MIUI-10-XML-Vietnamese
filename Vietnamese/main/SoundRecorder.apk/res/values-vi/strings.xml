@@ -298,4 +298,10 @@
 	<string name="shortcut_records">Ghi âm</string>
 	<string name="shortcut_start_record">Bắt đầu ghi âm</string>
 	<string name="shortcut_stop_record">Dừng ghi âm</string>
+	<string name="text_btn_backward_3_seconds">Lùi 3 giây</string>
+	<string name="text_btn_forward_3_seconds">Tiến 3 giây</string>
+	<string name="text_play_speed_0_5">Tốc độ phát lại 0.5X</string>
+	<string name="text_play_speed_1_0">Tốc độ phát lại tiêu chuẩn</string>
+	<string name="text_play_speed_1_5">Tốc độ phát lại 1.5X</string>
+	<string name="text_play_speed_2_0">Tốc độ phát lại 2X</string>
 </resources>

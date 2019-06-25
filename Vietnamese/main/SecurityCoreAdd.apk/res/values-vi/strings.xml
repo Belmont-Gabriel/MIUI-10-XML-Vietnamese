@@ -63,17 +63,17 @@
     <string name="wating">Vui lòng chờ…</string>
     <string name="Active">Kích hoạt</string>
     <string name="ok_button">OK</string>
-    <string name="remove_button">Xóa và khởi động lại</string>
-    <string name="remove_button_time">Xóa và khởi động lại (%ds)</string>
+    <string name="remove_button">Xóa</string>
+    <string name="remove_button_time">Xóa (%ds)</string>
     <string name="cancel_button">Hủy</string>
     <string name="list_empty_text">Trống</string>
-    <string name="list_empty_text_xspace">Cài đặt WeChat/QQ/Weibo, tạo ứng dụng kép, và thử lại.</string>
+    <string name="list_empty_text_xspace">Tạo thêm nhiều Ứng dụng kép và thử lại.</string>
     <string name="xspace_label">Ứng dụng kép</string>
     <string name="xspace_setting_label">Cài đặt ứng dụng kép</string>
     <string name="xspace_account">Tài khoản ứng dụng kép</string>
     <string name="declare_dialog_title">Giới thiệu ứng dụng kép</string>
     <string name="stop_xspace_alert_title">Xóa tài khoản ứng dụng kép</string>
-    <string name="stop_xspace_alert_content">Bạn đã xóa tất cả ứng dụng kép. Xóa dữ liệu và tài khoản ứng dụng kép không? Sau khi xóa đến lúc cần dùng bạn sẽ phải tạo lại.</string>
+    <string name="stop_xspace_alert_content">Xóa tất cả ứng dụng kép cùng với tài khoản và dữ liệu ứng dụng? Thiết bị sẽ khởi động lại để áp dụng thay đổi.</string>
     <string name="xspace_loading_msg">Đang tải ứng dụng…</string>
     <string name="xspace_header">Ứng dụng kép</string>
     <string name="xspace_introduce">Đã đề nghị</string>
@@ -296,9 +296,9 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="weibo_send">Gửi đến Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Gửi đến Bạn bè QQ/máy tính</string>
-    <string name="xspace_default_setting_label">Ứng dụng mặc định</string>
-    <string name="xspace_default_app_title">Ứng dụng mặc định</string>
-    <string name="xspace_default_app_summary">Đặt ứng dụng mặc định thanh toán, chia sẻ, yêu thích và nhiều thứ khác.</string>
+    <string name="xspace_default_setting_label">Cá nhân hóa</string>
+    <string name="xspace_default_app_title">Cá nhân hóa</string>
+    <string name="xspace_default_app_summary">Chọn ứng dụng mặc định để đăng nhập, chia sẻ và trợ lý giọng nói.</string>
     <string name="xspace_default_setting_dialog_title">Mặc định</string>
     <string name="xspace_default_guide_notification_content">Chạm để đổi</string>
     <string name="xspace_default_guide_notification_main_title">Sử dụng ứng dụng mặc định</string>
@@ -467,4 +467,9 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="dual_animation_description">Hiển thị hiệu ứng khi ứng dụng kép được khởi chạy</string>
 	<string name="close_kid_space_success">Xóa Không gian trẻ em</string>
 	<string name="kid_mode_label">Không gian trẻ em</string>
+	<string name="facebook_login">Đăng nhập bằng Facebook</string>
+	<string name="facebook_send">Chia sẻ lên Facebook</string>
+	<string name="instagram_send">Chia sẻ lên Instagram</string>
+	<string name="use_google_open">Đánh thức bằng Trợ lý Google</string>
+	<string name="whatsapp_send">Chia sẻ lên WhatsApp</string>
 </resources>
