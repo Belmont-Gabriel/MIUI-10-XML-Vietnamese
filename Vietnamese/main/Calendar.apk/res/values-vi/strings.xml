@@ -1250,4 +1250,21 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="preferences_popup_alert_title">Cảnh báo bật lên</string>
 	<string name="all_events">Tất cả sự kiện</string>
 	<string name="setting_title_policy">Chính sách Riêng tư</string>
+	<string name="birthday_term_chinese_calendar">"Sinh nhật của %1$s (Âm lịch)"</string>
+	<string name="content_confirm_close_chinese_calendar">Tất cả sự kiện của bạn theo Âm lịch sẽ được chuyển đổi sang Dương lịch sau khi bạn tắt tính năng này. Năm và tháng của Lịch Gregorius sẽ được sử dụng cho sự kiện lặp lại.</string>
+	<string name="lunar_day_chinese_calendar">Âm lịch %1$s</string>
+	<string name="lunar_to_solar_chinese_calendar">Âm lịch sang Dương lịch (Lịch Gregorius)</string>
+	<string name="repeat_lunar_monthly_chinese_calendar">Âm lịch hàng tháng</string>
+	<string name="repeat_lunar_monthly_detail_chinese_calendar">Âm lịch hàng tháng（%1$s）</string>
+	<string name="repeat_lunar_yearly_chinese_calendar">Âm lịch hàng năm</string>
+	<string name="rest_day_indication_chinese_calendar">Hưu</string>
+	<string name="setting_chinese_calendar">Âm lịch</string>
+	<string name="shortcut_new_event">Thêm sự kiện</string>
+	<string name="shortcut_next_agenda">Sự kiện tiếp theo</string>
+	<string name="shortcut_settings">Cài đặt</string>
+	<string name="solar_lunar_convert_description">Dương lịch sang Âm lịch</string>
+	<string name="solar_lunar_convert_tab">Chuyển đổi</string>
+	<string name="solar_to_lunar_chinese_calendar">Dương lịch sang Âm lịch</string>
+	<string name="title_confirm_close_chinese_calendar">Tắt Âm lịch</string>
+	<string name="work_day_indication_chinese_calendar">Ban</string>
 </resources>

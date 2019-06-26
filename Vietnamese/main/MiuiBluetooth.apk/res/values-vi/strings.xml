@@ -81,4 +81,5 @@
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
+	<string name="fast_connect_headset_reset">Nhấn và giữ nút trên hộp trong %1$d giây</string>
 </resources>
