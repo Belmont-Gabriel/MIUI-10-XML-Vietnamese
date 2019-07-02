@@ -1420,9 +1420,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="search_empty_title_online_music">Chưa có mục nào ở đây.</string>
 	<string name="top_chart_title">Biểu đồ</string>
 	<string name="album_name">Lựa chọn hàng ngày: %s</string>
-	<string name="app_name">Kiểm tra</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 	<string name="back">Quay lại</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="today">Hôm nay</string>
