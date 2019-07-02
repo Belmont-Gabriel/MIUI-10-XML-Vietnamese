@@ -2925,4 +2925,5 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="toast_dark_mode_fixed">Sửa thành công. Rời trang này để áp dụng thay đổi.</string>
 	<string name="delete_all_sms">Xóa tất cả</string>
 	<string name="sms_delete_all_hint">Xóa tất cả tin nhắn ngay?</string>
+	<string name="function_shield_voice_trigger">"Không đánh thức Mi AI bằng giọng nói"</string>
 </resources>

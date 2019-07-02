@@ -141,4 +141,5 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Cử chỉ màn hình tràn cạnh</string>
 	<string name="terms_of_use_label_updater">, Cập nhật</string>
+	<string name="other_settings_enhanced_lockscreen_privacy_index">Chính sách Riêng tư</string>
 </resources>

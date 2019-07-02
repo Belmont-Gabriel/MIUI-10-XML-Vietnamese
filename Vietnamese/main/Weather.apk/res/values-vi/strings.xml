@@ -320,4 +320,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="tts_max_wind_power">Tốc độ gió cao nhất</string>
 	<string name="shortcut_short_label_24_hour_forecast">Dự báo 24 giờ</string>
 	<string name="shortcut_short_label_recent_forecast">Kiểm tra thời tiết</string>
+	<string name="feedback_result_fail_no_reason">Cảm ơn bạn đã phản hồi!</string>
+	<string name="feedback_result_fail_same_type">"Có vẻ như báo cáo của bạn không khác với thời tiết hiện tại. Thử lại."</string>
 </resources>

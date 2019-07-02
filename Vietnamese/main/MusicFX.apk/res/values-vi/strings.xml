@@ -22,4 +22,5 @@
 	<string name="power_on_prompt">Nhấn nút nguồn ở góc trên bên phải.</string>
 	<string name="toggle_button_off">Tắt</string>
 	<string name="toggle_button_on">Bật</string>
+	<string name="dance">Nhảy</string>
 </resources>

@@ -1267,4 +1267,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="solar_to_lunar_chinese_calendar">Dương lịch sang Âm lịch</string>
 	<string name="title_confirm_close_chinese_calendar">Tắt Âm lịch</string>
 	<string name="work_day_indication_chinese_calendar">Ban</string>
+	<string name="app_name">Kiểm tra</string>
+	<string name="setting">Cài đặt</string>
+	<string name="share_cancel">Hủy bỏ chia sẻ</string>
+	<string name="share_fail">Kết nối thất bại, thử lại</string>
+	<string name="share_success">Đã chia sẻ</string>
+	<string name="repeat_lunar_yearly_detail_chinese_calendar">Âm lịch hàng năm (%1$s)</string>
 </resources>

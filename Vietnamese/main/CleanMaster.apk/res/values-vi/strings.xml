@@ -718,4 +718,7 @@
 	<string name="notification_low_memory_cache_title">Xóa cache</string>
 	<string name="notification_low_memory_deepclean_summary">Dọn dẹp sâu có thể giải phóng dung lượng lưu trữ trên thiết bị</string>
 	<string name="notification_low_memory_deepclean_title">Dung lượng lưu trữ còn ít</string>
+	<string name="app_name">Kiểm tra</string>
+	<string name="clipboard">Khay nhớ tạm</string>
+	<string name="sms">Tin nhắn</string>
 </resources>

@@ -837,4 +837,18 @@ Chủ đề sẽ xác định ứng dụng nào bạn đang sử dụng và hi�
 	<string name="theme_comment_dialog_cancel">Không phải bây giờ</string>
 	<string name="version_update">Kiểm tra cập nhật</string>
 	<string name="wechat_not_found">Cài đặt WeChat trước</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+	<string name="exo_track_resolution">%1$d × %2$d</string>
+	<string name="about_app_name">Trình phát Video</string>
+	<string name="common_skip">Bỏ qua</string>
+	<string name="current_version">Phiên bản hiện tại</string>
+	<string name="mtrl_chip_close_icon_content_description">Biểu tượng đóng</string>
+	<string name="network_exception">Lỗi mạng, vui lòng thử lại sau</string>
+	<string name="xiaomi_update_sdk_connect_download_manager_fail">Kết nối Trình quản lý tải xuống thất bại, vui lòng kiểm tra trạng thái Trình quản lý tải xuống trong Quản lý ứng dụng.</string>
+	<string name="xiaomi_update_sdk_dialog_message">"Giới thiệu phiên bản %1$s
+Kích thước: %2$s"</string>
+	<string name="xiaomi_update_sdk_dialog_message_diff">"Giới thiệu phiên bản %1$s
+Kích thước cập nhật Delta: %2$s"</string>
+	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
+	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ nhớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
 </resources>

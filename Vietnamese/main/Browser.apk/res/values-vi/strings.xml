@@ -1850,4 +1850,19 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="document_open_txt_start_read">Bắt đầu đọc</string>
 	<string name="hot_word_hot_count">%d người đang xem</string>
 	<string name="nav_lunch_duokan">Trình duyệt đang mở để bạn xem thêm</string>
+	<string name="sign_in">Đăng nhập</string>
+	<string name="app_name">Kiểm tra</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
+	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
+	<string name="diagnosis_log_sent_format">Nhật ký chẩn đoán đã gửi. ID:%s Hãy gửi mã này cho kỹ thuật viên.</string>
+	<string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chuẩn đoán.</string>
+	<string name="send_diagnosis_log">Gửi nhật ký chuẩn đoán</string>
+	<string name="sending">Đang gửi…</string>
+	<string name="temporary_not_available">Tạm thời không khả dụng</string>
+	<string name="auto_floatlayer_click_close_e_n">Nhấn vào nút Đóng</string>
+	<string name="auto_floatlayer_click_e_a">Nhấn</string>
+	<string name="auto_floatlayer_click_page_e_n">Nhấn vào trang</string>
+	<string name="auto_floatlayer_e_c">Trang chuyển hướng gặp lỗi chặn lớp phủ</string>
+	<string name="auto_floatlayer_show_e_a">Tiếp xúc</string>
+	<string name="auto_floatlayer_show_e_n">Lỗi trang tiếp xúc lớp phủ</string>
 </resources>
