@@ -24,4 +24,7 @@
 	<string name="cc_version">Phiên bản cấu hình đám mây hiện tại:</string>
 	<string name="open_cta">Vui lòng mở ứng dụng Bảo mật và \"Cho phép kết nối mạng\" trong Cài đặt</string>
 	<string name="stop_sync">KHÔNG tự đồng bộ</string>
+	<string name="connect_wifi">Kết nối Wi-Fi</string>
+	<string name="unknown_error">Lỗi không rõ!</string>
+	<string name="update_success">Cập nhật thành công</string>
 </resources>

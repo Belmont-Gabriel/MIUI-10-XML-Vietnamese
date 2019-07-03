@@ -1185,4 +1185,19 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="update_domain_summary">Cập nhật danh sách tên miền và cấu hình</string>
 	<string name="update_domain_title">Cập nhật tên miền</string>
 	<string name="wait_while_update_db">Chờ một chút để cơ sở dữ liệu cập nhật!</string>
+	<string name="contact_add_options">Thêm vào Liên hệ</string>
+	<string name="contact_add_options_details1">Tất cả</string>
+	<string name="get_oauth_code">Lấy mã</string>
+	<string name="contact_add_options_details2">Chỉ người nhận</string>
+	<string name="help_weixin_title">"Nếu bạn có bất kỳ câu hỏi nào, đừng ngại mà nhắn cho chúng tôi ở địa chỉ WeChat: "</string>
+	<string name="login_qq_psw">Đăng nhập bằng mật khẩu QQ/Trình xác thực/Mã xác thực</string>
+	<string name="mi_sync_erroe_toast">"Đã xảy ra lỗi mạng: "</string>
+	<string name="mi_sync_erroe_toast_other">"Đã xảy ra lỗi máy chủ: "</string>
+	<string name="no_more_mail">Không có thêm tin nhắn</string>
+	<string name="no_search_results">"Không thể tìm kết quả"</string>
+	<string name="pull_load_more">Kéo lên để tải thêm</string>
+	<string name="remote_search_body_too_large_prompt">"Email này quá dài.
+Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính."</string>
+	<string name="search_remote_again">Không có mạng, thử lại</string>
+	<string name="sync_failed_mi_authority_view_detail">Xem chi tiết</string>
 </resources>

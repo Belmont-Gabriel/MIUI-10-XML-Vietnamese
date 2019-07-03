@@ -82,4 +82,8 @@
 		<item>Cảm ơn,</item>
 		<item>Trân trọng</item>
 	</string-array>
+	<string-array name="prefEntries_contact_add">
+		<item>Tất cả</item>
+		<item>Chỉ người nhận</item>
+	</string-array>
 </resources>

@@ -637,4 +637,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="mo_code_unconditional_cf_active">Chuyển tiếp cuộc gọi vô điều kiện đã kích hoạt</string>
 	<string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
+	<string name="process_kernel_label">Hệ điều hành Android</string>
+	<string name="incoming_call_failed_low_battery">Cuộc gọi đến thất bại do pin yếu.</string>
 </resources>

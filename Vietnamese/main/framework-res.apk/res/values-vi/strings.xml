@@ -2287,4 +2287,6 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="wifi_softap_config_change">Thay đổi cài đặt điểm phát sóng</string>
     <string name="wifi_softap_config_change_detailed">Thiết bị này không hỗ trợ tùy chọn chỉ sử dụng băng tần 5 GHz. Thay vào đó, thiết bị này sẽ sử dụng băng tần 5 GHz khi có thể.</string>
     <string name="wifi_softap_config_change_summary">Bằng tần của điểm phát sóng đã thay đổi.</string>
+	<string name="volume_dialog_music_stream_not_silent">Đang bỏ tắt âm nhạc</string>
+	<string name="volume_dialog_music_stream_silent">Đang tắt âm nhạc</string>
 </resources>

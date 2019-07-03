@@ -1756,4 +1756,5 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="shopping_recommend_coupon">Phiếu khuyến mãi ￥%s</string>
 	<string name="toast_function_add_limit">Bạn có thể thêm tới %d lối tắt</string>
 	<string name="miot_device_card_title">Thiết bị Mi Home</string>
+	<string name="smart_assistant_enter_tip">Trợ lý thông tin trên màn hình chính</string>
 </resources>

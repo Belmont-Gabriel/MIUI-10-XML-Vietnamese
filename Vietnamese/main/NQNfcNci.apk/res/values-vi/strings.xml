@@ -40,4 +40,10 @@
     <string name="title_connect_to_network">Kết nối mạng</string>
     <string name="prompt_connect_to_network">Kết nối với mạng %1$s?</string>
     <string name="beam_requires_nfc_enabled">Android Beam yêu cầu bật NFC. Bạn có muốn bật NFC không?</string>
+	<string name="android_beam">Android Beam</string>
+	<string name="nfc_enabled_dialog">"Nfc đang tắt. 
+Bạn có muốn bật cho Dịch vụ NFC"</string>
+	<string name="no">Không</string>
+	<string name="permdesc_nfcReceiveEvent">Cho phép ứng dụng nhận thông tin về giao dịch NFC đang thực hiện</string>
+	<string name="permlab_nfcReceiveEvent">Nhận thức về giao dịch NFC</string>
 </resources>

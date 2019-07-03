@@ -2926,4 +2926,11 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="delete_all_sms">Xóa tất cả</string>
 	<string name="sms_delete_all_hint">Xóa tất cả tin nhắn ngay?</string>
 	<string name="function_shield_voice_trigger">"Không đánh thức Mi AI bằng giọng nói"</string>
+	<string name="process_kernel_label">Hệ điều hành Android</string>
+    <string name="user_guide">Vuốt lên để khám phá thêm nhiều trò chơi mới</string>
+	<string name="gb_first_guide_function_shiled_title">Tắt tính năng hệ thống khi Tăng tốc Trò chơi bật</string>
+	<string name="gb_first_guide_gamebox_des">Sử dụng lối tắt khi chơi game</string>
+	<string name="gb_first_guide_handsfree_des">Trả lời cuộc gọi dưới nền</string>
+	<string name="gb_first_guide_shortcut_des">Một Lối tắt Màn hình chính cho Tăng tốc Trò chơi đã được tạo</string>
+	<string name="gb_first_guide_title">Tăng tốc và hiệu năng ở mức hệ thống</string>
 </resources>
