@@ -2611,8 +2611,5 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="preferred_network_type_pref_entries_only_3g_lm_cr">Chỉ WCDMA</string>
 	<string name="network_mode_updating_title">Loại mạng</string>
 	<string name="preferred_network_type_pref_entries_5g_preferred">Ưu tiên 5G</string>
-	<string name="password">Mật khẩu</string>
-	<string name="process_kernel_label">Hệ điều hành Android</string>
-	<string name="username">Tên</string>
 	<string name="wifi_wapi_certification_dont_exist">Chứng chỉ WAPI không tồn tại. Vui lòng cài đặt.</string>
 </resources>

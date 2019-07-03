@@ -8212,7 +8212,6 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="volume_launch_camera_summary">Nhấn hai lần nút âm lượng để mở Máy ảnh khi màn hình khóa</string>
 	<string name="wakeup_and_sleep_settings_category_name">Cài đặt màn hình khóa</string>
 	<string name="music_dirac_mode_half_in_ear">Mi nửa In-Ear</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_eap">802.1x EAP</string>

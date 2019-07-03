@@ -2073,5 +2073,4 @@ d MMMM"</string>
 ảnh chụp màn hình cuộn"</string>
 <string name="hour_minute_time_format">HH:mm</string>
     <string name="notification_channel_usb">Kết nối USB</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
 </resources>
