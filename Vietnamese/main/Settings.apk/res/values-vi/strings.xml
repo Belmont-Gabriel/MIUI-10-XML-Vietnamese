@@ -8904,4 +8904,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="google_account_title">Google</string>
 	<string name="quick_settings_under_keyguard_summary">Cho phép truy cập Cài đặt nhanh khi thiết bị khóa</string>
 	<string name="quick_settings_under_keyguard_title">Truy cập Cài đặt nhanh</string>
+	<string name="manage_password">Quản lý mật khẩu</string>
+	<string name="manage_password_summary">Tự động điền tài khoản và mật khẩu đã lưu</string>
 </resources>

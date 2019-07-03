@@ -1153,8 +1153,8 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dữ liệu di động) Đặt lại %s1 cài đặt APN%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Kiểm tra URL mà bạn nhập.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Xóa bộ nhớ đệm (%s1Cài đặt%s2 - Xóa dữ liệu).</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Xóa bộ nhớ đệm và cookie (%s1Cài đặt%s2 - Xóa dữ liệu, thông tin tài khoản của bạn có thể bị mất).</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache">Xóa bộ nhớ đệm.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Xóa bộ nhớ đệm và cookie (Thông tin tài khoản của bạn có thể bị mất).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Xóa bộ nhớ đệm và cookie ( thông tin tài khoản của bạn có thể bị mất).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Xóa bộ nhớ đệm.</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Tải lại sau khi kết nối internet</string>

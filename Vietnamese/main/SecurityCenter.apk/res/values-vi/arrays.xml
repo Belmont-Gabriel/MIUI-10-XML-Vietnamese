@@ -28,14 +28,14 @@
         <item>"Tháng này: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Hôm qua (dữ liệu)</item>
-        <item>Hôm nay (dữ liệu)</item>
-        <item>Tháng trước (dữ liệu)</item>
-        <item>Tháng này (dữ liệu)</item>
-        <item>Wi-Fi hôm qua</item>
-        <item>Wi-Fi hôm nay</item>
-        <item>Wi-Fi tháng trước</item>
-        <item>Wi-Fi tháng này</item>
+        <item>"Hôm qua (dữ liệu) "</item>
+        <item>"Hôm nay (dữ liệu) "</item>
+        <item>"Tháng trước (dữ liệu) "</item>
+        <item>"Tháng này (dữ liệu) "</item>
+        <item>"Hôm qua (Wi-Fi) "</item>
+        <item>"Hôm nay (Wi-Fi) "</item>
+        <item>"Tháng trước (Wi-Fi) "</item>
+        <item>"Tháng này (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Thông tin sử dụng dữ liệu di động "</item>
