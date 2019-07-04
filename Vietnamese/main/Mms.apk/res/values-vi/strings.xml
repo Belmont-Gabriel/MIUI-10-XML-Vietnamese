@@ -930,4 +930,5 @@
 	<string name="sub_sim_card_indicator">Phụ %d</string>
 	<string name="sub_sim_not_support_mms">"Không thể gửi MMS bằng SIM thứ hai"</string>
 	<string name="dialog_complain_tips">Cho phép Tin nhắn kết nối mạng để có thể báo cáo vấn đề.</string>
+	<string name="no_longer_recommend">"Không hiển thị lại"</string>
 </resources>
