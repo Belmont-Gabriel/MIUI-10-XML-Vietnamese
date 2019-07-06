@@ -63,7 +63,6 @@
     <string name="common_signin_button_text">Đăng nhập</string>
     <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
     <string name="messenger_send_button_text">Gửi</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="Clock_main">Báo thức</string>
     <string name="Clock_parent">Đồng hồ</string>
     <string name="MiDrop_main">Gửi</string>
