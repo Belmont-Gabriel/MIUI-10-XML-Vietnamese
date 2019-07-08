@@ -4775,7 +4775,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="performance_category">Hiệu suất</string>
     <string name="fluency_mode">Ảnh động hệ thống</string>
     <string name="fluency_mode_confirm_and_reboot">Khởi động lại ngay</string>
-    <string name="gesture_wakeup_title">Chạm hai lần để đánh thức thiết bị</string>
     <string name="pick_up_gesture_wakeup_title">Nhấc để đánh thức thiết bị</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
     <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
