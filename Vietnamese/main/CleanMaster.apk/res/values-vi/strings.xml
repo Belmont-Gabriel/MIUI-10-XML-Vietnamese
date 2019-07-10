@@ -712,7 +712,7 @@
     <string name="facebook_function_title">Trình dọn dẹp Facebook</string>
     <string name="phone_search">Tìm kiếm Google</string>
 	<string name="security_center_slogan">Bảo mật - Bảo vệ tuyệt đối.</string>
-	<string name="notification_garbage_cleanup_summary">Kích thước rác đã đạt %s</string>
+	<string name="notification_garbage_cleanup_summary">Xóa rác (%s) để tăng tốc thiết bị của bạn</string>
 	<string name="notification_garbage_cleanup_title">Dọn dẹp tệp rác</string>
 	<string name="notification_low_memory_cache_summary">Còn ít hơn 1.5GB lưu trữ</string>
 	<string name="notification_low_memory_cache_title">Xóa cache</string>

@@ -55,7 +55,7 @@
         <item quantity="other">Tiếp tục đồng bộ sau %d phút</item>
     </plurals>
 	<plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Tạm dừng đồng bộ. Tiếp tục đồng bộ sau %d phút</item>
+        <item quantity="other">Tiếp tục đồng bộ sau %d phút</item>
     </plurals>
 	<plurals name="last_sync_time_mins_ago">
         <item quantity="other">"%d phút trước"</item>

@@ -3800,7 +3800,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="account_list">Tài khoản khác</string>
     <string name="account_add">Thêm</string>
     <string name="xiaomi_account">Tài khoản Mi</string>
-    <string name="sync_settings">Đồng bộ</string>
+    <string name="sync_settings">Tài khoản &amp; Đồng bộ</string>
     <string name="google_title">Google</string>
     <string name="account_other">Khác</string>
     <string name="xiaomi_cloud_service_disabled">Tắt</string>
@@ -8161,7 +8161,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="usage_app_system_app_summary">"Không thể giới hạn thời gian màn hình cho ứng dụng hệ thống"</string>
 	<string name="usage_app_weekday_limit">Ngày trong tuần</string>
 	<string name="usage_app_weekend_limit">Ngày cuối tuần</string>
-	<string name="popup_gesture_summary">Nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
+	<string name="popup_gesture_summary">Quay lại Màn hình chính, nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
 	<string name="popup_gesture_title">Nhấc điện thoại để mở Máy ảnh trước</string>
 	<string name="bluetooth_disable_inband_ringing">Vô hiệu hóa chuông trong thiết bị đeo</string>
 	<string name="bluetooth_disable_inband_ringing_summary">Không phát nhạc chuông tùy chỉnh trên Tai nghe Bluetooth</string>
@@ -8913,4 +8913,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="notch_style_show">"Không ẩn"</string>
 	<string name="notch_style_status_bar_inside">Ẩn mà không di chuyển thanh trạng thái</string>
 	<string name="notch_style_status_bar_outside">Ẩn và di chuyển thanh trạng thái</string>
+	<string name="lock_screen_settings_title">Màn hình khóa</string>
+	<string name="xiaomi_cloud_service_description_contact">Liên hệ và</string>
+	<string name="xiaomi_cloud_service_description_format">Mi Cloud đồng bộ ảnh %s của bạn, sao lưu ứng dụng và cài đặt của bạn, và giúp bạn tìm điện thoại bằng Tìm thiết bị.</string>
 </resources>

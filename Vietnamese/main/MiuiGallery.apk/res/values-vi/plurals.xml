@@ -234,4 +234,7 @@
 	<plurals name="delete_third_party_burst_photo">
         <item quantity="other">Xóa %d ảnh chụp liên tiếp trên thiết bị?</item>
     </plurals>
+	<plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
 </resources>
