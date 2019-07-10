@@ -1423,4 +1423,23 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="back">Quay lại</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="today">Hôm nay</string>
+	<string name="alarm_clock_ringtones_successful">Đặt báo thức thành công</string>
+	<string name="goto_local_search">Tìm trên thiết bị</string>
+	<string name="goto_online_search">Tìm trực tuyến</string>
+	<string name="loading_reached_the_bottom">"Đó là tất cả rồi."</string>
+	<string name="mulit_choice_management">Quản lý nhiều mục</string>
+	<string name="operation_done_close">Đóng</string>
+	<string name="ringtone_editing">Trình sửa nhạc chuông</string>
+	<string name="ringtone_selected">Đã chọn</string>
+	<string name="ringtones_play">Phát</string>
+	<string name="ringtones_stop">Dừng</string>
+	<string name="ringtones_successful">Đặt nhạc chuông thành công</string>
+	<string name="search_history_delete_all_dialog_titile">Xóa lịch sử tìm kiếm ngay?</string>
+	<string name="search_result_local_songs">Cục bộ</string>
+	<string name="search_result_online_songs">Trực tuyến</string>
+	<string name="search_songs">Tìm kiếm bài hát</string>
+	<string name="select_clip_desc">Chọn một đoạn từ bài hát</string>
+	<string name="set_as_alarm_clock_ringtone">Báo thức</string>
+	<string name="song_picker_complete">Xong</string>
+	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
 </resources>

@@ -2612,4 +2612,26 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="network_mode_updating_title">Loại mạng</string>
 	<string name="preferred_network_type_pref_entries_5g_preferred">Ưu tiên 5G</string>
 	<string name="wifi_wapi_certification_dont_exist">Chứng chỉ WAPI không tồn tại. Vui lòng cài đặt.</string>
+	<string name="china_mobile_palm_category">Dịch vụ Vận hành</string>
+	<string name="fiveg_bearer_status1">5G tình trạng vô danh[Khay 1] :</string>
+	<string name="fiveg_bearer_status2">5G tình trạng vô danh[Khay 2] :</string>
+	<string name="fiveg_endc_available1">NR ENDC khả dụng[Khay 1] :</string>
+	<string name="fiveg_endc_available2">NR ENDC khả dụng[Khay 2] :</string>
+	<string name="fiveg_endc_status1">Trạng thái Endc[Khay 1] :</string>
+	<string name="fiveg_endc_status2">Trạng thái Endc[Khay 2] :</string>
+	<string name="fiveg_icon_type1">Kiểu biểu tượng Nr[Khay 1] :</string>
+	<string name="fiveg_icon_type2">Kiểu biểu tượng Nr[Khay 2] :</string>
+	<string name="fiveg_infos">Thông tin 5G</string>
+	<string name="fiveg_network_config_type1">Loại cấu hình Mạng[Khay 1] :</string>
+	<string name="fiveg_network_config_type2">Loại cấu hình Mạng[Khay 2] :</string>
+	<string name="fiveg_plmn_info_list1">Danh sách thông tin PLMN[Khay 1] :</string>
+	<string name="fiveg_plmn_info_list2">Danh sách thông tin PLMN[Khay 2] :</string>
+	<string name="fiveg_restrict_dcnr1">Hạn chế DCNR[Khay 1] :</string>
+	<string name="fiveg_restrict_dcnr2">Hạn chế DCNR[Khay 2] :</string>
+	<string name="fiveg_signal_strength1">Cường độ tín hiệu 5G[Khay 1] :</string>
+	<string name="fiveg_signal_strength2">Cường độ tín hiệu 5G[Khay 2] :</string>
+	<string name="fiveg_switch_status1">Trạng thái chuyển 5G[Khay 1] :</string>
+	<string name="fiveg_switch_status2">Trạng thái chuyển 5G[Khay 2] :</string>
+	<string name="fiveg_upperlayer_indication1">Trạng thái chỉ định Lớp trên[Khay 1] :</string>
+	<string name="fiveg_upperlayer_indication2">Trạng thái chỉ định Lớp trên[Khay 2] :</string>
 </resources>

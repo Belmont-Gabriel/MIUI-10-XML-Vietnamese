@@ -305,4 +305,26 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="HIPS_Perm_UDevice_ID_DESC">Chia sẻ một phần thông tin thiết bị với nhà phát triển trò chơi để giúp họ cải thiện trải nghiệm chơi game của bạn. Đồng ý?</string>
 	<string name="HIPS_Perm_deamon_notification">Thông báo thường trực</string>
 	<string name="HIPS_Perm_deamon_notification_Desc">Hiển thị thông báo thường trực</string>
+	<string name="background_location_access_reminder_notification_content">Ứng dụng này có thể luôn luôn truy cập vị trí của bạn. Chạm để thay đổi.</string>
+	<string name="background_location_access_reminder_notification_title">%s Đã sử dụng vị trí của bạn</string>
+	<string name="grant_dialog_button_allow_always">Cho phép mọi lúcCho phép mọi lúc</string>
+	<string name="grant_dialog_button_allow_background">Cho phép mọi lúc</string>
+	<string name="grant_dialog_button_allow_foreground">Cho phép chỉ khi dùng ứng dụng</string>
+	<string name="grant_dialog_button_deny_and_dont_ask_again">Từ chối &amp; không hỏi lại</string>
+	<string name="grant_dialog_button_deny_background">Giữ quyền truy cập khi đang sử dụng</string>
+	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Giữ và không hỏi lại</string>
+	<string name="permgrouprequest_storage_isolated">Cho phép &lt;b&gt;%1$s&lt;/b&gt; truy cập ảnh và phương tiện trên thiết bị?</string>
+	<string name="permission_description_summary_activity_recognition">Ứng dụng với quyền này có thể truy cập hoạt động vật lý của bạn, như đi bộ, đạp xe, lái xe, đếm bước đi và nhiều hơn nữa</string>
+	<string name="permission_description_summary_calendar">Ứng dụng với quyền này có thể truy cập lịch của bạn</string>
+	<string name="permission_description_summary_call_log">Ứng dụng với quyền này có thể đọc và ghi nhật ký cuộc gọi</string>
+	<string name="permission_description_summary_camera">Ứng dụng với quyền này có thể chụp ảnh và quay phim</string>
+	<string name="permission_description_summary_contacts">Ứng dụng với quyền này có thể truy cập liên hệ của bạn</string>
+	<string name="permission_description_summary_generic">Ứng dụng với quyền này có thể %1$s</string>
+	<string name="permission_description_summary_location">"Ứng dụng với quyền này có thể truy cập vị trí của thiết bị"</string>
+	<string name="permission_description_summary_microphone">Ứng dụng với quyền này có thể ghi âm</string>
+	<string name="permission_description_summary_phone">Ứng dụng với quyền này có thể tạo và quản lý cuộc gọi thoại</string>
+	<string name="permission_description_summary_sensors">Ứng dụng với quyền này có thể truy cập dữ liệu cảm biến về các dấu hiệu sự sống của bạn</string>
+	<string name="permission_description_summary_sms">Ứng dụng với quyền này có thể gửi và đọc Tin nhắn văn bản</string>
+	<string name="permission_description_summary_storage">Ứng dụng với quyền này có thể truy cập ảnh, phương tiện, và tệp trên thiết bị của bạn</string>
+	<string name="permission_reminders">Nhắc nhở quyền</string>
 </resources>

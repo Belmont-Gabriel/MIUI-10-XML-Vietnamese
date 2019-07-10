@@ -1545,4 +1545,10 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="special_type_portrait">Vẽ chân dung ánh sáng AI</string>
 	<string name="special_type_wide_angle">Góc rộng AI</string>
 	<string name="generate_story_title">Kỷ niệm</string>
+	<string name="photo_editor_talkback_crop_3_2">3:2</string>
+	<string name="video_editor_audio_summertime">Mùa hè</string>
+	<string name="assistant_page_discovery">Khám phá</string>
+	<string name="assistant_page_server_error">Kiểm tra cài đặt mạng của bạn</string>
+	<string name="movie_audio_summertime">Mùa hè</string>
+	<string name="movie_customer_unsupport_audio_file">Tệp âm thanh không được hỗ trợ</string>
 </resources>

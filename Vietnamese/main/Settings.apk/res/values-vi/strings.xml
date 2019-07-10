@@ -5619,7 +5619,7 @@ Tốc độ lấy mẫu"</string>
     <string name="picture_in_picture_on">Có</string>
     <string name="picture_in_picture_title">Ảnh trong ảnh</string>
     <string name="power_apps">Ứng dụng</string>
-    <string name="power_last_full_charge_summary">cách đây ^1</string>
+    <string name="power_last_full_charge_summary">Cách đây ^1</string>
     <string name="power_service">Dịch vụ</string>
     <string name="power_system">Hệ thống</string>
     <string name="power_usage_list_summary_device">Sử dụng thiết bị kể từ khi sạc đầy (^1 trước)</string>
@@ -8905,4 +8905,12 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="quick_settings_under_keyguard_title">Truy cập Cài đặt nhanh</string>
 	<string name="manage_password">Quản lý mật khẩu</string>
 	<string name="manage_password_summary">Tự động điền tài khoản và mật khẩu đã lưu</string>
+	<string name="gesture_wakeup_title">Chạm hai lần vào màn hình để đánh thức</string>
+	<string name="gesture_wakeup_summary">Bạn có thể chạm hai lần để tắt màn hình khi áp dụng Chủ đề Mặc định hoặc Cổ điển</string>
+	<string name="gesture_wakeup_title">Chạm hai lần để đánh thức hoặc tắt màn hình</string>
+	<string name="notch_style_mod_description">Tùy chọn hiển thị tai thỏ và thanh trạng thái</string>
+	<string name="notch_style_mod_title">Ẩn tai thỏ</string>
+	<string name="notch_style_show">"Không ẩn"</string>
+	<string name="notch_style_status_bar_inside">Ẩn mà không di chuyển thanh trạng thái</string>
+	<string name="notch_style_status_bar_outside">Ẩn và di chuyển thanh trạng thái</string>
 </resources>

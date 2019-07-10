@@ -696,4 +696,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 	<string name="member_menu_vipname_premium">Vàng</string>
 	<string name="member_menu_vipname_ultra">Kim cương</string>
 	<string name="micloud_last_sync_canceled">Đồng bộ đã hủy. Thử lại.</string>
+	<string name="micloud_manaul_sync_success_time_prefix">Lần đồng bộ cuối: %s</string>
+	<string name="micloud_manual_sync_now_retry">Thử lại</string>
+	<string name="micloud_sync_result_get_sim_info_error">"Không thể lấy thông tin thẻ SIM. Đợi một vài phút rồi thử lại."</string>
+	<string name="sync_detail_summary_master_sync_off">Đồng bộ đã tắt</string>
 </resources>

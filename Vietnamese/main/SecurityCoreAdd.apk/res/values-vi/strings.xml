@@ -472,4 +472,5 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="instagram_send">Chia sẻ lên Instagram</string>
 	<string name="use_google_open">Đánh thức bằng Trợ lý Google</string>
 	<string name="whatsapp_send">Chia sẻ lên WhatsApp</string>
+	<string name="greenguard_functional_description">"Quản lý thiết bị từ xa, xem thông tin vị trí, kiểm soát ứng dụng đã cài đặt và hạn chế sử dụng"</string>
 </resources>

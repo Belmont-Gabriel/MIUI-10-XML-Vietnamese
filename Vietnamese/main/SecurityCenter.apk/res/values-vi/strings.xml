@@ -2932,4 +2932,6 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gb_first_guide_handsfree_des">Trả lời cuộc gọi dưới nền</string>
 	<string name="gb_first_guide_shortcut_des">Một Lối tắt Màn hình chính cho Tăng tốc Trò chơi đã được tạo</string>
 	<string name="gb_first_guide_title">Tăng tốc và hiệu năng ở mức hệ thống</string>
+	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Ambient</string>
+	<string name="power_ambient_display">Màn hình Ambient</string>
 </resources>

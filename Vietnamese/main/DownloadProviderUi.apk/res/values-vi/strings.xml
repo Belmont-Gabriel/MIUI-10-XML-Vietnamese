@@ -548,4 +548,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="new_file_notification_title_image">Ảnh</string>
 	<string name="close">Đóng</string>
 	<string name="close_ad">Đóng quảng cáo</string>
+	<string name="path_no_available">"Đường dẫn này không khả dụng"</string>
 </resources>

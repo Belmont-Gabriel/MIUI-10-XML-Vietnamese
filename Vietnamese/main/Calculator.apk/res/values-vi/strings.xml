@@ -897,4 +897,5 @@
     <string name="hint_floatwindow_alpha_guide_text">Chạm để điều chỉnh độ mờ</string>
     <string name="view_float_window_move">Di chuyển cửa sổ Máy tính thu nhỏ</string>
 	<string name="tax_rate_provider_east_money">Tính toán dựa trên quy định thuế mới. Dữ liệu được cung cấp bởi East Money.</string>
+	<string name="mortgage_provider_east_money">Dữ liệu được cung cấp bởi East Money</string>
 </resources>

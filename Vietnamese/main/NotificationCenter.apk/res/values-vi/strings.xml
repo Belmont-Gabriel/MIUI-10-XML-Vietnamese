@@ -41,4 +41,5 @@
 	<string name="summary_float_enable_notification_first">Cho phép thông báo để có thể bật thông báo nổi</string>
 	<string name="summary_lock_screen_enable_notification_first">Cho phép thông báo để có thể bật thông báo màn hình khóa</string>
 	<string name="summary_show_badge_enable_notification_first">Cho phép thông báo để có thể bật nhãn thông báo</string>
+	<string name="expand_top_notification">Mở rộng thông báo trên cùng</string>
 </resources>
