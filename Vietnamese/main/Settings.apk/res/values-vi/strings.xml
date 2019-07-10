@@ -8907,7 +8907,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="manage_password_summary">Tự động điền tài khoản và mật khẩu đã lưu</string>
 	<string name="gesture_wakeup_title">Chạm hai lần vào màn hình để đánh thức</string>
 	<string name="gesture_wakeup_summary">Bạn có thể chạm hai lần để tắt màn hình khi áp dụng Chủ đề Mặc định hoặc Cổ điển</string>
-	<string name="gesture_wakeup_title">Chạm hai lần để đánh thức hoặc tắt màn hình</string>
 	<string name="notch_style_mod_description">Tùy chọn hiển thị tai thỏ và thanh trạng thái</string>
 	<string name="notch_style_mod_title">Ẩn tai thỏ</string>
 	<string name="notch_style_show">"Không ẩn"</string>
