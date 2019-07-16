@@ -58,4 +58,7 @@
     <plurals name="minute">
         <item quantity="other">%d phút</item>
     </plurals>
+	<plurals name="snooze_duration_changed_info">
+        <item quantity="other">Thay đổi khoảng thời gian báo lại thành %d phút</item>
+    </plurals>
 </resources>

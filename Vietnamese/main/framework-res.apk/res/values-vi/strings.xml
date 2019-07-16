@@ -87,7 +87,7 @@
     <string name="activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="activitychooserview_choose_application_error">Không thể chạy %s</string>
     <string name="adb_active_notification_message">Nhấn để tắt tính năng gỡ lỗi USB</string>
-    <string name="adb_active_notification_title">Đã kết nối gỡ lỗi USB</string>
+    <string name="adb_active_notification_title">Đã bật gỡ lỗi USB</string>
     <string name="adb_debugging_notification_channel_tv">Gỡ lỗi USB</string>
     <string name="addToDictionary">Thêm vào từ điển</string>
     <string name="add_account_button_label">Thêm tài khoản</string>

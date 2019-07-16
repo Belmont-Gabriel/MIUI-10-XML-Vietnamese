@@ -219,9 +219,15 @@
 	<string name="autofill_save_message">Cho phép MIUI lưu tài khoản và mật khẩu của bạn?</string>
 	<string name="autofill_save_ok">Cho phép</string>
 	<string name="autofill_save_sub_message">"Bạn sẽ có thể quản lý mật khẩu đã lưu trong Cài đặt &gt; Cài đặt bổ sung &gt; Riêng tư &gt; Quản lý mật khẩu."</string>
-	<string name="autofill_save_title">Lưu vào &lt;b&gt;%1$s&lt;/b&gt;?</string>
+	<string name="autofill_save_title">Tự động lưu mật khẩu</string>
 	<string name="popup_camera_cancel_popup">Hủy</string>
 	<string name="popup_camera_continue_popup">Mở Máy ảnh</string>
 	<string name="popup_camera_hid_device_name">Black Shark</string>
 	<string name="popup_camera_remove_hid_device">Có vẻ thiết bị của bạn đã kết nối với bộ điều khiển game. Bạn có thể không mở được máy ảnh trước khi đã kết nối bộ điều khiển game.</string>
+	<string name="content_description_dial">Gọi</string>
+	<string name="content_description_search">Tìm kiếm</string>
+	<string name="content_description_share">Chia sẻ</string>
+	<string name="content_description_translate">Dịch</string>
+	<string name="content_description_web_url">Duyệt</string>
+	<string name="frequent_email">Email thường xuyên</string>
 </resources>

@@ -16,7 +16,7 @@
 	<string name="list_title_disable_notification">"Không cho phép thông báo"</string>
 	<string name="loading">Chỉ vài giây…</string>
 	<string name="lock_screen_display_rules">Định dạng</string>
-	<string name="lock_screen_tip_toast">Cho phép thông báo trong \"Thông báo ứng dụng\" trước</string>
+	<string name="lock_screen_tip_toast">Cho phép thông báo Màn hình khóa trong \"Định dạng\"</string>
 	<string name="lockscreen_notifications">Thông báo màn hình khóa</string>
 	<string name="not_sent_recently">Không phải gần đây</string>
 	<string name="notch_and_status_bar_setting">Tai thỏ &amp; thanh trạng thái</string>

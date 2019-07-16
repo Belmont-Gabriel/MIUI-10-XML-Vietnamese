@@ -26,4 +26,6 @@
     <string name="search">Tìm kiếm</string>
     <string name="settings_clear_data_confirmation_title">Đang xóa mật khẩu</string>
     <string name="using_miui_autofill_message">Để nhập mật khẩu tự động, MIUI sẽ lưu thông tin tài khoản và mật khẩu của bạn trên thiết bị của bạn.</string>
+	<string name="settings_clear_data_confirmation_description">"Nếu bạn xóa mật khẩu, bạn sẽ phải tự nhập chúng trong lần đăng nhập tới.
+Xóa mật khẩu?"</string>
 </resources>

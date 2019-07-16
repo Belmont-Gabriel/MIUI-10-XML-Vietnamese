@@ -2073,4 +2073,7 @@ d MMMM"</string>
 ảnh chụp màn hình cuộn"</string>
 <string name="hour_minute_time_format">HH:mm</string>
     <string name="notification_channel_usb">Kết nối USB</string>
+	<string name="recents_dimiss_task">Xóa</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
+	<string name="recents_task_screening">Chia sẻ màn hình</string>
 </resources>

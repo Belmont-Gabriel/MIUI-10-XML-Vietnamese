@@ -1523,10 +1523,12 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="share_qrcode">Chia sẻ Mã QR</string>
 	<string name="btn_call_fuhao_txt">Phụ</string>
 	<string name="china_mobile_palm_hall">Phòng dịch vụ trực tuyến CMCC</string>
-	<string name="contact_is_deleted">Liên hệ đã xóa</string>
+	<string name="contact_is_deleted">Đã xóa liên hệ này</string>
 	<string name="description_image_button_fuhao_named_dial">Cuộc gọi phụ</string>
 	<string name="heduohao_fuhao_call_menu_title">Gọi trên phụ %d</string>
 	<string name="heduohao_fuhao_order">Phụ %d</string>
 	<string name="heduohao_main_call_menu_title">Gọi trên chính</string>
 	<string name="heduohao_popup_txt">Phụ %d</string>
+	<string name="shortcut_new_contact_label">Liên hệ mới</string>
+	<string name="shortcut_scan_label">Quét danh thiếp</string>
 </resources>

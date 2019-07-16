@@ -186,7 +186,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">%d nguy cơ,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojan,</item>
+        <item quantity="other">" %d trojan"</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Ứng dụng nguy hiểm: %d</item>

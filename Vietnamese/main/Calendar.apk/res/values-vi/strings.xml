@@ -1273,4 +1273,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="share_fail">Kết nối thất bại, thử lại</string>
 	<string name="share_success">Đã chia sẻ</string>
 	<string name="repeat_lunar_yearly_detail_chinese_calendar">Âm lịch hàng năm (%1$s)</string>
+	<string name="preferences_popup_alert_smart_summary_new">Các sự kiện nhạy cảm với thời gian là các sự kiện có thời gian chính xác</string>
+	<string name="setting_desc_import_todo">Nhập các tác vụ theo lịch trình từ Ghi chú</string>
+	<string name="setting_title_import_todo">Nhập tác vụ</string>
+	<string name="todo_audio_event">"[Tác vụ giọng nói] "</string>
+	<string name="todo_event">Nhiệm vụ sắp tới</string>
+	<string name="year_indicator_month">Ngày đầu tiên của âm lịch</string>
 </resources>

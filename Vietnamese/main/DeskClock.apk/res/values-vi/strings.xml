@@ -170,10 +170,10 @@
     <string name="expired_timers_dismissed">Hủy hẹn giờ thành công</string>
     <string name="invalid_timer_length">Khoảng hẹn giờ không hợp lệ</string>
     <string name="module_download_cancel">Không</string>
-    <string name="module_download_data_msg">Đồng hồ cần tải tập tin âm thanh cho báo thức thông minh MIUI. Báo thức thông minh chứa các tính năng âm thanh cho phép đưa thông tin thời tiết hiện tại vào báo thức. Cần khoảng ≈20 MB dữ liệu di động cho bản tải xuống này. Tải ngay?</string>
+    <string name="module_download_data_msg">Để Báo thức thông minh MIUI khả dụng, Đồng hồ cần tải tập tin âm thanh. Báo thức thông minh chứa các tính năng âm thanh cho phép đưa thông tin thời tiết hiện tại vào báo thức. Cần khoảng ≈20 MB dữ liệu di động cho bản tải xuống này. Tải ngay?</string>
     <string name="module_download_data_msg_golbal">Đồng hồ cần tải tập tin âm thanh cho báo thức thông minh MIUI. Cần khoảng ≈20 MB dữ liệu di động cho bản tải xuống này. Tải ngay?</string>
     <string name="module_download_fail">Không thể tải xuống âm thanh mở rộng</string>
-    <string name="module_download_msg">Đồng hồ cần tải tập tin âm thanh cho báo thức thông minh MIUI. Báo thức thông minh chứa các tính năng âm thanh cho phép đưa thông tin thời tiết hiện tại vào báo thức. Tải ngay?</string>
+    <string name="module_download_msg">Để Báo thức thông minh MIUI khả dụng, Đồng hồ cần tải tập tin âm thanh. Báo thức thông minh chứa các tính năng âm thanh cho phép đưa thông tin thời tiết hiện tại vào báo thức. Tải ngay?</string>
     <string name="module_download_msg_golbal">Đồng hồ cần tải xuống tệp âm thanh cho tiếng ồn tự nhiên và báo thức thông minh MIUI. Tải ngay?</string>
     <string name="module_download_no_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="module_download_ok">Cho phép</string>
@@ -290,4 +290,8 @@
 	<string name="worldclock_resident_city_text">Đồng hồ thứ hai: %s</string>
 	<string name="worldclock_resident_city_text_detail">Đồng hồ đôi đang bật</string>
 	<string name="worldcolock_date_display_prefix">"Hiện tại: "</string>
+	<string name="module_update_success">Đã cập nhật âm thanh cho Báo thức thông minh MIUI. Bạn có thể cài đặt Báo thức thông minh MIUI trong Cài đặt Đồng hồ.</string>
+	<string name="module_update_success_control">Đã hiểu</string>
+	<string name="no_alarm_setting">Không có báo thức</string>
+	<string name="no_worldclock">Không có đồng hồ</string>
 </resources>

@@ -1408,7 +1408,8 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Đồ họa</item>
-        <item>Phần trăm</item>
+        <item>Phần trăm (trong biểu tượng)</item>
+		<item>Phần trăm (cạnh biểu tượng)</item>
     </string-array>
 	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Tìm kiếm</item>
@@ -1518,4 +1519,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (cạnh biểu tượng)</item>
     </string-array>
+	<string-array name="wide_notch_battery_indicator_style_entries">
+		<item>Đồ họa</item>
+		<item>Phần trăm (trong biểu tượng)</item>
+		<item>Phần trăm (bên cạnh biểu tượng trong Bảng thông báo)</item>
+	</string-array>
 </resources>

@@ -2934,4 +2934,16 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gb_first_guide_title">Tăng tốc và hiệu năng ở mức hệ thống</string>
 	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Ambient</string>
 	<string name="power_ambient_display">Màn hình Ambient</string>
+	<string name="system_permission_declare_agree">Đồng ý</string>
+	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; và &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
+	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
+	<string name="system_permission_declare_no_say_no">"Nếu bạn chonjk không cấp quyền hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này không thể hoạt động bình thường."</string>
+	<string name="system_permission_declare_privacy_declare">"Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn.
+Chú ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu quyền dưới đây để hoạt động bình thường:"</string>
+	<string name="system_permission_declare_revoke_path">Bạn có thể gỡ cài đặt ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
+	<string name="system_permission_declare_use_network">Kết nối mạng</string>
+	<string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
+	<string name="system_permission_perm_read_mms">Đọc MMS</string>
+	<string name="system_permission_perm_read_numbers">Đọc số điện thoại</string>
+	<string name="system_permission_perm_send_mms">Gửi MMS</string>
 </resources>

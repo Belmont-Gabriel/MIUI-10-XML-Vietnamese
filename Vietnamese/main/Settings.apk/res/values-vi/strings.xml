@@ -7039,7 +7039,9 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="bluetooth_unpair_dialog_body">Điện thoại của bạn sẽ không ghép nối với %1$s nữa</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Quên thiết bị</string>
     <string name="bluetooth_unpair_dialog_title">Quên thiết bị?</string>
-    <string name="bootloader_tips">Sau khi thêm Tài khoản Mi, không đăng xuất khỏi tài khoản, khôi phục cài đặt gốc, hay xóa dữ liệu ứng dụng hệ thống. Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoản Mi lại, hoặc bạn sẽ không thể mở khóa thiết bị của bạn.</string>
+    <string name="bootloader_tips">"%s
+	
+Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoản Mi lại, hoặc bạn sẽ không thể mở khóa thiết bị của bạn."</string>
     <string name="bootloader_tips_ok">Đã hiểu</string>
     <string name="call_volume_option_title">Âm lượng cuộc gọi</string>
     <string name="camera_laser_sensor_switch">Cảm biến Laser cho máy ảnh</string>
@@ -8915,4 +8917,12 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="lock_screen_settings_title">Màn hình khóa</string>
 	<string name="xiaomi_cloud_service_description_contact">Liên hệ và</string>
 	<string name="xiaomi_cloud_service_description_format">Mi Cloud đồng bộ ảnh %s của bạn, sao lưu ứng dụng và cài đặt của bạn, và giúp bạn tìm điện thoại bằng Tìm thiết bị.</string>
+	<string name="wireless_button">Sạc không dây cho thiết bị khác</string>
+	<string name="wireless_charging_settings">Sạc không dây cho thiết bị khác</string>
+	<string name="wireless_closed">Tắt</string>
+	<string name="wireless_opened">Bật</string>
+	<string name="wireless_tip">"Sử dụng điện thoại của bạn để sạc không dây cho thiết bị khác.
+
+Tính năng này sẽ tự động tắt nếu không bắt đầu sạc trong 90 giây."</string>
+	<string name="privacy_password_settings_summary">Bảo vệ mật khẩu riêng tư được sử dụng cho những ứng dụng có thể chứa thông tin nhạy cảm</string>
 </resources>

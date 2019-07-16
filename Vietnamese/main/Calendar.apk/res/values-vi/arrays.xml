@@ -651,4 +651,9 @@
 		<item>Cho tất cả sự kiện</item>
 		<item>Cho sự kiện liên quan nhất</item>
 	</string-array>
+	<string-array name="prefEntries_alerts_popup_new">
+		<item>Tắt</item>
+		<item>Cho tất cả sự kiện</item>
+		<item>Cho sự kiện nhạy cảm với thời gian</item>
+	</string-array>
 </resources>
