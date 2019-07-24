@@ -42,4 +42,28 @@
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">Bỏ ẩn thành công %1$s ghi chú</item>
     </plurals>
+	<plurals name="date_calculate_days_after">
+        <item quantity="other">Sau %1$d ngày</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Trước %1$d ngày</item>
+    </plurals>
+	<plurals name="todo_N_days_after">
+        <item quantity="other">Trong %1$d ngày</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Xóa %1$s nhiệm vụ?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Trong %1$d ngày</item>
+    </plurals>
+	<plurals name="todo_terms">
+        <item quantity="other">%1$s ghi chú</item>
+    </plurals>
 </resources>

@@ -241,4 +241,5 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="restore_failed_reason_disk_space_not_enough">Không đủ dung lượng lưu trữ. Giải phóng dung lượng trước.</string>
 	<string name="restore_failed_reason_network_error">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
 	<string name="restore_task_unfinished">"Không thể khôi phục"</string>
+	<string name="restoring_data">Đang khôi phục dữ liệu…</string>
 </resources>

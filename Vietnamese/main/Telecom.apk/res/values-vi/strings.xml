@@ -638,4 +638,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
 	<string name="incoming_call_failed_low_battery">Cuộc gọi đến thất bại do pin yếu.</string>
+	<string name="missedcall_notification_public_version_title">Điện thoại</string>
 </resources>

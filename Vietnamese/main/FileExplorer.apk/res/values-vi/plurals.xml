@@ -159,4 +159,7 @@
     <plurals name="video_like_num">
         <item quantity="other">%1$s thích</item>
     </plurals>
+	<plurals name="text_group_count">
+        <item quantity="other">%d mục</item>
+    </plurals>
 </resources>

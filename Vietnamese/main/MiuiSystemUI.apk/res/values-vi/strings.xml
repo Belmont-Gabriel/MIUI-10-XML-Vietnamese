@@ -1433,9 +1433,9 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="notification_more_settings">Thêm cài đặt</string>
      <string name="notification_num_channels">%d danh mục thông báo</string>
      <string name="notification_tap_again">Chạm lại để mở</string>
-     <string name="open_camera_hint_text">Trượt sang trái để mở máy ảnh</string>
+     <string name="open_camera_hint_text">Vuốt biểu tượng để mở máy ảnh</string>
      <string name="open_extreme_power_save_mode_title">Bật Siêu tiết kiệm pin</string>
-     <string name="open_remote_center_hint_text">Trượt sang phải để mở lối tắt</string>
+     <string name="open_remote_center_hint_text">Vuốt biểu tượng để mở lối tắt</string>
      <string name="other">Khác</string>
      <string name="overview">Tổng quan</string>
      <string name="phone_hint">Trượt từ biểu tượng để Gọi điện</string>
@@ -1792,12 +1792,12 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="miui_ringer_standard">Im lặng</string>
     <string name="miui_ringer_standard_description">Tắt nhạc chuông cho cuộc gọi đến và thông báo</string>
     <string name="miui_ringer_total_description">Tắt âm thanh và rung cho mọi thứ, trừ báo thức</string>
-    <string name="miui_toast_zen_dnd_to_off">Nhạc chuông và rung trở lại bình thường</string>
-    <string name="miui_toast_zen_standard_to_off">Nhạc chuông trở lại bình thường</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được phát.</string>
-    <string name="miui_toast_zen_to_dnd">Đã tắt âm thanh và rung</string>
-    <string name="miui_toast_zen_to_standard">Đã tắt âm thanh cuộc gọi và thông báo</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được tắt.</string>
+    <string name="miui_toast_zen_dnd_to_off">Đã tắt Không làm phiền. Nhạc chuông và rung trở lại bình thường</string>
+    <string name="miui_toast_zen_standard_to_off">Đã tắt Không làm phiền. Nhạc chuông trở lại bình thường</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Đã tắt Không làm phiền. Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được phát.</string>
+    <string name="miui_toast_zen_to_dnd">Đã bật Không làm phiền. Đã tắt âm thanh và rung</string>
+    <string name="miui_toast_zen_to_standard">Đã bật Không làm phiền. Đã tắt âm thanh cuộc gọi và thông báo</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Đã bật Không làm phiền. Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được tắt.</string>
     <string name="no_tiles_add">Không có tiêu đề</string>
     <string name="qs_customize">Cho phép nhấn giữ tùy chỉnh Cài đặt nhanh</string>
     <string name="qs_customize_info">Thông tin</string>
@@ -1825,7 +1825,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="lock_screen_magazine_default_content">Phần hàng ngày của hình ảnh mới</string>
     <string name="lock_screen_magazine_default_entry_title">Chi tiết hình nền</string>
     <string name="lock_screen_magazine_default_title">Tạp chí khóa màn hình</string>
-    <string name="open_lock_screen_magazine_hint_text">Trượt sang phải để thêm tùy chọn</string>
+    <string name="open_lock_screen_magazine_hint_text">Vuốt biểu tượng để thêm tùy chọn</string>
     <string name="plugins">Phần mở rộng</string>
     <string name="recents_title_app_manager">Quản lý ứng dụng</string>
     <string name="recents_title_game">Trò chơi</string>
@@ -2076,4 +2076,5 @@ d MMMM"</string>
 	<string name="recents_dimiss_task">Xóa</string>
 	<string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
 	<string name="recents_task_screening">Chia sẻ màn hình</string>
+	<string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Không thể chuyển giữa các không gian khi Siêu tiết kiệm pin đang bật"</string>
 </resources>

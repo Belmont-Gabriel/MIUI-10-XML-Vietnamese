@@ -1536,7 +1536,7 @@ thiết bị của bạn"</string>
     <string name="antivirus_monitor_clean_tips">Mục đã xóa: %s</string>
     <string name="antivirus_privacy_dialog_title">Chính sách Riêng tư</string>
     <string name="antivirus_privacy_dialog_summary">Tính năng này sẽ mã hóa và tải ID thiết bị của bạn lên máy chủ của Avast, AVL và Tencent (%s).</string>
-    <string name="antivirus_privacy_dialog_summary_link">Xem Chính sách Riêng tư</string>
+    <string name="antivirus_privacy_dialog_summary_link">Chính sách Riêng tư</string>
     <string name="antivirus_privacy_dialog_cloudscan">Tải lên tên và chi tiết ứng dụng</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Tải lên và quét tên và chi tiết ứng dụng bằng cơ sở dữ liệu virus trực tuyến.</string>
     <string name="pref_title_manual_check_virus_db_update">Kiểm tra cập nhật</string>
@@ -1663,7 +1663,7 @@ thiết bị của bạn"</string>
     <string name="ac_enter_applock">Vào Khóa ứng dụng</string>
     <string name="ac_mask_all_apps">Ẩn tất cả ứng dụng</string>
     <string name="ac_unmask_all_apps">Bỏ ẩn tất cả ứng dụng</string>
-    <string name="ac_summaryOn">Đã bật, yêu cầu mật khẩu để mở ứng dụng</string>
+    <string name="ac_summaryOn">Nhập mật khẩu để mở ứng dụng được bảo vệ</string>
     <string name="ac_summaryOff">Đã tắt, không yêu cầu mật khẩu để mở ứng dụng</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
@@ -1675,8 +1675,8 @@ thiết bị của bạn"</string>
     <string name="modifypassword">Thay đổi mật khẩu</string>
     <string name="back_modifypassword">Quay lại thay đổi mật khẩu</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
-    <string name="notification_mask_title">Ẩn nội dung</string>
-    <string name="notification_mask_summary">Không hiển thị nội dung thông báo trên Màn hình khóa và Thanh thông báo</string>
+    <string name="notification_mask_title">Ẩn nội dung thông báo</string>
+    <string name="notification_mask_summary">Không hiển thị nội dung thông báo cho ứng dụng được bảo vệ</string>
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
     <string name="suggest_app_tolock">Kiến nghị</string>
@@ -2946,4 +2946,49 @@ Chú ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu quy�
 	<string name="system_permission_perm_read_mms">Đọc MMS</string>
 	<string name="system_permission_perm_read_numbers">Đọc số điện thoại</string>
 	<string name="system_permission_perm_send_mms">Gửi MMS</string>
+	<string name="call_delete_all_hint">Xóa tất cả cuộc gọi đã chặn?</string>
+	<string name="superpower_dialog_button_disable_dialog">"Không hiển thị lại"</string>
+	<string name="superpower_dialog_massage">"Siêu tiết kiệm pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu tiết kiệm pin?"</string>
+	<string name="superpower_dialog_title">Siêu tiết kiệm pin</string>
+	<string name="superpower_notification_hint_enter">Bật</string>
+	<string name="superpower_notification_summary">Bật Siêu tiết kiệm pin</string>
+	<string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+	<string name="superpower_notification_time_24">EEEE, dd MMMM</string>
+	<string name="superpower_notification_title">Pin còn ít hơn 10%</string>
+	<string name="superpower_progress_content">Đang bật Siêu tiết kiệm pin…</string>
+	<string name="superpower_progress_left_time">%1$d giờ %2$d phút</string>
+	<string name="superpower_progress_switch_home">Đang chuyển sang Chủ đề tối</string>
+	<string name="superpower_progress_title">Thời gian còn lại</string>
+	<string name="superpower_progress_turndown_brightness">Đang giảm độ sáng màn hình</string>
+	<string name="superpower_progress_turnoff_items">Đang hạn chế các hoạt động hao pin</string>
+	<string name="superpower_progress_turnoff_process">Hạn chết hoạt động nền</string>
+	<string name="superpower_savemode_limit1">Chủ đề tối</string>
+	<string name="superpower_savemode_limit2">Hạn chế hoạt động nền</string>
+	<string name="superpower_savemode_limit3">Hạn chế hoạt động hao pin (đồng bộ, GPS, rung, Màn hình Ambient, v.v.)</string>
+	<string name="superpower_savemode_limit4">Cho phép ứng dụng đã chọn hoạt động bình thường</string>
+	<string name="superpower_settings">Siêu tiết kiệm pin</string>
+	<string name="superpower_settins_autoenter_summary">Tự động bật Siêu tiết kiệm pin khi pin chỉ còn 10%</string>
+	<string name="superpower_settins_autoenter_title">Tự động bật</string>
+	<string name="superpower_settins_autoleave_summary">Tự động tắt Siêu tiết kiệm pin khi pin đã sạc được 50%</string>
+	<string name="superpower_settins_autoleave_title">Tự động tắt</string>
+	<string name="superpower_settins_other">Cài đặt bổ sung</string>
+	<string name="superpower_settins_switch_summary">Hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể</string>
+	<string name="alert_back_milink_hangup_tips_content">"Truyền không bị ngắt khi bạn kết thúc cuộc gọi. Bạn có thể nhấn nút nguồn để mở màn hình."</string>
+	<string name="gamebox_milink">Truyền</string>
+	<string name="other_milink_connect">"Không thể truyền. Tính năng khác đang truyền."</string>
+	<string name="privacy_apps_begin_use">Bắt đầu</string>
+	<string name="privacy_apps_button_know">Đã hiểu</string>
+	<string name="privacy_apps_next_stup">Tiếp theo</string>
+	<string name="privacy_apps_shield_message_summary">"Không hiển thị thông báo cho ứng dụng được bảo vệ"</string>
+	<string name="privacy_apps_shield_message_title">"Không hiển thị thông báo"</string>
+	<string name="privacy_apps_tutorial_dlg_title">Làm thế nào để tìm ứng dụng ẩn</string>
+	<string name="stop_milink_connect">Dừng truyền</string>
+	<string name="system_permission_declare_disagree">Không đồng ý</string>
+	<string name="system_permission_declare_privacy_no_permission">"Hãy nhớ rằng %1s cần thu thập dữ liệu của bạn để hoạt động bình thường.
+Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
+	<string name="system_permission_declare_privacy_policy">&lt;Data&gt;Đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_revoke_system">Bạn có thể thoát ứng dụng này.</string>
+	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ cài đặt ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
+	<string name="system_permission_declare_use_network_no_permission">Kết nối mạng</string>
+	<string name="system_permission_declare_user_agreement">&lt;Data&gt;Đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 </resources>

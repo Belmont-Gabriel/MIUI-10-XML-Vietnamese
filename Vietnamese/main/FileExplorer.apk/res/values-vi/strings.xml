@@ -21,7 +21,7 @@
     <string name="operation_unfavorite">Bỏ yêu thích</string>
     <string name="operation_copy">Sao chép</string>
     <string name="operation_paste">Dán</string>
-    <string name="operation_move">Cắt</string>
+    <string name="operation_move">Di chuyển</string>
     <string name="operation_send">Gửi</string>
     <string name="operation_rename">Đổi tên</string>
     <string name="operation_delete">Xóa</string>
@@ -123,7 +123,7 @@
     <string name="decompress_input_password">Nhập mật khẩu</string>
     <string name="decompress_password_error">Mật khẩu bạn nhập không chính xác.</string>
     <string name="decompress_encrypted_rar_not_supported">Tập tin rar mã hóa không được hỗ trợ.</string>
-    <string name="move_failed">Không thể cắt</string>
+    <string name="move_failed">Không thể di chuyển</string>
     <string name="copy_failed">Không thể sao chép</string>
     <string name="toast_file_not_can_read">Không tìm thấy ứng dụng để xử lý tác vụ này.</string>
     <string name="extended_storage_file_can_not_open">Không thể mở tập tin. Hãy sao chép tập tin vào bộ nhớ trong.</string>
@@ -1224,4 +1224,17 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="ftp_anonymous_warning_msg">Tính năng ẩn có thể gây ra rủi ro bảo mật. Vẫn sử dụng tính năng này?</string>
 	<string name="ftp_anonymous_warning_title">Chú ý</string>
     <string name="home_action_up">Quay lại</string>
+	<string name="category_source">Nguồn</string>
+	<string name="category_time">Thời gian</string>
+	<string name="create_folder">Tạo</string>
+	<string name="doc_all">Tất cả</string>
+	<string name="otg_file_security_confirm">Sao chép vào điện thoại</string>
+	<string name="otg_file_security_details">Vui lòng sao chép vào điện thoại</string>
+	<string name="start_doc">Tập tin</string>
+	<string name="start_phone">Bộ nhớ</string>
+	<string name="tab_app">Thêm</string>
+	<string name="text_select_all">Chọn tất cả</string>
+	<string name="text_select_nothing">Bỏ chọn tất cả</string>
+	<string name="home_title">Màn hình chính</string>
+	<string name="privacy_policy">Chính sách Riêng tư</string>
 </resources>

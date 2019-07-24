@@ -73,7 +73,7 @@ Máy tính bảng này không có tai nghe. Bạn có thể chuyển sang chế 
      <string name="voice_service_warning_dialog_ok">Tôi biết</string>
      <string name="voice_service_warning_dialog_ok_timer">Tôi biết (%d)</string>
      <string name="voice_service_warning_dialog_title">Cuộc gọi VoLTE</string>
-     <string name="volte_switch_title_ct">Đã bật VoLTE</string>
+     <string name="volte_switch_title_ct">VoLTE</string>
      <string name="wfcmode_mobile_preferred">Ưu tiên mạng di động</string>
      <string name="wfcmode_wifi_only">Chỉ Wi-Fi</string>
      <string name="wfcmode_wifi_preferred">Ưu tiên Wi-Fi</string>
@@ -1421,7 +1421,7 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="enhanced_4g_lte_mode_on_failed">Không thể bật VoLTE.</string>
     <string name="enhanced_4g_lte_mode_off_failed">Không thể tắt VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Không thể kết nối mạng VoLTE. Bật kết nối dữ liệu di động ngay.</string>
-    <string name="volte_switch_title">Bật VoLTE</string>
+    <string name="volte_switch_title">Sử dụng VoLTE</string>
     <string name="volte_switch_summary">Sử dụng VoLTE để cải thiện chất lượng cuộc gọi thoại và cuộc gọi video</string>
     <string name="volte_switch_summary2">Xác nhận rằng nhà cung cấp dịch vụ hỗ trợ tính năng này trước khi bật. Nếu không, các cuộc gọi thông thường có thể sẽ bị ảnh hưởng.</string>
     <string name="volte_switch_not_support_summary">Cuộc gọi VoLTE không được hỗ trợ thẻ SIM dữ liệu di động.</string>
@@ -2634,4 +2634,17 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="fiveg_switch_status2">Trạng thái chuyển 5G[Khay 2] :</string>
 	<string name="fiveg_upperlayer_indication1">Trạng thái chỉ định Lớp trên[Khay 1] :</string>
 	<string name="fiveg_upperlayer_indication2">Trạng thái chỉ định Lớp trên[Khay 2] :</string>
+	<string name="clear_all_set_button">Xóa cài đặt</string>
+	<string name="clear_all_set_title">Nút này để xóa tất cả cài đặt</string>
+	<string name="eps_only_set_button">Chỉ đặt eps</string>
+	<string name="eps_only_set_title">Nút này để chỉ đặt eps</string>
+	<string name="frequecy_num">Số kênh LTE</string>
+	<string name="lte_band_sel_setting">Danh sách băng tần</string>
+	<string name="lte_band_set_status">Đặt băng tần LTE</string>
+	<string name="lte_freq_set_button">Đặt tần số và pci</string>
+	<string name="modem_set_title">Cài đặt MODEM</string>
+	<string name="modem_setting_button_title">Vào menu cài đặt</string>
+	<string name="modem_setting_info">Thông tin cài đặt MODEM</string>
+	<string name="modem_setting_text_title">Kiểm tra cài đặt modem</string>
+	<string name="pci_num">Số pci LTE</string>
 </resources>

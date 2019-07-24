@@ -898,4 +898,7 @@
     <string name="view_float_window_move">Di chuyển cửa sổ Máy tính thu nhỏ</string>
 	<string name="tax_rate_provider_east_money">Tính toán dựa trên quy định thuế mới. Dữ liệu được cung cấp bởi East Money.</string>
 	<string name="mortgage_provider_east_money">Dữ liệu được cung cấp bởi East Money</string>
+	<string name="choose_radix">Chọn hệ số</string>
+	<string name="convertion_unit_radix">Hệ số</string>
+	<string name="item_title_radix">Hệ số</string>
 </resources>

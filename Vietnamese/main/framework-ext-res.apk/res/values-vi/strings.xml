@@ -230,4 +230,6 @@
 	<string name="content_description_translate">Dịch</string>
 	<string name="content_description_web_url">Duyệt</string>
 	<string name="frequent_email">Email thường xuyên</string>
+	<string name="user_switching_dialog_switch_into_kid_space">Chuyển sang Không gian trẻ em…</string>
+	<string name="user_switching_dialog_switch_out_kid_space">Đang rời Không gian trẻ em…</string>
 </resources>

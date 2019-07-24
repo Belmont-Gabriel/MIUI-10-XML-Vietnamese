@@ -8925,4 +8925,21 @@ Kích thước cập nhật Delta: %2$s"</string>
 
 Tính năng này sẽ tự động tắt nếu không bắt đầu sạc trong 90 giây."</string>
 	<string name="privacy_password_settings_summary">Bảo vệ mật khẩu riêng tư được sử dụng cho những ứng dụng có thể chứa thông tin nhạy cảm</string>
+	<string name="bluetooth_disable_mi_fast_connect">Tắt Kết nối nhanh Mi</string>
+	<string name="bluetooth_disable_mi_fast_connect_summary">Tắt tính năng Kết nối nhanh Mi</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Độ trễ</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Bluetooth Audio LHDC Codec:
+Độ trễ"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Chất lượng phát</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Bluetooth Audio LHDC Codec:
+Chất lượng phát"</string>
+	<string name="bt_lhdc_declaration">Khi một thiết bị Bluetooth hỗ trợ LHDC, nó sẽ được kết nối tự động. LHDC cung cấp trải nghiệm âm thanh chất lượng cao, tuy nhiên cũng hao pin hơn. Có thể có vấn đề xảy ra khi phát vì hạn chế phần cứng Bluetooth.</string>
+	<string name="bt_lhdc_dialog_summary">"LHDC cung cấp trải nghiệm âm thanh chất lượng cao, tuy nhiên cũng hao pin hơn
+Tính năng này có thể tắt trong [Cài đặt]"</string>
+	<string name="bt_lhdc_dialog_title">Thiết bị hiện tại hỗ trợ LHDC, có thể mặc định kết nối:</string>
+	<string name="bt_lhdc_open_dialog_summary">LHDC cung cấp trải nghiệm âm thanh chất lượng cao, tuy nhiên cũng hao pin hơn. Có thể có vấn đề xảy ra khi phát vì hạn chế phần cứng Bluetooth.</string>
+	<string name="bt_lhdc_open_dialog_title">Bật LHDC?</string>
+	<string name="bt_lhdc_property">Thuộc tính</string>
+	<string name="gxzw_add_fingerprint_area">Quét vân tay</string>
+	<string name="kid_space_settings">Không gian trẻ em</string>
 </resources>

@@ -1524,4 +1524,26 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (bên cạnh biểu tượng trong Bảng thông báo)</item>
 	</string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+		<item>Độ trễ thấp</item>
+		<item>Độ trễ trung bình</item>
+		<item>Độ trễ cao</item>
+	</string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+		<item>Độ trễ thấp (50~100ms)</item>
+		<item>Độ trễ trung bình (150~200ms)</item>
+		<item>Độ trễ cao (300~500ms)</item>
+	</string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+		<item>Tối ưu cho Chất lượng kết nối</item>
+		<item>Cân bằng Âm thanh và Chất lượng kết nối</item>
+		<item>Tối ưu cho Chất lượng âm thanh</item>
+		<item>Cố gắng nhất (Bit Rate tự động)</item>
+	</string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+		<item>Tối ưu cho Chất lượng kết nối (400kbps)</item>
+		<item>BCân bằng Âm thanh và Chất lượng kết nối (500/560kbps)</item>
+		<item>Tối ưu cho Chất lượng âm thanh (900kbps)</item>
+		<item>Cố gắng nhất (Bit Rate tự động)</item>
+	</string-array>
 </resources>

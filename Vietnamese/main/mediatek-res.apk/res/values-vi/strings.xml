@@ -199,4 +199,7 @@ Vui lòng thử lại sau %d giây."</string>
     <string name="every_day">Hàng ngày</string>
     <string name="never">Chưa bao giờ</string>
     <string name="day_concat">", "</string>
+	<string name="Midnight">Nửa đêm</string>
+	<string name="close">Đóng</string>
+	<string name="validity_period">Tính hợp lệ:</string>
 </resources>

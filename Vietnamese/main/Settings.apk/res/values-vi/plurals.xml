@@ -439,4 +439,10 @@
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" phút"</item>
     </plurals>
+	 <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Bạn có thể nhập tới %d ký tự</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Nhập ít nhất %d ký tự</item>
+    </plurals>
 </resources>

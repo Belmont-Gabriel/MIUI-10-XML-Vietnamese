@@ -41,4 +41,25 @@
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="search_menu_title">Tìm kiếm</string>
+	<string name="animation_clock_panel">Dạng sóng</string>
+    <string name="aod_lock_screen_date_lunar">e N, YY</string>
+    <string name="apply">Áp dụng</string>
+    <string name="background_icon">Nền</string>
+    <string name="black_white_clock_panel">Đồng hồ</string>
+    <string name="choose_aod_style">Chọn chủ đề</string>
+    <string name="clock_panel_icon">Mặt đồng hồ</string>
+    <string name="color_change_with_time_description">Tự động đổi màu chữ qua thời gian</string>
+    <string name="color_change_with_time_title">Tự động đổi màu chữ</string>
+    <string name="deep_space_planet">Ngoài không gian</string>
+    <string name="deep_space_planet_des">\"Ngoài không gian\" phản ánh những thay đổi ánh sáng xảy ra xung quanh bạn trong ngày. Hoàng hôn và bình minh trong chủ đề này đồng bộ với vị trí của bạn.</string>
+    <string name="large_time">Đồng hồ lớn</string>
+    <string name="mini_time">Đồng hồ nhỏ</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="only_show_bg_description">Không hiển thị thời gian, ngày và các mục khác</string>
+    <string name="only_show_bg_title">Chỉ hiển thị hình nền</string>
+    <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+    <string name="show_battery_status">Hiển thị trạng thái pin</string>
+    <string name="show_notification">Hiển thị thông báo</string>
+    <string name="standard_style">Tiêu chuẩn</string>
+    <string name="text_color">Màu chữ</string>
 </resources>
