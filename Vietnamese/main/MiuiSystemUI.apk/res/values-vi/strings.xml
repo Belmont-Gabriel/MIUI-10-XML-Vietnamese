@@ -1435,7 +1435,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="notification_tap_again">Chạm lại để mở</string>
      <string name="open_camera_hint_text">Vuốt biểu tượng để mở máy ảnh</string>
      <string name="open_extreme_power_save_mode_title">Bật Siêu tiết kiệm pin</string>
-     <string name="open_remote_center_hint_text">Vuốt biểu tượng để mở lối tắt</string>
+     <string name="open_remote_center_hint_text">Vuốt sàng phải để mở lối tắt</string>
      <string name="other">Khác</string>
      <string name="overview">Tổng quan</string>
      <string name="phone_hint">Trượt từ biểu tượng để Gọi điện</string>
@@ -1825,7 +1825,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="lock_screen_magazine_default_content">Phần hàng ngày của hình ảnh mới</string>
     <string name="lock_screen_magazine_default_entry_title">Chi tiết hình nền</string>
     <string name="lock_screen_magazine_default_title">Tạp chí khóa màn hình</string>
-    <string name="open_lock_screen_magazine_hint_text">Vuốt biểu tượng để thêm tùy chọn</string>
+    <string name="open_lock_screen_magazine_hint_text">Vuốt sang phải để thêm tùy chọn</string>
     <string name="plugins">Phần mở rộng</string>
     <string name="recents_title_app_manager">Quản lý ứng dụng</string>
     <string name="recents_title_game">Trò chơi</string>

@@ -1016,7 +1016,7 @@ thiết bị của bạn"</string>
     <string name="btn_text_optimize_now">Tối ưu</string>
     <string name="btn_text_optimize_manually">Tối ưu thủ công</string>
     <string name="battery_history_activity_title">Lịch sử</string>
-    <string name="btn_text_goto_power_rank">Xem xếp hạng pin</string>
+    <string name="btn_text_goto_power_rank">Xem tất cả thống kê</string>
     <string name="btn_text_goto_setup">Vào Cài đặt</string>
     <string name="power_save_title_text">Tiết kiệm Pin</string>
     <string name="power_save_summary_text">Bật Tiết kiệm Pin để giảm hoạt động nền ứng dụng, dừng đồng bộ, và hạn chế tối đa hiệu ứng hình ảnh.</string>
@@ -2991,4 +2991,16 @@ Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
 	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ cài đặt ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
 	<string name="system_permission_declare_use_network_no_permission">Kết nối mạng</string>
 	<string name="system_permission_declare_user_agreement">&lt;Data&gt;Đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
+	<string name="battery_statistics_activity_title">Thống kê sử dụng pin</string>
+	<string name="pc_battery_detail_curve_reference_now">Bây giờ</string>
+	<string name="pc_battery_detail_device_item_title">Thống kê sử dụng pin</string>
+	<string name="pc_battery_history_battery_detail_menu_item">Chi tiết</string>
+	<string name="pc_battery_history_consume_rank_menu_item">Xếp hạng</string>
+	<string name="pc_battery_history_rank_mha_menu_item">mAh</string>
+	<string name="pc_battery_history_rank_percent_menu_item">Phần trăm</string>
+	<string name="pc_statistics_battery_last_hour_minute">%1$d giờ %2$d phút còn lại</string>
+	<string name="pc_statistics_battery_use_hour_minute">%1$d giờ  %2$d phút từ lần sạc cuối</string>
+	<string name="pc_statistics_battery_use_summary">%s từ lần sạc cuối</string>
+	<string name="pc_statistics_battery_use_title">Sử dụng pin</string>
+	<string name="system_permission_declare_no_say_no_non_mandatory">"Nếu bạn chọn không cấp quyền truy cập cho chúng tôi hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này có thể có phần không sử dụng được."</string>
 </resources>

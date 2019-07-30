@@ -19,10 +19,10 @@
         <item quantity="other">Thêm %d phút</item>
     </plurals>
 	<plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">Biểu tượng ứng dụng Màn hình chính không ẩn cho %d ứng dụng</item>
+        <item quantity="other">%d biểu tượng ứng dụng được ẩn</item>
     </plurals>
 	<plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Biểu tượng ứng dụng Màn hình chính đã ẩn cho %d ứng dụng</item>
+        <item quantity="other">%d biểu tượng ứng dụng không được ẩn</item>
     </plurals>
 	<plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Đặt lại dữ liệu gốc (%dgiây)</item>
@@ -307,5 +307,17 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s phút</item>
+    </plurals>
+	<plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d phút từ lần sạc cuối</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d giây từ lần sạc cuối</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d phút còn lại</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d giờ còn lại</item>
     </plurals>
 </resources>

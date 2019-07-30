@@ -8925,8 +8925,8 @@ Kích thước cập nhật Delta: %2$s"</string>
 
 Tính năng này sẽ tự động tắt nếu không bắt đầu sạc trong 90 giây."</string>
 	<string name="privacy_password_settings_summary">Bảo vệ mật khẩu riêng tư được sử dụng cho những ứng dụng có thể chứa thông tin nhạy cảm</string>
-	<string name="bluetooth_disable_mi_fast_connect">Tắt Kết nối nhanh Mi</string>
-	<string name="bluetooth_disable_mi_fast_connect_summary">Tắt tính năng Kết nối nhanh Mi</string>
+	<string name="bluetooth_disable_mi_fast_connect">Tắt Liên kết Mi</string>
+	<string name="bluetooth_disable_mi_fast_connect_summary">Tắt tính năng Liên kết Mi</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Bluetooth Audio LHDC Codec:
 Độ trễ"</string>
@@ -8942,4 +8942,5 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="bt_lhdc_property">Thuộc tính</string>
 	<string name="gxzw_add_fingerprint_area">Quét vân tay</string>
 	<string name="kid_space_settings">Không gian trẻ em</string>
+	<string name="status_bar_settings_show_weather">Hiển thị thời tiết trong Bảng thông báo</string>
 </resources>

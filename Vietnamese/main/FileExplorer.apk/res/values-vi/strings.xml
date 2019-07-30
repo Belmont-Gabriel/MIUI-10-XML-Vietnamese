@@ -1235,6 +1235,12 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="tab_app">Thêm</string>
 	<string name="text_select_all">Chọn tất cả</string>
 	<string name="text_select_nothing">Bỏ chọn tất cả</string>
-	<string name="home_title">Màn hình chính</string>
+	<string name="home_title">Quản lý tập tin</string>
 	<string name="privacy_policy">Chính sách Riêng tư</string>
+	<string name="otg_file_security_note">Bảo mật OTG</string>
+	<string name="app_function">Quản lý tập tin trên thiết bị</string>
+	<string name="error_file_already_exists">Tệp này đã tồn tại</string>
+	<string name="function_file_operation">"Để truy cập và mở tệp; "</string>
+	<string name="function_set_private">"Để xem và mã hóa tệp; "</string>
+	<string name="function_use_imei">"Để truy cập IMEI và tập tin đã mã hóa; "</string>
 </resources>

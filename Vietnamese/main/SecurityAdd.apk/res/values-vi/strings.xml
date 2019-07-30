@@ -264,4 +264,19 @@
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="uninstall">Gỡ cài đặt</string>
+	<string name="app_select_title">Thêm ứng dụng thường dùng</string>
+	<string name="superpower_app_add">Thêm</string>
+	<string name="superpower_app_finish">Xong</string>
+	<string name="superpower_battery_dangerous">Kết nối bộ sạc sớm nhất có thể</string>
+	<string name="superpower_date">EEEE, dd MMMM</string>
+	<string name="superpower_dialog_app_select_content">Ứng dụng bê thứ ba thường tốn pin hơn ứng dụng hệ thống. Vẫn thêm?</string>
+	<string name="superpower_dialog_app_select_title">Chú ý</string>
+	<string name="superpower_incharging">Đang sạc</string>
+	<string name="superpower_progress_battery_last">%s còn lại</string>
+	<string name="superpower_progress_left_time">%1$d giờ %2$d phút</string>
+	<string name="superpower_search_hint">Tìm kiếm ứng dụng</string>
+	<string name="superpower_select_app_title">Bố cục Màn hình chính</string>
+	<string name="superpower_settings">Siêu tiết kiệm pin</string>
+	<string name="superpower_system">Đề xuất</string>
+	<string name="superpower_third">Ứng dụng bên thứ ba</string>
 </resources>

@@ -218,7 +218,7 @@
 	<string name="voice_assistant_tips">Đã nâng cấp để có thể nhấn giữ nút nguồn để gọi trợ lý giọng nói</string>
 	<string name="autofill_save_message">Cho phép MIUI lưu tài khoản và mật khẩu của bạn?</string>
 	<string name="autofill_save_ok">Cho phép</string>
-	<string name="autofill_save_sub_message">"Bạn sẽ có thể quản lý mật khẩu đã lưu trong Cài đặt &gt; Cài đặt bổ sung &gt; Riêng tư &gt; Quản lý mật khẩu."</string>
+	<string name="autofill_save_sub_message">"Bạn sẽ có thể quản lý mật khẩu đã lưu trong Cài đặt &gt; Mật khẩu &amp; bảo mật &gt; %s."</string>
 	<string name="autofill_save_title">Tự động lưu mật khẩu</string>
 	<string name="popup_camera_cancel_popup">Hủy</string>
 	<string name="popup_camera_continue_popup">Mở Máy ảnh</string>
@@ -232,4 +232,5 @@
 	<string name="frequent_email">Email thường xuyên</string>
 	<string name="user_switching_dialog_switch_into_kid_space">Chuyển sang Không gian trẻ em…</string>
 	<string name="user_switching_dialog_switch_out_kid_space">Đang rời Không gian trẻ em…</string>
+	<string name="autofill_service_name">Quản lý mật khẩu</string>
 </resources>

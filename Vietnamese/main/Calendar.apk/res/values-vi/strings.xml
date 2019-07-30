@@ -725,10 +725,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="event_created_fail_text">Tạo lời nhắc sự kiện không thành công</string>
     <string name="event_created_text">Đã tạo lời nhắc sự kiện</string>
     <string name="feed_actionbar_day">Ngày</string>
-    <string name="feed_close_open_feed">Mở chú ý hôm nay</string>
+    <string name="feed_close_open_feed">Mở đăng ký hôm nay</string>
     <string name="feed_dislike_reason">Không quan tâm</string>
     <string name="feed_guide_dialog_title">Chọn một kênh quan tâm</string>
-    <string name="feed_guide_setting_close">Đóng chú ý hôm nay</string>
+    <string name="feed_guide_setting_close">Hủy đăng ký hôm nay</string>
     <string name="feed_guide_setting_mananger">Thêm kênh đăng ký</string>
     <string name="feed_guide_subscribe">Mở ngay</string>
     <string name="feed_guide_subscribe_failed">Không thể mở</string>
@@ -748,7 +748,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="feed_manager_ok">Hoàn thành</string>
     <string name="feed_manager_subscribed">Đăng ký của tôi</string>
     <string name="feed_manager_subscribed_empty_msg">Chưa đăng ký kênh, đăng ký ngay</string>
-    <string name="feed_manager_title">Đăng ký kênh ưa thích của bạn</string>
+    <string name="feed_manager_title">Tập trung vào kênh ưa thích</string>
     <string name="feed_manager_unsubscribed">Kênh đề xuất</string>
     <string name="feed_manager_unsubscribed_empty_msg">Hãy theo dõi để biết thêm các kênh thú vị</string>
     <string name="feed_title">Chú ý hôm nay</string>
@@ -1279,4 +1279,11 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="todo_audio_event">"[Tác vụ giọng nói] "</string>
 	<string name="todo_event">Nhiệm vụ sắp tới</string>
 	<string name="year_indicator_month">Ngày đầu tiên của âm lịch</string>
+	<string name="at_least_one_channel">Theo dõi ít nhất 1 kênh</string>
+	<string name="menstruation_card_default_title">Không có dữ liệu trợ lý kỳ kinh nguyệt</string>
+	<string name="menstruation_card_error_sub_title">Có thể thử thoát và mở lại Lịch</string>
+	<string name="menstruation_card_error_title">Lỗi yêu cầu dữ liệu hiện tại</string>
+	<string name="menstruation_card_private_mode_sub_title">Đang trong chế độ riêng tư</string>
+	<string name="menstruation_card_private_mode_title">Chu kỳ kinh nguyệt****</string>
+	<string name="subscription_service">Đăng ký dịch vụ</string>
 </resources>
