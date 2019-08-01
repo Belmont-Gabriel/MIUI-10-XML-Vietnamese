@@ -1865,4 +1865,12 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="auto_floatlayer_e_c">Trang chuyển hướng gặp lỗi chặn lớp phủ</string>
 	<string name="auto_floatlayer_show_e_a">Tiếp xúc</string>
 	<string name="auto_floatlayer_show_e_n">Lỗi trang tiếp xúc lớp phủ</string>
+	<string name="channel_edit">Sửa</string>
+	<string name="channel_header_description">Nhấn để vào, nhấn giữ để sửa</string>
+	<string name="channel_header_title">Kênh của tôi</string>
+	<string name="channel_more_description">Chạm để thêm kênh</string>
+	<string name="channel_more_title">Thêm Kênh</string>
+	<string name="custom_head_weather">Thời tiết</string>
+	<string name="multi_window_max_tips">Số cửa sổ đã đạt giới hạn</string>
+	<string name="pref_personalized_customization">Tùy chỉnh cá nhân</string>
 </resources>

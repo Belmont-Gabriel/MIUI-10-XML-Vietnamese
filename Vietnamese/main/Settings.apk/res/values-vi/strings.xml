@@ -8943,4 +8943,9 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="gxzw_add_fingerprint_area">Quét vân tay</string>
 	<string name="kid_space_settings">Không gian trẻ em</string>
 	<string name="status_bar_settings_show_weather">Hiển thị thời tiết trong Bảng thông báo</string>
+	<string name="color_led_charging_summary">Sẽ tắt khi pin được sạc</string>
+	<string name="color_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc Trò chơi bật</string>
+	<string name="color_led_red_packets_summary">Hiển thị hiệu ứng cho bao lì xì từ WeChat và QQ khi Trợ lý lì xì bật</string>
+	<string name="color_led_special_scene_title">Hiệu ứng đặc biệt</string>
+	<string name="color_led_summary">Không hoạt động ở chế độ Không làm phiền</string>
 </resources>

@@ -1442,4 +1442,20 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="set_as_alarm_clock_ringtone">Báo thức</string>
 	<string name="song_picker_complete">Xong</string>
 	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
+	<string name="dialog_my_playlist_online_changed_merge">Giữ</string>
+	<string name="dialog_my_playlist_online_changed_message">Có vẻ như danh sách phát này đã thay đổi. Bạn có thể thay thế nó bằng phiên bản mới hoặc giữ phiên bản hiện tại.</string>
+	<string name="dialog_my_playlist_online_changed_replace">Thay thế</string>
+	<string name="dialog_my_playlist_set_to_public">Chia sẻ danh sách phát này lên Mi Music</string>
+	<string name="my_playlist_add_song">Thêm bài hát</string>
+	<string name="my_playlist_create_self_playlist">Tạo danh sách phát với bài hát ưa thích của bạn</string>
+	<string name="my_playlist_set_to_private">Đặt Riêng tư</string>
+	<string name="my_playlist_set_to_public">Đặt Công khai</string>
+	<string name="permission_open">Cho phép</string>
+	<string name="request_overlay_permission_desc">Cho phép Mi Music hiển thị cửa sổ nổi để có thể sử dụng tính năng này.</string>
+	<string name="search_in_youtube">Tìm trên YouTube</string>
+	<string name="show_float_first_hint">Thu nhỏ trình phát</string>
+	<string name="toast_my_playlist_illegal_name">"Tiêu đề của danh sách phát này không hợp lệ. Đổi tên danh sách phát."</string>
+	<string name="toast_my_playlist_set_to_private">"Danh sách phát này đã đặt thành riêng tư. Người khác không thể thấy nó."</string>
+	<string name="toast_my_playlist_set_to_public">Danh sách phát này đã đặt thành công khai. Người khác có thể thấy nó.</string>
+	<string name="permission_required">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
 </resources>

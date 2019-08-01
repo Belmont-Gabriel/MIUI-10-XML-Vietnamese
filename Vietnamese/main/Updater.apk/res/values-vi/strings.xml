@@ -494,4 +494,5 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="menu_back_button">Quay lại</string>
 	<string name="default_filedownloader_notification_content">Trình tải xuống tệp đang chạy.</string>
 	<string name="default_filedownloader_notification_title">Trình tải xuống tệp</string>
+	<string name="btn_wrong_md5">MD5 sai. Chạm để xóa ROM!</string>
 </resources>

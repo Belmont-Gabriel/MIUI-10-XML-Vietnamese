@@ -36,7 +36,7 @@
     <string name="account_settings_incoming_summary">Cài đặt tên người dùng, mật khẩu và máy chủ khác</string>
     <string name="account_settings_login_dialog_content_fmt">"Tên người dùng hoặc mật khẩu tài khoản %s không chính xác.
  Cập nhật ngay?"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Không thể đăng nhập vào tài khoản %s. Phản hồi máy chủ: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Không thể đăng nhập vào tài khoản %1$s. Phản hồi máy chủ: %2$s</string>
     <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Bạn cần phải làm mới Mail thủ công để đồng bộ</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Bạn cần phải đồng bộ Mail thủ công để có thể đồng bộ tin nhắn và sự kiện lịch.</string>
@@ -666,7 +666,7 @@ Hãy thử hộp thư khác."</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Cho phép Mail truy cập thông tin lưu trữ, liên hệ và lịch trong Cài đặt</string>
     <string name="open_external_storage_and_contacts_permission">Cho phép Mail truy cập lưu trữ và liên hệ trong Cài đặt</string>
     <string name="others_mail">Khác</string>
-    <string name="others_mail_des">(Tương thích với dịch vụ mail 600K)</string>
+    <string name="others_mail_des">Mục này cho dịch vụ mail khác hoặc dịch vụ mail doanh nghiệp</string>
     <string name="outbox_alert_button_no_resend">Không gửi</string>
     <string name="outbox_alert_button_resend">Gửi lại</string>
     <string name="outbox_alert_certificate_error">Liên hệ quản trị hệ thống email và cập nhật chứng nhận của bạn.</string>
@@ -864,7 +864,7 @@ Hãy thử hộp thư khác."</string>
     <string name="reply">Trả lời</string>
     <string name="reply_add_bodycontent">Thêm trả lời vào nội dung thư?</string>
     <string name="reply_all">Trả lời tất cả</string>
-    <string name="reply_attribution" formatted="false">Vào %s, %s đã viết:</string>
+    <string name="reply_attribution">Vào %1$s, %2$s đã viết:</string>
     <string name="report_phishing">Báo cáo lừa đảo</string>
     <string name="report_spam">Báo cáo thư rác</string>
     <string name="request_copy_db_to_disk">Email yêu cầu sao chép cơ sở dữ liệu của bạn vào một tập tin</string>
@@ -978,7 +978,7 @@ Hãy thử hộp thư khác."</string>
     <string name="toast_bar_insufficient_memory_space">Không thể nhận email. Không đủ dung lượng lưu trữ.</string>
     <string name="toast_bar_invalid_account">Thông tin tài khoản đã hết hạn. Chạm để đăng nhập lại.</string>
     <string name="toast_bar_no_connection_network">Bạn không có kết nối internet</string>
-    <string name="toast_bar_open_gmail_synchronization">Không thể kết nối Gmail. Hãy bật proxy Gmail.</string>
+    <string name="toast_bar_open_gmail_synchronization">Không thể kết nối Gmail. Vui lòng kiểm tra cài đặt mạng.</string>
     <string name="toast_bar_send_fail_remind">Không thể gửi email. Đã lưu email trong thư mục \"Hộp thư đi\".</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Để đồng bộ thông tin lịch và liên hệ, cung cấp quyền yêu cầu cho Mail trong Cài đặt</string>
     <string name="toastbar_calendar_permission_switch_close">Để nhận nhắn nhở lịch, cung cấp quyền yêu cầu cho Mail trong Cài đặt</string>
@@ -1167,7 +1167,7 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="float_window_content">Nhận biết rằng bạn đang sử dụng hộp thư, nhấn Xác nhận giúp bạn để tự động điền tài khoản Email 139 và mật khẩu.</string>
 	<string name="help_config">Cấu hình thủ công</string>
 	<string name="no_remind">Không nhắc lại</string>
-	<string name="photo_view_count" formatted="false">%d trên %d</string>
+	<string name="photo_view_count">%1$d trên %2$d</string>
 	<string name="folder_empty_to_fresh">Thư chưa được đồng bộ. Kéo xuống để đồng bộ</string>
 	<string name="folder_no_mails">Không có thư trong thư mục này</string>
 	<string name="toast_bar_sync_failed_mi_authority">Đồng bộ hóa không thành công. Vui lòng thử lại sau. Để đăng nhập vào thiết bị mới, vui lòng cho phép thiết bị thông qua trung tâm tài khoản mạng nội bộ hoặc lời nhắc SMS.</string>
@@ -1179,7 +1179,7 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="default_opening_attchemnt_mode">Mở tệp đính kèm sử dụng ứng dụng mặc đinh</string>
 	<string name="delete_contact_content">Xóa liên hệ này ngay?</string>
 	<string name="local_search_result">%s Kết quả đã đồng bộ</string>
-	<string name="login_err_message">Mật khẩu  bạn nhập không đúng. Bạn có thể cần mã xác thực để đăng nhập. Nếu bạn cần đặt lại mật khẩu, truy cập  https://email.163.com/ để thấy các tùy chọn khả dụng cho bạn.</string>
+	<string name="login_err_message">%1$sBạn có thể cần mã xác thực để đăng nhập. Nếu bạn cần đặt lại mật khẩu, truy cập  https://email.163.com/ để thấy các tùy chọn khả dụng cho bạn.</string>
 	<string name="print_scheduler_title">In tất cả lịch trình</string>
 	<string name="recommend_protocal">Giao thức đề xuất</string>
 	<string name="update_domain_summary">Cập nhật danh sách tên miền và cấu hình</string>
@@ -1194,10 +1194,11 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
 	<string name="mi_sync_erroe_toast">"Đã xảy ra lỗi mạng: "</string>
 	<string name="mi_sync_erroe_toast_other">"Đã xảy ra lỗi máy chủ: "</string>
 	<string name="no_more_mail">Không có thêm tin nhắn</string>
-	<string name="no_search_results">"Không thể tìm kết quả"</string>
+	<string name="no_search_results">Tiếp tục tìm kiếm trên máy chủ</string>
 	<string name="pull_load_more">Kéo lên để tải thêm</string>
 	<string name="remote_search_body_too_large_prompt">"Email này quá dài.
 Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính."</string>
 	<string name="search_remote_again">Không có mạng, thử lại</string>
 	<string name="sync_failed_mi_authority_view_detail">Xem chi tiết</string>
+	<string name="login_failed_tip">Không thể đăng nhập, thử lại sau</string>
 </resources>
