@@ -336,4 +336,5 @@
 	<string name="wx_not_installed_toast">Tính năng này cần mở WeChat, vui lòng cài WeChat</string>
 	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>

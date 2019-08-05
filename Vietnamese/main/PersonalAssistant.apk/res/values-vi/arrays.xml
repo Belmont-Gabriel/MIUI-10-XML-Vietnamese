@@ -76,4 +76,37 @@
     <string-array name="sms_exclude_category">
         <item>Trả nợ</item>
     </string-array>
+	<string-array name="province_for_short">
+		<item>Bắc Kinh</item>
+		<item>Thiên Tân</item>
+		<item>Thượng Hải</item>
+		<item>Trùng Khánh</item>
+		<item>Hà Bắc</item>
+		<item>Hà Nam</item>
+		<item>Vân Nam</item>
+		<item>Liêu Ninh</item>
+		<item>Hắc Long Giang</item>
+		<item>Hồ Nam</item>
+		<item>An Huy</item>
+		<item>Sơn Đông</item>
+		<item>Tân Cương</item>
+		<item>Giang Tô</item>
+		<item>Chiết Giang</item>
+		<item>Giang Tây</item>
+		<item>Hồ Bắc</item>
+		<item>Quảng Tây</item>
+		<item>Cam Túc</item>
+		<item>Sơn Tây</item>
+		<item>Mông Tự</item>
+		<item>Thiểm Tây</item>
+		<item>Cát Lâm</item>
+		<item>Phúc Kiến</item>
+		<item>Quý Châu</item>
+		<item>Quảng Đông</item>
+		<item>Thanh Hải</item>
+		<item>Thành Quan</item>
+		<item>Tứ Xuyên</item>
+		<item>Phủ Ninh</item>
+		<item>Hải Nam</item>
+	</string-array>
 </resources>

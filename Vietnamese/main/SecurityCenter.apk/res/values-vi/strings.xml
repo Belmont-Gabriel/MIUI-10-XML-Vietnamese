@@ -1195,7 +1195,7 @@ thiết bị của bạn"</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_update">Cập nhật hệ thống</string>
-    <string name="sp_settings_check_item_title_virus_exception">Danh sách quét virus ngoại lệ</string>
+    <string name="sp_settings_check_item_title_virus_exception">Ngoại lệ</string>
     <string name="sp_settings_check_item_title_sign_exception">Danh sách ngoại lệ ứng dụng chính thức</string>
     <string name="sp_settings_check_item_summary_virus_exception">Ứng dụng danh sách ngoại lệ sẽ không tiến hành quét virus</string>
     <string name="sp_settings_check_item_summary_sign_exception">Quản lý danh sách ngoại lệ ứng dụng chính thức</string>
@@ -3003,4 +3003,9 @@ Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
 	<string name="pc_statistics_battery_use_summary">%s từ lần sạc cuối</string>
 	<string name="pc_statistics_battery_use_title">Sử dụng pin</string>
 	<string name="system_permission_declare_no_say_no_non_mandatory">"Nếu bạn chọn không cấp quyền truy cập cho chúng tôi hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này có thể có phần không sử dụng được."</string>
+	<string name="pc_search_keywords_battery">Pin</string>
+	<string name="pc_search_keywords_battery_save">Tiết kiệm pin</string>
+	<string name="pc_search_keywords_battery_use">Sử dụng pin</string>
+	<string name="pc_search_keywords_capacity">Dung lượng pin</string>
+	<string name="pc_search_keywords_property">Hiệu năng</string>
 </resources>

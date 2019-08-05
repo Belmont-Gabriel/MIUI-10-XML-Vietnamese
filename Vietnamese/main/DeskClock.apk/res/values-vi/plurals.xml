@@ -61,4 +61,7 @@
 	<plurals name="snooze_duration_changed_info">
         <item quantity="other">Thay đổi khoảng thời gian báo lại thành %d phút</item>
     </plurals>
+	<plurals name="snooze_duration_desc">
+        <item quantity="other">Mỗi %1$s phút, kêu %2$s lần</item>
+    </plurals>
 </resources>

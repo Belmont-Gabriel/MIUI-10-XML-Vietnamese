@@ -1458,4 +1458,5 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="toast_my_playlist_set_to_private">"Danh sách phát này đã đặt thành riêng tư. Người khác không thể thấy nó."</string>
 	<string name="toast_my_playlist_set_to_public">Danh sách phát này đã đặt thành công khai. Người khác có thể thấy nó.</string>
 	<string name="permission_required">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>

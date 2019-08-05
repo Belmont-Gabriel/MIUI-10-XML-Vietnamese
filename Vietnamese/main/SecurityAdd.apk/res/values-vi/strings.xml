@@ -279,4 +279,5 @@
 	<string name="superpower_settings">Siêu tiết kiệm pin</string>
 	<string name="superpower_system">Đề xuất</string>
 	<string name="superpower_third">Ứng dụng bên thứ ba</string>
+	<string name="superpower_exit_hint">Đang tắt Siêu tiết kiệm pin…</string>
 </resources>

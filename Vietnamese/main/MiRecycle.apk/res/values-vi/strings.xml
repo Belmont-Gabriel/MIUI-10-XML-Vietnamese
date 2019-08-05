@@ -207,4 +207,9 @@
     <string name="done_title_one">Đăng nhập vào <u><font color="#3F87EA"><a href="https://oneassist.in/">OneAssist.in</a></font></u>" hoặc gọi 1800 123
 3330 để gửi khiếu nại"</string>
 	<string name="main_entrance">Bán điện thoại của bạn</string>
+	<string name="cs_go_check_order">Xem trong Cashify</string>
+	<string name="dialog_content_cs">"Dịch vụ tái chế không còn được cung cấp. Nếu bạn đã tạo đơn đặt hàng ở đây, liên hệ OneAssist trước 31 tháng 8. Bạn có thể bỏ qua tin nhắn này nếu bạn chưa đăng ký dịch vụ tái chế."</string>
+	<string name="dialog_content_oa">"Dịch vụ bảo hành mở rộng không còn được cung cấp. Nếu bạn đã tạo đơn đặt hàng ở đây, liên hệ Cashify trước 31 tháng 8. Bạn có thể bỏ qua tin nhắn này nếu bạn chưa đăng ký bảo hành mở rộng."</string>
+	<string name="oa_go_check_order">Xem trong OneAssist</string>
+	<string name="dialog_title_attention">Chú ý</string>
 </resources>

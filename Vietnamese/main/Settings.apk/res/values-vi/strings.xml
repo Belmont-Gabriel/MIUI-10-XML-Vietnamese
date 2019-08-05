@@ -8948,4 +8948,23 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="color_led_red_packets_summary">Hiển thị hiệu ứng cho bao lì xì từ WeChat và QQ khi Trợ lý lì xì bật</string>
 	<string name="color_led_special_scene_title">Hiệu ứng đặc biệt</string>
 	<string name="color_led_summary">Không hoạt động ở chế độ Không làm phiền</string>
+	<string name="full_screen_keyboard_optimization">Bàn phím nâng cao</string>
+	<string name="input_method_function_clipboard">Clipboard và cụm từ thường xuyên</string>
+	<string name="input_method_function_clipboard_des">Chạm để xem nội dung clipboard và cụm từ thường xuyên</string>
+	<string name="input_method_function_no_function">Không</string>
+	<string name="input_method_function_no_function_des">"Không hiển thị lối tắt"</string>
+	<string name="input_method_function_switch">Chuyển giữa các bàn phím</string>
+	<string name="input_method_function_switch_des">Chạm để chuyển giữa các bàn phím</string>
+	<string name="input_method_function_voice">Nhập liệu giọng nói</string>
+	<string name="input_method_function_voice_des">Chạm để sử dụng nhập liệu giọng nói</string>
+	<string name="input_method_function_xiaoai">Nhập liệu giọng nói Mi AI</string>
+	<string name="input_method_function_xiaoai_des">Chạm để sử dụng Nhập liệu giọng nói Mi AI</string>
+	<string name="left_function_key">Lối tắt trái</string>
+	<string name="normal_bottom_height_of_keyboard">Thường</string>
+	<string name="power_usage_summary_title_new">Pin &amp; Hiệu suất</string>
+	<string name="raise_bottom_height_of_keyboard">Nâng cao</string>
+	<string name="raise_bottom_height_of_keyboard_sub_title">Một thanh chứa lối tắt tùy chỉnh sẽ xuất hiện bên dưới bàn phím nếu bạn chuyển sang chế độ Nâng cao</string>
+	<string name="raise_bottom_height_of_keyboard_title">Điều chỉnh bàn phím với Màn hình tràn cạnh</string>
+	<string name="right_function_key">Lối tắt phải</string>
+	<string name="xiaomi_cloud_service_description_without_contacts">Đám mây đồng bộ ảnh, sao lưu ứng dụng và cài đặt, và giúp bạn tìm điện thoại sử dụng Tìm thiết bị.</string>
 </resources>

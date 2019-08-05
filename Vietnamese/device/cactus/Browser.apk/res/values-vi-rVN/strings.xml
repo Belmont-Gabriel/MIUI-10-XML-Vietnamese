@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_clear_cache">Xóa bộ nhớ đệm (%s1Cài đặt%s2 - Xóa dữ liệu).</string>
+	<string formatted="false" name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Xóa bộ nhớ đệm và cookies (%s1Cài đặt%s2 - Xóa dữ liệu, Thông tin tài khoản của bạ sẽ mất).</string>
+</resources>

@@ -693,6 +693,8 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="accessibility_lighting_panel_off">Đóng bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_lighting_panel_on">Mở bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_record_button">Nút ghi âm</string>
+    <string name="accessibility_ultra_pixel_photography_off">Đã tắt siêu nét %d</string>
+    <string name="accessibility_ultra_pixel_photography_on">Đã bật siêu nét %d</string>
     <string name="accessibility_video_capture_button">Nút chụp ảnh khi quay video</string>
     <string name="accessibility_video_pause_button">Tạm dừng ghi</string>
     <string name="accessibility_video_resume_button">Tiếp tục ghi</string>
@@ -732,6 +734,8 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="pref_camera_normal_wide_ldc_description">Khắc phục hiện tượng méo mặt ở rìa ảnh</string>
     <string name="pref_camera_ultra_wide_ldc_description">Sửa méo hình ở chế độ góc siêu rộng</string>
     <string name="pref_camera_ultra_wide_mode_title">Chế độ góc siêu rộng</string>
+    <string name="ultra_pixel_photography_close_tip">Chế độ siêu nét %d đã đóng</string>
+    <string name="ultra_pixel_photography_open_tip">Chế độ siêu nét %d đã mở</string>
     <string name="ultra_widem_mode_use_hint_text">"Bật chế độ góc siêu rộng để ghi lại ảnh rộng hơn
 Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="beauty_body_slim_count_tip">Chỉ hỗ trợ chụp ảnh một người</string>
@@ -1161,6 +1165,9 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="accessibility_ultra_pixel_photography_64mp_on">64MP tắt</string>
 	<string name="calibration_guide_tittle">Máy ảnh chưa hiệu chuẩn</string>
 	<string name="calibration_hint_usage">Máy ảnh chưa hiệu chuẩn sẽ có tác động tiêu cực đến chất lượng hình ảnh. Vui lòng liên hệ với dịch vụ sau bán hàng.</string>
+	<string name="pref_menu_ultra_pixel_photography_64mp">64MP siêu nét</string>
+	<string name="ultra_pixel_photography_64mp_close_tip">64MP siêu nét đã tắt</string>
+	<string name="ultra_pixel_photography_64mp_open_tip">64MP bật</string>
 	<string name="albums">Album</string>
 	<string name="app_details">"Ứng dụng: "</string>
 	<string name="auto">Tự động</string>
@@ -1242,4 +1249,6 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="zoom_no_support_tip_64M">Thu phóng không được hỗ trợ ở chế độ 64MP</string>
 	<string name="pref_camera_touch_focus_delay_title">Kéo dài thời gian chờ lấy nét</string>
 	<string name="mimoji_app_name">Máy ảnh Vui nhộn</string>
+	<string name="macro_mode_use_hint_text_title">Chế độ macro</string>
+	<string name="ultra_pixel_zoom_no_support_tip">"Không hỗ trợ thu phóng trong chế độ %s Ultra HD"</string>
 </resources>

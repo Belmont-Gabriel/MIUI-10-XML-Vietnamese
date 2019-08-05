@@ -1243,4 +1243,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="function_file_operation">"Để truy cập và mở tệp; "</string>
 	<string name="function_set_private">"Để xem và mã hóa tệp; "</string>
 	<string name="function_use_imei">"Để truy cập IMEI và tập tin đã mã hóa; "</string>
+	<string name="hint_switch_to_grid_mode">Đã chuyển sang dạng lưới</string>
+	<string name="hint_switch_to_list_mode">Đã chuyển sang dạng danh sách</string>
 </resources>

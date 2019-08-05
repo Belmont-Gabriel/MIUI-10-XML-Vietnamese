@@ -175,7 +175,7 @@
     <string name="module_download_fail">Không thể tải xuống âm thanh mở rộng</string>
     <string name="module_download_msg">Để Báo thức thông minh MIUI khả dụng, Đồng hồ cần tải tập tin âm thanh. Báo thức thông minh chứa các tính năng âm thanh cho phép đưa thông tin thời tiết hiện tại vào báo thức. Tải ngay?</string>
     <string name="module_download_msg_golbal">Đồng hồ cần tải xuống tệp âm thanh cho tiếng ồn tự nhiên và báo thức thông minh MIUI. Tải ngay?</string>
-    <string name="module_download_no_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
+    <string name="module_download_no_network">Đồng hồ cần kết nối mạng để tải xuống tệp âm thanh. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="module_download_ok">Cho phép</string>
     <string name="module_download_success">Tải xuống âm thanh mở rộng thành công</string>
     <string name="module_download_title">Yêu cầu âm thanh mở rộng</string>
@@ -294,4 +294,46 @@
 	<string name="module_update_success_control">Đã hiểu</string>
 	<string name="no_alarm_setting">Không có báo thức</string>
 	<string name="no_worldclock">Không có đồng hồ</string>
+	<string name="life_post_setting_open_background_subtitle">Hiển thị hình nền cho báo thức liên quan</string>
+	<string name="life_post_setting_open_background_title">Hiển thị ảnh nền</string>
+	<string name="life_post_setting_open_summary">Hiển thị thông tin thời tiết trong báo thức đầu tiên được tắt trong khoảng 4:00 đến 10:00</string>
+	<string name="listen_news_privacy">&lt;Data&gt;Để cung cấp dịch vụ được cá nhân hóa bao gồm tin tức buổi sáng trong báo thức, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="module_dialog_negative">Không đồng ý</string>
+	<string name="module_dialog_neutral">Đã hiểu</string>
+	<string name="module_dialog_positive">Đồng ý</string>
+	<string name="module_download_failure">"Không thể tải xuống âm thanh. Kiểm tra cài đặt mạng và thử lại."</string>
+	<string name="module_weather_ringtone_download_data">Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết. Đồng hồ cần tải xuống khoảng ≈30MB âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết. Đồng hồ cần kết nối mạng để tải xuống &amp;#8776;30MB âm thanh. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="module_weather_ringtone_download_wifi">Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết. Đồng hồ cần tải xuống âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết. Đồng hồ cần kết nối mạng để tải xuống âm thanh. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="module_weather_ringtone_introduce">Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết. Nó cũng cho phép bạn nghe thời tiết hiện tại vào buổi sáng.</string>
+	<string name="module_weather_ringtone_introduce_global">Báo thức thời tiết chọn nhạc chuông khác nhau dựa trên thời tiết.</string>
+	<string name="module_weather_ringtone_update_data">Báo thức thời tiết hiện có với nhạc nền và giới thiệu âm thanh tốt hơn. Đồng hồ cần tải xuống khoảng ≈30MB âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_weather_ringtone_update_success">Báo thức thời tiết hiện có với nhạc nền và giới thiệu âm thanh tốt hơn. Bạn có thể bật tính năng này trong Cài đặt Đồng hồ.</string>
+	<string name="module_week_ringtone_download_data">Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần. Đồng hồ cần tải xuống khoảng ≈30MB âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần. Đồng hồ cần kết nối mạng để tải xuống &amp;#8776;30MB âm thanh. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="module_week_ringtone_download_wifi">Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần. Đồng hồ cần tải xuống âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần. Đồng hồ cần kết nối mạng để tải xuống âm thanh. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="module_week_ringtone_introduce">Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần.</string>
+	<string name="module_week_ringtone_update_data">Báo thức hàng tuần phát nhạc thiên nhiên khác nhau mỗi ngày trong tuần. Đồng hồ cần tải xuống khoảng ≈30MB âm thanh để nó hoạt động. Tải xuống ngay?</string>
+	<string name="module_week_ringtone_update_success">Báo thức hàng tuần hiện có với nhạc nền cho mỗi ngày trong tuần. Bạn có thể bật tính năng này trong Cài đặt Đồng hồ.</string>
+	<string name="module_white_noise_download_data">Đồng hồ cần tải xuống tệp âm thanh môi trường. ≈30MB dữ liệu di động được yêu cầu để tải xuống. Tải xuống ngay?</string>
+	<string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Để tải xuống tệp âm thanh môi trường (&amp;#8776;30MB) và cung cấp dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Bạn đang sử dụng dữ liệu di động. Đồng ý?"&lt;/Data&gt;</string>
+	<string name="module_white_noise_download_wifi">Đồng hồ cần tải xuống tệp âm thanh môi trường. Tải xuống ngay?</string>
+	<string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Để tải xuống tệp âm thanh môi trường và cung cấp dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="network_privacy">&lt;Data&gt;Để có được thông tin liên quan về các ngày lễ địa phương, điều chỉnh báo thức và cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="network_privacy_global">&lt;Data&gt;Để cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="ringtone_other">Thêm nhạc chuông</string>
+	<string name="ringtone_weather">Báo thức theo thời tiết</string>
+	<string name="ringtone_week">Chuông báo hàng tuần</string>
+	<string name="setting_alarm_arriving_subtitle">Hiển thị thông báo trước khi báo thức kêu</string>
+	<string name="shutdown_alarm_alert_enable_summary">Tắt báo thức sắp kêu ít nhất 10 phút trước khi bạn tắt điện thoại</string>
+	<string name="shutdown_alarm_alert_title">Tắt báo thức</string>
+	<string name="system_permission_phone_desc">Để nhận diện thiết bị khác nhau</string>
+	<string name="system_permission_purpose">Báo thức, Đồng hồ bấm giờ, Hẹn giờ, Giờ thế giới</string>
+	<string name="system_permission_storage_desc">Để truy cập nhạc chuông báo thức</string>
+	<string name="timer_alert_type_spring_rain">Mưa mùa hạ</string>
+	<string name="volume_button_setting_desc">Gán chức năng cho phím Nguồn và Tăng giảm âm lượng</string>
+	<string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
+	<string name="privacy_policy_title">Chính sách Riêng tư</string>
 </resources>

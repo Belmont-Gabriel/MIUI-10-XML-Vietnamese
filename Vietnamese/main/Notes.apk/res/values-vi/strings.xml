@@ -298,7 +298,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="pref_title_todo_float_mode">Sử dụng công cụ nhiệm vụ</string>
 	<string name="pref_title_todo_shorcut">Công cụ</string>
 	<string name="todo_alert_title_delete">Xóa nhiệm vụ đã xong</string>
-	<string name="todo_audio_default_content">"[nhiệm vụ âm thanh] "</string>
+	<string name="todo_audio_default_content">"[Nhiệm vụ âm thanh] "</string>
 	<string name="todo_custom_remind_tag_pattern_with_md">HH:mm dd/MM</string>
 	<string name="todo_custom_remind_tag_pattern_with_ymd">HH:mm MM/dd/yyyy</string>
 	<string name="todo_edit_audio_hint">Nói nhiệm vụ của bạn</string>
@@ -341,12 +341,18 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="todo_schedule_time_ymdhm">HH:mm MM/dd/yyyy</string>
 	<string name="todo_search_hint">Tìm kiếm nhiệm vụ</string>
 	<string name="todo_time_picker_title">Đặt nhắc nhở</string>
-	<string name="todo_user_guide_tip1">Chào mừng tới \"Nhiệm vụ\"!</string>
-	<string name="todo_user_guide_tip2">Đây là một nhiệm vụ. Bạn có thể đánh sấu vào ô để hoàn thành.</string>
-	<string name="todo_user_guide_tip3">Chạm vào dấu cộng bên dưới để tạo nhiệm vụ. Bạn cũng có thể thêm nhiệm vụ âm thanh.</string>
-	<string name="todo_user_guide_tip4">Đặt nhắc nhở cho nhiệm vụ để không bỏ quên.</string>
+	<string name="todo_user_guide_tip1">Chào mừng tới Nhiệm vụ!</string>
+	<string name="todo_user_guide_tip2">Ở đây bạn có thể thêm văn bản hoặc nhiệm vụ âm thanh.</string>
+	<string name="todo_user_guide_tip3">Để sửa một nhiệm vụ văn bản, chỉ cần chạm vào nó.</string>
+	<string name="todo_user_guide_tip4">Đừng quên tạo lối tắt màn hình chính cho Nhiệm vụ.</string>
 	<string name="date_calculate_today">0 ngày</string>
 	<string name="fmt_chinese_date">e t N</string>
 	<string name="fmt_time_12hour_minute">h:mm</string>
 	<string name="time_picker_label_hour">Giờ</string>
+	<string name="check_in_todo_app">Xem nhiệm vụ</string>
+	<string name="todo_float_permission_open_reminder">Cho phép Ghi chú hiển thị cửa sổ nổi trên ứng dụng khác để có thể sử dụng tính năng này.</string>
+	<string name="todo_menu_cancel">Hủy</string>
+	<string name="todo_user_guide_fw_pop">Thêm Lối tắt Màn hình chính</string>
+	<string name="todo_user_guide_tip5">Ở trên ứng dụng khác và không bỏ lỡ điều quan trọng!</string>
+	<string name="app_notification_info">Ghi chú đang chạy trong nền</string>
 </resources>

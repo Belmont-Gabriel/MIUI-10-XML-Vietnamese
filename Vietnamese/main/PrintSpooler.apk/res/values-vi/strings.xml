@@ -68,7 +68,7 @@
     <string name="print_cannot_load_page">Không thể hiển thị bản xem trước</string>
     <string name="print_preparing_preview">Đang chuẩn bị xem trước…</string>
     <string name="choose_print_service">Chọn dịch vụ in</string>
-    <string name="printer_unavailable">%1$s – không khả dụng</string>
+    <string name="printer_unavailable">Máy in không khả dụng</string>
     <string name="permdesc_accessAllPrintJobs">Cho phép chủ sở hữu truy cập vào lệnh in được tạo bởi ứng dụng khác. Không bao giờ cần cho các ứng dụng thông thường.</string>
     <string name="permdesc_startPrintServiceConfigActivity">Cho phép chủ sở hữu bắt đầu các hoạt động cấu hình của một dịch vụ in ấn. Không bao giờ cần cho các ứng dụng thông thường.</string>
     <string name="permlab_accessAllPrintJobs">truy cập tất cả lệnh in</string>

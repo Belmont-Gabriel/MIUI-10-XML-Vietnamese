@@ -946,7 +946,6 @@ Hãy thử hộp thư khác."</string>
     <string name="storage">Bộ nhớ</string>
     <string name="str_select_all">Chọn tất cả</string>
     <string name="str_select_none">Bỏ chọn tất cả</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Chủ đề</string>
     <string name="sync_contacts_fail_per_content">Chạm để cho phép truy cập liên hệ</string>
     <string name="sync_contacts_fail_per_title">Không thể đồng bộ liên hệ</string>
@@ -1201,4 +1200,17 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="search_remote_again">Không có mạng, thử lại</string>
 	<string name="sync_failed_mi_authority_view_detail">Xem chi tiết</string>
 	<string name="login_failed_tip">Không thể đăng nhập, thử lại sau</string>
+	<string name="account_add_title">Select an email service</string>
+	<string name="email_sync_failed">Synchronization failed</string>
+	<string name="mail_login_help">Login help</string>
+	<string name="mail_login_help_bottom_tip">Nếu bạn cần khôi phục mật khẩu hoặc kiểm tra trạng thái cài đặt, truy cập https://email.163.com/ để thấy tùy chọn khả dụng cho bạn:</string>
+	<string name="mail_login_help_details1">1.Mật khẩu email: Nếu bạn chưa cài đặt xác thực máy khách và đã mở giao thức POP3/IMAP/SMTP, bạn có thể dùng mật khẩu email để đăng nhập.</string>
+	<string name="mail_login_help_details2">2.Mã xác thực máy khách: Nếu bạn đã cài mã xác thực máy khách, bạn cần sử dụng nó để đăng nhập. Và đảm bảo rằng giao thức POP3/IMAP/SMTP đã mở.</string>
+	<string name="mail_login_help_title">Mô tả mật khẩu email và mã xác thực máy khách:</string>
+	<string name="qq_login_help_bottom_tip">Nếu bạn cần khôi phục mật khẩu hoặc kiểm tra trạng thái cài đặt, truy cập  https://mail.qq.com/ để thấy tùy chọn khả dụng cho bạn. Mọi phản hồi hay câu hỏi khác vui lòng thêm số WeChat:</string>
+	<string name="qq_login_help_details1">1.Mật khẩu QQ: Nếu bạn chưa cài đặt xác thực máy khách và đã mở giao thức POP3/IMAP/SMTP, bạn có thể dùng mật khẩu QQ để đăng nhập.</string>
+	<string name="qq_login_help_details2">2.Mật khẩu email: Nếu bạn chưa cài đặt xác thực máy khách và đã mở giao thức POP3/IMAP/SMTP, bạn có thể dùng mật khẩu email để đăng nhập.</string>
+	<string name="qq_login_help_details3">3.Mã xác thực máy khách: Nếu bạn đã cài mã xác thực máy khách QQ, bạn cần sử dụng nó để đăng nhập. Nếu bạn cần khôi phục mã xác thực máy khách, nhấn vào đây:</string>
+	<string name="qq_login_help_title">Mô tả Mật khẩu QQ/Mật khẩu email/Mã xác thực máy khách</string>
+	<string name="toast_bar_sync_failed_client_cert">Đồng bộ thất bại, lỗi xác thực, chạm để thêm lại chứng nhận</string>
 </resources>

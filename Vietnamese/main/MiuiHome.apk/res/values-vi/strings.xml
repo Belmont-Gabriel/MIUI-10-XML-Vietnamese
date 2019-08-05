@@ -405,4 +405,5 @@
     <string name="all_apps_setting_desktop_desc">Hiển thị tất cả các ứng dụng đã cài đặt trên màn hình, nhấn và giữ biểu tượng ứng dụng để hiển thị các phím tắt của ứng dụng để quản lý hoặc gỡ cài đặt ứng dụng.</string>
     <string name="all_apps_setting_drawer_desc">Ấn vào nút ngăn kéo để hiển thị tất cả các ứng dụng trong ngăn kéo. Các ứng dụng đã bị xóa khỏi màn hình chính vẫn được hiển thị trong ngăn kéo.</string>
 	<string name="unstable_dialog_content">"Đây là phiên bản xem trước của hình ảnh hệ thống Android và có thể thay đổi. Việc sử dụng hình ảnh hệ thống này được điều chỉnh bởi Thỏa thuận cấp phép xem trước SDK của Android. Hình ảnh hệ thống xem trước của Android không phải là một bản phát hành ổn định và có thể chứa các lỗi và lỗi có thể dẫn đến thiệt hại cho hệ thống máy tính, thiết bị hoặc dữ liệu của bạn. Hình ảnh hệ thống xem trước của Android không phải chịu thử nghiệm giống như hệ điều hành của nhà máy và có thể khiến thiết bị này, các dịch vụ hoặc ứng dụng đã cài đặt ngừng hoạt động."</string>
+	<string name="no_space_toast_when_click_widget">Không đủ không gian trên trang này. Thử kéo mục này sang trang khác.</string>
 </resources>
