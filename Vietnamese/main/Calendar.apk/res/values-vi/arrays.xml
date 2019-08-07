@@ -600,6 +600,7 @@
         <item>10 phút</item>
         <item>15 phút</item>
         <item>30 phút</item>
+		<item>1 tiếng</item>
     </string-array>
 	<string-array name="repeat_monthly_on_day_count_values">
         <item>Thứ hai đầu tiên</item>

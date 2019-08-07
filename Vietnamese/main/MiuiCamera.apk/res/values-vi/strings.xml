@@ -1251,4 +1251,5 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="mimoji_app_name">Máy ảnh Vui nhộn</string>
 	<string name="macro_mode_use_hint_text_title">Chế độ macro</string>
 	<string name="ultra_pixel_zoom_no_support_tip">"Không hỗ trợ thu phóng trong chế độ %s Ultra HD"</string>
+	<string name="pref_camera_snap_entry_summary">Nhấn và giữ nút Giảm âm lượng khi màn hình tắt để chụp ảnh</string>
 </resources>

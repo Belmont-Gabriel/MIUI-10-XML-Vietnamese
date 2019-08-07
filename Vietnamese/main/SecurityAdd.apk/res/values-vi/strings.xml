@@ -280,4 +280,8 @@
 	<string name="superpower_system">Đề xuất</string>
 	<string name="superpower_third">Ứng dụng bên thứ ba</string>
 	<string name="superpower_exit_hint">Đang tắt Siêu tiết kiệm pin…</string>
+	<string name="gdpr_msg">&lt;Data&gt;"Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý rằng Xiaomi sẽ thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin cách bạn sử dụng các tính năng của Bảo mật (v.d., thống kê sử dụng dữ liệu di động, thông tin về malware, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định tại &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string name="guide_desc_1">Cha mẹ hoàn toàn nắm bắt và quản lý việc sử dụng của bé</string>
+	<string name="guide_desc_2">"Tùy chỉnh ứng dụng cho trẻ em
+An toàn, chất lượng, phát triển"</string>
 </resources>

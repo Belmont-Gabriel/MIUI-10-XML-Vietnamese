@@ -1238,6 +1238,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>LHDC</item>
         <item>Bật codec tùy chọn</item>
         <item>Tắt codec tùy chọn</item>
     </string-array>
@@ -1249,6 +1250,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>LHDC</item>
         <item>Bật codec tùy chọn</item>
         <item>Tắt codec tùy chọn</item>
     </string-array>

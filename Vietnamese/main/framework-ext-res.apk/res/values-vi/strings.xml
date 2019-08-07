@@ -257,10 +257,10 @@
 	<string name="redmi_note_7">Redmi Note7</string>
 	<string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
 	<string name="send_files_to">Gửi tệp đến</string>
-	<string name="slavewifi">Wi-Fi kép</string>
+	<string name="slavewifi">Wi-Fi băng tần kép</string>
 	<string name="slavewifi_disconnect">Ngắt kết nối</string>
-	<string name="slavewifi_notification_title">Tăng tốc Wi-Fi kép</string>
-	<string name="slavewifi_settings">Chạm để chỉnh sửa cài đặt</string>
+	<string name="slavewifi_notification_title">Sử dụng Wi-Fi băng tần kép</string>
+	<string name="slavewifi_settings">Chạm để thay đổi cài đặt</string>
 	<string name="throwing_print">In</string>
 	<string name="throwing_screen">Trình chiếu</string>
 	<string name="unrecognized_manufacture">Thương hiệu chưa nhận diện</string>
