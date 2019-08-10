@@ -25,4 +25,5 @@
 	<string name="qualitative_info">Thông tin định lượng</string>
 	<string name="qualitative_title">Thông tin nhất quán</string>
 	<string name="ration_title">Thông tin lớp ID</string>
+	<string name="close">Đóng</string>
 </resources>

@@ -66,4 +66,7 @@ Khóa: %2$s
 	<string name="certificate_capabilities_warning">Lưu ý: Nhà phát hành chứng chỉ này có thể kiểm tra tất cả lưu lượng đến và đi từ thiết bị</string>
 	<string name="one_wapi_ascrt">Một chứng chỉ WAPI AS</string>
 	<string name="one_wapi_usercrt">Một chứng chỉ người dùng WAPI</string>
+	<string name="action_missing_private_key">Khóa riêng tư yêu cầu cài đặt một chứng chỉ</string>
+	<string name="action_missing_user_cert">Chứng chỉ yêu cầu cài đặt một khóa riêng tư</string>
+	<string name="userkey_type">Thuật toán:</string>
 </resources>

@@ -11,4 +11,5 @@
 	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn)%1$s</string>
 	<string name="power_discharging_duration_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn (%2$s)</string>
 	<string name="power_remaining_duration_only_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn</string>
+	<string name="enter_input">Tin nhắn USSD phải trong khoảng %1$d tới %2$d ký tự. Vui lòng thử lại.</string>
 </resources>

@@ -82,4 +82,7 @@
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
 	<string name="fast_connect_headset_reset">Nhấn và giữ nút trên hộp trong %1$d giây</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="copy">Sao chép</string>
 </resources>

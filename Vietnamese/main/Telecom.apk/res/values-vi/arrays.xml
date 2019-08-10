@@ -259,4 +259,11 @@
         <item>, đang hoạt động (nội dung phương tiện)</item>
         <item>, đang hoạt động (điện thoại)</item>
     </string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+		<item>Đã tắt</item>
+		<item>Đã bật lọc</item>
+		<item>Đã bật lọc tiêu đề</item>
+		<item>Bật lọc phương tiện Pkts</item>
+		<item>Đã bật</item>
+	</string-array>
 </resources>

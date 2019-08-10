@@ -241,4 +241,18 @@
 	<string name="suggested">Gợi ý</string>
 	<string name="title_bt_mse_settings">Cài đặt Bluetooth MAP nâng cao</string>
 	<string name="too_much_file_sent">Tối đa %1$s tệp một lúc</string>
+	<string name="bluetooth_a2dp_sink_queue_name">Đang phát</string>
+	<string name="bluetooth_map_remote_advance_feature_support">Tính năng Truy cập Tin nhắn Nâng cao được hỗ trợ</string>
+	<string name="bluetooth_map_remote_message_access_feature_downgrade">Tính năng truy cập tin nhắn từ xa</string>
+	<string name="bluetooth_map_repair_for_adv_message_access_feature">Ghép nối lại để dùng tính năng Truy cập tin nhắn nâng cao</string>
+	<string name="bluetooth_map_repair_for_message_access_version_comp">Ghép nối lại để dùng tính năng Tương thích Phiên bản truy cập tin nhắn</string>
+	<string name="bt_sm_2_1_default">"Không đủ dung lượng trống trong thẻ SD để lưu mục từ \"%1$s\""</string>
+	<string name="bt_sm_2_1_nosdcard">"Không đủ dung lượng trống trong USB để lưu tệp từ \"%1$s\""</string>
+	<string name="phonebook_advance_feature_support">Tính năng Danh bạ nâng cao được hỗ trợ</string>
+	<string name="remote_pbap_version_change">Thay đổi Phiên bản hồ sơ Danh bạ từ xa</string>
+	<string name="remote_phonebook_feature_downgrade">Tính năng danh bạ từ xa</string>
+	<string name="repair_for_adv_phonebook_feature">Ghép nối lại để dùng Danh bạ nâng cao</string>
+	<string name="repair_for_phonebook_access_version_comp">Ghép nối lại để dùng Tương thích phiên bản Truy cập danh bạ</string>
+	<string name="status_no_sd_card_default">Không có thẻ SD. Lắp thẻ SD để lưu tệp đã truyền.</string>
+	<string name="status_no_sd_card_nosdcard">Không có USB.</string>
 </resources>

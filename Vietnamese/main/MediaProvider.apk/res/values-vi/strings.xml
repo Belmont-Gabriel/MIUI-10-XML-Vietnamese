@@ -25,4 +25,13 @@
     <string name="unable_to_add_ringtone">Không thể thêm nhạc chuông tùy chỉnh</string>
     <string name="unable_to_delete_ringtone">Không thể xóa nhạc chuông tùy chỉnh</string>
 	<string name="Add_More_Ringtones">Thêm nhạc chuông ...</string>
+	<string name="add_alarm_text">Thêm báo thức</string>
+	<string name="add_notification_text">Thêm thông báo</string>
+	<string name="permission_audio">Cho phép &lt;b&gt;^1&lt;/b&gt; chỉnh sửa hoặc xóa bài hát này?</string>
+	<string name="permission_images">Cho phép &lt;b&gt;^1&lt;/b&gt; chỉnh sửa hoặc xóa ảnh này?</string>
+	<string name="permission_required_action">Tiếp tục</string>
+	<string name="permission_video">Cho phép &lt;b&gt;^1&lt;/b&gt; chỉnh sửa hoặc xóa video này?</string>
+	<string name="grant_dialog_button_allow">Cho phép</string>
+	<string name="grant_dialog_button_deny">Từ chối</string>
+	<string name="permission_required">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
 </resources>

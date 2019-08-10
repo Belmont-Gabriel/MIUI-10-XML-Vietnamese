@@ -1252,4 +1252,10 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="macro_mode_use_hint_text_title">Chế độ macro</string>
 	<string name="ultra_pixel_zoom_no_support_tip">"Không hỗ trợ thu phóng trong chế độ %s Ultra HD"</string>
 	<string name="pref_camera_snap_entry_summary">Nhấn và giữ nút Giảm âm lượng khi màn hình tắt để chụp ảnh</string>
+	<string name="live_sticker_tab_name">Nhãn dán ma thuật TikTok</string>
+	<string name="recommend_macro_mode">Nên bật Macro</string>
+	<string name="recommend_portrait">Nên bật chế độ Chân dung</string>
+	<string name="recommend_super_night">Nên bật chế độ Đêm</string>
+	<string name="super_night_hint">Tối ưu hóa chất lượng hình ảnh</string>
+	<string name="vv_start">Bắt đầu quay VV</string>
 </resources>

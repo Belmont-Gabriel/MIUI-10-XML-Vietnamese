@@ -950,4 +950,24 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
 	<string name="ticket_sign_in">Đăng nhập qua SMS</string>
 	<string name="user_id_hint">Email/Điện thoại</string>
 	<string name="v_code_title">Nhập mã xác thực 2 bước</string>
+	<string name="author_other_albums">"Album khác của tác giả"</string>
+	<string name="author_other_albums_empty">"Tác giả này chưa đăng tải album nào khác"</string>
+	<string name="menu_online_service">Dịch vụ Trực tuyến</string>
+	<string name="online_service_dialog_message">Tắt nội dung trực tuyến sẽ ảnh hưởng đến tất cả các gợi ý và đồng bộ. Xác nhận tắt?</string>
+	<string name="online_service_dialog_title">Dịch vụ Trực tuyến</string>
+	<string name="online_service_switch">Dịch vụ trực tuyến</string>
+	<string name="open_online_service_tip">Dịch vụ trực tuyến đã tắt</string>
+	<string name="play_speed">Tốc độ phát</string>
+	<string name="sleep_mode_cancel">Hủy</string>
+	<string name="sleep_mode_one">Đã phát</string>
+	<string name="sleep_mode_three">Phát ba bài</string>
+	<string name="sleep_mode_two">Phát hai bài</string>
+	<string name="sleep_mode_warning">Trình phát sẽ dừng sau %1$d bộ</string>
+	<string name="spammy_contents">Rác</string>
+	<string name="speed">"Tốc độ "</string>
+	<string name="thanks_for_feedback">Cảm ơn bạn đã phản hồi!</string>
+	<string name="unable_to_play">"Không thể phát"</string>
+	<string name="view_all_news">Xem tất cả tin mới</string>
+	<string name="detail">Chi tiết</string>
+	<string name="news_not_interest_positive">Không hứng thú</string>
 </resources>

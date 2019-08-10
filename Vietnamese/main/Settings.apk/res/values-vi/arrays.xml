@@ -1548,4 +1548,117 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Tối ưu cho Chất lượng âm thanh (900kbps)</item>
 		<item>Cố gắng nhất (Bit Rate tự động)</item>
 	</string-array>
+	<string-array name="date_of_app_all">
+		<item>Hôm qua (dữ liệu)</item>
+		<item>Hôm nay (dữ liệu)</item>
+		<item>Tháng này (dữ liệu)</item>
+		<item>Hôm qua (Wi-Fi)</item>
+		<item>Hôm nay (Wi-Fi)</item>
+		<item>Tháng này (Wi-Fi)</item>
+	</string-array>
+	<string-array name="date_of_traffic">
+		<item>"Hôm qua "</item>
+		<item>"Hôm nay "</item>
+		<item>"Tháng này "</item>
+	</string-array>
+	<string-array name="date_of_traffic_prefix">
+		<item>"Hôm qua: "</item>
+		<item>"Hôm nay: "</item>
+		<item>"Tháng này: "</item>
+	</string-array>
+	<string-array name="select_logd_size_lowram_titles">
+		<item>Tắt</item>
+		<item>64K</item>
+		<item>256K</item>
+		<item>1M</item>
+	</string-array>
+	<string-array name="select_logd_size_titles">
+		<item>Tắt</item>
+		<item>64K</item>
+		<item>256K</item>
+		<item>1M</item>
+		<item>4M</item>
+		<item>16M</item>
+	</string-array>
+	<string-array name="trans_succeed_survey_title">
+		<item>Đánh giá tổng thể</item>
+		<item>Thời gian chuyển</item>
+		<item>Sự đơn giản của quá trình</item>
+		<item>Sự rõ ràng của hướng dẫn</item>
+	</string-array>
+	<string-array name="trans_succeed_rating_hint">
+		<item>Rất không hài lòng</item>
+		<item>Hơi không hài lòng</item>
+		<item>Bình thường</item>
+		<item>Hơi hài lòng</item>
+		<item>Rất hài lòng</item>
+	</string-array>
+	<string-array name="trans_cancel_survey_title">
+		<item>Đánh giá tổng thể</item>
+		<item>Thời gian chuyển</item>
+		<item>Sự đơn giản của quá trình</item>
+		<item>Sự rõ ràng của hướng dẫn</item>
+		<item>Tính năng này hữu ích</item>
+	</string-array>
+	<string-array name="cdma_subscription_choices">
+		<item>RUIM/SIM</item>
+		<item>NV</item>
+	</string-array>
+	<string-array name="cdma_system_select_choices">
+		<item>Chỉ ở nhà</item>
+		<item>Tự động</item>
+	</string-array>
+	<string-array name="preferred_network_mode_choices">
+		<item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+		<item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+		<item>LTE/TDSCDMA/GSM/WCDMA</item>
+		<item>LTE/TDSCDMA/WCDMA</item>
+		<item>TDSCDMA/GSM/WCDMA</item>
+		<item>LTE/TDSCDMA/GSM</item>
+		<item>TDSCDMA/GSM</item>
+		<item>LTE/TDSCDMA</item>
+		<item>TDSCDMA/WCDMA</item>
+		<item>Chỉ TDSCDMA</item>
+		<item>LTE / WCDMA</item>
+		<item>LTE</item>
+		<item>Toàn cầu</item>
+		<item>GSM/WCDMA/LTE</item>
+		<item>CDMA + LTE/EvDo</item>
+		<item>CDMA/EvDo/GSM/WCDMA</item>
+		<item>Chỉ EvDo</item>
+		<item>CDMA w/o EvDo</item>
+		<item>CDMA/EvDo tự động</item>
+		<item>GSM/WCDMA tự động</item>
+		<item>Chỉ WCDMA</item>
+		<item>Chỉ GSM</item>
+		<item>Ưu tiên GSM/WCDMA</item>
+	</string-array>
+	<string-array name="preferred_network_mode_choices_world_mode">
+		<item>Toàn cầu</item>
+		<item>LTE / CDMA</item>
+		<item>LTE / GSM / UMTS</item>
+	</string-array>
+	<string-array name="traffic_type">
+		<item>"Sử dụng dữ liệu di động "</item>
+		<item>"Sử dụng Wi-Fi "</item>
+	</string-array>
+	<string-array name="ai_item_action_array">
+		<item>Không</item>
+		<item>Kích hoạt Trợ lý Google</item>
+	</string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+		<item>Đã tắt</item>
+		<item>Đã bật lọc</item>
+		<item>Đã bật lọc tiêu đề</item>
+		<item>Bật lọc phương tiện Pkts</item>
+		<item>Đã bật</item>
+	</string-array>
+	<string-array name="vpn_proxy_settings">
+		<item>Không</item>
+		<item>Thủ công</item>
+	</string-array>
+	<string-array name="wifi_privacy_entries">
+		<item>Sử dụng MAC ngẫu nhiên (mặc định)</item>
+		<item>Sử dụng MAC của thiết bị</item>
+	</string-array>
 </resources>

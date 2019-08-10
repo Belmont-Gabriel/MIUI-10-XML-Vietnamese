@@ -35,4 +35,15 @@
 	<string name="add_manual_printer">Thêm máy in thủ công</string>
 	<string name="forget_printer">Bỏ qua máy in</string>
 	<string name="wifi_not_connected">Chưa kết nối Wi-Fi</string>
+	<string name="certificate_update_request">Máy in này cung cấp một chứng chỉ mới, hoặc thiết bị khác đang mạo danh nó. Chấp nhận chứng chỉ mới?</string>
+	<string name="fix">Xem lại quyền</string>
+	<string name="not_encrypted_request">Máy in này không còn chấp nhận nhiệm vụ mã hóa. Tiếp tục in?</string>
+	<string name="printer_bad_certificate">Chứng chỉ lỗi</string>
+	<string name="printer_not_encrypted">Chưa mã hóa</string>
+	<string name="reject">Từ chối</string>
+	<string name="wifi_direct_permission_rationale">Dịch vụ In Mặc định cần quyền vị trí để tìm thiết bị bên cạnh.</string>
+	<string name="wifi_direct_printing">In qua Wi-Fi Direct</string>
+	<string name="accept">Chấp nhận</string>
+	<string name="connections">Kết nối</string>
+	<string name="security">Bảo mật</string>
 </resources>
