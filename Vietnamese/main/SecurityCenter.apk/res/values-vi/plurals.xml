@@ -320,4 +320,31 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="pc_statistics_battery_last_hour">
         <item quantity="other">%d giờ còn lại</item>
     </plurals>
+	<plurals name="power_main_battery_last_day">
+		<item quantity="other">%s ngày còn lại</item>
+	</plurals>
+	<plurals name="power_main_battery_last_hour">
+		<item quantity="other">%s giờ còn lại</item>
+	</plurals>
+	<plurals name="power_main_battery_last_minute">
+		<item quantity="other">%s phút còn lại</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_day">
+		<item quantity="other">%s ngày còn lại</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_hour">
+		<item quantity="other">%s giờ còn lại</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_minute">
+		<item quantity="other">%s phút còn lại</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_day">
+		<item quantity="other">%s ngày cho đến khi sạc đầy</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_hour">
+		<item quantity="other">%s giờ cho đến khi sạc đầy</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_minute">
+		<item quantity="other">%s phút cho đến khi sạc đầy</item>
+	</plurals>
 </resources>

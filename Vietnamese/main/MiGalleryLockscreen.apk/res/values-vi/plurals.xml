@@ -18,4 +18,10 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d phút trước</item>
     </plurals>
+	<plurals name="llks_tools_remote_control_data">
+		<item quantity="other">%d mục</item>
+	</plurals>
+	<plurals name="llks_tools_smart_devices_data">
+		<item quantity="other">%d thiết bị</item>
+	</plurals>
 </resources>

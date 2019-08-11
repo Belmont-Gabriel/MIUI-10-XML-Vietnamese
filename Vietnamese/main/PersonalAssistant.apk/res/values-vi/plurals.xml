@@ -59,4 +59,22 @@
 	<plurals name="sms_day_suffix">
         <item quantity="other">Khởi hành trong %d ngày</item>
     </plurals>
+	<plurals name="express_history_dialog_delete_message">
+		<item quantity="other">Xóa %s mục khỏi vận chuyển?</item>
+	</plurals>
+	<plurals name="express_history_menu_select_num">
+		<item quantity="other">Đã chọn %s mục</item>
+	</plurals>
+	<plurals name="payment_record_dialog_delete_message">
+		<item quantity="other">Xóa %s mục khỏi thanh toán?</item>
+	</plurals>
+	<plurals name="payment_record_menu_select_num">
+		<item quantity="other">Đã chọn %s mục</item>
+	</plurals>
+	<plurals name="shopping_delete_num">
+		<item quantity="other">Xóa %s mục đã chọn?</item>
+	</plurals>
+	<plurals name="agenda_count_down">
+		<item quantity="other">Trong %d phút</item>
+	</plurals>
 </resources>

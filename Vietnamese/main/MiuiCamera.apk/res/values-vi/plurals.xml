@@ -6,4 +6,7 @@
 	<plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
     </plurals>
+	<plurals name="delete_selection">
+		<item quantity="other">Xóa mục đã chọn?</item>
+	</plurals>
 </resources>

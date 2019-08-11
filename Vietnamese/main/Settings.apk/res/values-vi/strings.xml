@@ -2206,7 +2206,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_since_reset">Sử dụng pin từ khi đặt lại</string>
     <string name="battery_stats_on_battery">%1$s trong thời lượng pin</string>
     <string name="battery_stats_duration">%1$s từ khi tháo đầu cắm</string>
-    <string name="battery_stats_charging_label">Đang sạc</string>
+    <string name="battery_stats_charging_label">Sạc</string>
     <string name="battery_stats_screen_on_label">Màn hình bật</string>
     <string name="battery_stats_gps_on_label">GPS bật</string>
     <string name="battery_stats_camera_on_label">Máy ảnh bật</string>

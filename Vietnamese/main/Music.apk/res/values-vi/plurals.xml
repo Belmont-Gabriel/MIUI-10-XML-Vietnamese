@@ -155,4 +155,16 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 	<plurals name="swipe_to_load_head_complete_success">
 		<item quantity="other">Đây là %1$d cập nhật cho bạn:</item>
     </plurals>
+	<plurals name="free_downloads_num_hint">
+		<item quantity="other">Còn %d lượt tải miễn phí</item>
+	</plurals>
+	<plurals name="vip_remain_days_hint">
+		<item quantity="other">Còn lại %d ngày</item>
+	</plurals>
+	<plurals name="video_count">
+		<item quantity="other">Video</item>
+	</plurals>
+	<plurals name="days_ago">
+		<item quantity="other">%d ngày trước</item>
+	</plurals>
 </resources>

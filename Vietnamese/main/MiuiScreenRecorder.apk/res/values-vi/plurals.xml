@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_confirm_text">
         <item quantity="other">Xóa %1$d quay phim màn hình?</item>
-        <item quantity="one">Xóa %1$d quay phim màn hình?</item>
+        <item quantity="one">Xóa quay phim màn hình này?</item>
     </plurals>
     <plurals name="home_title_selected">
         <item quantity="other">Đã chọn %1$d mục</item>

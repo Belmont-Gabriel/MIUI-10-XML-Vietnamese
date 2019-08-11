@@ -158,7 +158,6 @@
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Tắt cho %d ứng dụng</item>
-        <item quantity="one">Tắt cho 1 ứng dụng</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d ứng dụng được phép sử dụng dữ liệu không hạn chế khi Trình tiết kiệm dữ liệu đang bật</item>
@@ -445,4 +444,101 @@
     <plurals name="lockpassword_password_too_short">
         <item quantity="other">Nhập ít nhất %d ký tự</item>
     </plurals>
+	<plurals name="abc_slice_duration_days">
+		<item quantity="other">%d ngày trước</item>
+	</plurals>
+	<plurals name="abc_slice_duration_min">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
+	<plurals name="abc_slice_duration_years">
+		<item quantity="other">%d năm trước</item>
+	</plurals>
+	<plurals name="accessibility_usage_summary">
+		<item quantity="other">%1$d ứng dụng có toàn quyền truy cập thiết bị của bạn</item>
+		<item quantity="one">1 ứng dụng có toàn quyền truy cập thiết bị của bạn</item>
+	</plurals>
+	<plurals name="location_app_permission_summary_location_on">
+		<item quantity="other">%1$d trên %2$d ứng dụng có truy cập không hạn chế</item>
+	</plurals>
+	<plurals name="location_settings_summary_location_on">
+		<item quantity="other">Bật - %1$d ứng dụng có thể truy cập vị trí</item>
+	</plurals>
+	<plurals name="mobile_network_summary_count">
+		<item quantity="other">%1$d SIM</item>
+	</plurals>
+	<plurals name="notification_few_channel_count_summary">
+		<item quantity="other">%1$d kênh thông báo.</item>
+	</plurals>
+	<plurals name="permission_bar_chart_label">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">1 ứng dụng</item>
+	</plurals>
+	<plurals name="zen_mode_bypassing_apps_subtext">
+		<item quantity="other">Thông báo từ %1$d ứng dụng có thể ghi đè Không làm phiền</item>
+		<item quantity="zero">Không có ứng dụng có thể ghi đè Không làm phiền</item>
+		<item quantity="one">Thông báo từ 1 ứng dụng có thể ghi đè Không làm phiền</item>
+	</plurals>
+	<plurals name="backup_items_sysdata_tailer">
+		<item quantity="other">%d tập tin dữ liệu hệ thống</item>
+	</plurals>
+	<plurals name="backup_items_app_tailer">
+		<item quantity="other">%d tập tin dữ liệu ứng dụng</item>
+	</plurals>
+	<plurals name="data_item_count">
+		<item quantity="other">%d mục</item>
+	</plurals>
+	<plurals name="total_num">
+		<item quantity="other">%d mục,</item>
+	</plurals>
+	<plurals name="custom_progress">
+		<item quantity="other">%d mục</item>
+	</plurals>
+	<plurals name="trans_failed_summary">
+		<item quantity="other">"Không thể chuyển %d mục. Nhấn để xem chi tiết."</item>
+	</plurals>
+	<plurals name="trans_item_failed_summary">
+		<item quantity="other">"Không thể chuyển %d mục."</item>
+	</plurals>
+	<plurals name="trans_time_format_minute">
+		<item quantity="other">%d phút</item>
+	</plurals>
+	<plurals name="trans_time_format_hours">
+		<item quantity="other">%d giờ</item>
+	</plurals>
+	<plurals name="select_item_summary">
+		<item quantity="other">%1$s | %2$d mục</item>
+	</plurals>
+	<plurals name="select_item_count_unit">
+		<item quantity="other">mục</item>
+	</plurals>
+	<plurals name="save_item_saving_summary">
+		<item quantity="other">Đã khôi phục %d mục</item>
+	</plurals>
+	<plurals name="save_item_saved_summary">
+		<item quantity="other">Đã nhập và khôi phục %d mục</item>
+	</plurals>
+	<plurals name="save_item_failed_summary_seg1">
+		<item quantity="other">"Đã nhập %d mục. "</item>
+	</plurals>
+	<plurals name="save_item_failed_summary_seg2">
+		<item quantity="other">Nhập lại %d mục.</item>
+	</plurals>
+	<plurals name="hints_apps_perm_count">
+		<item quantity="other">%d quyền</item>
+	</plurals>
+	<plurals name="hints_auto_start_disable_title">
+		<item quantity="other">%d ứng dụng không được phép tự khởi chạy</item>
+	</plurals>
+	<plurals name="hints_auto_start_enable_title">
+		<item quantity="other">%d ứng dụng có thể tự khởi chạy</item>
+	</plurals>
+	<plurals name="hints_permission_apps_count">
+		<item quantity="other">%d ứng dụng</item>
+	</plurals>
+	<plurals name="install_game_count_title">
+		<item quantity="other">Đã thêm %d trò chơi</item>
+	</plurals>
+	<plurals name="uninstall_game_count_title">
+		<item quantity="other">Chưa thêm %d trò chơi</item>
+	</plurals>
 </resources>

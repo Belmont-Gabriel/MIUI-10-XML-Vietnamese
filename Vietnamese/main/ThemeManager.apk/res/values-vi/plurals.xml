@@ -24,4 +24,19 @@
     <plurals name="transparent_wallpaper_filter_result">
         <item quantity="other">%1$d ứng dụng được tìm thấy</item>
     </plurals>
+	<plurals name="guide_used_number">
+		<item quantity="other">Đã áp dụng trên %1$d thiết bị</item>
+	</plurals>
+	<plurals name="resource_rating">
+		<item quantity="other">%1$.1f điểm</item>
+	</plurals>
+	<plurals name="ringtone_nums">
+		<item quantity="other">%1$s nhạc chuông</item>
+	</plurals>
+	<plurals name="trial_countdown_notification_tip">
+		<item quantity="other">"Bạn có thể thử \"%2$s\" miễn phí trong %1$d giờ"</item>
+	</plurals>
+	<plurals name="try_3_day">
+		<item quantity="other">3 ngày thử miễn phí (%1$d mục còn lại cho hôm nay)</item>
+	</plurals>
 </resources>

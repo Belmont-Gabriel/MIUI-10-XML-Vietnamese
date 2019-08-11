@@ -140,4 +140,12 @@
         <item quantity="other">"%1$d tập tin chưa được chuyển giao."</item>
         <item quantity="one">"%1$d tập tin chưa được chuyển giao."</item>
     </plurals>
+	<plurals name="delete_folders">
+		<item quantity="other">Xóa %1$d thư mục?</item>
+		<item quantity="one">Xóa thư mục này?</item>
+	</plurals>
+	<plurals name="delete_files">
+		<item quantity="other">Xóa %1$d tệp tin?</item>
+		<item quantity="one">Xóa tệp tin này?</item>
+	</plurals>
 </resources>

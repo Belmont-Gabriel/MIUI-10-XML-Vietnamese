@@ -976,7 +976,7 @@ thiết bị của bạn"</string>
     <string name="boot_time_day_tomorrow">Mở lúc %1$s ngày mai</string>
     <string name="boot_time">Bật lúc %1$s</string>
     <string name="battery_stats_on_battery">Thời gian sử dụng pin: %1$s</string>
-    <string name="battery_stats_charging_label">Đang sạc</string>
+    <string name="battery_stats_charging_label">Sạc</string>
     <string name="battery_stats_screen_on_label">Màn hình bật</string>
     <string name="battery_stats_gps_on_label">GPS bật</string>
     <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
@@ -2915,7 +2915,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="pc_main_battery_text_hour_minute">Đã thêm %1$s phút, khoảng %2$s giờ %3$s phút còn lại</string>
 	<string name="pc_main_battery_text_minute">Đã thêm %1$s phút, khoảng %2$s phút còn lại</string>
 	<string name="pc_main_power_manager_day_hour">%1$s ngày %2$s giờ cho đến khi đầy</string>
-	<string name="pc_main_power_manager_hour_minute">%1$sh %2$s phút cho đến khi đầy</string>
+	<string name="pc_main_power_manager_hour_minute">%1$s giờ %2$s phút cho đến khi đầy</string>
 	<string name="pc_main_sub_battery_text_day_hour">%1$s ngày %2$s giờ còn lại</string>
 	<string name="pc_main_sub_battery_text_hour_minute">%1$s giờ %2$s phút còn lại</string>
 	<string name="power_main_battery_last_day_hour">%1$s ngày %2$s giờ còn lại</string>

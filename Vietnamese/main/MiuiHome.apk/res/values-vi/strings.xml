@@ -406,4 +406,11 @@
     <string name="all_apps_setting_drawer_desc">Ấn vào nút ngăn kéo để hiển thị tất cả các ứng dụng trong ngăn kéo. Các ứng dụng đã bị xóa khỏi màn hình chính vẫn được hiển thị trong ngăn kéo.</string>
 	<string name="unstable_dialog_content">"Đây là phiên bản xem trước của hình ảnh hệ thống Android và có thể thay đổi. Việc sử dụng hình ảnh hệ thống này được điều chỉnh bởi Thỏa thuận cấp phép xem trước SDK của Android. Hình ảnh hệ thống xem trước của Android không phải là một bản phát hành ổn định và có thể chứa các lỗi và lỗi có thể dẫn đến thiệt hại cho hệ thống máy tính, thiết bị hoặc dữ liệu của bạn. Hình ảnh hệ thống xem trước của Android không phải chịu thử nghiệm giống như hệ điều hành của nhà máy và có thể khiến thiết bị này, các dịch vụ hoặc ứng dụng đã cài đặt ngừng hoạt động."</string>
 	<string name="no_space_toast_when_click_widget">Không đủ không gian trên trang này. Thử kéo mục này sang trang khác.</string>
+	<string name="all_apps_no_search_results">Không thể tìm thấy kết quả</string>
+	<string name="all_apps_search_market_message">Tìm kiếm trực tuyến</string>
+	<string name="all_apps_setting_drawer_tips_desc">Ngăn kéo ứng dụng được mở bằng cách vuốt lên ở Màn hình chính. Chuyển sang chế độ Màn hình chính với ngăn kéo ứng dụng sẽ khiến Tìm kiếm không khả dụng. Vẫn chuyển?</string>
+	<string name="all_apps_setting_drawer_tips_title">Dùng Ngăn kéo ứng dụng</string>
+	<string name="all_apps_slide_up_tips">Vuốt lên được sử dụng để mở Ngăn kéo ứng dụng. Chuyển sang Màn hình chính thông thường và thử lại.</string>
+	<string name="all_apps_suggestions">Gợi ý ứng dụng</string>
+	<string name="remove_invalidate_gadget_tips">Một tiện ích bạn dùng không còn khả dụng. Bạn có thể thêm tiện ích khác.</string>
 </resources>

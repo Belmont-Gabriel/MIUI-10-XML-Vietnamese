@@ -58,10 +58,10 @@
         <item quantity="other">Tiếp tục đồng bộ sau %d phút</item>
     </plurals>
 	<plurals name="last_sync_time_mins_ago">
-        <item quantity="other">"%d phút trước"</item>
+        <item quantity="other">"%s phút trước"</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">"%d giờ trước"</item>
+        <item quantity="other">"%s giờ trước"</item>
     </plurals>
 	<plurals name="provision_sync_items_status_title">
         <item quantity="other">%s dịch vụ sẽ được đồng bộ với Mi Cloud</item>

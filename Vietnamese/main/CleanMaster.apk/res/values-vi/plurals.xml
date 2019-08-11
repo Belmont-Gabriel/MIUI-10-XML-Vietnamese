@@ -55,7 +55,7 @@
         <item quantity="other">Không thể xuất %d video. Giải phóng dung lượng và thử lại</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d tập tin trống) %2$s</item>
+        <item quantity="other">(%1$d tập tin trống)</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Chưa sử dụng %d ngày</item>
