@@ -705,4 +705,9 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 	<string name="cloud_storage_manage_title">Quản lý không gian đám mây</string>
 	<string name="data_protection_title">Bảo vệ Dữ liệu</string>
 	<string name="sync_setting_title">Cài đặt Đồng bộ</string>
+	<string name="pre_privacy_policy">Chính sách Riêng tư</string>
+	<string name="pre_user_agreement">Thỏa thuận Người dùng</string>
+	<string name="privacy_and_agreement">Riêng tư và Thỏa thuận</string>
+	<string name="sync_normal_summary">"Một vài mục ở danh sách bên dưới không thể đồng bộ"</string>
+	<string name="sync_normal_title">"Không thể kết thúc đồng bộ"</string>
 </resources>

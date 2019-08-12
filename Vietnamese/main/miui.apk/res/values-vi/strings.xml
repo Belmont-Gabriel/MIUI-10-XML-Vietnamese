@@ -361,4 +361,5 @@
     <string name="deselect_all_description">Bỏ chọn tất cả</string>
     <string name="select_all_description">Chọn tất cả</string>
     <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
+	<string name="search_action_mode_cancel">Hủy</string>
 </resources>

@@ -339,4 +339,9 @@
 		<item>Bật lọc phương tiện Pkts</item>
 		<item>Đã bật</item>
 	</string-array>
+	<string-array name="enhanced_4g_lte_mode_title_variant">
+		<item>@string/enhanced_4g_lte_mode_title</item>
+		<item>Gọi Nâng cao</item>
+		<item>Gọi 4G</item>
+	</string-array>
 </resources>

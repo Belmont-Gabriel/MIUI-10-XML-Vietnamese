@@ -4,5 +4,5 @@
 	<string name="accessibility_ultra_pixel_photography_on">%s Ultra HD đã bật</string>
 	<string name="ultra_pixel_photography_close_tip">%s Ultra HD đã tắt</string>
 	<string name="ultra_pixel_photography_open_tip">%s Ultra HD đã bật</string>
-	<string name="user_notice_identify_summary_format">Trước khi sử dụng Máy ảnh, Bạn phải đồng ý với &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Rieeg tư&lt;/a&gt; của chúng tôi. Máy ảnh cung cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
+	<string name="user_notice_identify_summary_format">Trước khi sử dụng Máy ảnh, Bạn phải đồng ý với &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Máy ảnh cung cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
 </resources>
