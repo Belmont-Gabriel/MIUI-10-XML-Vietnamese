@@ -134,4 +134,12 @@
 		<item>Tiền vàng</item>
 		<item>Lì xì đang đến</item>
 	</string-array>
+	<string-array name="pc_settings_thermal_entries">
+		<item>Mặc định</item>
+		<item>Ưu tiên hiệu suất</item>
+	</string-array>
+	<string-array name="pc_settings_thermal_summaries">
+		<item>Sử dụng chế độ điều khiển nhiệt độ mặc định</item>
+		<item>Ưu tiên hiệu suất</item>
+	</string-array>
 </resources>

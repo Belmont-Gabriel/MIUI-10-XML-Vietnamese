@@ -16,7 +16,6 @@
 	<string name="battery_tip_dialog_message">"Điện thoại của bạn được dùng nhiều hơn bình thường. Pin có thể hết sớm hơn dự kiến.
 
 Ứng dụng sử dụng nhiều nhất từ lần sạc cuối:"</string>
-	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="sim_change_data_message">"Bạn đang sử dụng %2$s cho dữ liệu di động. Nếu bạn chuyển sang %1$s, %2$s sẽ không còn được sử dụng cho dữ liệu di động."</string>
 	<string name="sim_change_data_title">Sử dụng %1$s cho dữ liêu di động?</string>
 	<string name="wifi_calling_off_explanation">Khi gọi Wi-Fi bật, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng di động, tùy thuộc vào cài đặt của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, kiểm tra với nhà cung cấp về phí và các chi tiết khác.%1$s</string>

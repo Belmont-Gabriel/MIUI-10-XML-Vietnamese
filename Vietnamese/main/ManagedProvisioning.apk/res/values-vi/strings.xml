@@ -239,4 +239,5 @@
 	<string name="speed_bump_lockout_message">Tập trung trên đường</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="v7_preference_on">BẬT</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>

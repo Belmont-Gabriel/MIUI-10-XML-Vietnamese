@@ -198,4 +198,9 @@
 		<item>Sao lưu ảnh</item>
 		<item>Đồng bộ ảnh với Mi Cloud</item>
 	</string-array>
+	<string-array name="menu_copy_or_move">
+		<item>Di chuyển</item>
+		<item>Sao chép</item>
+		<item>Hủy</item>
+	</string-array>
 </resources>

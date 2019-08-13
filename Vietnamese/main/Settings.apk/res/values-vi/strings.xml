@@ -9547,4 +9547,5 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
 	<string name="wifi_connecting">Đang kết nối…</string>
 	<string name="wifi_limited_connection">Đã hạn chế kết nối</string>
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>

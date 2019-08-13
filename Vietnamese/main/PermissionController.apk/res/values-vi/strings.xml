@@ -335,4 +335,5 @@ Lần truy cập cuối trong khi ứng dụng được sử dụng"</string>
 	<string name="special_app_access">Ứng dụng truy cập đặc biệt</string>
 	<string name="special_app_access_no_apps">Không có ứng dụng</string>
 	<string name="special_app_access_search_keyword">Ứng dụng truy cập đặc biệt</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>
