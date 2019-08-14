@@ -64,4 +64,10 @@
 	<plurals name="snooze_duration_desc">
         <item quantity="other">Mỗi %1$s phút, kêu %2$s lần</item>
     </plurals>
+	<plurals name="snooze_duration_min">
+		<item quantity="other">Mỗi %1$s phút</item>
+	</plurals>
+	<plurals name="snooze_duration_count">
+		<item quantity="other">Kêu %1$s lần</item>
+	</plurals>
 </resources>

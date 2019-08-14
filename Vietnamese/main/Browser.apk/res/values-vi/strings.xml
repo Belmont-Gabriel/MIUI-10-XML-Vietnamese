@@ -1876,4 +1876,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="auto_download_e_c">Điều hướng trang web lậu</string>
 	<string name="auto_download_show_e_n">Hiển thị trang web lậu</string>
 	<string name="channel_complete">Hoàn tất</string>
+	<string name="ad_download_open">Mở</string>
+	<string name="search_description">Thanh tìm kiếm</string>
 </resources>

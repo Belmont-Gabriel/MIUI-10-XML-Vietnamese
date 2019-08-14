@@ -336,4 +336,11 @@
 	<string name="volume_button_setting_desc">Gán chức năng cho phím Nguồn và Tăng giảm âm lượng</string>
 	<string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
 	<string name="privacy_policy_title">Chính sách Riêng tư</string>
+	<string name="ringtone_dream">Mơ mộng</string>
+	<string name="ringtone_dew">Sương sớm</string>
+	<string name="ringtone_all">Tất cả nhạc chuông</string>
+	<string name="alarm_ringtone">Tất cả chuông báo thức</string>
+	<string name="ringtone_firefly">Đom đóm</string>
+	<string name="set_alarm_choose_ringtone">Chọn nhạc chuông</string>
+	<string name="set_alarm_other">Khác</string>
 </resources>
