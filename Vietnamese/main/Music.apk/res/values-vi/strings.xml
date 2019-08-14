@@ -1445,7 +1445,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="dialog_my_playlist_online_changed_merge">Giữ</string>
 	<string name="dialog_my_playlist_online_changed_message">Có vẻ như danh sách phát này đã thay đổi. Bạn có thể thay thế nó bằng phiên bản mới hoặc giữ phiên bản hiện tại.</string>
 	<string name="dialog_my_playlist_online_changed_replace">Thay thế</string>
-	<string name="dialog_my_playlist_set_to_public">Chia sẻ danh sách phát này lên Mi Music</string>
+	<string name="dialog_my_playlist_set_to_public">Chia sẻ danh sách phát này lên Mi Music và Hungama Music</string>
 	<string name="my_playlist_add_song">Thêm bài hát</string>
 	<string name="my_playlist_create_self_playlist">Tạo danh sách phát với bài hát ưa thích của bạn</string>
 	<string name="my_playlist_set_to_private">Đặt Riêng tư</string>
@@ -1459,4 +1459,20 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="toast_my_playlist_set_to_public">Danh sách phát này đã đặt thành công khai. Người khác có thể thấy nó.</string>
 	<string name="permission_required">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+	<string name="error_not_support">Không hỗ trợ</string>
+	<string name="storage_cloned_app">Lưu trữ cho ứng dụng kép</string>
+	<string name="failed_obtain_permissions">"Không thể lấy quyền"</string>
+	<string name="failed_not_access_sd_card">Cho phép truy cập thẻ SD trước</string>
+	<string name="not_support_documentui">"DocumentUI không hỗ trợ trên thiết bị này"</string>
+	<string name="delete_file_error">Không thể xóa tập tin</string>
+	<string name="floating_view_dialog_stay">Ở lại</string>
+	<string name="floating_view_dialog_title">Rời khỏi trang này?</string>
+	<string name="home_tab_home">Trang chủ</string>
+	<string name="song_already_in_playlist">Bài hát này đã có trong hàng đợi</string>
+	<string name="search_more">Thêm</string>
+	<string name="song_is_added_to_playlist">Đã thêm vào hàng đợi</string>
+	<string name="home_tab_more_music">Thêm âm nhạc</string>
+	<string name="home_tab_search">Tìm kiếm</string>
+	<string name="floating_view_dialog_leave">Rời</string>
+	<string name="floating_view_dialog_desc">Nhạc sẽ dừng phát nếu bạn rời khỏi trang này. Vẫn rời khỏi?</string>
 </resources>

@@ -39,4 +39,13 @@
 	<plurals name="try_3_day">
 		<item quantity="other">3 ngày thử miễn phí (%1$d mục còn lại cho hôm nay)</item>
 	</plurals>
+	<plurals name="detail_update_time_minute">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
+	<plurals name="wallpaper_quantity">
+		<item quantity="other">%1$d ảnh</item>
+	</plurals>
+	<plurals name="detail_update_time_hour">
+		<item quantity="other">%d giờ trước</item>
+	</plurals>
 </resources>

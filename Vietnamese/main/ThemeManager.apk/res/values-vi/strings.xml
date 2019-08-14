@@ -889,4 +889,14 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="wallpaper_online_no_more">"Đó là tất cả"</string>
 	<string name="wallpaper_online_tip">Kết nối mạng để xem thêm nhiều mục</string>
 	<string name="wallpaper_static">Tĩnh</string>
+	<string name="author_dynamic">Trạng thái</string>
+	<string name="author_attention_success">Theo dõi thành công</string>
+	<string name="author_dynamic_no_resource">"Không thể tìm kết quả"</string>
+	<string name="wallpaper_no_record">Chưa có mục nào.</string>
+	<string name="detail_author_fans">"Người theo dõi: "</string>
+	<string name="detail_author_works">"Mục: "</string>
+	<string name="author_attention">Theo dõi</string>
+	<string name="author_dialog_message">Bỏ theo dõi tài khoản này?</string>
+	<string name="wallpaper_no_favorite">Chưa có mục nào.</string>
+	<string name="detail_author_attention_head">Theo dõi một số nhà thiết kế nổi bật của chúng tôi</string>
 </resources>

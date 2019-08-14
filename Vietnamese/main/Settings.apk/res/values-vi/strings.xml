@@ -9549,4 +9549,6 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="live_caption_title">Phụ đề Trực tiếp</string>
+	<string name="miui_lab_aiasst_call_screen_desc">Kết nối bằng Mẹo</string>
+	<string name="miui_lab_aiasst_call_screen_title">Mẹo gọi</string>
 </resources>

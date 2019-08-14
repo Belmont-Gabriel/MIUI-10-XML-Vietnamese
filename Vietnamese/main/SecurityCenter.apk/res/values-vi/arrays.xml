@@ -142,4 +142,8 @@
 		<item>Sử dụng chế độ điều khiển nhiệt độ mặc định</item>
 		<item>Ưu tiên hiệu suất</item>
 	</string-array>
+	<string-array name="ew_emergency_organ_donation_arrays">
+		<item>Có</item>
+		<item>Không</item>
+	</string-array>
 </resources>

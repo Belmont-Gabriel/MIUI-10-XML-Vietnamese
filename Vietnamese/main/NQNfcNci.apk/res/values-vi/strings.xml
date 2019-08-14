@@ -46,4 +46,7 @@ Bạn có muốn bật cho Dịch vụ NFC"</string>
 	<string name="no">Không</string>
 	<string name="permdesc_nfcReceiveEvent">Cho phép ứng dụng nhận thông tin về giao dịch NFC đang thực hiện</string>
 	<string name="permlab_nfcReceiveEvent">Nhận thức về giao dịch NFC</string>
+	<string name="beam_requires_external_storage_permission">Ứng dụng khong có quyền Bộ nhớ mở rộng. Điều này cần để Truyền tệp tin này</string>
+	<string name="permgrouplab_NFC">NFC-Kết nối trường gần</string>
+	<string name="permgroupdesc_NFC">Truy cập các tính năng NFC khác nhau</string>
 </resources>

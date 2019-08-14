@@ -128,7 +128,8 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="micloud_more">Tìm hiểu thêm</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Đặt tất cả các mục quan trọng một nơi</string>
-    <string name="micloud_dspt">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn,</string>
+    <string name="micloud_dspt">"Đồng bộ hóa danh bạ, tin nhắn, lịch sử cuộc gọi và các mục khác trên tất cả các thiết bị.
+Xác định vị trí và khóa thiết bị của bạn trong trường hợp thiết bị bị mất"</string>
     <string name="cmcc_micloud_dspt">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
     <string name="micloud_sec_dspt">và chia sẻ mọi thứ với bạn bè.</string>
     <string name="micloud_dspt_provision">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
@@ -136,7 +137,7 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="micloud_single_dspt">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
     <string name="micloud_proceed">Tiếp tục</string>
     <string name="master_alert_notif_title">Bật đồng bộ với Mi Cloud</string>
-    <string name="master_alert_notif_content">Không thể đồng bộ</string>
+    <string name="master_alert_notif_content">Sao lưu thường xuyên để không mất thứ gì quan trọng</string>
     <string name="sub_alert_notif_title">Đồng bộ với Mi Cloud</string>
     <string name="sub_alert_notif_content">Bật đồng bộ với Mi Cloud để sao lưu dữ liệu của bạn</string>
     <string name="noRemind">Không nhắc tôi nữa</string>

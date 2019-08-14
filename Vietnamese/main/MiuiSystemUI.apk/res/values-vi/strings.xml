@@ -2127,4 +2127,5 @@ d MMMM"</string>
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
 	<string name="qs_open_night_mode_alert_summary">"Một số cài đặt hiển thị không tương thích với Chế độ tối. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Chế độ tối."</string>
 	<string name="quick_settings_nightmode_label">Chế độ tối</string>
+	<string name="description_image_button_bubble_answer">Loa</string>
 </resources>

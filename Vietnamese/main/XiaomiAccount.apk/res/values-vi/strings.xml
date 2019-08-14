@@ -679,4 +679,11 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="bind_google">Kết nối tài khoản Google của bạn</string>
 	<string name="bind_weixin">Kết nối tài khoản WeChat của bạn</string>
 	<string name="need_install_wechat">Cài đặt WeChat trước</string>
+	<string name="two_factor_auth_summary">"Khi bạn cố đăng nhập ở một thiết bị mới tại một vị trí mới, bạn sẽ được thông báo trên thiết bị đã kết nối khác. Bạn sẽ phải xác nhận lần thử đăng nhập đó có phải là bạn không."</string>
+	<string name="two_factor_auth_need_code">Nhập mã</string>
+	<string name="two_factor_auth_need_code_summary">"Bạn sẽ thấy mã trên thiết bị Mi khác đã kết nối. Nhập mã này trên thiết bị mới để đăng nhập."</string>
+	<string name="two_factor_auth_click_confirm">Xác nhận để đăng nhập</string>
+	<string name="two_factor_auth">Xác thực hai bước</string>
+	<string name="two_factor_auth_method">Phương thức xác thực</string>
+	<string name="two_factor_auth_click_confirm_summary">"Bạn sẽ thấy một thông báo trên thiết bị Mi khác đã kết nối. Chạm vào thông báo để cho phép đăng nhập trên thiết bị mới."</string>
 </resources>
