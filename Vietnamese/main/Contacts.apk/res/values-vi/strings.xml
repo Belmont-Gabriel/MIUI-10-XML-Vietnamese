@@ -1531,4 +1531,5 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="heduohao_popup_txt">Phụ %d</string>
 	<string name="shortcut_new_contact_label">Liên hệ mới</string>
 	<string name="shortcut_scan_label">Quét danh thiếp</string>
+	<string name="scan_not_installed">Cài Máy quét trước</string>
 </resources>

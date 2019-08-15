@@ -1245,4 +1245,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="function_use_imei">"Để truy cập IMEI và tập tin đã mã hóa; "</string>
 	<string name="hint_switch_to_grid_mode">Đã chuyển sang dạng lưới</string>
 	<string name="hint_switch_to_list_mode">Đã chuyển sang dạng danh sách</string>
+	<string name="switch_doc_type">Chọn định dạng</string>
+	<string name="list_mode">Xem danh sách</string>
+	<string name="grid_mode">Xem lưới</string>
 </resources>
