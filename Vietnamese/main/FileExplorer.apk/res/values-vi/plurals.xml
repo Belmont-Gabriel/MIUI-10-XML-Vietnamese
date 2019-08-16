@@ -52,7 +52,7 @@
         <item quantity="other">%1$s lượt xem</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> video</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s bình luận</item>
@@ -64,34 +64,34 @@
         <item quantity="other"> %1$d mục</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> ngày</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ngày</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• Bạn đã tải lên &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> video.</item>
+        <item quantity="other">• Bạn đã tải lên &lt;font color=#fc7050>%1$s&lt;/font> video.</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">Bạn đã làm cho &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> người hạnh phúc!</item>
+        <item quantity="other">Bạn đã làm cho &lt;font color=#fc7050>%1$s&lt;/font> người hạnh phúc!</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• Bạn có &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> người theo dõi!</item>
+        <item quantity="other">• Bạn có &lt;font color=#fc7050>%1$s&lt;/font> người theo dõi!</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Tăng thêm %1$d người theo dõi để nâng cấp trạng thái của bạn</item>
     </plurals>
     <plurals name="follow_count">
-        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> người theo dõi</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> người theo dõi</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s đá quý</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Sưu tập &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> nhiều đá quý để tham gia rút thăm trúng thưởng.</item>
+        <item quantity="other">Sưu tập &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> nhiều đá quý để tham gia rút thăm trúng thưởng.</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">Đã check in %1$s ngày liên tục</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">Bạn nhận được &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> điểm</item>
+        <item quantity="other">Bạn nhận được &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> điểm</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">Đã check in %1$s ngày liên tục, hãy tiếp tục phấn đấu!</item>

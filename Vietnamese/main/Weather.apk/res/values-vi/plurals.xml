@@ -19,7 +19,7 @@
         <item quantity="other">"%1$s người | "</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> người đã bình chọn"</item>
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> người đã bình chọn"</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Quang</item>

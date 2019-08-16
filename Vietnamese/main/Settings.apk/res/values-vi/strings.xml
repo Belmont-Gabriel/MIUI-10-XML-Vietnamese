@@ -8097,7 +8097,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="color_led_start_time">Thời gian bắt đầu</string>
 	<string name="color_led_title">Ánh sáng LED</string>
 	<string name="long_press_power_key">Nhấn giữ nút nguồn</string>
-	<string name="long_press_power_key_tips">&lt;Data&gt;Nhấn giữ nút nguồn &amp;lt;font color=#999999&amp;gt;Nhanh và thuận tiện hơn&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+	<string name="long_press_power_key_tips">&lt;Data&gt;Nhấn giữ nút nguồn &lt;font color=#999999&gt;Nhanh và thuận tiện hơn&lt;/font&gt;&lt;/Data&gt;</string>
 	<string name="toggle_auto_speaker_preference_summary">Thiết bị sẽ chuyển sang loa ngoài khi bạn di chuyển nó xa khỏi tai khi đang nghe điện thoại. Tính năng này chỉ hoạt động khi bật TalkBack.</string>
 	<string name="toggle_auto_speaker_preference_title">Tự động chuyển sang loa ngoài</string>
 	<string name="miui_touch_filtered_touchassistant_warning">Hộp thoại Quyền đang bị che bởi Phím ảo. Di chuyển Phím ảo sang chỗ khác hoặc tắt tính năng đó.</string>
