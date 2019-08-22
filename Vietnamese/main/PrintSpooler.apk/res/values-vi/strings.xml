@@ -111,4 +111,5 @@
 	<string name="open">Mở</string>
 	<string name="printer_busy">Bận</string>
 	<string name="wifi_direct">WiFi Direct</string>
+	<string name="system_print_service_help">Tìm hiểu về In</string>
 </resources>

@@ -298,7 +298,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
-	<string name="gdpr_msg">Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư</a>.</string>
+	<string name="gdpr_msg">&lt;Data&gt;Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin về cách bạn sử dụng các tính năng của Bảo mật (ví dụ, thống kê sử dụng dữ liệu, thông tin về phần mềm độc hại, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định trong &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
     <string name="list_empty_text">Trống</string>
     <string name="dialog_title_attention">Chú ý</string>
@@ -3100,4 +3100,32 @@ Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
 	<string name="ew_alert_earthquake_feel_max">Nặng</string>
 	<string name="ew_guide_law_agree">Đồng ý</string>
 	<string name="ew_main_close_title">Chú ý</string>
+	<string name="function_gwsd_detail">"Về tính năng này:
+ 1. Cuộc gọi đến vào SIM dữ liệu của bạn sẽ không ngắt kết nối mạng dữ liệu di động. Kết nối sẽ bị ngắt chỉ khi bạn trả lời cuộc gọi.
+ 2. Khi tính năng này được bật, người gọi sẽ không nghe thấy âm thanh chờ cuộc gọi. Cuộc gọi đến sẽ kết thúc nếu bạn không trả lời trong 6 giây.
+ 3. Tính năng này chỉ hoạt động cho SIM dữ liệu. Cuộc gọi tới SIM chính của bạn sẽ ngắt kết nối dữ liệu di động.
+ 4. Tính năng này chỉ được hỗ trợ bởi China Mobile và China Unicom."</string>
+	<string name="permission_action_foreground">Khi đang sử dụng ứng dụng</string>
+	<string name="function_gwsd_title">"Không cho phép cuộc gọi đến ngắt kết nối mạng của SIM"</string>
+	<string name="permission_action_always">Luôn cho phép</string>
+	<string name="power_save_settings">Cài đặt pin</string>
+	<string name="banner_red_money_assist_summary">Mở phong bì nhanh hơn</string>
+	<string name="banner_optimizemanage_summary">Giải phóng bộ nhớ</string>
+	<string name="phone_manage">Tiện ích</string>
+	<string name="phone_manage_clean_title">Trình dọn dẹp</string>
+	<string name="menu_summary_garbage_cleanup_ex">Xóa %s rác</string>
+	<string name="system_tool_sos">SOS khẩn cấp</string>
+	<string name="system_tool_green_guard">Bảo vệ Gia đình</string>
+	<string name="banner_red_money_assist_button">Bật</string>
+	<string name="phone_manage_electric_title">Pin</string>
+	<string name="phone_manage_system_tool_summary">Công cụ mức hệ thống hữu ích</string>
+	<string name="phone_manage_app_manager_summary">Quản lý ứng dụng trên thiết bị</string>
+	<string name="securitycenter_tab_title">Bảo mật</string>
+	<string name="phone_manage_clean_summary">Giải phóng bộ nhớ lưu trữ</string>
+	<string name="phone_manage_special_title">Tính năng đặc biệt</string>
+	<string name="phone_manage_special_summary">Khám phá tính năng bổ sung của chúng tôi</string>
+	<string name="phone_manage_system_tool_title">Công cụ</string>
+	<string name="phone_manage_electric_summary">Tối ưu thiết bị của bạn để tiết kiệm pin</string>
+	<string name="power_save_mode">Tiết kiệm pin</string>
+	<string name="cta_main_purpose">Chào mừng tới Bảo mật! Bạn có thể dùng ứng dụng này để xóa rác trên thiết bị, tìm và diệt virus, tối ưu hiệu năng chơi game, tiết kiệm pin, quản lý ứng dụng và hơn thế nữa.</string>
 </resources>

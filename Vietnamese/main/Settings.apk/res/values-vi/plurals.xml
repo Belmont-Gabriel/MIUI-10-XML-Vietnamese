@@ -541,4 +541,18 @@
 	<plurals name="uninstall_game_count_title">
 		<item quantity="other">Chưa thêm %d trò chơi</item>
 	</plurals>
+	<plurals name="wifi_saved_all_access_points_summary">
+		<item quantity="other">%d mạng &amp; đăng ký</item>
+		<item quantity="one">1 mạng &amp; đăng ký</item>
+	</plurals>
+	<plurals name="notifications_sent_daily">
+		<item quantity="other">~%d thông báo một ngày</item>
+	</plurals>
+	<plurals name="notifications_sent_weekly">
+		<item quantity="other">~%d thông báo một tuần</item>
+	</plurals>
+	<plurals name="wifi_saved_passpoint_access_points_summary">
+		<item quantity="other">%d đăng ký</item>
+		<item quantity="one">1 đăng ký</item>
+	</plurals>
 </resources>

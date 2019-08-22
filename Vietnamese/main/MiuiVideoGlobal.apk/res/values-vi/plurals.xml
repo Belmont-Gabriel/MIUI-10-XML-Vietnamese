@@ -42,4 +42,22 @@
 	<plurals name="pw_comment_view_all_comment">
 		<item quantity="other">Xem tất cả %d bình luận</item>
 	</plurals>
+	<plurals name="plus_search_result_title">
+		<item quantity="other">%2$s kết quả cho \"%1$s\"</item>
+	</plurals>
+	<plurals name="plus_player_subtitle_online_size">
+		<item quantity="other">Kích thước tệp: %.2fKB</item>
+	</plurals>
+	<plurals name="plus_serval_pictures">
+		<item quantity="other">%d ảnh</item>
+	</plurals>
+	<plurals name="plus_serval_videos">
+		<item quantity="other">%d video</item>
+	</plurals>
+	<plurals name="plus_edit_top_titletext">
+		<item quantity="other">Đã chọn %s mục</item>
+	</plurals>
+	<plurals name="plus_edit_delete_comfire_text">
+		<item quantity="other">Xóa %s mục ngay?</item>
+	</plurals>
 </resources>

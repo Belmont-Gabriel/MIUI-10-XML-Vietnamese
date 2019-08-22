@@ -1831,4 +1831,17 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="wednesday">Thứ tư</string>
 	<string name="wednesday_short">Th 4</string>
 	<string name="wednesday_shortest">T4</string>
+	<string name="show_cloud_albumlist_summary">Quản lý album bạn đồng bộ với đám mây</string>
+	<string name="empty_album_cloud_list_title">Không có album để đồng bộ</string>
+	<string name="album_hidden_page_title">Ẩn</string>
+	<string name="show_hidden_album_summary">Xem và quản lý album ẩn</string>
+	<string name="filter_sky_hint">Tòa nhà chọc trời</string>
+	<string name="album_cloud_list_page_title">Quản lý album đã đồng bộ</string>
+	<string name="remove_hidden_status_title">Bỏ ẩn</string>
+	<string name="remove_hidden_status_tip">Album này sẽ hiển thị cùng với các album khác nếu bạn bỏ ẩn.</string>
+	<string name="remove_hidden_status_success">Đã bỏ %s khỏi album ẩn</string>
+	<string name="album_hidden_item_button_title">Bỏ ẩn</string>
+	<string name="projection_screen_project_in_screening">"Bạn đang sử dụng thiết bị để truyền"</string>
+	<string name="empty_album_hidden_list_title">Không có album ẩn</string>
+	<string name="chooser_fragment_mishare_title">Chia sẻ đến</string>
 </resources>

@@ -686,4 +686,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="two_factor_auth">Xác thực hai bước</string>
 	<string name="two_factor_auth_method">Phương thức xác thực</string>
 	<string name="two_factor_auth_click_confirm_summary">"Bạn sẽ thấy một thông báo trên thiết bị Mi khác đã kết nối. Chạm vào thông báo để cho phép đăng nhập trên thiết bị mới."</string>
+	<string name="ep_unsupported">Thiết bị của bạn không hỗ trợ đăng nhập bằng Tài khoản Mi</string>
 </resources>

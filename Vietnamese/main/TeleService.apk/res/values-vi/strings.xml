@@ -2731,4 +2731,5 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="tap_to_sign_up">Chạm để đăng ký</string>
 	<string name="wifi_limited_connection">Đã hạn chế kết nối</string>
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
+	<string name="preferred_network_type_pref_entries_4g_preferred_custom">Ưu tiên 4G</string>
 </resources>

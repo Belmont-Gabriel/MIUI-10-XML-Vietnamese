@@ -350,4 +350,17 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="ew_alert_second_after">
 		<item quantity="other">Trong %d giây</item>
 	</plurals>
+	<plurals name="menu_text_antivirus_virus_ex">
+		<item quantity="other">%d ứng dụng có chứa virus hoặc malware</item>
+	</plurals>
+	<plurals name="menu_text_antivirus_day_ex">
+		<item quantity="other">"Chưa quét thiết bị %d ngày"</item>
+	</plurals>
+	<plurals name="menu_text_app_manager_ex">
+		<item quantity="other">%d cập nhật khả dụng</item>
+	</plurals>
+	<plurals name="menu_text_antispam_ex">
+		<item quantity="other">%d tin nhắn và cuộc gọi đã chặn</item>
+		<item quantity="one">%d tin nhắn hoặc cuộc gọi đã chặn</item>
+	</plurals>
 </resources>

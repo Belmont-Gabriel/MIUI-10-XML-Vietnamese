@@ -2128,4 +2128,24 @@ d MMMM"</string>
 	<string name="qs_open_night_mode_alert_summary">"Một số cài đặt hiển thị không tương thích với Chế độ tối. Tuy nhiên, chúng sẽ được khôi phục khi bạn tắt Chế độ tối."</string>
 	<string name="quick_settings_nightmode_label">Chế độ tối</string>
 	<string name="description_image_button_bubble_answer">Loa</string>
+	<string name="wifi_scan_throttling">Điều chỉnh quét Wi-Fi</string>
+	<string name="wifi_disconnected">Đã ngắt kết nối</string>
+	<string name="wifi_scan_throttling_summary">Giảm hao pin &amp; tăng cường hiệu năng mạng</string>
+	<string name="bubbles_deep_link_button_description">Mở %1$s</string>
+	<string name="ask_me_later_bubbles">Hỏi lại sau</string>
+	<string name="bubble_content_description_stack">%1$s từ %2$s và %3$d hơn nữa</string>
+	<string name="bubbles_settings_button_description">Cài đặt cho %1$s bong bóng</string>
+	<string name="bubble_dismiss_text">Bỏ qua</string>
+	<string name="manage_bubbles_text">Quản lý</string>
+	<string name="bubble_accessibility_action_move_bottom_left">Di chuyển dưới trái</string>
+	<string name="instant_apps_message_with_help">Ứng dụng đã mở mà không cần cài đặt. Chạm để tìm hiểu thêm.</string>
+	<string name="bubble_accessibility_action_move_top_right">Di chuyển trên phải</string>
+	<string name="no_bubbles">Từ chối</string>
+	<string name="yes_bubbles">Cho phép</string>
+	<string name="instant_apps_title">%1$s đang chạy</string>
+	<string name="bubble_accessibility_action_move_bottom_right">Di chuyển dưới phải</string>
+	<string name="bubble_content_description_single">%1$s từ %2$s</string>
+	<string name="bubble_accessibility_action_move_top_left">Di chuyển trên trái</string>
+	<string name="bubbles_prompt">Cho phép bong bóng từ %1$s?</string>
+	<string name="bubble_accessibility_action_move">Di chuyển</string>
 </resources>

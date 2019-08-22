@@ -9551,4 +9551,151 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
 	<string name="live_caption_title">Phụ đề Trực tiếp</string>
 	<string name="miui_lab_aiasst_call_screen_desc">Kết nối bằng Mẹo</string>
 	<string name="miui_lab_aiasst_call_screen_title">Mẹo gọi</string>
+	<string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
+	<string name="system_print_service_help">Tìm hiểu về In</string>
+	<string name="screen_projection_title">Truyền</string>
+	<string name="open_game_accelerate">Bật Game Turbo</string>
+	<string name="screen_projection_characteristics_privacy_protect_summary">"Không hiển thị thông báo nổi, cuộc gọi đến, và các mục riêng tư khác trên màn hình mở rộng."</string>
+	<string name="screen_projection">Truyền</string>
+	<string name="connection_and_sharing">Kết nối &amp; chia sẻ</string>
+	<string name="screen_projection_characteristics_off_screen_title">Truyền khi màn hình tắt</string>
+	<string name="screen_projection_sample_summary">Truyền tài liệu, trò chơi, ảnh và video</string>
+	<string name="enable_screen_projection_summary">Truyền nội dung màn hình lên một màn hình mở rộng</string>
+	<string name="screen_projection_characteristics_small_window_title">Thu nhỏ cửa sổ</string>
+	<string name="search_connection_and_sharing">Thêm;Không dây</string>
+	<string name="screen_projection_characteristics_small_window_summary">"Thu nhỏ cửa sổ được truyền để có thể sử dụng các tính năng khác của điện thoại."</string>
+	<string name="screen_projection_characteristics">Tính năng đặc biệt</string>
+	<string name="screen_projection_example_document_summary">Hiển thị trình chiếu trên một màn hình mở rộng khi bạn sử dụng điện thoại để chuyển giữa các slide và xem ghi chú. Đi tới Quản lý tệp tin &gt; Tài liệu để thử tính năng này.</string>
+	<string name="screen_projection_example_gallery_summary">Chạm nút chia sẻ dưới một mục trong Thư viện để hiển thị nó lên màn hình mở rộng.</string>
+	<string name="screen_projection_characteristics_off_screen_summary">Bạn có thể tiếp tục truyền khi màn hình tắt. Tính năng này giảm hao pin.</string>
+	<string name="screen_projection_help">Trợ giúp</string>
+	<string name="screen_projection_characteristics_privacy_protect_title">Ẩn mục riêng tư</string>
+	<string name="screen_projection_example_game_title">Trò chơi</string>
+	<string name="screen_projection_sample_title">Trình diễn</string>
+	<string name="screen_projection_example_game_summary">Game Turbo cho phép truyền trò chơi tới màn hình mở rộng. Sử dụng lối tắt trong công cụ Game Turbo để bật tính năng này.</string>
+	<string name="screen_projection_example_document_title">Tài liệu</string>
+	<string name="other">Khác</string>
+	<string name="speaker">Loa</string>
+	<string name="wifi_calling_summary">Bật cuộc gọi Wi-Fi và chọn mạng Wi-Fi ưu tiên</string>
+	<string name="wifi_scan_throttling">Điều chỉnh quét Wi-Fi</string>
+	<string name="wifi_disconnected">Đã ngắt kết nối</string>
+	<string name="wifi_scan_throttling_summary">Giảm hao pin &amp; tăng cường hiệu năng mạng</string>
+	<string name="back_sensitivity_dialog_title">Độ nhạy quay lại</string>
+	<string name="skip_lock_screen_dialog_button_label">Bỏ qua</string>
+	<string name="gentle_notifications_display_summary_shade_status">Hiển thị trong khung kéo xuống &amp; thanh trạng thái</string>
+	<string name="accessibility_service_action_perform_description">Nó có thể theo dõi tương tác của bạn với một ứng dụng hoặc một cảm biến phần cứng, và thay mặt bạn tương tác với ứng dụng.</string>
+	<string name="lock_screen_notifs_redact">Thông báo nhạy cảm</string>
+	<string name="notification_bubbles_developer_setting_summary">Một vài thông báo có thể hiển thị dạng bong bóng trên màn hình</string>
+	<string name="lock_screen_notifs_title">Thông báo trên màn hình khóa</string>
+	<string name="accessibility_tutorial_dialog_title_button">Sử dụng nút trợ năng để mở</string>
+	<string name="wifi_scan_always_turn_on_message_unknown">"Để cải thiện độ chính xác vị trí cho các mục đích khác, một ứng dụng không xác định muốn bật tính năng quét mạng, kể cả khi Wi-Fi đã tắt.
+
+Cho phép tất cả các ứng dụng muốn quét?"</string>
+	<string name="content_capture_summary">Cho phép ứng dụng gửi nội dung tới Hệ thống Android</string>
+	<string name="accessibility_tutorial_dialog_title_gesture">Dùng cử chỉ để mở</string>
+	<string name="mobile_network_sim_color_label">Màu sắc (Sử dụng bởi ứng dụng tương thích)</string>
+	<string name="accessibility_service_warning_description">Kiểm soát hoàn toàn giúp bạn với nhu cầu trợ năng, nhưng không phải cho hầu hết ứng dụng.</string>
+	<string name="dark_ui_mode_disabled_summary_dark_theme_on">Bật / Tạm thời tắt vì Tiết kiệm Pin</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Để tắt hoặc bật dịch vụ này, vuốt lên từ phía dưới màn hình bằng ba ngón tay.
+
+Để chuyển giữa các dịch vụ, vuốt lên bằng ba ngón tay và giữ."</string>
+	<string name="accessibility_tutorial_dialog_message_button">"Để bật hoặc tắt dịch vụ này, chạm nút trợ năng %s ở phía dưới của màn hình.
+
+Để chuyển giữa các dịch vụ, nhấn &amp; giữ nút trợ năng."</string>
+	<string name="dark_ui_settings_dialog_acknowledge">Đã hiểu</string>
+	<string name="sim_combination_warning_notification_title">Sự cố về kết hợp SIM</string>
+	<string name="style_and_wallpaper_settings_title">Phong cách &amp; hình nền</string>
+	<string name="managed_profile_location_services">Dịch vụ vị trí để làm việc</string>
+	<string name="lock_screen_notifs_redact_work">Thông báo hồ sơ công việc nhạy cảm</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Để bật hoặc tắt một dịch vụ trợ năng, vuốt lên từ phía dưới màn hình bằng ba ngón tay.
+
+Để chuyển giữa các dịch vụ, vuốt lên bằng ba ngón tay và giữ."</string>
+	<string name="enable_mms_notification_channel_title">Tin nhắn MMS</string>
+	<string name="accessibility_service_action_perform_title">Xem và thực hiện hành động</string>
+	<string name="module_license_title">Giấy phép cập nhật hệ thống Google Play</string>
+	<string name="accessibility_service_screen_control_description">Nó có thể đọc tất cả nội dung trên màn hình và hiển thị nội dung trên ứng dụng khác.</string>
+	<string name="face_lock_screen_setup_skip_dialog_text">Bảo vệ thiết bị của bạn với một tùy chọn khóa màn hình để không ai có thể sử dụng nó nếu nó bị đánh cắp hoặc bị mất. Bạn cũng cần khóa màn hình để cài xác thực khuôn mặt. Chạm Hủy, và cài PIN, mẫu hình hoặc mật khẩu.</string>
+	<string name="dual_cdma_sim_warning_notification_summary">Sử dụng %1$s có thể giới hạn tính năng. Chạm để tìm hiểu thêm.</string>
+	<string name="gentle_notifications_also_display">Cũng hiển thị trong</string>
+	<string name="mobile_network_sim_name_label">Tên</string>
+	<string name="phone_index_label">Chọn chỉ số điện thoại</string>
+	<string name="mms_message_title">Tin nhắn MMS</string>
+	<string name="dual_cdma_sim_warning_notification_channel_title">Kết hợp SIM</string>
+	<string name="accessibility_setting_item_control_timeout_title">Thời gian để thực hiện hành động (Hết giờ Truy cập)</string>
+	<string name="security_settings_face_enroll_education_start">Bắt đầu</string>
+	<string name="display_dashboard_summary_with_style">Phong cách, hình nền, thời gian màn hình, kích thước phông chữ</string>
+	<string name="global_actions_panel_short_title">Hành động toàn cầu</string>
+	<string name="profile_owner_add_title_simplified">Cho phép giám sát?</string>
+	<string name="security_settings_face_enroll_education_title">Cách cài đặt Mở khóa gương mặt</string>
+	<string name="high_label">Cao</string>
+	<string name="data_during_calls_summary">Cho phép thẻ SIM chỉ sử dụng dữ liệu di động khi gọi</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Để tắt hoặc bật dịch vụ, vuốt lên từ phía dưới màn hình bằng hai ngón tay.
+
+Để chuyển giữa các dịch vụ, vuốt lên bằng hai ngón tay và giữ."</string>
+	<string name="accessibility_tutorial_dialog_button">Đã hiểu</string>
+	<string name="radio_info_subid">subId hiện tại:</string>
+	<string name="accessibility_dialog_button_stop">Dừng</string>
+	<string name="dark_ui_mode_disabled_summary_dark_theme_off">Tạm thời bật vì Tiết kiệm pin</string>
+	<string name="lock_screen_pin_skip_title">Bỏ qua cài đặt PIN?</string>
+	<string name="style_suggestion_summary">Thử phong cách, hình nền, đồng hồ khác và hơn nữa</string>
+	<string name="device_admin_warning_simplified">Thiết bị này sẽ được quản lý và giám sát bởi %1$s.</string>
+	<string name="accessibility_dialog_button_deny">Từ chối</string>
+	<string name="gentle_notifications_display_summary_shade_lock">Hiển thị trên khung kéo xuống &amp; trên màn hình khóa</string>
+	<string name="lock_screen_pattern_skip_title">Bỏ qua cài mẫu hình?</string>
+	<string name="lock_screen_notifs_show_alerting">Chỉ hiển thị thông báo cảnh báo</string>
+	<string name="accessibility_dialog_button_cancel">Hủy</string>
+	<string name="mobile_network_disable_sim_explanation">Để tắt SIM này, tháo thẻ SIM</string>
+	<string name="global_actions_panel_summary">Để hiển thị trên bảng Hành động toàn cầu, nhấn &amp; giữ nút Nguồn</string>
+	<string name="low_label">Thấp</string>
+	<string name="data_during_calls_title">Dữ liệu khi gọi</string>
+	<string name="enable_mms_notification_summary">Chạm để cho phép tin nhắn MMS trên %1$s khi dữ liệu di động tắt</string>
+	<string name="information_label">Thông tin</string>
+	<string name="content_capture">Nội dung ứng dụng</string>
+	<string name="accessibility_service_screen_control_title">Xem và điều khiển màn hình</string>
+	<string name="enable_sending_mms_notification_title">Không thể gửi tin nhắn MMS</string>
+	<string name="gentle_notifications_display_summary_shade_status_lock">Hiển thị trong khung kéo xuống, thanh trạng thái &amp; trên màn hình khóa</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Để tắt hoặc bật một dịch vụ trợ năng, vuốt lên từ phía dưới màn hình bằng hai ngón tay.
+
+Để chuyển giữa các dịch vụ, vuốt lên bằng hai ngón tay và giữ."</string>
+	<string name="wifi_ap_choose_vendor_both">Cả hai</string>
+	<string name="lock_screen_password_skip_title">Bỏ qua cài mật khẩu?</string>
+	<string name="style_suggestion_title">Tùy chỉnh Pixel của bạn</string>
+	<string name="security_settings_face_enroll_education_title_unlock_disabled">Sử dụng khuôn mặt của bạn để xác thực</string>
+	<string name="lock_screen_notifs_redact_work_summary">Hiển thị nội dung nhạy cảm hồ sơ công việc khi đã khóa</string>
+	<string name="zen_mode_slice_subtitle">Giới hạn ngắt</string>
+	<string name="mms_message_summary">Gửi &amp; nhận khi dữ liệu di động tắt</string>
+	<string name="fingerprint_lock_screen_setup_skip_dialog_text">Bảo vệ thiết bị của bạn với một tùy chọn khóa màn hình để không ai có thể sử dụng nó nếu nó bị đánh cắp hoặc bị mất. Bạn cũng cần một tùy chọn khóa màn hình để cài đặt vân tay. Chạm Hủy, và cài PIN, mẫu hình hoặc mật khẩu.</string>
+	<string name="enable_receiving_mms_notification_title">Tin nhắn MMS đến</string>
+	<string name="lock_screen_notifs_show_all">Hiển thị cảnh báo và thông báo im lặng</string>
+	<string name="back_sensitivity_dialog_message">"
+Độ nhạy cao hơn có thể xung đột với bất kỳ cử chỉ ứng dụng nào dọc theo cạnh màn hình."</string>
+	<string name="wifi_metered_title">Sử dụng mạng</string>
+	<string name="keywords_global_actions_panel">Hành động toàn cầu</string>
+	<string name="smart_notifications_title">Thông báo thích ứng</string>
+	<string name="keywords_battery_saver_schedule">thói quen, lịch trình, tiết kiệm pin, tiết kiệm năng lượng, pin, tự động, phần trăm</string>
+	<string name="battery_saver_turn_on_summary">Mở rộng thời lượng pin</string>
+	<string name="gentle_notifications_display_status">Thanh trạng thái</string>
+	<string name="bluetooth_untethered_unpair_dialog_body">%1$s sẽ không còn có thể ghép nối với bất kì thiết bị nào liên kết với tài khoản này</string>
+	<string name="global_actions_panel_title">Hiện hành động toàn cầu</string>
+	<string name="gesture_not_supported_dialog_message">Không hỗ trợ bởi ứng dụng màn hình chính mặc định của bạn, %s</string>
+	<string name="gentle_notifications_display_summary_shade">Chỉ hiển thị trong khung kéo xuống</string>
+	<string name="gentle_notifications_display_lock">Màn hình khóa</string>
+	<string name="gentle_notifications_education">Thông báo nhẹ nhàng luôn im lặng và xuất hiện trong khung kéo xuống</string>
+	<string name="snooze_options_title">Cho phép thông báo lại</string>
+	<string name="security_settings_face_settings_enroll">Đặt mở khóa khuôn mặt mới</string>
+	<string name="accessibility_tutorial_dialog_title_gesture_settings">Sử dụng cử chỉ trợ năng mới</string>
+	<string name="cancel_lock_screen_dialog_button_label">Hủy</string>
+	<string name="radio_info_dds">SubId của SIM dữ liệu mặc định:</string>
+	<string name="mobile_network_tap_to_activate">Chạm để kích hoạt %1$s</string>
+	<string name="security_settings_face_settings_require_category">Yêu cầu để mở khóa khuôn mặt</string>
+	<string name="security_settings_face_enroll_education_title_accessibility">Cài đặt Mở khóa khuôn mặt</string>
+	<string name="keywords_add_an_account">Hồ sơ công việc</string>
+	<string name="gesture_not_supported_positive_button">Chuyển ứng dụng màn hình chính mặc định</string>
+	<string name="keywords_content_capture">Ghi nội dung, nội dung ứng dụng</string>
+	<string name="lock_screen_notifs_show_none">Không hiển thị thông báo</string>
+	<string name="accessibility_dialog_button_allow">Cho phép</string>
+	<string name="keywords_system_navigation">điều hướng hệ thống, điều hướng 2 nút, điều hướng 3 nút, điều hướng bằng cử chỉ</string>
+	<string name="adaptive_sleep_privacy">Chú ý màn hình sử dụng máy ảnh trước để thấy nếu ai đó nhìn vào màn hình. Nó hoạt động trên thiết bị, và ảnh sẽ không bao giờ được lưu trữ hoặc gửi tới Google.</string>
+	<string name="gentle_notifications_title">Thông báo nhẹ nhàng</string>
+	<string name="lock_screen_notifs_redact_summary">Hiển thị nội dung nhạy cảm khi đã khóa</string>
 </resources>

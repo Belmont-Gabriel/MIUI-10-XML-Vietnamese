@@ -284,4 +284,8 @@
 	<string name="guide_desc_1">Cha mẹ hoàn toàn nắm bắt và quản lý việc sử dụng của bé</string>
 	<string name="guide_desc_2">"Tùy chỉnh ứng dụng cho trẻ em
 An toàn, chất lượng, phát triển"</string>
+<string name="no_net_dialog_negative_text">Hủy</string>
+	<string name="no_net_dialog_title">Nhắc</string>
+	<string name="cta_main_purpose">Chào mừng đến với Game Turbo!</string>
+	<string name="no_net_dialog_positive_text">Đến cài đặt mạng</string>
 </resources>

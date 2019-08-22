@@ -711,4 +711,22 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 	<string name="privacy_and_agreement">Riêng tư và Thỏa thuận</string>
 	<string name="sync_normal_summary">"Một vài mục ở danh sách bên dưới không thể đồng bộ"</string>
 	<string name="sync_normal_title">"Không thể kết thúc đồng bộ"</string>
+	<string name="pay_info_dialog_confirm_to_pay">Thanh toán %s</string>
+	<string name="pay_info_dialog_mibi_balance_prefix">Sử dụng Mi Credit còn lại: %s</string>
+	<string name="pay_info_dialog_title">Chọn phương thức thanh toán</string>
+	<string name="cloud_storage_no_data">Không có mục nào trên lưu trữ đám mây</string>
+	<string name="micloud_setting_calendar_summary">Sự kiện</string>
+	<string name="micloud_setting_personal_assistant_summary">Thẻ App vault và tính năng</string>
+	<string name="micloud_main_head_menu_finddevice_summary">"Định vị và khóa thiết bị của bạn nếu bị mất"</string>
+	<string name="storage_manage_list_title_action">Xem thêm</string>
+	<string name="storage_manage_upgrade">Nâng cấp</string>
+	<string name="cloud_storage_info_type_pdc">Cài đặt hệ thống</string>
+	<string name="micloud_setting_recorder_summary">Âm thanh và ghi âm cuộc gọi</string>
+	<string name="micloud_setting_calllog_summary">Lịch sử cuộc gọi</string>
+	<string name="storage_manage_renewal">Làm mới</string>
+	<string name="micloud_setting_notes_summary">Ghi chú</string>
+	<string name="micloud_setting_phrase_summary">Cụm từ thường xuyên</string>
+	<string name="micloud_main_head_menu_cloud_backup_summary">Bố cục Màn hình chính, ứng dụng và cài đặt hệ thống</string>
+	<string name="storage_manage_expansion">Lấy thêm</string>
+	<string name="storage_manage_list_title">Dữ liệu đám mây</string>
 </resources>
