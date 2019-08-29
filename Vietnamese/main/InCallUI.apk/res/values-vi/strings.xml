@@ -268,4 +268,5 @@
 	<string name="volte_call">Gọi VoLTE</string>
 	<string name="select_one_sim_title_for_heduohao">Chỉ có thể sử dụng SIM %1$d Sub %2$d</string>
 	<string name="select_sim_hint_for_heduohao">"Không thể sử dụng thứ khác trong khi SIM %1$d Sub %2$d đang sử dụng."</string>
+	<string name="incall_bubble_hangup_click_hint">Chạm lần nữa để quay lại cuộc gọi</string>
 </resources>

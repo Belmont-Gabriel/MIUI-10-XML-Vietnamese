@@ -3128,4 +3128,5 @@ Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
 	<string name="phone_manage_electric_summary">Tối ưu thiết bị của bạn để tiết kiệm pin</string>
 	<string name="power_save_mode">Tiết kiệm pin</string>
 	<string name="cta_main_purpose">Chào mừng tới Bảo mật! Bạn có thể dùng ứng dụng này để xóa rác trên thiết bị, tìm và diệt virus, tối ưu hiệu năng chơi game, tiết kiệm pin, quản lý ứng dụng và hơn thế nữa.</string>
+	<string name="cta_HIPS_Perm_Location_Desc">Có được vị trí chính xác (Dựa trên GPS và mạng)</string>
 </resources>

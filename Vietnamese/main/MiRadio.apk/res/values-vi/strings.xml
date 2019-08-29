@@ -971,4 +971,10 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
 	<string name="detail">Chi tiết</string>
 	<string name="news_not_interest_positive">Không hứng thú</string>
 	<string name="download_update_time">Đã cập nhật lúc %1$s</string>
+	<string name="time_picker_min">phút</string>
+	<string name="impunity_declaration_content_html">&lt;Data&gt;Trước khi sử dụng Đài FM, bạn phải đọc và đồng ý với &lt;font color=#29b496&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#29b496&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi. Đài FM cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường. Đồng ý?&lt;/Data&gt;</string>
+	<string name="sleep_mode_close">Đóng</string>
+	<string name="msg_internalantenna_optimal">Kết nối tai nghe để được hiệu ứng tốt nhất</string>
+	<string name="time_picker_hour">giờ</string>
+	<string name="rank_list">Hàng đầu</string>
 </resources>

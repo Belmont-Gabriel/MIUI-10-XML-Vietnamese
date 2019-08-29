@@ -687,4 +687,10 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="two_factor_auth_method">Phương thức xác thực</string>
 	<string name="two_factor_auth_click_confirm_summary">"Bạn sẽ thấy một thông báo trên thiết bị Mi khác đã kết nối. Chạm vào thông báo để cho phép đăng nhập trên thiết bị mới."</string>
 	<string name="ep_unsupported">Thiết bị của bạn không hỗ trợ đăng nhập bằng Tài khoản Mi</string>
+	<string name="system_ad_switch_failed">Thất bại</string>
+	<string name="system_ad_list">Xem ứng dụng liên quan.</string>
+	<string name="system_ad_summary">"Bật tính năng này để cho phép hiển thị một số lượng nhỏ quảng cáo trong các ứng dụng hệ thống. Những quảng cáo này giúp chúng tôi phát triển và cải thiện các sản phẩm và dịch vụ của chúng tôi. Bạn có thể chọn tắt tính năng này bất cứ lúc nào. Cảm ơn sự hỗ trợ của bạn!"</string>
+	<string name="system_ad_switch">Quảng cáo trong Ứng dụng hệ thống</string>
+	<string name="passport_user_agreement_link">&lt;Data&gt;"Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách riêng tư&lt;/a&gt; của Xiaomi."&lt;/Data&gt;</string>
+	<string name="system_ad">Quảng cáo trong Ứng dụng hệ thống</string>
 </resources>

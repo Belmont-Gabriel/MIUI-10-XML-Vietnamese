@@ -322,4 +322,13 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="shortcut_short_label_recent_forecast">Kiểm tra thời tiết</string>
 	<string name="feedback_result_fail_no_reason">Cảm ơn bạn đã phản hồi!</string>
 	<string name="feedback_result_fail_same_type">"Có vẻ như báo cáo của bạn không khác với thời tiết hiện tại. Thử lại."</string>
+	<string name="alert_weather_enable_settings_summary">Nhận cảnh báo thời tiết chính thức</string>
+	<string name="about_weather_setting_feedback">Phản hồi</string>
+	<string name="card_item_ad_text">Quảng cáo</string>
+	<string name="alert_weather_enable_settings_title">Cảnh báo thời tiết</string>
+	<string name="abrupt_weather_settings_summary_type">Nhận cảnh báo về lượng mưa dự kiến, thay đổi chất lượng không khí và các thay đổi quan trọng khác</string>
+	<string name="warning_weather_day_and_night_settings_title">Tóm tắt hàng ngày</string>
+	<string name="about_weather_setting">Về Thời tiết</string>
+	<string name="warning_weather_day_and_night_settings_summary">Nhận tóm tắt hàng ngày bao gồm thông tin thời tiết vào lúc 7:00 và 19:00</string>
+	<string name="feedback">Phản hồi</string>
 </resources>

@@ -2732,4 +2732,5 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="wifi_limited_connection">Đã hạn chế kết nối</string>
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
 	<string name="preferred_network_type_pref_entries_4g_preferred_custom">Ưu tiên 4G</string>
+	<string name="preferred_wificall_roaming_title">Cài đặt chuyển vùng</string>
 </resources>

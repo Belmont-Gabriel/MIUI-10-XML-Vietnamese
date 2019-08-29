@@ -288,4 +288,7 @@ An toàn, chất lượng, phát triển"</string>
 	<string name="no_net_dialog_title">Nhắc</string>
 	<string name="cta_main_purpose">Chào mừng đến với Game Turbo!</string>
 	<string name="no_net_dialog_positive_text">Đến cài đặt mạng</string>
+	<string name="toast_text_kid_space_deleted">Không gian của trẻ đã bị xóa</string>
+	<string name="toast_text_kid_space_delete_success">Đã xóa không gian của trẻ thành công</string>
+	<string name="toast_text_kid_space_deleting">Xóa không gian của trẻ</string>
 </resources>

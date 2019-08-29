@@ -265,25 +265,6 @@
 	<string name="throwing_screen">Trình chiếu</string>
 	<string name="unrecognized_manufacture">Thương hiệu chưa nhận diện</string>
 	<string name="unrecognized_model">Thiết bị chưa nhận diện</string>
-	<string name="xiaomi">Xiaomi Mi</string>
-	<string name="xiaomi_6">Xiaomi Mi 6</string>
-	<string name="xiaomi_8">Xiaomi Mi 8</string>
-	<string name="xiaomi_8_exp">Xiaomi Mi 8 EE</string>
-	<string name="xiaomi_8_se">Xiaomi Mi 8 SE</string>
-	<string name="xiaomi_8_ud">Xiaomi Mi 8 UD</string>
-	<string name="xiaomi_8_young">Xiaomi Mi 8 Youth Edition</string>
-	<string name="xiaomi_9">Xiaomi Mi 9</string>
-	<string name="xiaomi_9_se">Xiaomi Mi 9 SE</string>
-	<string name="xiaomi_cc_9">Xiaomi Mi CC9</string>
-	<string name="xiaomi_cc_9_custom">Xiaomi Mi CC9 Phiên bản Mito</string>
-	<string name="xiaomi_cc_9e">Xiaomi Mi CC 9e</string>
-	<string name="xiaomi_max_3">Xiaomi Mi MAX3</string>
-	<string name="xiaomi_mix_2">Xiaomi Mi MIX2</string>
-	<string name="xiaomi_mix_2s">Xiaomi Mi MIX2S</string>
-	<string name="xiaomi_mix_3">Xiaomi Mi MIX3</string>
-	<string name="xiaomi_mix_3_5g">Xiaomi Mi MIX3 Phiên bản 5G</string>
-	<string name="xiaomi_note_3">Xiaomi Mi Note3</string>
-	<string name="xiaomi_poco_f1">Xiaomi Mi POCO F1</string>
 	<string name="btn_cancel">Hủy</string>
 	<string name="file">Tập tin</string>
 	<string name="picture">Ảnh</string>
@@ -297,4 +278,5 @@
 	<string name="wireless_charging_notification_message3">Có lỗi xảy ra trong quá trình sạc. Sạc không dây ngược đã tắt.</string>
 	<string name="wireless_charging_notification_titile">Đã tắt Sạc không dây ngược</string>
 	<string name="customer_location_judgment">Trung Quốc</string>
+	<string name="can_not_transfer_when_screening">Không thể truyền khi đang chuyển</string>
 </resources>

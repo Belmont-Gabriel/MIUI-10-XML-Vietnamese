@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+	<string name="battery_summary">%1$s sử dụng từ lần sạc cuối cùng</string>
 	<string name="app_permissions_summary">Ứng dụng đang sử dụng %1$s</string>
+	<string name="bluetooth_ask_enablement_and_discovery">%1$s muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác trong %1$d giây.</string>
+	<string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
 	<string name="battery_saver_off_summary">Tắt</string>
 	<string name="battery_saver_on_summary">Bật</string>
-	<string name="battery_summary">%1$s sử dụng từ lần sạc cuối</string>
-	<string name="bluetooth_ask_enablement_and_discovery">%1$s muốn bật Bluetooth và khiến thiết bị của bạn hiển thị với các thiết bị khác trong %2$d giây.</string>
-	<string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s muốn bật Bluetooth và khiến thiết bị của bạn hiển thị với các thiết bị khác. Bạn có thể thay đổi sau trong Cài đặt Bluetooth.</string>
 	<string name="bluetooth_connected">Đã kết nối %1$s</string>
-	<string name="bluetooth_connected_no_a2dp">Đã kết nối (Không phương tiện) %1$s</string>
-	<string name="bluetooth_connected_no_headset">Đã kết nối (Không điện thoại) %1$s</string>
-	<string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (Không điện thoại hay phương tiện) %1$s</string>
-	<string name="bluetooth_connected_no_map">Đã kết nối (Không truy cập tin nhắn) %1$s</string>
-	<string name="condition_zen_title">Không làm phiền đang bật</string>
+	<string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện) %1$s</string>
+	<string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại) %1$s</string>
+	<string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (không có điện thoại hay phương tiện) %1$s</string>
+	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn) %1$s</string>
+	<string name="condition_zen_title">Không Làm Phiền bật</string>
+	<string name="pref_button_light_summary">Sáng phím Menu, %1$s, và phím Quay lại</string>
 	<string name="accessibility_vibration_summary">Chuông %1$s, thông báo %2$s, chạm %3$s</string>
 	<string name="battery_tip_dialog_message">"Điện thoại của bạn được dùng nhiều hơn bình thường. Pin có thể hết sớm hơn dự kiến.
 
@@ -19,4 +20,5 @@
 	<string name="sim_change_data_message">"Bạn đang sử dụng %2$s cho dữ liệu di động. Nếu bạn chuyển sang %1$s, %2$s sẽ không còn được sử dụng cho dữ liệu di động."</string>
 	<string name="sim_change_data_title">Sử dụng %1$s cho dữ liêu di động?</string>
 	<string name="wifi_calling_off_explanation">Khi gọi Wi-Fi bật, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng di động, tùy thuộc vào cài đặt của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, kiểm tra với nhà cung cấp về phí và các chi tiết khác.%1$s</string>
+	<string name="disable_service_message">Chạm %1$s sẽ dừng %2$s.</string>
 </resources>

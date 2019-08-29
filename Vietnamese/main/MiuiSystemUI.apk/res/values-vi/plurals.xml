@@ -124,4 +124,7 @@
 	<plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d thiết bị đã kết nối</item>
     </plurals>
+	<plurals name="auto_disconnect_timer_tip">
+		<item quantity="other">Đang cúp máy trong %1$d giây</item>
+	</plurals>
 </resources>

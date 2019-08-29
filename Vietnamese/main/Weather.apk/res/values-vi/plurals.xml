@@ -48,4 +48,7 @@
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">Nhiệt độ thấp nhất: %1$s°F</item>
     </plurals>
+	<plurals name="daily_forcast_drawer_on_home">
+		<item quantity="other">Dự báo %1$s ngày</item>
+	</plurals>
 </resources>
