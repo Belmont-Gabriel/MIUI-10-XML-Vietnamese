@@ -142,4 +142,8 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="skip_gesture_guide_dialog_title">Cử chỉ màn hình tràn cạnh</string>
 	<string name="terms_of_use_label_updater">, Cập nhật</string>
 	<string name="other_settings_enhanced_lockscreen_privacy_index">Chính sách Riêng tư</string>
+	<string name="terms_of_use_label_package">, Trình cài đặt gói</string>
+	<string name="terms_of_use_ble_htmlViewer">, Nhà cung cấp vị trí, Trình xem HTML</string>
+	<string name="terms_of_use_label_Mistore">, Trình cắm hệ thống Mi Store</string>
+	<string name="terms_of_use_label_phrase">, Cụm từ thường xuyên</string>
 </resources>

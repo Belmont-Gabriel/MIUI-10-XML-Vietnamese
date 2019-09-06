@@ -101,4 +101,6 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="toast_msg_for_multi_window">Tính năng này không khả dụng ở chế độ chia màn hình</string>
 	<string name="toast_msg_for_small_window">Sau khi mở ứng dụng bạn muốn truyền. sử dụng tính năng chiếu cửa sổ nhỏ, ứng dụng được truyền sẽ không bị gián đoạn, và điện thoại có thể sử dụng các ứng dụng khác.</string>
 	<string name="toast_title_for_small_window">Vui lòng sử dụng cửa sổ nhỏ để truyền màn hình trong ứng dụng.</string>
+	<string name="help_page_text_55">"Nếu không có mạng Wi-Fi nào khả dụng, đảm bảo thiết bị mở rộng của bạn (v.d. TV) hỗ trợ tính năng Miracast. Tên của tính năng truyền trên thiết bị mở rộng của bạn có thể khác nhau tùy theo từng hãng. Tham khảo thông tin bên dưới để tìm hiểu thêm về tính năng Miracast trên các thiết bị khác nhau.
+4. Trong trường hợp có vấn đề xảy ra, bạn có thể gửi câu hỏi và gợi ý qua ứng dụng Phản hồi."</string>
 </resources>

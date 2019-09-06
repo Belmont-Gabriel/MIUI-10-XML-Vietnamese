@@ -20,4 +20,12 @@
 		<item>Gợi ý</item>
 		<item>Khác</item>
 	</string-array>
+	<string-array name="lang_detect">
+		<item>Trung</item>
+		<item>Phồn thể</item>
+		<item>Tiếng Anh</item>
+		<item>Hàn</item>
+		<item>Nhật</item>
+		<item>Pháp</item>
+	</string-array>
 </resources>

@@ -153,4 +153,8 @@
         <item>Quan điểm cực đoan</item>
         <item>Quảng cáo trá hình</item>
     </string-array>
+	<string-array name="quick_link_tabs">
+		<item>Dấu trang</item>
+		<item>Lịch sử</item>
+	</string-array>
 </resources>

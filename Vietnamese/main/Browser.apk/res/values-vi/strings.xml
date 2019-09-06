@@ -1966,4 +1966,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="action_menu_text_add_shortcut">Thêm lối tắt</string>
 	<string name="ad_download_downloading">Đang tải xuống</string>
 	<string name="vo_info_flow_debug_title">Dữ liệu gỡ lỗi</string>
+	<string name="video_download_wait_for_network">Đang chờ mạng</string>
+	<string name="video_download_wait_for_caching">Đang chờ lưu đệm</string>
+	<string name="data_traffic_download_toast_msg">Đang sử dụng lưu lượng dữ liệu để đệm video</string>
 </resources>

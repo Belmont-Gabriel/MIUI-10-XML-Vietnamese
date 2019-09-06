@@ -279,4 +279,5 @@
 	<string name="wireless_charging_notification_titile">Đã tắt Sạc không dây ngược</string>
 	<string name="customer_location_judgment">Trung Quốc</string>
 	<string name="can_not_transfer_when_screening">Không thể truyền khi đang chuyển</string>
+	<string name="flip_screen_camera_tip">Quay điện thoại xung quanh để sử dụng máy ảnh</string>
 </resources>

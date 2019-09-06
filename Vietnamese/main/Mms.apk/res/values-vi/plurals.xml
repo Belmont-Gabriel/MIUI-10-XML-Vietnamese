@@ -57,4 +57,7 @@
 	<plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Bạn nhận được %d lời mời tham gia group chat</item>
     </plurals>
+	<plurals name="notification_multiple">
+		<item quantity="other">"%s tin nhắn | "</item>
+	</plurals>
 </resources>
