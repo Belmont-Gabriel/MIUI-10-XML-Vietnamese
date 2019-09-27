@@ -1,4 +1,4 @@
-[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://miui.vn/)
+[![MIUI10 logo](https://camo.githubusercontent.com/2c64916defd22947201df75ee3eb80b1aea94541/68747470733a2f2f692e696d6775722e636f6d2f4134344f6143472e676966)](https://miui.vn/)
 
 
 # MIUIAndroid MIUI Vietnamese Translations (All Ver).
