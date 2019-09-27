@@ -1,7 +1,7 @@
 [![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://miui.vn/)
 
 
-# MIUIAndroid MIUI 10 Vietnamese Translations.
+# MIUIAndroid MIUI Vietnamese Translations (All Ver).
 	This is repository for MIUIAndroid MultiRom project.
 
 # Translation checker: https://translators.xiaomi.eu/XML_MIUI10-Vietnamese-vi.html
